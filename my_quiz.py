@@ -1,9 +1,9 @@
-
+#-------------------------HEADER--------------------------------#
 # Course: BME Construction Information Technology
 # Subject: Programming BMEVIHIA061
 # Name - Neptun: Szigeti Kristóf - PCGWIF
 # Quiz game
-
+#----------------------Start of CODE----------------------------#
 # imports everything from tkinter
 from tkinter import *
 # imports ttk themed widgets from tkinter
@@ -17,6 +17,18 @@ from datetime import *
 import time
 # import random module
 import random
+
+# import os and import sys: az összecsomagolt futtatható fájl készítéséhez szükséges lépés (részletek később!!!)
+import os
+import sys
+
+def resource_path(relative_path):
+    """Get the absolute path to a resource, working for dev and PyInstaller"""
+    if hasattr(sys, '_MEIPASS'):
+        # When running as a bundled executable
+        return os.path.join(sys._MEIPASS, relative_path)
+    # When running in development mode
+    return os.path.join(os.path.abspath("."), relative_path)
 
 # our main class
 class Quiz:
@@ -35,7 +47,7 @@ class Quiz:
         self.display_title() # display title label
         # self.display_question() # display question (korábbi állapot, már nem mutat semmit, mert nincs miből)
 
-        # radiobuttons and their corressponding answer according to current question
+        # radiobuttons and their corresponding answer according to current question
         # self.options = self.radio_buttons() # assigns and shows radiobuttons initially # (korábbi állapot)
         self.options = None # initial None storage (de a változót létrehozni szükséges)
 
@@ -77,7 +89,7 @@ class Quiz:
         wrong_count = self.data_size - self.correct
         wrong = f"Missed points: {wrong_count}"
 
-        # calcultaes the percentage of correct answers
+        # calculates the percentage of correct answers
         score = int(self.correct / self.data_size * 100)
         result = f"Your score: {score}%"
 
@@ -130,12 +142,12 @@ class Quiz:
             # print(self.name_entry['width'])
 
             if self.correct == self.data_size and topics.entrycget(5, 'state') == 'disabled':
-                mb.showinfo('BONUS', 'Congratulations!\nYou have earned a bonus topic!!\nCheck the "Topics" cascade menu!')
+                mb.showinfo("BONUS", "Congratulations!\nYou have earned a bonus topic!!\nCheck the 'Topics' cascade menu!")
                 # unlocking bonus
                 topics.entryconfig(5, state='active', label="Topic BONUS - Board Games", image= logo_t06)
 
             elif self.correct == self.data_size and topics.entrycget(5, 'state') == 'active':
-                mb.showinfo('Apologize', "Sorry, but I do not have more bonuses for you.")
+                mb.showinfo("Apologize", "Sorry, but I do not have more bonuses for you.")
 
             mb.showinfo("Help", "You are at the end of the guiz. \nNow you can hit 'OK' and select a new topic from 'Topics' menu to play again!\nGood luck!")
             self.name_entry.state(['!disabled'])
@@ -155,9 +167,9 @@ class Quiz:
     # X open results
     # def open_rankings(self):
     #     with open("result.txt", "r") as ranking:
-    #         exec(ranking.read())
+    #         exec(ranking.read()) # az exec function nem fog működni és nem is ajánlott
 
-    # showing buttons in guitop/frame
+    # showing buttons in quitop/frame
     # https://www.geeksforgeeks.org/python-creating-a-button-in-tkinter/
     def buttons(self):
         # color ref.: https://stackoverflow.com/questions/22408237/named-colors-in-matplotlib
@@ -330,29 +342,29 @@ menubar.add_cascade(menu = topics, label ='Topics')
 # results.add_command(label ='Ranking', state='disabled', command = lambda: quiz.open_rankings())
 
 # icons to show for the topics
-logo_t01 = PhotoImage(file ='.\\logo\\logo_sport.png').subsample(14, 14)
-logo_t02 = PhotoImage(file ='.\\logo\\logo_movie.png').subsample(7, 7)
-logo_t03 = PhotoImage(file ='.\\logo\\logo_geography.png').subsample(14, 14)
-logo_t04 = PhotoImage(file ='.\\logo\\logo_football.png').subsample(14, 14)
-logo_t05 = PhotoImage(file ='.\\logo\\logo_darts.png').subsample(14, 14)
-logo_t06 = PhotoImage(file ='.\\logo\\logo_boardgames.png').subsample(14, 14)
+logo_t01 = PhotoImage(file = resource_path('./logo/logo_sport.png')).subsample(14, 14)
+logo_t02 = PhotoImage(file = resource_path('./logo/logo_movie.png')).subsample(7, 7)
+logo_t03 = PhotoImage(file = resource_path('./logo/logo_geography.png')).subsample(14, 14)
+logo_t04 = PhotoImage(file = resource_path('./logo/logo_football.png')).subsample(14, 14)
+logo_t05 = PhotoImage(file = resource_path('./logo/logo_darts.png')).subsample(14, 14)
+logo_t06 = PhotoImage(file = resource_path('./logo/logo_boardgames.png')).subsample(14, 14)
 
 # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?resume=false
 # https://stackoverflow.com/questions/63871376/tkinter-widget-cgetvariable
 # https://www.geeksforgeeks.org/python-setting-and-retrieving-values-of-tkinter-variable/
 choice = IntVar()
 topics.add_radiobutton(label = 'Topic One - Sport', variable = choice, value = 1,
-                       command= lambda: (quiz.call_topic('.\\data\\quiz_sport.json', 0), quiz.display_topic_label(0)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_sport.json'), 0), quiz.display_topic_label(0)))
 topics.add_radiobutton(label = 'Topic Two - Movies', variable = choice, value = 2,
-                       command= lambda: (quiz.call_topic('.\\data\\quiz_movie.json', 1), quiz.display_topic_label(1)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_movie.json'), 1), quiz.display_topic_label(1)))
 topics.add_radiobutton(label = 'Topic Three - Geography', variable = choice, value = 3,
-                       command= lambda: (quiz.call_topic('.\\data\\quiz_geography.json', 2), quiz.display_topic_label(2)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_geography.json'), 2), quiz.display_topic_label(2)))
 topics.add_radiobutton(label = 'Topic Four - Football', variable = choice, value = 4,
-                       command= lambda: (quiz.call_topic('.\\data\\quiz_football.json', 3), quiz.display_topic_label(3)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_football.json'), 3), quiz.display_topic_label(3)))
 topics.add_radiobutton(label = 'Topic Five - Darts', variable = choice, value = 5,
-                       command= lambda: (quiz.call_topic('.\\data\\quiz_darts.json', 4), quiz.display_topic_label(4)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_darts.json'), 4), quiz.display_topic_label(4)))
 topics.add_radiobutton(label = 'Topic BONUS', variable = choice, value = 6,
-                       command= lambda: (quiz.call_topic('.\\data\\quiz_boardgames.json', 5), quiz.display_topic_label(5)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_boardgames.json'), 5), quiz.display_topic_label(5)))
 
 # customizing the menubar
 topics.entryconfig(0, image= logo_t01, compound ='left') # adding icon and position it
