@@ -1,0 +1,1810 @@
+{
+    "question": [
+        "1. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "2. A jogszabály szerint ki szakmagyakorló?",
+        "3. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "4. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "5. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "6. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "7. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "8. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "9. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "10. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "11. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "12. A jogszabály szerint ki szakmagyakorló?",
+        "13. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "14. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "15. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "16. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "17. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "18. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "19. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "20. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "21. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "22. A jogszabály szerint ki szakmagyakorló?",
+        "23. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "24. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "25. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "26. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "27. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "28. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "29. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "30. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "31. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "32. A jogszabály szerint ki szakmagyakorló?",
+        "33. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "34. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "35. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "36. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "37. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "38. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "39. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "40. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "41. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "42. A jogszabály szerint ki szakmagyakorló?",
+        "43. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "44. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "45. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "46. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "47. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "48. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "49. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "50. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "51. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "52. A jogszabály szerint ki szakmagyakorló?",
+        "53. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "54. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "55. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "56. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "57. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "58. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "59. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "60. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "61. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "62. A jogszabály szerint ki szakmagyakorló?",
+        "63. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "64. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "65. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "66. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "67. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "68. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "69. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "70. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "71. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "72. A jogszabály szerint ki szakmagyakorló?",
+        "73. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "74. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "75. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "76. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "77. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "78. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "79. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "80. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "81. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "82. A jogszabály szerint ki szakmagyakorló?",
+        "83. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "84. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "85. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "86. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "87. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "88. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "89. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "90. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "91. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "92. A jogszabály szerint ki szakmagyakorló?",
+        "93. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "94. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "95. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "96. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "97. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "98. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "99. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "100. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "101. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "102. A jogszabály szerint ki szakmagyakorló?",
+        "103. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "104. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "105. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "106. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "107. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "108. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "109. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "110. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "111. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "112. A jogszabály szerint ki szakmagyakorló?",
+        "113. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "114. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "115. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "116. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "117. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "118. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "119. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "120. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "121. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "122. A jogszabály szerint ki szakmagyakorló?",
+        "123. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "124. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "125. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "126. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "127. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "128. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "129. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "130. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "131. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "132. A jogszabály szerint ki szakmagyakorló?",
+        "133. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "134. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "135. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "136. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "137. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "138. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "139. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "140. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "141. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "142. A jogszabály szerint ki szakmagyakorló?",
+        "143. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "144. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "145. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "146. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "147. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "148. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "149. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "150. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "151. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "152. A jogszabály szerint ki szakmagyakorló?",
+        "153. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "154. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "155. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "156. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "157. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "158. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "159. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "160. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "161. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "162. A jogszabály szerint ki szakmagyakorló?",
+        "163. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "164. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "165. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "166. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "167. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "168. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "169. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "170. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "171. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "172. A jogszabály szerint ki szakmagyakorló?",
+        "173. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "174. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "175. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "176. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "177. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "178. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "179. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "180. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "181. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "182. A jogszabály szerint ki szakmagyakorló?",
+        "183. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "184. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "185. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "186. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "187. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "188. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "189. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "190. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?",
+        "191. A beszámoló vizsga szakterületi részében kötelező-e a szakmagyakorlás tevékenység szakterületi ismerete?",
+        "192. A jogszabály szerint ki szakmagyakorló?",
+        "193. Szükséges-e a T, T-É, SZÉS1 tevékenységhez kamarai tagság?",
+        "194. Milyen szakirányú végzettség szükséges T jogosultsághoz?",
+        "195. Milyen szakirányú végzettség szükséges T-É jogosultsághoz?",
+        "196. Milyen szakirányú végzettségekkel lehet SZÉS1 jogosultságot kapni?",
+        "197. Milyen gyakorlati idő szükséges a T, T-É tervezési jogosultsághoz?",
+        "198. BSc szintű végzettséggel lehet-e tartószerkezeti tervezői jogosultságot szerezni?",
+        "199. Hol található a jogszabály által előírt kredit-tartalom szakterületi előírása?",
+        "200. MSc szintű végzettséggel lehet-e tartószerkezeti tervezési jogosultságot szerezni?"
+    ],
+    "answer": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3,
+        1
+    ],
+    "choices": [
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ],
+        [
+            "Igen, kötelező",
+            "Nem kötelező",
+            "Csak ajánlott",
+            "Csak bizonyos esetekben"
+        ],
+        [
+            "Az építészeti és mérnöki kamarák tagjai",
+            "Bárki végezhet szakmai gyakorlatot",
+            "Csak az építőmérnökök",
+            "Csak az állami alkalmazottak"
+        ],
+        [
+            "Igen, kamarai tagság szükséges",
+            "Nem szükséges",
+            "Csak építész végzettség esetén",
+            "Csak állami projektekhez"
+        ],
+        [
+            "MSc építőmérnök diploma",
+            "BSc építőmérnök diploma",
+            "Bármilyen mérnöki diploma",
+            "Csak PhD végzettség"
+        ],
+        [
+            "BSc vagy MSc tartószerkezeti szakirány",
+            "Bármilyen műszaki végzettség",
+            "Csak BSc végzettség",
+            "Csak tapasztalat alapján"
+        ],
+        [
+            "BSc építőmérnök",
+            "MSc építőmérnök",
+            "Mindkettő megfelelő",
+            "Csak szakmai tanfolyamok"
+        ],
+        [
+            "2 év",
+            "5 év",
+            "8 év",
+            "10 év"
+        ],
+        [
+            "Igen, de csak 5 év tapasztalattal",
+            "Nem lehetséges",
+            "Csak külön engedéllyel",
+            "Csak egyedi esetekben"
+        ],
+        [
+            "Az MMK szabályzata",
+            "A 266/2013. Korm. rendelet",
+            "Nincs konkrét előírás",
+            "Az építésügyi törvény"
+        ],
+        [
+            "Igen, ha van kapcsolódó szakterületi tapasztalat",
+            "Nem lehetséges",
+            "Csak külön vizsgával",
+            "Csak igazságügyi szakértőként"
+        ]
+    ],
+    "hints": [
+        "Lásd fs_tartoszerkezetek_2021.pdf, 33. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 65. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 53. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 36. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 16. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 44. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 61. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 70. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 67. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 6. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 26. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 14. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 78. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 60. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 28. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 18. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 76. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 56. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 58. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 47. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 11. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 42. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 57. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 48. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 6. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 37. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 40. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 48. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 59. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 64. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 10. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 14. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 42. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 69. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 57. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 37. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 51. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 21. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 53. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 48. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 62. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 78. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 27. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 25. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 50. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 70. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 26. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 34. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 61. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 35. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 52. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 80. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 69. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 51. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 56. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 36. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 56. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 45. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 20. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 76. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 39. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 40. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 63. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 11. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 24. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 33. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 58. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 62. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 10. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 75. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 48. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 18. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 9. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 17. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 76. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 72. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 34. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 39. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 75. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 37. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 53. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 57. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 52. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 13. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 75. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 69. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 71. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 80. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 65. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 14. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 35. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 53. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 11. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 19. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 6. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 19. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 79. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 42. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 80. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 18. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 32. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 46. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 6. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 15. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 34. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 50. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 53. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 69. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 32. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 9. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 37. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 56. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 39. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 79. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 75. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 34. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 26. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 45. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 56. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 31. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 31. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 54. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 54. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 74. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 32. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 17. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 63. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 23. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 79. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 49. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 52. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 36. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 44. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 16. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 54. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 6. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 71. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 47. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 54. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 27. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 16. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 64. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 12. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 52. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 24. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 11. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 39. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 10. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 73. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 51. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 6. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 54. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 5. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 24. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 67. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 55. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 14. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 72. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 63. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 75. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 61. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 68. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 54. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 42. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 36. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 68. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 24. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 52. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 26. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 73. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 13. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 17. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 57. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 30. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 34. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 27. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 7. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 26. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 36. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 65. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 53. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 16. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 56. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 48. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 41. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 67. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 74. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 49. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 71. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 9. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 48. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 31. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 52. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 59. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 43. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 57. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 55. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 22. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 55. oldal",
+        "Lásd fs_tartoszerkezetek_2021.pdf, 64. oldal"
+    ]
+}
