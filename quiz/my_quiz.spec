@@ -5,7 +5,7 @@ a = Analysis(
     ['my_quiz.py'],
     pathex=[],
     binaries=[],
-    datas=[('./data/quiz_sport.json', 'data'), ('./data/quiz_movie.json', 'data'), ('./data/quiz_geography.json', 'data'), ('./data/quiz_football.json', 'data'), ('./data/quiz_darts.json', 'data'), ('./data/quiz_boardgames.json', 'data'), ('./logo/logo_sport.png', 'logo'), ('./logo/logo_movie.png', 'logo'), ('./logo/logo_geography.png', 'logo'), ('./logo/logo_football.png', 'logo'), ('./logo/logo_darts.png', 'logo'), ('./logo/logo_boardgames.png', 'logo')],
+    datas=[('./data/quiz_sport.json', 'data'), ('./data/quiz_movie.json', 'data'), ('./data/quiz_geography.json', 'data'), ('./data/quiz_football.json', 'data'), ('./data/quiz_darts.json', 'data'), ('./data/quiz_boardgames.json', 'data'), ('./data/quiz_structural_engineering_numbered.json', 'data'), ('./logo/logo_sport.png', 'logo'), ('./logo/logo_movie.png', 'logo'), ('./logo/logo_geography.png', 'logo'), ('./logo/logo_football.png', 'logo'), ('./logo/logo_darts.png', 'logo'), ('./logo/logo_boardgames.png', 'logo'), ('./logo/logo_structural engineering.png', 'logo')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
