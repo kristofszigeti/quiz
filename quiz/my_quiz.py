@@ -369,7 +369,7 @@ topics.add_radiobutton(label = 'Topic Five - Darts', variable = choice, value = 
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_darts.json'), 4), quiz.display_topic_label(4)))
 topics.add_radiobutton(label = 'Topic BONUS', variable = choice, value = 6,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_boardgames.json'), 5), quiz.display_topic_label(5)))
-topics.add_radiobutton(label = 'T ÉS T-É ÉS SZÉS1', variable = choice, value = 7,
+topics.add_radiobutton(label = 'T, T-É és SZÉS1', variable = choice, value = 7,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_structural_engineering_numbered.json'), 6), quiz.display_topic_label(6)))
 
 # customizing the menubar
