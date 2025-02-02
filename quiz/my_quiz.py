@@ -105,7 +105,7 @@ class Quiz:
             # if the option is correct it return true
             self.feedback['foreground'] = "green" # ont color to green
             # self.feedback["bg"] = "light gray"  # set the background color of this label (teszt)
-            self.feedback["text"] = f'  Correct!  \U0001F5F8' # light check mark: https://www.fileformat.info/info/unicode/char/1f5f8/index.htm
+            self.feedback["text"] = f'  Correct!  \u2714' # light check mark: https://www.fileformat.info/info/unicode/char/1f5f8/index.htm
             return True
         else:
             self.feedback['foreground'] = 'darkorange' # it sets the font color to red, indicating the answer is inaccurate
@@ -145,7 +145,7 @@ class Quiz:
                 # unlocking bonus
                 topics.entryconfig(5, state='active', label="Topic BONUS - Board Games", image= logo_t06)
 
-            if self.correct == self.data_size and topics.entrycget(6, 'label') == 'T ÉS T-É ÉS SZÉS1':
+            if self.correct == self.data_size and topics.entrycget(6, 'label') == 'T, T-É és SZÉS1':
                 mb.showinfo("BONUS", "Szép volt főni! Ezt kimaxoltad.")
 
             elif self.correct == self.data_size and topics.entrycget(5, 'state') == 'active':
