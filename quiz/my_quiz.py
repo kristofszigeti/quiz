@@ -1,7 +1,5 @@
 #-------------------------HEADER--------------------------------#
-# Course: BME Construction Information Technology
-# Subject: Programming BMEVIHIA061
-# Name - Neptun: Szigeti Kristóf - PCGWIF
+# kristofszigeti
 # Quiz game
 #----------------------Start of CODE----------------------------#
 # imports everything from tkinter
@@ -18,7 +16,7 @@ import time
 # import random module
 import random
 
-# import os and import sys: az összecsomagolt futtatható fájl készítéséhez szükséges lépés (részletek később!!!)
+# import os and import sys: az összecsomagolt futtatható fájl készítéséhez szükséges modulok
 import os
 import sys
 
