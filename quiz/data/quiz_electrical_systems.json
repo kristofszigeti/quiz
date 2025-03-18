@@ -1,0 +1,460 @@
+{
+    "question": [
+        "What is the purpose of the circuit breaker in an electrical system?",
+        "What is the main function of a residual current breaker?",
+        "In a three-phase system, how many wires are required for symmetrical load transmission?",
+        "What is the difference between a TN-C and TN-S earthing system?",
+        "What is the typical frequency of the electrical grid in Europe?",
+        "Which type of overvoltage protection is used against lightning strikes?",
+        "What type of transformer was invented by Bláthy Ottó, Déri Miksa, and Zipernowsky Károly?",
+        "What is the purpose of the protective earth (PE) conductor in electrical installations?",
+        "What is the maximum allowable voltage drop in low-voltage distribution systems?",
+        "Which parameter is measured by a network analyzer in electrical systems?",
+        "What is the function of a single-line diagram in electrical systems?",
+        "Which type of switch is used to operate a single light from two different locations?",
+        "What is the main advantage of using a gas engine for backup power?",
+        "What is the typical voltage level of high-voltage transmission systems?",
+        "How does a dimmer regulate the light intensity of a lamp?",
+        "What is the function of a push button switch with an impulse relay?",
+        "What is the main reason for installing an overvoltage protection system?",
+        "What type of electric motor is most commonly used in HVAC systems?",
+        "What is the purpose of the circuit breaker in an electrical system?",
+        "What is the main function of a residual current breaker?",
+        "In a three-phase system, how many wires are required for symmetrical load transmission?",
+        "What is the difference between a TN-C and TN-S earthing system?",
+        "What is the typical frequency of the electrical grid in Europe?",
+        "Which type of overvoltage protection is used against lightning strikes?",
+        "What type of transformer was invented by Bláthy Ottó, Déri Miksa, and Zipernowsky Károly?",
+        "What is the purpose of the protective earth (PE) conductor in electrical installations?",
+        "What is the maximum allowable voltage drop in low-voltage distribution systems?",
+        "Which parameter is measured by a network analyzer in electrical systems?",
+        "What is the function of a single-line diagram in electrical systems?",
+        "Which type of switch is used to operate a single light from two different locations?",
+        "What is the main advantage of using a gas engine for backup power?",
+        "What is the typical voltage level of high-voltage transmission systems?",
+        "How does a dimmer regulate the light intensity of a lamp?",
+        "What is the function of a push button switch with an impulse relay?",
+        "What is the main reason for installing an overvoltage protection system?",
+        "What type of electric motor is most commonly used in HVAC systems?",
+        "What is the purpose of the circuit breaker in an electrical system?",
+        "What is the main function of a residual current breaker?",
+        "In a three-phase system, how many wires are required for symmetrical load transmission?",
+        "What is the difference between a TN-C and TN-S earthing system?",
+        "What is the typical frequency of the electrical grid in Europe?",
+        "Which type of overvoltage protection is used against lightning strikes?",
+        "What type of transformer was invented by Bláthy Ottó, Déri Miksa, and Zipernowsky Károly?",
+        "What is the purpose of the protective earth (PE) conductor in electrical installations?",
+        "What is the maximum allowable voltage drop in low-voltage distribution systems?",
+        "Which parameter is measured by a network analyzer in electrical systems?",
+        "What is the function of a single-line diagram in electrical systems?",
+        "Which type of switch is used to operate a single light from two different locations?",
+        "What is the main advantage of using a gas engine for backup power?",
+        "What is the typical voltage level of high-voltage transmission systems?"
+    ],
+    "answer": [
+        4,
+        1,
+        3,
+        4,
+        1,
+        4,
+        3,
+        3,
+        4,
+        1,
+        2,
+        2,
+        1,
+        4,
+        3,
+        3,
+        4,
+        1,
+        1,
+        4,
+        1,
+        2,
+        4,
+        3,
+        2,
+        2,
+        2,
+        3,
+        1,
+        4,
+        4,
+        1,
+        1,
+        2,
+        2,
+        1,
+        4,
+        4,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3,
+        1,
+        2,
+        2,
+        3,
+        4,
+        3
+    ],
+    "choices": [
+        [
+            "Fast startup",
+            "Closed iron core transformer",
+            "To show the structure of the network",
+            "To interrupt fault currents"
+        ],
+        [
+            "To detect leakage currents",
+            "To interrupt fault currents",
+            "10%",
+            "Two-way switch"
+        ],
+        [
+            "Spark gap",
+            "10%",
+            "3",
+            "Two-way switch"
+        ],
+        [
+            "Spark gap",
+            "10%",
+            "By cutting part of the sine wave",
+            "TN-S has separate neutral and earth wires"
+        ],
+        [
+            "50 Hz",
+            "To protect sensitive equipment",
+            "To interrupt fault currents",
+            "Two-way switch"
+        ],
+        [
+            "50 Hz",
+            "To protect sensitive equipment",
+            "3",
+            "Spark gap"
+        ],
+        [
+            "Spark gap",
+            "Spark gap",
+            "Closed iron core transformer",
+            "Fast startup"
+        ],
+        [
+            "Spark gap",
+            "3",
+            "To provide grounding for safety",
+            "To detect leakage currents"
+        ],
+        [
+            "To allow remote switching",
+            "Spark gap",
+            "3",
+            "10%"
+        ],
+        [
+            "Voltage, current, frequency",
+            "Closed iron core transformer",
+            "110 kV",
+            "To provide grounding for safety"
+        ],
+        [
+            "To allow remote switching",
+            "To show the structure of the network",
+            "To show the structure of the network",
+            "Spark gap"
+        ],
+        [
+            "To interrupt fault currents",
+            "Two-way switch",
+            "Fast startup",
+            "To interrupt fault currents"
+        ],
+        [
+            "Fast startup",
+            "Induction motor",
+            "To interrupt fault currents",
+            "To interrupt fault currents"
+        ],
+        [
+            "3",
+            "Fast startup",
+            "Fast startup",
+            "110 kV"
+        ],
+        [
+            "Voltage, current, frequency",
+            "TN-S has separate neutral and earth wires",
+            "By cutting part of the sine wave",
+            "Two-way switch"
+        ],
+        [
+            "To provide grounding for safety",
+            "TN-S has separate neutral and earth wires",
+            "To allow remote switching",
+            "To allow remote switching"
+        ],
+        [
+            "To allow remote switching",
+            "Closed iron core transformer",
+            "By cutting part of the sine wave",
+            "To protect sensitive equipment"
+        ],
+        [
+            "Induction motor",
+            "3",
+            "3",
+            "To provide grounding for safety"
+        ],
+        [
+            "To interrupt fault currents",
+            "To interrupt fault currents",
+            "50 Hz",
+            "Spark gap"
+        ],
+        [
+            "To provide grounding for safety",
+            "Closed iron core transformer",
+            "TN-S has separate neutral and earth wires",
+            "To detect leakage currents"
+        ],
+        [
+            "3",
+            "110 kV",
+            "10%",
+            "Closed iron core transformer"
+        ],
+        [
+            "To protect sensitive equipment",
+            "TN-S has separate neutral and earth wires",
+            "Spark gap",
+            "Induction motor"
+        ],
+        [
+            "TN-S has separate neutral and earth wires",
+            "To detect leakage currents",
+            "To show the structure of the network",
+            "50 Hz"
+        ],
+        [
+            "Fast startup",
+            "10%",
+            "Spark gap",
+            "Two-way switch"
+        ],
+        [
+            "Fast startup",
+            "Closed iron core transformer",
+            "To interrupt fault currents",
+            "50 Hz"
+        ],
+        [
+            "Voltage, current, frequency",
+            "To provide grounding for safety",
+            "3",
+            "110 kV"
+        ],
+        [
+            "Spark gap",
+            "10%",
+            "Closed iron core transformer",
+            "Spark gap"
+        ],
+        [
+            "To provide grounding for safety",
+            "To interrupt fault currents",
+            "Voltage, current, frequency",
+            "Fast startup"
+        ],
+        [
+            "To show the structure of the network",
+            "Fast startup",
+            "To provide grounding for safety",
+            "Closed iron core transformer"
+        ],
+        [
+            "3",
+            "To provide grounding for safety",
+            "To provide grounding for safety",
+            "Two-way switch"
+        ],
+        [
+            "10%",
+            "TN-S has separate neutral and earth wires",
+            "Spark gap",
+            "Fast startup"
+        ],
+        [
+            "110 kV",
+            "3",
+            "To provide grounding for safety",
+            "To detect leakage currents"
+        ],
+        [
+            "By cutting part of the sine wave",
+            "Voltage, current, frequency",
+            "To interrupt fault currents",
+            "TN-S has separate neutral and earth wires"
+        ],
+        [
+            "To protect sensitive equipment",
+            "To allow remote switching",
+            "To provide grounding for safety",
+            "To detect leakage currents"
+        ],
+        [
+            "10%",
+            "To protect sensitive equipment",
+            "Two-way switch",
+            "Voltage, current, frequency"
+        ],
+        [
+            "Induction motor",
+            "10%",
+            "Two-way switch",
+            "Two-way switch"
+        ],
+        [
+            "To allow remote switching",
+            "Two-way switch",
+            "3",
+            "To interrupt fault currents"
+        ],
+        [
+            "Fast startup",
+            "TN-S has separate neutral and earth wires",
+            "110 kV",
+            "To detect leakage currents"
+        ],
+        [
+            "Spark gap",
+            "10%",
+            "3",
+            "Spark gap"
+        ],
+        [
+            "110 kV",
+            "TN-S has separate neutral and earth wires",
+            "TN-S has separate neutral and earth wires",
+            "110 kV"
+        ],
+        [
+            "To show the structure of the network",
+            "50 Hz",
+            "50 Hz",
+            "To detect leakage currents"
+        ],
+        [
+            "To allow remote switching",
+            "Spark gap",
+            "50 Hz",
+            "50 Hz"
+        ],
+        [
+            "Voltage, current, frequency",
+            "Closed iron core transformer",
+            "To protect sensitive equipment",
+            "3"
+        ],
+        [
+            "Fast startup",
+            "By cutting part of the sine wave",
+            "To provide grounding for safety",
+            "Voltage, current, frequency"
+        ],
+        [
+            "10%",
+            "10%",
+            "Fast startup",
+            "To interrupt fault currents"
+        ],
+        [
+            "To interrupt fault currents",
+            "Voltage, current, frequency",
+            "Fast startup",
+            "To interrupt fault currents"
+        ],
+        [
+            "10%",
+            "To show the structure of the network",
+            "110 kV",
+            "To detect leakage currents"
+        ],
+        [
+            "To allow remote switching",
+            "Spark gap",
+            "Two-way switch",
+            "Two-way switch"
+        ],
+        [
+            "10%",
+            "50 Hz",
+            "To show the structure of the network",
+            "Fast startup"
+        ],
+        [
+            "By cutting part of the sine wave",
+            "To protect sensitive equipment",
+            "110 kV",
+            "Two-way switch"
+        ]
+    ],
+    "hints": [
+        "The correct answer is 'To interrupt fault currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To detect leakage currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '3'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'TN-S has separate neutral and earth wires'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '50 Hz'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Spark gap'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Closed iron core transformer'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To provide grounding for safety'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '10%'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Voltage, current, frequency'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To show the structure of the network'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Two-way switch'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Fast startup'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '110 kV'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'By cutting part of the sine wave'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To allow remote switching'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To protect sensitive equipment'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Induction motor'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To interrupt fault currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To detect leakage currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '3'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'TN-S has separate neutral and earth wires'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '50 Hz'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Spark gap'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Closed iron core transformer'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To provide grounding for safety'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '10%'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Voltage, current, frequency'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To show the structure of the network'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Two-way switch'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Fast startup'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '110 kV'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'By cutting part of the sine wave'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To allow remote switching'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To protect sensitive equipment'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Induction motor'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To interrupt fault currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To detect leakage currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '3'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'TN-S has separate neutral and earth wires'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '50 Hz'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Spark gap'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Closed iron core transformer'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To provide grounding for safety'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '10%'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Voltage, current, frequency'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'To show the structure of the network'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Two-way switch'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is 'Fast startup'. This is essential for ensuring the proper operation and safety of electrical systems.",
+        "The correct answer is '110 kV'. This is essential for ensuring the proper operation and safety of electrical systems."
+    ]
+}

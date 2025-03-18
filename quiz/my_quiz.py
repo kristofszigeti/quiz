@@ -57,6 +57,7 @@ class Quiz:
 
         # self.data_size = 0 # (korábbi állapot)
         self.data_size = len(self.question) # number of questions from json
+        # print(self.data_size)
         # print(len(self.question))
         # feedback field, showing if the answer is correct or wrong,
         self.feedback = ttk.Label(frame, font=('Franklin Gothic', 15, 'bold'), anchor='center', justify='center') # in this form it does not do anything, must be referred it later and add/customize the response with text and color
@@ -66,7 +67,6 @@ class Quiz:
 
         # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/handling-user-events?resume=false
         guitop.bind('<Return>', self.next_btn) # reference of the method, not call it https://stackoverflow.com/questions/54251768/how-do-i-keybind-functions-to-keys-in-the-keyboard-with-tkinter
-        guitop.bind('<Return>', self.next_btn)
         guitop.bind('<Escape>', lambda event: guitop.destroy()) # anonym callable/function to handle event, and avoid executing without the user event # https://stackoverflow.com/questions/46626441/bind-lambda-of-function-to-key-event-python
 
         self.current_topic = StringVar() # initial empty and blank in the main window
@@ -74,7 +74,7 @@ class Quiz:
         self.player_name = StringVar()
         self.name_entry = ttk.Entry(frame, width=20, textvariable=self.player_name, font=('Franklin Gothic', 10)) # width controls the size of the name_entry field, and specifies the number of characters, not pixels
         self.name_entry.place(x=5, y=395)
-        self.name_entry.insert(0, "Enter your name")
+        self.name_entry.insert(0, "Type your name")
 
         self.topic_bonus = None
 
@@ -139,7 +139,7 @@ class Quiz:
             # print(self.name_entry['width'])
 
             if self.correct == self.data_size and topics.entrycget(5, 'state') == 'disabled':
-                mb.showinfo("BONUS", "Congratulations!\nYou have earned a bonus topic!!\nCheck the 'Topics' cascade menu!")
+                mb.showinfo("BONUS", "Congratulations!\n\nYou have earned a bonus topic!!\n\nCheck the 'Topics' cascade menu!")
                 # unlocking bonus
                 topics.entryconfig(5, state='active', label="Topic BONUS - Board Games", image= logo_t06)
 
@@ -149,7 +149,7 @@ class Quiz:
             elif self.correct == self.data_size and topics.entrycget(5, 'state') == 'active':
                 mb.showinfo("Apologize", "Sorry, but I do not have more bonuses for you.")
 
-            mb.showinfo("Help", "You are at the end of the guiz. \nNow you can hit 'OK' and select a new topic from 'Topics' menu to play again!\nGood luck!")
+            mb.showinfo("Help", "You are at the end of the guiz. \n\nNow you can hit 'OK' and select a new topic from 'Topics' menu to play again!\n\nGood luck!\n")
             self.name_entry.state(['!disabled'])
 
         else:
@@ -162,7 +162,7 @@ class Quiz:
 
         self.correct -= 0.5 # each time pushing the hint button earns -0.5 points
         # Shows a message box to display the result
-        mb.showinfo("Result", f"You asked me for a hint.\n\nHere it is:\n{self.hint[self.q_no]}") # fetching info accordingly
+        mb.showinfo("Result", f"You asked me for a hint.\n\nHere it is:\n\n{self.hint[self.q_no]}") # fetching info accordingly
 
     # X open results
     # def open_rankings(self):
@@ -277,10 +277,11 @@ class Quiz:
         self.correct = 0.0
         # must reload tha data
         self.data_size = len(self.question)
-        self.options = self.radio_buttons()
-        self.buttons() # after this we have buttons
+        # print(self.data_size)
+        self.options = self.radio_buttons() # after this we get the radiobuttons
         self.display_question() # after this we have the question
         self.display_options() # after this the options
+        self.buttons() # after this we have buttons
         # self.selected_option.set(0) # clear the selection
 
         # restore progress bar and label
@@ -349,6 +350,7 @@ logo_t04 = PhotoImage(file = resource_path('./logo/logo_football.png')).subsampl
 logo_t05 = PhotoImage(file = resource_path('./logo/logo_darts.png')).subsample(14, 14)
 logo_t06 = PhotoImage(file = resource_path('./logo/logo_boardgames.png')).subsample(14, 14)
 logo_t07 = PhotoImage(file = resource_path('./logo/logo_structural engineering.png')).subsample(14, 14)
+# logo_t08 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
 
 
 # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?resume=false
@@ -369,6 +371,9 @@ topics.add_radiobutton(label = 'Topic BONUS', variable = choice, value = 6,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_boardgames.json'), 5), quiz.display_topic_label(5)))
 topics.add_radiobutton(label = 'T, T-É és SZÉS1', variable = choice, value = 7,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_structural_engineering_numbered.json'), 6), quiz.display_topic_label(6)))
+topics.add_radiobutton(label = 'Electrical Systems in Buildings', variable = choice, value = 8,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems.json'), 6), quiz.display_topic_label(7)))
+
 
 # customizing the menubar
 topics.entryconfig(0, image= logo_t01, compound ='left') # adding icon and position it
@@ -377,7 +382,8 @@ topics.entryconfig(2, image= logo_t03, compound ='left')
 topics.entryconfig(3, image= logo_t04, compound = 'left')
 topics.entryconfig(4, image= logo_t05, compound = 'left')
 topics.entryconfig(5, compound= 'left', state ='disabled') # bonusz topic, initially locked
-topics.entryconfig(6, image= logo_t07, compound= 'left') # Lalinak vizsgára
+topics.entryconfig(6, image= logo_t07, compound= 'left') #
+# topics.entryconfig(7, image= logo_t08, compound= 'left')
 
 # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
