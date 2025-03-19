@@ -1,7 +1,7 @@
 #-------------------------HEADER--------------------------------#
 # kristofszigeti
 # Quiz game
-#----------------------Start of CODE----------------------------#
+#----------------------Start of the CODE----------------------------#
 # imports everything from tkinter
 from tkinter import *
 # imports ttk themed widgets from tkinter
