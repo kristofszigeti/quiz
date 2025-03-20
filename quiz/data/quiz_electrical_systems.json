@@ -1,460 +1,532 @@
 {
     "question": [
-        "What is the purpose of the circuit breaker in an electrical system?",
-        "What is the main function of a residual current breaker?",
-        "In a three-phase system, how many wires are required for symmetrical load transmission?",
-        "What is the difference between a TN-C and TN-S earthing system?",
-        "What is the typical frequency of the electrical grid in Europe?",
-        "Which type of overvoltage protection is used against lightning strikes?",
-        "What type of transformer was invented by Bláthy Ottó, Déri Miksa, and Zipernowsky Károly?",
-        "What is the purpose of the protective earth (PE) conductor in electrical installations?",
-        "What is the maximum allowable voltage drop in low-voltage distribution systems?",
-        "Which parameter is measured by a network analyzer in electrical systems?",
-        "What is the function of a single-line diagram in electrical systems?",
-        "Which type of switch is used to operate a single light from two different locations?",
-        "What is the main advantage of using a gas engine for backup power?",
-        "What is the typical voltage level of high-voltage transmission systems?",
-        "How does a dimmer regulate the light intensity of a lamp?",
-        "What is the function of a push button switch with an impulse relay?",
-        "What is the main reason for installing an overvoltage protection system?",
-        "What type of electric motor is most commonly used in HVAC systems?",
-        "What is the purpose of the circuit breaker in an electrical system?",
-        "What is the main function of a residual current breaker?",
-        "In a three-phase system, how many wires are required for symmetrical load transmission?",
-        "What is the difference between a TN-C and TN-S earthing system?",
-        "What is the typical frequency of the electrical grid in Europe?",
-        "Which type of overvoltage protection is used against lightning strikes?",
-        "What type of transformer was invented by Bláthy Ottó, Déri Miksa, and Zipernowsky Károly?",
-        "What is the purpose of the protective earth (PE) conductor in electrical installations?",
-        "What is the maximum allowable voltage drop in low-voltage distribution systems?",
-        "Which parameter is measured by a network analyzer in electrical systems?",
-        "What is the function of a single-line diagram in electrical systems?",
-        "Which type of switch is used to operate a single light from two different locations?",
-        "What is the main advantage of using a gas engine for backup power?",
-        "What is the typical voltage level of high-voltage transmission systems?",
-        "How does a dimmer regulate the light intensity of a lamp?",
-        "What is the function of a push button switch with an impulse relay?",
-        "What is the main reason for installing an overvoltage protection system?",
-        "What type of electric motor is most commonly used in HVAC systems?",
-        "What is the purpose of the circuit breaker in an electrical system?",
-        "What is the main function of a residual current breaker?",
-        "In a three-phase system, how many wires are required for symmetrical load transmission?",
-        "What is the difference between a TN-C and TN-S earthing system?",
-        "What is the typical frequency of the electrical grid in Europe?",
-        "Which type of overvoltage protection is used against lightning strikes?",
-        "What type of transformer was invented by Bláthy Ottó, Déri Miksa, and Zipernowsky Károly?",
-        "What is the purpose of the protective earth (PE) conductor in electrical installations?",
-        "What is the maximum allowable voltage drop in low-voltage distribution systems?",
-        "Which parameter is measured by a network analyzer in electrical systems?",
-        "What is the function of a single-line diagram in electrical systems?",
-        "Which type of switch is used to operate a single light from two different locations?",
-        "What is the main advantage of using a gas engine for backup power?",
-        "What is the typical voltage level of high-voltage transmission systems?"
+        "What is the main purpose of an earthing system in an electrical installation?",
+        "What is the primary function of a circuit breaker in an electrical panel?",
+        "What type of cable is commonly used for underground electrical distribution?",
+        "What is the function of a busbar in an electrical distribution board?",
+        "What is the typical operating voltage for single-phase domestic supply in Europe?",
+        "What is the main purpose of a transformer in a power distribution system?",
+        "What is the function of a residual current device (RCD) in electrical systems?",
+        "What is the purpose of a lightning arrester in electrical systems?",
+        "What is the main advantage of using copper wiring in electrical installations?",
+        "What type of protection is provided by a TN-C-S earthing system?",
+        "What is the effect of increasing conductor size on electrical resistance?",
+        "What is the role of a fuse in an electrical circuit?",
+        "What is the difference between single-phase and three-phase electrical supply?",
+        "What is the function of an automatic transfer switch (ATS)?",
+        "What is the purpose of a power factor correction capacitor bank?",
+        "What is the typical lifespan of an LED light compared to an incandescent bulb?",
+        "What type of circuit is used for stairway lighting?",
+        "What is the standard frequency of AC supply in Europe?",
+        "What is the main function of a contactor in an electrical system?",
+        "What is the purpose of double insulation in electrical equipment?",
+        "What is the role of a disconnect switch in an electrical circuit?",
+        "What is the main advantage of using XLPE cables over PVC cables?",
+        "What is the function of a surge arrester in an electrical network?",
+        "What is the purpose of earthing in an electrical installation?",
+        "What is the effect of voltage drop on electrical efficiency?",
+        "What is the primary function of a step-up transformer?",
+        "What is the purpose of a ring circuit in a domestic electrical installation?",
+        "What is the role of a synchronous motor in an electrical system?",
+        "What is the difference between AC and DC current?",
+        "What is the main function of a phase-sequence relay in a three-phase system?",
+        "What type of insulation is used for high-temperature cable applications?",
+        "What is the purpose of a single-line diagram in electrical systems?",
+        "What is the role of a feeder in an electrical distribution system?",
+        "What is the main function of a load break switch (LBS)?",
+        "What is the purpose of a residual voltage device (RVD)?",
+        "What is the purpose of a synchronous generator?",
+        "What is the main advantage of using a busbar trunking system?",
+        "What is the role of a transformer in a substation?",
+        "What is the effect of increasing cable length on voltage drop?",
+        "What is the purpose of a phase-splitting transformer?",
+        "What is the purpose of a ring main unit (RMU) in electrical systems?",
+        "What is the role of a capacitor in an electrical system?",
+        "What is the effect of power factor correction on system efficiency?",
+        "What type of motor is most commonly used in HVAC systems?",
+        "What is the function of an insulation monitoring device (IMD)?",
+        "What is the role of a current transformer (CT) in a power system?",
+        "What is the purpose of a relay in an electrical circuit?",
+        "What is the main function of an overcurrent relay?",
+        "What is the purpose of a grounding rod in an earthing system?",
+        "What is the role of an impulse relay in lighting systems?",
+        "What is the primary advantage of using LED lights over traditional bulbs?",
+        "What type of protection is provided by a ground-fault circuit interrupter (GFCI)?",
+        "What is the main advantage of using stranded conductors over solid conductors?",
+        "What is the role of an arc fault detection device (AFDD) in electrical systems?",
+        "What is the function of a thermal overload relay in a motor control system?",
+        "What is the purpose of a control transformer in an industrial panel?",
+        "What is the purpose of a cable tray in electrical installations?",
+        "What is the main advantage of using armored cable in an installation?"
     ],
     "answer": [
-        4,
-        1,
-        3,
-        4,
-        1,
-        4,
-        3,
-        3,
-        4,
-        1,
-        2,
-        2,
-        1,
-        4,
-        3,
-        3,
-        4,
-        1,
-        1,
-        4,
-        1,
-        2,
-        4,
-        3,
-        2,
-        2,
         2,
         3,
         1,
         4,
         4,
-        1,
-        1,
-        2,
-        2,
-        1,
-        4,
-        4,
-        3,
-        2,
-        2,
-        2,
-        2,
         3,
         1,
         2,
         2,
+        4,
+        4,
+        2,
+        2,
+        2,
+        2,
+        4,
         3,
         4,
-        3
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        1,
+        2,
+        3,
+        4,
+        1,
+        3,
+        1,
+        3,
+        3,
+        2,
+        3,
+        1,
+        1,
+        1,
+        3,
+        1,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        3,
+        3,
+        4,
+        3,
+        2,
+        1,
+        1,
+        4,
+        2,
+        4,
+        1,
+        4
     ],
     "choices": [
         [
-            "Fast startup",
-            "Closed iron core transformer",
-            "To show the structure of the network",
-            "To interrupt fault currents"
+            "To detect and prevent arcing faults",
+            "To provide a low-resistance path to ground",
+            "High conductivity and corrosion resistance",
+            "Efficient power distribution"
         ],
         [
-            "To detect leakage currents",
+            "To isolate a circuit",
+            "Combines protective and neutral conductors",
             "To interrupt fault currents",
-            "10%",
-            "Two-way switch"
+            "To carry current between circuits"
         ],
         [
-            "Spark gap",
-            "10%",
-            "3",
-            "Two-way switch"
+            "XLPE cable",
+            "To interrupt fault currents",
+            "To isolate electrical loads",
+            "To detect voltage imbalance"
         ],
         [
-            "Spark gap",
-            "10%",
-            "By cutting part of the sine wave",
-            "TN-S has separate neutral and earth wires"
+            "Flexible and easier to install",
+            "To provide step-down voltage for control systems",
+            "To protect against overloads",
+            "To carry current between circuits"
         ],
         [
+            "High conductivity and corrosion resistance",
+            "To split phase voltage",
+            "To protect against voltage spikes",
+            "230V"
+        ],
+        [
+            "To detect imbalance between live and neutral",
+            "To provide added protection",
+            "To step up or step down voltage",
+            "Increases voltage drop"
+        ],
+        [
+            "To detect imbalance between live and neutral",
+            "To provide step-down voltage for control systems",
+            "Protects against ground faults",
+            "To isolate a circuit"
+        ],
+        [
+            "To switch between power sources",
+            "To protect against lightning surges",
+            "To interrupt fault currents",
+            "High conductivity and corrosion resistance"
+        ],
+        [
+            "To switch between power sources",
+            "High conductivity and corrosion resistance",
+            "To switch lighting loads",
+            "To provide added protection"
+        ],
+        [
+            "To split phase voltage",
+            "To provide step-down voltage for control systems",
+            "AC changes direction, DC is constant",
+            "Combines protective and neutral conductors"
+        ],
+        [
+            "To support and protect cables",
+            "To detect imbalance between live and neutral",
+            "To split phase voltage",
+            "Reduces resistance"
+        ],
+        [
+            "To maintain synchronous speed",
+            "To protect against overloads",
+            "To protect against overloads",
+            "Improves power efficiency"
+        ],
+        [
+            "To switch lighting loads",
+            "Number of phases and voltage levels",
             "50 Hz",
-            "To protect sensitive equipment",
-            "To interrupt fault currents",
-            "Two-way switch"
+            "Reduces resistance"
         ],
         [
-            "50 Hz",
-            "To protect sensitive equipment",
-            "3",
-            "Spark gap"
+            "High conductivity and corrosion resistance",
+            "To switch between power sources",
+            "Reduces efficiency",
+            "To switch lighting loads"
         ],
         [
-            "Spark gap",
-            "Spark gap",
-            "Closed iron core transformer",
-            "Fast startup"
+            "To carry current between circuits",
+            "To reduce reactive power",
+            "Protects against ground faults",
+            "To provide earth grounding"
         ],
         [
-            "Spark gap",
-            "3",
-            "To provide grounding for safety",
-            "To detect leakage currents"
+            "Allows multiple outlets per circuit",
+            "Efficient power distribution",
+            "Protects against ground faults",
+            "25,000 hours vs 1,000 hours"
         ],
         [
-            "To allow remote switching",
-            "Spark gap",
-            "3",
-            "10%"
-        ],
-        [
-            "Voltage, current, frequency",
-            "Closed iron core transformer",
-            "110 kV",
-            "To provide grounding for safety"
-        ],
-        [
-            "To allow remote switching",
-            "To show the structure of the network",
-            "To show the structure of the network",
-            "Spark gap"
-        ],
-        [
-            "To interrupt fault currents",
+            "To switch high current loads",
+            "Induction motor",
             "Two-way switch",
-            "Fast startup",
-            "To interrupt fault currents"
+            "To provide step-down voltage for control systems"
         ],
         [
-            "Fast startup",
+            "To detect overloads",
+            "To protect against lightning surges",
+            "To provide added protection",
+            "50 Hz"
+        ],
+        [
+            "Provides backup protection",
+            "To switch high current loads",
+            "25,000 hours vs 1,000 hours",
+            "To carry current between circuits"
+        ],
+        [
+            "230V",
+            "To switch electrical circuits",
+            "To provide added protection",
+            "High conductivity and corrosion resistance"
+        ],
+        [
+            "Silicone rubber",
+            "Provides backup protection",
+            "To isolate a circuit",
+            "To monitor insulation resistance"
+        ],
+        [
+            "To prevent motor overheating",
             "Induction motor",
+            "Withstands higher temperatures",
+            "To show electrical system layout"
+        ],
+        [
+            "To prevent electric shock",
+            "To detect incorrect phase sequence",
+            "To protect against voltage spikes",
+            "To split phase voltage"
+        ],
+        [
+            "To carry high current",
+            "To prevent electric shock",
+            "To detect overloads",
+            "50 Hz"
+        ],
+        [
+            "Reduces efficiency",
+            "To step up or step down voltage",
+            "To detect overloads",
+            "To protect against overloads"
+        ],
+        [
+            "To step up or step down voltage",
+            "To increase voltage",
+            "Increases voltage drop",
+            "To provide earth grounding"
+        ],
+        [
+            "To carry high current",
+            "To increase voltage",
+            "Allows multiple outlets per circuit",
+            "Allows multiple outlets per circuit"
+        ],
+        [
+            "Reduces resistance",
             "To interrupt fault currents",
-            "To interrupt fault currents"
+            "To switch electrical circuits",
+            "To maintain synchronous speed"
         ],
         [
-            "3",
-            "Fast startup",
-            "Fast startup",
-            "110 kV"
+            "AC changes direction, DC is constant",
+            "To protect against voltage spikes",
+            "To provide a low-resistance path to ground",
+            "AC changes direction, DC is constant"
         ],
         [
-            "Voltage, current, frequency",
-            "TN-S has separate neutral and earth wires",
-            "By cutting part of the sine wave",
-            "Two-way switch"
+            "To generate constant frequency",
+            "To prevent motor overheating",
+            "To detect incorrect phase sequence",
+            "Number of phases and voltage levels"
         ],
         [
-            "To provide grounding for safety",
-            "TN-S has separate neutral and earth wires",
-            "To allow remote switching",
-            "To allow remote switching"
-        ],
-        [
-            "To allow remote switching",
-            "Closed iron core transformer",
-            "By cutting part of the sine wave",
-            "To protect sensitive equipment"
-        ],
-        [
-            "Induction motor",
-            "3",
-            "3",
-            "To provide grounding for safety"
-        ],
-        [
-            "To interrupt fault currents",
-            "To interrupt fault currents",
+            "Silicone rubber",
+            "To provide step-down voltage for control systems",
             "50 Hz",
-            "Spark gap"
+            "To provide earth grounding"
         ],
         [
-            "To provide grounding for safety",
-            "Closed iron core transformer",
-            "TN-S has separate neutral and earth wires",
-            "To detect leakage currents"
+            "Induction motor",
+            "AC changes direction, DC is constant",
+            "To show electrical system layout",
+            "Reduces efficiency"
         ],
         [
-            "3",
-            "110 kV",
-            "10%",
-            "Closed iron core transformer"
+            "To carry current between circuits",
+            "Lower energy consumption",
+            "To carry high current",
+            "To reduce distribution loss"
         ],
         [
-            "To protect sensitive equipment",
-            "TN-S has separate neutral and earth wires",
-            "Spark gap",
+            "To protect against lightning surges",
+            "To isolate electrical loads",
+            "To isolate a circuit",
+            "To split phase voltage"
+        ],
+        [
+            "High conductivity and corrosion resistance",
+            "Two-way switch",
+            "To detect voltage imbalance",
+            "To carry high current"
+        ],
+        [
+            "To generate constant frequency",
+            "XLPE cable",
+            "To detect imbalance between live and neutral",
+            "Withstands higher temperatures"
+        ],
+        [
+            "Efficient power distribution",
+            "To store electric charge",
+            "To detect overloads",
+            "AC changes direction, DC is constant"
+        ],
+        [
+            "To reduce distribution loss",
+            "To provide step-down voltage for control systems",
+            "To reduce distribution loss",
+            "50 Hz"
+        ],
+        [
+            "To carry current between circuits",
+            "To interrupt fault currents",
+            "Increases voltage drop",
+            "To monitor insulation resistance"
+        ],
+        [
+            "To split phase voltage",
+            "To split phase voltage",
+            "To store electric charge",
+            "Reduces efficiency"
+        ],
+        [
+            "To detect and prevent arcing faults",
+            "Provides backup protection",
+            "XLPE cable",
+            "AC changes direction, DC is constant"
+        ],
+        [
+            "To protect against overloads",
+            "To detect imbalance between live and neutral",
+            "To store electric charge",
+            "50 Hz"
+        ],
+        [
+            "Improves power efficiency",
+            "Lower energy consumption",
+            "To generate constant frequency",
+            "To detect imbalance between live and neutral"
+        ],
+        [
+            "Improves power efficiency",
+            "Induction motor",
+            "50 Hz",
+            "To isolate electrical loads"
+        ],
+        [
+            "Reduces efficiency",
+            "Provides backup protection",
+            "Combines protective and neutral conductors",
+            "To monitor insulation resistance"
+        ],
+        [
+            "To measure current",
+            "Improves power efficiency",
+            "To switch between power sources",
+            "To measure current"
+        ],
+        [
+            "To switch high current loads",
+            "To show electrical system layout",
+            "To switch electrical circuits",
             "Induction motor"
         ],
         [
-            "TN-S has separate neutral and earth wires",
-            "To detect leakage currents",
-            "To show the structure of the network",
-            "50 Hz"
+            "Induction motor",
+            "Increases voltage drop",
+            "To detect overloads",
+            "To reduce reactive power"
         ],
         [
-            "Fast startup",
-            "10%",
-            "Spark gap",
-            "Two-way switch"
+            "To switch lighting loads",
+            "Induction motor",
+            "Reduces resistance",
+            "To provide earth grounding"
         ],
         [
-            "Fast startup",
-            "Closed iron core transformer",
-            "To interrupt fault currents",
-            "50 Hz"
+            "50 Hz",
+            "Silicone rubber",
+            "To switch lighting loads",
+            "Reduces resistance"
         ],
         [
-            "Voltage, current, frequency",
-            "To provide grounding for safety",
-            "3",
-            "110 kV"
+            "To step up or step down voltage",
+            "Lower energy consumption",
+            "To measure current",
+            "To switch high current loads"
         ],
         [
-            "Spark gap",
-            "10%",
-            "Closed iron core transformer",
-            "Spark gap"
+            "Protects against ground faults",
+            "Improves power efficiency",
+            "To protect against lightning surges",
+            "To detect overloads"
         ],
         [
-            "To provide grounding for safety",
-            "To interrupt fault currents",
-            "Voltage, current, frequency",
-            "Fast startup"
-        ],
-        [
-            "To show the structure of the network",
-            "Fast startup",
-            "To provide grounding for safety",
-            "Closed iron core transformer"
-        ],
-        [
-            "3",
-            "To provide grounding for safety",
-            "To provide grounding for safety",
-            "Two-way switch"
-        ],
-        [
-            "10%",
-            "TN-S has separate neutral and earth wires",
-            "Spark gap",
-            "Fast startup"
-        ],
-        [
-            "110 kV",
-            "3",
-            "To provide grounding for safety",
-            "To detect leakage currents"
-        ],
-        [
-            "By cutting part of the sine wave",
-            "Voltage, current, frequency",
-            "To interrupt fault currents",
-            "TN-S has separate neutral and earth wires"
-        ],
-        [
-            "To protect sensitive equipment",
-            "To allow remote switching",
-            "To provide grounding for safety",
-            "To detect leakage currents"
-        ],
-        [
-            "10%",
-            "To protect sensitive equipment",
-            "Two-way switch",
-            "Voltage, current, frequency"
+            "Flexible and easier to install",
+            "To detect overloads",
+            "To generate constant frequency",
+            "Lower energy consumption"
         ],
         [
             "Induction motor",
-            "10%",
-            "Two-way switch",
-            "Two-way switch"
+            "To detect overloads",
+            "To step up or step down voltage",
+            "To detect and prevent arcing faults"
         ],
         [
-            "To allow remote switching",
-            "Two-way switch",
-            "3",
-            "To interrupt fault currents"
+            "To support and protect cables",
+            "To prevent motor overheating",
+            "To switch between power sources",
+            "XLPE cable"
         ],
         [
-            "Fast startup",
-            "TN-S has separate neutral and earth wires",
-            "110 kV",
-            "To detect leakage currents"
+            "Reduces resistance",
+            "To isolate a circuit",
+            "To monitor insulation resistance",
+            "To provide step-down voltage for control systems"
         ],
         [
-            "Spark gap",
-            "10%",
-            "3",
-            "Spark gap"
-        ],
-        [
-            "110 kV",
-            "TN-S has separate neutral and earth wires",
-            "TN-S has separate neutral and earth wires",
-            "110 kV"
-        ],
-        [
-            "To show the structure of the network",
+            "To support and protect cables",
             "50 Hz",
-            "50 Hz",
-            "To detect leakage currents"
+            "To step up or step down voltage",
+            "To increase voltage"
         ],
         [
-            "To allow remote switching",
-            "Spark gap",
-            "50 Hz",
-            "50 Hz"
-        ],
-        [
-            "Voltage, current, frequency",
-            "Closed iron core transformer",
-            "To protect sensitive equipment",
-            "3"
-        ],
-        [
-            "Fast startup",
-            "By cutting part of the sine wave",
-            "To provide grounding for safety",
-            "Voltage, current, frequency"
-        ],
-        [
-            "10%",
-            "10%",
-            "Fast startup",
-            "To interrupt fault currents"
-        ],
-        [
-            "To interrupt fault currents",
-            "Voltage, current, frequency",
-            "Fast startup",
-            "To interrupt fault currents"
-        ],
-        [
-            "10%",
-            "To show the structure of the network",
-            "110 kV",
-            "To detect leakage currents"
-        ],
-        [
-            "To allow remote switching",
-            "Spark gap",
-            "Two-way switch",
-            "Two-way switch"
-        ],
-        [
-            "10%",
-            "50 Hz",
-            "To show the structure of the network",
-            "Fast startup"
-        ],
-        [
-            "By cutting part of the sine wave",
-            "To protect sensitive equipment",
-            "110 kV",
-            "Two-way switch"
+            "To provide earth grounding",
+            "To show electrical system layout",
+            "To measure current",
+            "To protect against mechanical damage"
         ]
     ],
     "hints": [
-        "The correct answer is 'To interrupt fault currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To detect leakage currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '3'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'TN-S has separate neutral and earth wires'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '50 Hz'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Spark gap'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Closed iron core transformer'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To provide grounding for safety'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '10%'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Voltage, current, frequency'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To show the structure of the network'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Two-way switch'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Fast startup'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '110 kV'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'By cutting part of the sine wave'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To allow remote switching'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To protect sensitive equipment'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Induction motor'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To interrupt fault currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To detect leakage currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '3'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'TN-S has separate neutral and earth wires'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '50 Hz'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Spark gap'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Closed iron core transformer'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To provide grounding for safety'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '10%'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Voltage, current, frequency'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To show the structure of the network'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Two-way switch'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Fast startup'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '110 kV'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'By cutting part of the sine wave'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To allow remote switching'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To protect sensitive equipment'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Induction motor'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To interrupt fault currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To detect leakage currents'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '3'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'TN-S has separate neutral and earth wires'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '50 Hz'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Spark gap'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Closed iron core transformer'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To provide grounding for safety'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '10%'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Voltage, current, frequency'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'To show the structure of the network'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Two-way switch'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is 'Fast startup'. This is essential for ensuring the proper operation and safety of electrical systems.",
-        "The correct answer is '110 kV'. This is essential for ensuring the proper operation and safety of electrical systems."
+        "Earthing systems provide a safe path for fault currents to flow into the ground, reducing the risk of electric shock and protecting equipment from damage.",
+        "Circuit breakers detect overloads and short circuits, interrupting the circuit to prevent overheating and fire hazards.",
+        "XLPE (Cross-linked Polyethylene) cables are preferred for underground use because of their excellent resistance to moisture and high temperature tolerance.",
+        "Busbars distribute electrical power efficiently and reduce the need for excess wiring, providing a compact and organized power distribution system.",
+        "The typical single-phase domestic supply in Europe is 230V, ensuring compatibility with most household appliances.",
+        "Transformers adjust voltage levels, stepping up for efficient transmission and stepping down for safe use by appliances.",
+        "Residual current devices (RCDs) detect imbalance between live and neutral currents, cutting off power to prevent electric shock.",
+        "Lightning arresters divert high voltage surges from lightning strikes to the ground, protecting sensitive equipment from damage.",
+        "Copper has low resistance, high conductivity, and excellent corrosion resistance, making it ideal for electrical wiring.",
+        "TN-C-S systems combine protective and neutral conductors, simplifying installations while ensuring fault protection.",
+        "Increasing conductor size reduces electrical resistance, improving current flow and reducing energy loss.",
+        "Fuses melt under excess current, breaking the circuit and preventing damage to wiring and appliances.",
+        "Single-phase systems use one live wire and one neutral, while three-phase systems use three live wires for more balanced power distribution.",
+        "Automatic transfer switches (ATS) automatically switch to a backup power source during a main supply failure.",
+        "Power factor correction capacitors reduce reactive power, improving efficiency and reducing load on the power system.",
+        "LED lights consume less power and last longer than incandescent bulbs, making them more energy-efficient and cost-effective.",
+        "Two-way switches allow control of a single light from two different locations, common in staircases and hallways.",
+        "50 Hz is the standard AC supply frequency in Europe, providing compatibility with most electrical equipment.",
+        "Contactors switch high current loads in industrial applications, allowing remote control of electrical circuits.",
+        "Double insulation provides an extra layer of protection against electric shock, reducing the risk of accidental contact.",
+        "Disconnect switches isolate circuits for maintenance and repairs, improving safety during electrical work.",
+        "XLPE cables resist high temperatures and mechanical stress better than PVC cables, ensuring longer lifespan and reliability.",
+        "Surge arresters protect electrical systems from high voltage spikes, such as those caused by lightning or switching surges.",
+        "Earthing ensures that exposed metal parts remain at ground potential, reducing the risk of electric shock.",
+        "Voltage drop increases power loss and reduces equipment efficiency, especially over long distances.",
+        "Step-up transformers increase voltage for transmission, reducing current and minimizing energy loss over long distances.",
+        "Ring circuits provide multiple outlets in a loop configuration, balancing the load and allowing smaller conductor sizes.",
+        "Synchronous motors maintain a constant speed regardless of load changes, useful for precise timing applications.",
+        "AC alternates direction periodically, while DC flows in one direction, making AC better for transmission and DC better for batteries.",
+        "Phase-sequence relays ensure that the order of phases in a three-phase system is correct, preventing motor damage.",
+        "Silicone rubber insulation withstands high temperatures and harsh environments, ideal for heavy-duty applications.",
+        "Single-line diagrams provide a simplified view of electrical systems, showing major components and connections.",
+        "Feeders supply electrical power from the main panel to sub-panels or large equipment.",
+        "Load break switches safely interrupt current flow under load, used for isolation and maintenance.",
+        "Residual voltage devices (RVD) monitor voltage levels and disconnect power during abnormal conditions.",
+        "Synchronous generators produce constant-frequency AC power, used in large power plants and industrial systems.",
+        "Busbar trunking systems simplify power distribution, reducing installation time and improving flexibility.",
+        "Transformers in substations adjust voltage levels to match local distribution requirements.",
+        "Longer cables increase resistance, causing higher voltage drop and reduced efficiency.",
+        "Phase-splitting transformers convert three-phase supply into single-phase or split-phase for specific equipment needs.",
+        "Ring main units (RMUs) provide a compact solution for connecting and switching between different power sources.",
+        "Capacitors store electrical energy and release it when needed, improving power quality and reducing voltage fluctuations.",
+        "Power factor correction reduces reactive power, improving the efficiency of electrical systems.",
+        "Induction motors are widely used in HVAC systems because they are reliable and maintenance-free.",
+        "Insulation monitoring devices (IMD) detect insulation failures and help prevent ground faults.",
+        "Current transformers (CT) reduce high current levels to measurable levels for monitoring and protection.",
+        "Relays control electrical circuits based on specific conditions, such as current, voltage, or temperature.",
+        "Overcurrent relays detect excess current and trip the circuit to prevent damage and fire hazards.",
+        "Grounding rods provide a direct path to ground, ensuring safety and preventing electric shock.",
+        "Impulse relays control lighting circuits, allowing multiple switches to operate the same light.",
+        "LED lights consume less energy and have a longer lifespan compared to traditional bulbs, reducing costs.",
+        "GFCIs protect against ground faults by cutting off power when leakage current is detected.",
+        "Stranded conductors are more flexible and resistant to breakage than solid conductors, making them suitable for flexible cables.",
+        "Arc fault detection devices (AFDD) detect dangerous electrical arcs and disconnect power to prevent fires.",
+        "Thermal overload relays monitor motor temperature and disconnect power if overheating occurs.",
+        "Control transformers provide reduced voltage for control circuits, ensuring safe operation of contactors and relays.",
+        "Cable trays support and organize cables, reducing mechanical stress and simplifying maintenance.",
+        "Armored cables provide mechanical protection, making them ideal for harsh environments."
     ]
 }

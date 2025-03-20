@@ -385,7 +385,7 @@ topics.entryconfig(5, compound= 'left', state ='disabled') # bonusz topic, initi
 topics.entryconfig(6, image= logo_t07, compound= 'left') #
 topics.entryconfig(7, image= logo_t08, compound= 'left')
 
-# PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
+# # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
 progressbar = ttk.Progressbar(frame, orient='horizontal', length=200, mode='determinate', maximum=100)
 progressbar.place(x=5, y=450)
@@ -403,7 +403,7 @@ progress_label['relief'] = 'groove'
 # # :PROGRESS BAR
 # :Tkinter GUI
 
-# an instance of "Quiz" class.
+# an instance of class "Quiz"
 quiz = Quiz()
 
 # https://stackoverflow.com/questions/29158220/tkinter-understanding-mainloop
