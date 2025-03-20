@@ -382,8 +382,8 @@ topics.entryconfig(2, image= logo_t03, compound ='left')
 topics.entryconfig(3, image= logo_t04, compound = 'left')
 topics.entryconfig(4, image= logo_t05, compound = 'left')
 topics.entryconfig(5, compound= 'left', state ='disabled') # bonusz topic, initially locked
-topics.entryconfig(6, image= logo_t07, compound= 'left') #
-topics.entryconfig(7, image= logo_t08, compound= 'left')
+topics.entryconfig(6, image= logo_t07, compound= 'left') # T, T-É és SZÉS1
+topics.entryconfig(7, image= logo_t08, compound= 'left') # bme - electrical systems
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
