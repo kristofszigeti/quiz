@@ -372,7 +372,7 @@ topics.add_radiobutton(label = 'Topic BONUS', variable = choice, value = 6,
 topics.add_radiobutton(label = 'T, T-É és SZÉS1', variable = choice, value = 7,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_structural_engineering_numbered.json'), 6), quiz.display_topic_label(6)))
 topics.add_radiobutton(label = 'Electrical Systems', variable = choice, value = 8,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems.json'), 6), quiz.display_topic_label(7)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems.json'), 7), quiz.display_topic_label(7)))
 
 
 # customizing the menubar
