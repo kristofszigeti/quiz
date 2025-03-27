@@ -351,6 +351,7 @@ logo_t05 = PhotoImage(file = resource_path('./logo/logo_darts.png')).subsample(1
 logo_t06 = PhotoImage(file = resource_path('./logo/logo_boardgames.png')).subsample(14, 14)
 logo_t07 = PhotoImage(file = resource_path('./logo/logo_structural engineering.png')).subsample(14, 14)
 logo_t08 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
+logo_t09 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
 
 
 # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?resume=false
@@ -373,6 +374,8 @@ topics.add_radiobutton(label = 'T, T-É és SZÉS1', variable = choice, value = 
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_structural_engineering_numbered.json'), 6), quiz.display_topic_label(6)))
 topics.add_radiobutton(label = 'Electrical Systems', variable = choice, value = 8,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems.json'), 7), quiz.display_topic_label(7)))
+topics.add_radiobutton(label = 'Electrical Systems - Earthing', variable = choice, value = 9,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p02_earthing.json'), 8), quiz.display_topic_label(8)))
 
 
 # customizing the menubar
@@ -384,6 +387,7 @@ topics.entryconfig(4, image= logo_t05, compound = 'left')
 topics.entryconfig(5, compound= 'left', state ='disabled') # bonusz topic, initially locked
 topics.entryconfig(6, image= logo_t07, compound= 'left') # T, T-É és SZÉS1
 topics.entryconfig(7, image= logo_t08, compound= 'left') # bme - electrical systems
+topics.entryconfig(8, image= logo_t09, compound= 'left') # bme - electrical systems
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
