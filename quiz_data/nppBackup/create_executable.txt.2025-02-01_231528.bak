@@ -1,6 +1,0 @@
-pyinstaller my_quiz.py --onefile --add-data "./data/quiz_sport.json:data" --add-data "./data/quiz_movie.json:data" --add-data "./data/quiz_geography.json:data" --add-data "./data/quiz_football.json:data" --add-data "./data/quiz_darts.json:data" --add-data "./data/quiz_boardgames.json:data" --add-data "./data/quiz_structural_engineering_numbered.json:data" --add-data "./logo/logo_sport.png:logo" --add-data "./logo/logo_movie.png:logo" --add-data "./logo/logo_geography.png:logo" --add-data "./logo/logo_football.png:logo" --add-data "./logo/logo_darts.png:logo" --add-data "./logo/logo_boardgames.png:logo" --add-data "./logo/logo_structural engineering.png:logo"
-
-
-
-	BMEEOFT-V92
-	BMEEOFT-X10
