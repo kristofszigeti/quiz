@@ -1,0 +1,145 @@
+{
+    "question": [
+        "Q1. What is the main purpose of an earthing system in an electrical installation?",
+        "Q2. What is the primary function of a circuit breaker in an electrical panel?",
+        "Q3. What type of cable is commonly used for underground electrical distribution?",
+        "Q4. What is the function of a busbar in an electrical distribution board?",
+        "Q5. What is the typical operating voltage for single-phase domestic supply in Europe?",
+        "Q6. What is the main purpose of a transformer in a power distribution system?",
+        "Q7. What is the function of a residual current device (RCD) in electrical systems?",
+        "Q8. What is the purpose of a lightning arrester in electrical systems?",
+        "Q9. What is the main advantage of using copper wiring in electrical installations?",
+        "Q10. What type of protection is provided by a TN-C-S earthing system?",
+        "Q11. What is the effect of increasing conductor size on electrical resistance?",
+        "Q12. What is the role of a fuse in an electrical circuit?",
+        "Q13. What is the difference between single-phase and three-phase electrical supply?",
+        "Q14. What is the function of an automatic transfer switch (ATS)?",
+        "Q15. What is the purpose of a power factor correction capacitor bank?"
+    ],
+    "answer": [
+        2,
+        3,
+        1,
+        4,
+        4,
+        3,
+        1,
+        2,
+        1,
+        4,
+        3,
+        2,
+        2,
+        3,
+        2
+    ],
+    "choices": [
+        [
+            "To improve voltage stability",
+            "To provide a low-resistance path to ground for fault currents",
+            "To increase system impedance",
+            "To reduce energy consumption"
+        ],
+        [
+            "To isolate a circuit during maintenance",
+            "To convert AC to DC",
+            "To interrupt excessive current and protect the circuit",
+            "To ground fault currents"
+        ],
+        [
+            "XLPE cable",
+            "PVC twin cable",
+            "Overhead aluminum conductor",
+            "Flexible cord"
+        ],
+        [
+            "To provide mechanical protection",
+            "To increase voltage",
+            "To support reactive power",
+            "To conduct and distribute electrical current among circuits"
+        ],
+        [
+            "120V",
+            "400V",
+            "110V",
+            "230V"
+        ],
+        [
+            "To store electrical energy",
+            "To interrupt current flow",
+            "To step voltage up or down between networks",
+            "To convert AC to DC"
+        ],
+        [
+            "To protect against leakage current and prevent electric shock",
+            "To provide backup power during outages",
+            "To stabilize voltage levels",
+            "To limit harmonic distortion"
+        ],
+        [
+            "To store excess energy for later use",
+            "To divert lightning surges safely to earth",
+            "To monitor power quality",
+            "To disconnect loads during high current"
+        ],
+        [
+            "Lower voltage drop and high conductivity",
+            "Lower cost compared to aluminum",
+            "Ease of recycling",
+            "Resistance to electromagnetic interference"
+        ],
+        [
+            "High-voltage surge protection",
+            "Double insulation",
+            "Isolation from earth potential",
+            "Combined neutral and protective earth connection with separation at the installation"
+        ],
+        [
+            "Resistance increases",
+            "No effect on resistance",
+            "Resistance decreases",
+            "Voltage increases"
+        ],
+        [
+            "To increase voltage levels",
+            "To protect against short circuits by melting",
+            "To store backup energy",
+            "To isolate neutral connections"
+        ],
+        [
+            "Three-phase systems are only used in residential homes",
+            "Three-phase provides more consistent power and is used for heavier loads",
+            "Single-phase requires more wiring",
+            "Single-phase is more efficient than three-phase"
+        ],
+        [
+            "To disconnect the circuit during fault",
+            "To limit short-circuit current",
+            "To switch power source to backup automatically",
+            "To regulate phase voltage"
+        ],
+        [
+            "To increase voltage",
+            "To reduce reactive power and improve efficiency",
+            "To store energy for long-term backup",
+            "To cool electrical components"
+        ]
+    ],
+    "hints": [
+        "Earthing systems safely direct fault currents into the ground, protecting people and equipment from electric shock. It is a fundamental part of any safe electrical installation.",
+        "Circuit breakers protect wiring and equipment by automatically disconnecting power when an overcurrent or short circuit is detected. This helps prevent fires and damage.",
+        "XLPE (cross-linked polyethylene) cables are ideal for underground systems due to their moisture resistance and thermal stability. They are widely used in modern electrical distribution.",
+        "Busbars act as centralized conductors that distribute power to multiple circuits within a distribution board. They are essential for efficient, compact power distribution.",
+        "In most European countries, the standard single-phase voltage supply is 230V at 50 Hz. This is suitable for residential and small appliance use.",
+        "Transformers adjust voltage levels for transmission and distribution. They are essential for matching generation, grid, and end-use voltage requirements.",
+        "RCDs monitor the difference between live and neutral currents and disconnect the circuit if an imbalance is detected. This protects people from potentially lethal shocks.",
+        "Lightning arresters protect installations by safely discharging high-voltage transients to ground. This minimizes the risk of insulation damage and fire.",
+        "Copper has excellent conductivity, reducing voltage loss and improving efficiency. It's also mechanically strong and corrosion-resistant.",
+        "In TN-C-S systems, neutral and PE conductors are combined before the consumer installation and separated within the premises. This offers both protection and efficient earthing.",
+        "Larger conductor cross-sectional area reduces resistance and minimizes voltage drop. This enhances current flow and system efficiency.",
+        "Fuses are safety devices that melt and break the circuit during overcurrent. This prevents wiring and equipment damage from excessive current.",
+        "Three-phase systems deliver power more smoothly and are ideal for motors and large equipment. Single-phase is common in households for basic loads.",
+        "ATS units switch the power supply from the main grid to a backup source, like a generator, during outages. This ensures continuous power for critical loads.",
+        "Capacitor banks compensate for inductive loads, improving the power factor. This reduces losses and avoids penalties in commercial installations."
+    ]
+}

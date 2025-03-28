@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="v03">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quiz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Guide.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/my_quiz.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/warn-my_quiz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/my_quiz/xref-my_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/quiz_boardgames.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/quiz_darts.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/quiz_football.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/quiz_geography.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/quiz_movie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/quiz_sport.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/my_quiz.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_boardgames.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_darts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_darts_x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_football.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_football.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_football_553x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_geography.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_movie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/logo_sport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/python_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_quiz.spec" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kristofszigeti&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kristofszigeti/quiz.git&quot;,
+    &quot;accountId&quot;: &quot;5bfdba7c-d4a5-4f53-95a7-0a1169562637&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sOjfKNnhVbGiBafdz09QBgiomP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Kristof/IT/Python/prj/quiz"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="" />
+      <created>1738333616331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738333616331</updated>
+    </task>
+    <task id="LOCAL-00001" summary="v03">
+      <option name="closed" value="true" />
+      <created>1738335164410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738335164411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v03">
+      <option name="closed" value="true" />
+      <created>1738335585013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738335585013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v03" />
+    <option name="LAST_COMMIT_MESSAGE" value="v03" />
+  </component>
+</project>

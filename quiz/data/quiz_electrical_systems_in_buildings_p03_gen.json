@@ -1,0 +1,280 @@
+{
+    "question": [
+        "Q1. What is the main function of a block diagram in system design?",
+        "Q2. Which type of technical drawing shows detailed wiring connections in an electrical system?",
+        "Q3. What is the formula for calculating real power in AC circuits?",
+        "Q4. Which type of electrical load typically requires reactive power compensation?",
+        "Q5. What is the primary advantage of central reactive power compensation?",
+        "Q6. What diagram uses one line to represent all three phases in an AC system?",
+        "Q7. Which document type shows the physical location of electrical components?",
+        "Q8. Which large electrical device is typically switched using a contactor?",
+        "Q9. What is reactive power used for in an AC electrical system?",
+        "Q10. What is the benefit of using capacitors in a parallel configuration for compensation?",
+        "Q11. What does the symbol for a fuse typically represent in a circuit diagram?",
+        "Q12. What causes voltage drops in long building electrical lines?",
+        "Q13. Why are capacitors used for power factor correction?",
+        "Q14. Which power value indicates the total power flow in an AC circuit?",
+        "Q15. What role do circuit breakers play in electrical systems?",
+        "Q16. What is the key advantage of group compensation?",
+        "Q17. What does a sinusoidal voltage waveform indicate?",
+        "Q18. What happens when inductive and capacitive powers are equal in a circuit?",
+        "Q19. What is the main disadvantage of individual compensation?",
+        "Q20. Which of the following does NOT affect reactive power demand?",
+        "Q21. How are power losses in a cable primarily calculated?",
+        "Q22. Which device stores electrical energy in an electric field?",
+        "Q23. What is the significance of cos(φ) in AC power systems?",
+        "Q24. What does a power factor of 1 mean?",
+        "Q25. Why should capacitor banks be switched with caution?",
+        "Q26. What does reactive power flow cause in transmission lines?",
+        "Q27. Which phase angle results in the worst power factor?",
+        "Q28. Which measurement is given in VAR (volt-ampere reactive)?",
+        "Q29. Which system has the most stable voltage with respect to phase shifts?",
+        "Q30. What does a compensation controller do in a capacitor bank system?"
+    ],
+    "answer": [
+        3,
+        2,
+        1,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        4,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        3,
+        2,
+        4,
+        3,
+        3
+    ],
+    "choices": [
+        [
+            "To depict voltage levels",
+            "To show spatial arrangement of components",
+            "To illustrate system connections using simple shapes",
+            "To show current paths in detail"
+        ],
+        [
+            "Blueprint",
+            "Circuit diagram",
+            "Flow chart",
+            "Layout plan"
+        ],
+        [
+            "P = UIcos(φ)",
+            "P = UIsin(φ)",
+            "P = U/I",
+            "P = U²/R"
+        ],
+        [
+            "Resistive loads",
+            "Capacitive loads",
+            "Inductive loads",
+            "Linear loads"
+        ],
+        [
+            "Reduces the need for transformers",
+            "Improves accuracy of power meters",
+            "Optimizes compensation for the entire building",
+            "Removes the need for distribution boards"
+        ],
+        [
+            "Flow chart",
+            "Block diagram",
+            "Single-line diagram",
+            "Multi-line diagram"
+        ],
+        [
+            "Logic diagram",
+            "Installation plan",
+            "Circuit diagram",
+            "Single-line diagram"
+        ],
+        [
+            "Wall socket",
+            "Elevator motor",
+            "Light switch",
+            "Fuse box"
+        ],
+        [
+            "To charge batteries",
+            "To transfer data signals",
+            "To support voltage in inductive circuits",
+            "To measure resistance"
+        ],
+        [
+            "They reduce resistance",
+            "They increase inductance",
+            "They allow independent phase control",
+            "They provide continuous reactive power"
+        ],
+        [
+            "A resistor",
+            "A broken wire",
+            "A safety device to interrupt overcurrent",
+            "A switch"
+        ],
+        [
+            "High frequency",
+            "Excessive grounding",
+            "Line resistance and current flow",
+            "Circuit breakers"
+        ],
+        [
+            "They increase system resistance",
+            "They delay voltage phase",
+            "They supply leading reactive power",
+            "They absorb excess current"
+        ],
+        [
+            "Reactive power",
+            "Apparent power",
+            "Real power",
+            "Dissipated power"
+        ],
+        [
+            "Amplify current",
+            "Convert DC to AC",
+            "Protect against overloads and short circuits",
+            "Store electrical energy"
+        ],
+        [
+            "Compensates across multiple systems",
+            "Isolates each electrical load",
+            "Simplifies installation and reduces cost",
+            "Requires no capacitors"
+        ],
+        [
+            "Fluctuating DC",
+            "Harmonic distortion",
+            "Stable AC operation",
+            "Overloaded circuits"
+        ],
+        [
+            "Power factor is zero",
+            "Current stops flowing",
+            "Reactive power cancels out",
+            "Resistance increases"
+        ],
+        [
+            "It increases overall system cost",
+            "It reduces voltage levels",
+            "It requires specialized transformers",
+            "It eliminates harmonic distortion"
+        ],
+        [
+            "Motor size",
+            "Cable length",
+            "Inductance of load",
+            "Capacitor placement"
+        ],
+        [
+            "P = UI",
+            "P = I²R",
+            "P = U²/R",
+            "P = IR"
+        ],
+        [
+            "Inductor",
+            "Resistor",
+            "Capacitor",
+            "Transformer"
+        ],
+        [
+            "It defines reactive power",
+            "It measures resistance",
+            "It indicates power factor",
+            "It denotes voltage drop"
+        ],
+        [
+            "Only reactive power is present",
+            "No current flows",
+            "All power is used for useful work",
+            "Voltage equals current"
+        ],
+        [
+            "They can overheat quickly",
+            "They generate harmonics",
+            "They cause voltage fluctuations",
+            "They can produce switching transients"
+        ],
+        [
+            "Heat generation only",
+            "Reduced system losses",
+            "Increased cable loading",
+            "Higher transformer efficiency"
+        ],
+        [
+            "0°",
+            "90°",
+            "45°",
+            "180°"
+        ],
+        [
+            "Real power",
+            "Voltage drop",
+            "Apparent power",
+            "Reactive power"
+        ],
+        [
+            "DC system",
+            "Single-phase system",
+            "Balanced three-phase system",
+            "Split-phase system"
+        ],
+        [
+            "Limits current flow",
+            "Monitors insulation resistance",
+            "Switches capacitors based on load demand",
+            "Measures temperature rise"
+        ]
+    ],
+    "hints": [
+        "Block diagrams simplify system representation using geometric shapes and lines to depict connections. This helps in visualizing the interaction between different subsystems.",
+        "Circuit diagrams are detailed technical representations showing electrical connections using standard symbols. They are essential for system installation and maintenance.",
+        "Real power is the effective power used to perform work in AC circuits and is calculated using P = UIcos(φ). It measures the energy converted into heat, light, or mechanical motion.",
+        "Inductive loads such as motors and transformers consume reactive power, leading to a poor power factor. Capacitor banks are commonly used to compensate for this reactive demand.",
+        "Central compensation manages reactive power at the main distribution point of a building. It provides an efficient way to improve power factor for the whole facility.",
+        "Single-line diagrams simplify the representation of complex three-phase systems using a single line per circuit. This is common in high-level planning and documentation.",
+        "Installation plans indicate the spatial placement of equipment like panels, lights, and sockets within a building. They are crucial for on-site work and spatial coordination.",
+        "Contactors are used to remotely control high-current devices like elevator motors. They are durable and suitable for frequent switching applications.",
+        "Reactive power does not perform work but is essential for maintaining voltage levels in inductive loads. It flows back and forth between the source and the reactive components.",
+        "Parallel-connected capacitors provide continuous compensation to the circuit without being affected by load fluctuations. This configuration is preferred in many industrial setups.",
+        "The fuse symbol represents a component that protects circuits by melting under high current. It prevents damage to devices and wiring during faults.",
+        "Voltage drop results from the resistance of the wire and the current flowing through it. The longer the cable and higher the current, the more voltage is lost.",
+        "Capacitors provide leading reactive power which offsets the lagging power from inductive loads. This improves the overall power factor of the system.",
+        "Apparent power is the combination of real and reactive power, measured in volt-amperes (VA). It represents the total power supplied to the circuit.",
+        "Circuit breakers automatically disconnect the circuit when excessive current is detected. This prevents fire hazards and equipment damage.",
+        "Group compensation improves efficiency by placing capacitors near load groups rather than individually. This balances cost and performance effectively.",
+        "A sinusoidal waveform represents an ideal alternating current with smooth and repetitive variation. It’s the standard form for utility-supplied AC power.",
+        "When inductive and capacitive powers are equal in magnitude, their reactive effects cancel each other. This leads to an improved or unity power factor.",
+        "Individual compensation requires a separate capacitor setup for each inductive device. This raises the complexity and cost of installation and maintenance.",
+        "Reactive power demand is driven mainly by inductive characteristics of loads and system configuration. Cable length contributes more to voltage drop than reactive power consumption.",
+        "Power loss in cables due to resistance is calculated using P = I²R. The higher the current and resistance, the greater the energy lost as heat.",
+        "Capacitors store energy in an electric field between their plates. This property makes them useful for filtering and reactive power applications.",
+        "Cos(φ) is the cosine of the phase angle between voltage and current, and it defines the power factor. A higher cos(φ) means better efficiency of power usage.",
+        "A power factor of 1 (unity) means that all the electrical power is being converted into useful work. There is no reactive power loss in this case.",
+        "Switching capacitors suddenly can produce electrical transients or surges. These can stress insulation and cause malfunctioning of nearby sensitive equipment.",
+        "Reactive power contributes to the total current flowing in lines, increasing the burden on cables. This increases losses and may require larger infrastructure.",
+        "A 90° phase angle means that voltage and current are completely out of phase. This results in zero real power transfer and a power factor of zero.",
+        "Reactive power, which represents energy exchange between fields in inductors and capacitors, is measured in VAR. It doesn't perform work but is necessary in AC systems.",
+        "Balanced three-phase systems maintain consistent voltage and power delivery across phases. This reduces torque pulsations in motors and improves system performance.",
+        "The compensation controller adjusts the number of active capacitors to match real-time reactive power needs. This maintains a desirable power factor across varying load conditions."
+    ]
+}

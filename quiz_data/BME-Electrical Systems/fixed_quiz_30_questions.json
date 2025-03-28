@@ -1,0 +1,280 @@
+{
+    "question": [
+        "Q1. What is the main purpose of an earthing system in an electrical installation?",
+        "Q2. What is the primary function of a circuit breaker in an electrical panel?",
+        "Q3. What type of cable is commonly used for underground electrical distribution?",
+        "Q4. What is the function of a busbar in an electrical distribution board?",
+        "Q5. What is the typical operating voltage for single-phase domestic supply in Europe?",
+        "Q6. What is the main purpose of a transformer in a power distribution system?",
+        "Q7. What is the function of a residual current device (RCD) in electrical systems?",
+        "Q8. What is the purpose of a lightning arrester in electrical systems?",
+        "Q9. What is the main advantage of using copper wiring in electrical installations?",
+        "Q10. What type of protection is provided by a TN-C-S earthing system?",
+        "Q11. What is the effect of increasing conductor size on electrical resistance?",
+        "Q12. What is the role of a fuse in an electrical circuit?",
+        "Q13. What is the difference between single-phase and three-phase electrical supply?",
+        "Q14. What is the function of an automatic transfer switch (ATS)?",
+        "Q15. What is the purpose of a power factor correction capacitor bank?",
+        "Q16. What is the typical lifespan of an LED light compared to an incandescent bulb?",
+        "Q17. What type of circuit is commonly used for stairway lighting?",
+        "Q18. What is the standard frequency of AC supply in Europe?",
+        "Q19. What is the main function of a contactor in an electrical system?",
+        "Q20. What is the purpose of double insulation in electrical equipment?",
+        "Q21. What is the role of a disconnect switch in an electrical circuit?",
+        "Q22. What is the main advantage of using XLPE cables over PVC cables?",
+        "Q23. What is the function of a surge arrester in an electrical network?",
+        "Q24. What is the effect of voltage drop on electrical efficiency?",
+        "Q25. What is the primary function of a step-up transformer?",
+        "Q26. What is the purpose of a ring circuit in a domestic electrical installation?",
+        "Q27. What is the role of a synchronous motor in an electrical system?",
+        "Q28. What is the difference between AC and DC current?",
+        "Q29. What is the main function of a phase-sequence relay in a three-phase system?",
+        "Q30. What type of insulation is used for high-temperature cable applications?"
+    ],
+    "answer": [
+        2,
+        3,
+        1,
+        4,
+        4,
+        3,
+        1,
+        2,
+        1,
+        4,
+        3,
+        2,
+        2,
+        3,
+        2,
+        4,
+        3,
+        4,
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3
+    ],
+    "choices": [
+        [
+            "To improve voltage stability",
+            "To provide a low-resistance path to ground for fault currents",
+            "To increase system impedance",
+            "To reduce energy consumption"
+        ],
+        [
+            "To isolate a circuit during maintenance",
+            "To convert AC to DC",
+            "To interrupt excessive current and protect the circuit",
+            "To ground fault currents"
+        ],
+        [
+            "XLPE cable",
+            "PVC twin cable",
+            "Overhead aluminum conductor",
+            "Flexible cord"
+        ],
+        [
+            "To provide mechanical protection",
+            "To increase voltage",
+            "To support reactive power",
+            "To conduct and distribute electrical current among circuits"
+        ],
+        [
+            "120V",
+            "400V",
+            "110V",
+            "230V"
+        ],
+        [
+            "To store electrical energy",
+            "To interrupt current flow",
+            "To step voltage up or down between networks",
+            "To convert AC to DC"
+        ],
+        [
+            "To protect against leakage current and prevent electric shock",
+            "To provide backup power during outages",
+            "To stabilize voltage levels",
+            "To limit harmonic distortion"
+        ],
+        [
+            "To store excess energy for later use",
+            "To divert lightning surges safely to earth",
+            "To monitor power quality",
+            "To disconnect loads during high current"
+        ],
+        [
+            "Lower voltage drop and high conductivity",
+            "Lower cost compared to aluminum",
+            "Ease of recycling",
+            "Resistance to electromagnetic interference"
+        ],
+        [
+            "High-voltage surge protection",
+            "Double insulation",
+            "Isolation from earth potential",
+            "Combined neutral and protective earth connection with separation at the installation"
+        ],
+        [
+            "Resistance increases",
+            "No effect on resistance",
+            "Resistance decreases",
+            "Voltage increases"
+        ],
+        [
+            "To increase voltage levels",
+            "To protect against short circuits by melting",
+            "To store backup energy",
+            "To isolate neutral connections"
+        ],
+        [
+            "Three-phase systems are only used in residential homes",
+            "Three-phase provides more consistent power and is used for heavier loads",
+            "Single-phase requires more wiring",
+            "Single-phase is more efficient than three-phase"
+        ],
+        [
+            "To disconnect the circuit during fault",
+            "To limit short-circuit current",
+            "To switch power source to backup automatically",
+            "To regulate phase voltage"
+        ],
+        [
+            "To increase voltage",
+            "To reduce reactive power and improve efficiency",
+            "To store energy for long-term backup",
+            "To cool electrical components"
+        ],
+        [
+            "5 times shorter",
+            "The same",
+            "Slightly longer",
+            "Around 25 times longer"
+        ],
+        [
+            "Ring circuit",
+            "Single-line circuit",
+            "Two-way switch circuit",
+            "Grounded loop circuit"
+        ],
+        [
+            "60 Hz",
+            "25 Hz",
+            "100 Hz",
+            "50 Hz"
+        ],
+        [
+            "To store energy",
+            "To reduce voltage drops",
+            "To switch high-current loads remotely",
+            "To detect phase imbalance"
+        ],
+        [
+            "To reduce current flow",
+            "To allow higher voltage operation",
+            "To eliminate the need for grounding in some cases",
+            "To support heat dissipation"
+        ],
+        [
+            "To connect multiple cables",
+            "To isolate circuits for maintenance",
+            "To reduce voltage losses",
+            "To improve power factor"
+        ],
+        [
+            "Lower cost",
+            "More flexibility",
+            "Higher temperature tolerance and chemical resistance",
+            "Easier to install"
+        ],
+        [
+            "To switch circuits on and off",
+            "To isolate loads during faults",
+            "To protect equipment from overvoltage surges",
+            "To disconnect neutral conductors"
+        ],
+        [
+            "Improves load performance",
+            "Reduces efficiency and can damage equipment",
+            "Prevents overloading",
+            "Improves power factor"
+        ],
+        [
+            "To isolate grounding circuits",
+            "To increase voltage for long-distance transmission",
+            "To convert AC to DC",
+            "To balance current between phases"
+        ],
+        [
+            "To reduce earthing resistance",
+            "To distribute lighting evenly",
+            "To connect sockets in a loop for balanced current flow",
+            "To prevent voltage drop"
+        ],
+        [
+            "To provide backup energy",
+            "To improve voltage drop",
+            "To maintain constant speed regardless of load",
+            "To isolate faulty phases"
+        ],
+        [
+            "AC current flows in one direction only",
+            "DC current changes direction periodically",
+            "AC changes direction periodically, DC flows in one direction",
+            "DC is more efficient for long-distance transmission"
+        ],
+        [
+            "To switch capacitors on and off",
+            "To detect incorrect phase order",
+            "To increase line voltage",
+            "To adjust motor speed"
+        ],
+        [
+            "PVC",
+            "Rubber",
+            "Silicone rubber",
+            "Nylon"
+        ]
+    ],
+    "hints": [
+        "Earthing systems safely direct fault currents into the ground, protecting people and equipment from electric shock. It is a fundamental part of any safe electrical installation.",
+        "Circuit breakers protect wiring and equipment by automatically disconnecting power when an overcurrent or short circuit is detected. This helps prevent fires and damage.",
+        "XLPE (cross-linked polyethylene) cables are ideal for underground systems due to their moisture resistance and thermal stability. They are widely used in modern electrical distribution.",
+        "Busbars act as centralized conductors that distribute power to multiple circuits within a distribution board. They are essential for efficient, compact power distribution.",
+        "In most European countries, the standard single-phase voltage supply is 230V at 50 Hz. This is suitable for residential and small appliance use.",
+        "Transformers adjust voltage levels for transmission and distribution. They are essential for matching generation, grid, and end-use voltage requirements.",
+        "RCDs monitor the difference between live and neutral currents and disconnect the circuit if an imbalance is detected. This protects people from potentially lethal shocks.",
+        "Lightning arresters protect installations by safely discharging high-voltage transients to ground. This minimizes the risk of insulation damage and fire.",
+        "Copper has excellent conductivity, reducing voltage loss and improving efficiency. It's also mechanically strong and corrosion-resistant.",
+        "In TN-C-S systems, neutral and PE conductors are combined before the consumer installation and separated within the premises. This offers both protection and efficient earthing.",
+        "Larger conductor cross-sectional area reduces resistance and minimizes voltage drop. This enhances current flow and system efficiency.",
+        "Fuses are safety devices that melt and break the circuit during overcurrent. This prevents wiring and equipment damage from excessive current.",
+        "Three-phase systems deliver power more smoothly and are ideal for motors and large equipment. Single-phase is common in households for basic loads.",
+        "ATS units switch the power supply from the main grid to a backup source, like a generator, during outages. This ensures continuous power for critical loads.",
+        "Capacitor banks compensate for inductive loads, improving the power factor. This reduces losses and avoids penalties in commercial installations.",
+        "LEDs last approximately 25,000 hours compared to 1,000 hours for incandescent bulbs. This results in reduced maintenance and energy savings over time.",
+        "Two-way switch circuits allow control of a single light from two different locations, like the top and bottom of stairs. It increases convenience and safety.",
+        "The European grid operates at a standard frequency of 50 Hz. This frequency is important for synchronizing motors and equipment.",
+        "Contactors are electromechanical switches that control large loads such as motors. They are operated by low-voltage control circuits.",
+        "Double insulation provides two layers of protective insulation, increasing safety. It often removes the need for grounding the device.",
+        "Disconnect switches manually or automatically isolate a section of the circuit. This allows maintenance work without risk of electric shock.",
+        "XLPE cables withstand higher temperatures and environmental stress than PVC cables. This makes them suitable for harsh or industrial conditions.",
+        "Surge arresters protect electrical devices from transient voltage spikes such as those caused by lightning. They divert excess energy to the ground.",
+        "Excessive voltage drop leads to reduced power delivery to loads, decreasing performance and potentially damaging sensitive equipment. It is important to minimize voltage drop in long cables.",
+        "Step-up transformers increase voltage levels, which reduces current and energy losses in long-distance power transmission. They are essential in substations and power plants.",
+        "Ring circuits are used for socket outlets and provide two paths for current, balancing the load. This allows smaller conductor sizes and increases reliability.",
+        "Synchronous motors rotate at a constant speed tied to the supply frequency. They are used in applications requiring high precision and constant speed.",
+        "Alternating current (AC) periodically reverses direction, while direct current (DC) flows in one direction. AC is preferred for distribution because it can be easily transformed.",
+        "Phase-sequence relays detect the order of phase rotation. Incorrect phase sequence can cause motors to run in reverse or become damaged.",
+        "Silicone rubber has excellent thermal and electrical insulation properties, making it ideal for high-temperature environments. It is commonly used in industrial wiring and appliances."
+    ]
+}

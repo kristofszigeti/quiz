@@ -1,0 +1,55 @@
+{
+    "question": [
+        "Q1. What is the main purpose of an earthing system in an electrical installation?",
+        "Q2. What is the primary function of a circuit breaker in an electrical panel?",
+        "Q3. What type of cable is commonly used for underground electrical distribution?",
+        "Q4. What is the function of a busbar in an electrical distribution board?",
+        "Q5. What is the typical operating voltage for single-phase domestic supply in Europe?"
+    ],
+    "answer": [
+        2,
+        3,
+        1,
+        4,
+        4
+    ],
+    "choices": [
+        [
+            "To improve voltage stability",
+            "To provide a low-resistance path to ground for fault currents",
+            "To increase system impedance",
+            "To reduce energy consumption"
+        ],
+        [
+            "To isolate a circuit during maintenance",
+            "To convert AC to DC",
+            "To interrupt excessive current and protect the circuit",
+            "To ground fault currents"
+        ],
+        [
+            "XLPE cable",
+            "PVC twin cable",
+            "Overhead aluminum conductor",
+            "Flexible cord"
+        ],
+        [
+            "To provide mechanical protection",
+            "To increase voltage",
+            "To support reactive power",
+            "To conduct and distribute electrical current among circuits"
+        ],
+        [
+            "120V",
+            "400V",
+            "110V",
+            "230V"
+        ]
+    ],
+    "hints": [
+        "Earthing systems safely direct fault currents into the ground, protecting people and equipment from electric shock. It is a fundamental part of any safe electrical installation.",
+        "Circuit breakers protect wiring and equipment by automatically disconnecting power when an overcurrent or short circuit is detected. This helps prevent fires and damage.",
+        "XLPE (cross-linked polyethylene) cables are ideal for underground systems due to their moisture resistance and thermal stability. They are widely used in modern electrical distribution.",
+        "Busbars act as centralized conductors that distribute power to multiple circuits within a distribution board. They are essential for efficient, compact power distribution.",
+        "In most European countries, the standard single-phase voltage supply is 230V at 50 Hz. This is suitable for residential and small appliance use."
+    ]
+}

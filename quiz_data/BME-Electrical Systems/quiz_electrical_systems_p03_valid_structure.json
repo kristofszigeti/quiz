@@ -1,0 +1,100 @@
+{
+    "question": [
+        "Q1. What is the main function of a block diagram in system design?",
+        "Q2. Which type of technical drawing shows detailed wiring connections in an electrical system?",
+        "Q3. What is the formula for calculating real power in AC circuits?",
+        "Q4. Which type of electrical load typically requires reactive power compensation?",
+        "Q5. What is the primary advantage of central reactive power compensation?",
+        "Q6. What diagram uses one line to represent all three phases in an AC system?",
+        "Q7. Which document type shows the physical location of electrical components?",
+        "Q8. Which large electrical device is typically switched using a contactor?",
+        "Q9. What is reactive power used for in an AC electrical system?",
+        "Q10. What is the benefit of using capacitors in a parallel configuration for compensation?"
+    ],
+    "answer": [
+        3,
+        2,
+        1,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        4
+    ],
+    "choices": [
+        [
+            "To depict voltage levels",
+            "To show spatial arrangement of components",
+            "To illustrate system connections using simple shapes",
+            "To show current paths in detail"
+        ],
+        [
+            "Blueprint",
+            "Circuit diagram",
+            "Flow chart",
+            "Layout plan"
+        ],
+        [
+            "P = UIcos(φ)",
+            "P = UIsin(φ)",
+            "P = U/I",
+            "P = U²/R"
+        ],
+        [
+            "Resistive loads",
+            "Capacitive loads",
+            "Inductive loads",
+            "Linear loads"
+        ],
+        [
+            "Reduces the need for transformers",
+            "Improves accuracy of power meters",
+            "Optimizes compensation for the entire building",
+            "Removes the need for distribution boards"
+        ],
+        [
+            "Flow chart",
+            "Block diagram",
+            "Single-line diagram",
+            "Multi-line diagram"
+        ],
+        [
+            "Logic diagram",
+            "Installation plan",
+            "Circuit diagram",
+            "Single-line diagram"
+        ],
+        [
+            "Wall socket",
+            "Elevator motor",
+            "Light switch",
+            "Fuse box"
+        ],
+        [
+            "To charge batteries",
+            "To transfer data signals",
+            "To support voltage in inductive circuits",
+            "To measure resistance"
+        ],
+        [
+            "They reduce resistance",
+            "They increase inductance",
+            "They allow independent phase control",
+            "They provide continuous reactive power"
+        ]
+    ],
+    "hints": [
+        "Block diagrams simplify system representation using geometric shapes and lines to depict connections. This helps in visualizing the interaction between different subsystems.",
+        "Circuit diagrams are detailed technical representations showing electrical connections using standard symbols. They are essential for system installation and maintenance.",
+        "Real power is the effective power used to perform work in AC circuits and is calculated using P = UIcos(φ). It measures the energy converted into heat, light, or mechanical motion.",
+        "Inductive loads such as motors and transformers consume reactive power, leading to a poor power factor. Capacitor banks are commonly used to compensate for this reactive demand.",
+        "Central compensation manages reactive power at the main distribution point of a building. It provides an efficient way to improve power factor for the whole facility.",
+        "Single-line diagrams simplify the representation of complex three-phase systems using a single line per circuit. This is common in high-level planning and documentation.",
+        "Installation plans indicate the spatial placement of equipment like panels, lights, and sockets within a building. They are crucial for on-site work and spatial coordination.",
+        "Contactors are used to remotely control high-current devices like elevator motors. They are durable and suitable for frequent switching applications.",
+        "Reactive power does not perform work but is essential for maintaining voltage levels in inductive loads. It flows back and forth between the source and the reactive components.",
+        "Parallel-connected capacitors provide continuous compensation to the circuit without being affected by load fluctuations. This configuration is preferred in many industrial setups."
+    ]
+}

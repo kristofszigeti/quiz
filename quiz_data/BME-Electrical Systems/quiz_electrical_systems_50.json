@@ -1,0 +1,19 @@
+{
+    "question": [
+        "Q1. What is the advantage of using a three-phase electric system in buildings?"
+    ],
+    "choices": [
+        [
+            "It requires more wires than single-phase systems",
+            "It offers constant power delivery and efficiency",
+            "It reduces the voltage for all equipment",
+            "It eliminates the need for grounding"
+        ]
+    ],
+    "answer": [
+        2
+    ],
+    "hints": [
+        "Three-phase systems deliver power more efficiently and maintain a constant power level, reducing vibrations in motors and increasing performance. This makes them ideal for balanced and stable energy distribution in buildings."
+    ]
+}

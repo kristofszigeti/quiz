@@ -1,0 +1,505 @@
+{
+    "question": [
+        "What is the main purpose of an earthing system in an electrical installation?",
+        "What is the difference between a single-phase and a three-phase electrical supply?",
+        "Which material is commonly used for electrical wiring due to its high conductivity and corrosion resistance?",
+        "What is the primary role of a transformer in an electrical distribution system?",
+        "In electrical systems, what does the term 'impedance' refer to?",
+        "What type of protection is provided by a TN-C-S earthing system?",
+        "What is the main function of a residual current device (RCD)?",
+        "What is the main advantage of using a busbar trunking system in electrical installations?",
+        "What does the term 'power factor' refer to in AC circuits?",
+        "Which component is used to protect against high-energy transient voltages from lightning?",
+        "What is the primary function of a capacitor in an AC circuit?",
+        "In a balanced three-phase system, what is the phase angle between the phases?",
+        "What is the purpose of a circuit breaker in an electrical system?",
+        "What is the typical operating voltage of domestic electrical supply in Europe?",
+        "What is the function of a relay in an electrical control system?",
+        "What is the purpose of double insulation in electrical equipment?",
+        "What is the difference between a TN-S and TT earthing system?",
+        "What is a ring main unit (RMU) used for in electrical distribution?",
+        "What type of cable is commonly used for underground electrical distribution?",
+        "What is the purpose of a distribution board in an electrical installation?",
+        "What is the effect of increasing conductor size on electrical resistance?",
+        "What is the purpose of a surge arrester in electrical installations?",
+        "What is the main purpose of electrical separation in a low-voltage installation?",
+        "Which type of switch allows control of a single light from two different locations?",
+        "What is the recommended maximum voltage drop in low-voltage installations according to IEC standards?",
+        "What is the main purpose of an isolator in an electrical circuit?",
+        "What is the function of a fuse in an electrical installation?",
+        "What type of motor is most commonly used in HVAC systems?",
+        "What is the primary purpose of an overcurrent relay?",
+        "What is the role of a step-down transformer in an electrical network?",
+        "What is the difference between active and reactive power in an AC system?",
+        "What is the purpose of a busbar in an electrical panel?",
+        "What is the purpose of a contactor in an electrical circuit?",
+        "What does the term 'load shedding' refer to in electrical distribution?",
+        "What is the primary role of a lightning conductor in a building?",
+        "What is the purpose of a ring circuit in a domestic installation?",
+        "What is the purpose of an uninterruptible power supply (UPS)?",
+        "What is the main advantage of using LED lights over incandescent lights?",
+        "What is the role of a main switch in an electrical distribution board?",
+        "What is the purpose of electrical insulation in conductors?",
+        "What is the difference between direct current (DC) and alternating current (AC)?",
+        "What is the function of a dimmer switch in a lighting circuit?",
+        "What is the purpose of a neutral wire in an electrical circuit?",
+        "What is the typical frequency of AC supply in North America?",
+        "What is the difference between single-core and multi-core cables?",
+        "What is the primary purpose of a step-up transformer?",
+        "What is the function of a residual current circuit breaker (RCCB)?",
+        "What is the main advantage of using a ring main unit (RMU) in an electrical installation?",
+        "What is the effect of power factor correction on an electrical system?",
+        "What is the primary cause of electrical harmonics in a system?",
+        "What is the primary purpose of a protective conductor in an electrical installation?",
+        "What is the typical lifespan of an LED light compared to an incandescent light?",
+        "What is the main advantage of using copper over aluminum for electrical wiring?",
+        "What is the role of a capacitor bank in a power distribution system?",
+        "What is the purpose of a busbar in an electrical panel?"
+    ],
+    "answer": [
+        3,
+        3,
+        4,
+        4,
+        3,
+        3,
+        3,
+        4,
+        4,
+        2,
+        3,
+        4,
+        4,
+        2,
+        4,
+        2,
+        2,
+        2,
+        2,
+        4,
+        2,
+        3,
+        4,
+        3,
+        2,
+        4,
+        1,
+        3,
+        1,
+        3,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1,
+        4,
+        4,
+        4,
+        1,
+        4,
+        1,
+        3,
+        1,
+        1,
+        3
+    ],
+    "choices": [
+        [
+            "Provides easy distribution of power",
+            "Surge arrester",
+            "To provide a low-resistance path to ground",
+            "To provide additional safety"
+        ],
+        [
+            "AC changes direction, DC is constant",
+            "Increases efficiency",
+            "Single-phase uses one live wire, three-phase uses three live wires",
+            "3% for lighting circuits"
+        ],
+        [
+            "Active powers real work, reactive powers magnetic fields",
+            "To isolate live parts",
+            "Surge arrester",
+            "Copper"
+        ],
+        [
+            "60 Hz",
+            "Combined resistance and reactance",
+            "230V",
+            "To step up or step down voltage"
+        ],
+        [
+            "Grounds live parts",
+            "Increases voltage drop",
+            "Combined resistance and reactance",
+            "Non-linear loads"
+        ],
+        [
+            "Grounds live parts",
+            "To protect from overcurrent",
+            "Combines protective and neutral conductors",
+            "Increases voltage"
+        ],
+        [
+            "To provide additional safety",
+            "Single-phase uses one live wire, three-phase uses three live wires",
+            "To detect imbalance between live and neutral",
+            "To step up or step down voltage"
+        ],
+        [
+            "To provide additional safety",
+            "Improves reliability",
+            "To detect imbalance between live and neutral",
+            "Provides easy distribution of power"
+        ],
+        [
+            "Detects leakage current",
+            "Increases efficiency",
+            "Combined resistance and reactance",
+            "Ratio of real to apparent power"
+        ],
+        [
+            "Temporary shutdown",
+            "Surge arrester",
+            "Non-linear loads",
+            "25,000 hours vs 1,000 hours"
+        ],
+        [
+            "AC changes direction, DC is constant",
+            "To isolate live parts",
+            "Store and release electrical energy",
+            "To detect imbalance between live and neutral"
+        ],
+        [
+            "Improves reliability",
+            "Lower resistance",
+            "To step up or step down voltage",
+            "120 degrees"
+        ],
+        [
+            "Single-core is for high load, multi-core for flexibility",
+            "XLPE cable",
+            "Distributes power",
+            "To protect from overload"
+        ],
+        [
+            "To protect from overcurrent",
+            "230V",
+            "To switch circuits",
+            "XLPE cable"
+        ],
+        [
+            "Improves reliability",
+            "Increases efficiency",
+            "Protects against lightning strikes",
+            "To switch circuits"
+        ],
+        [
+            "Ratio of real to apparent power",
+            "To provide additional safety",
+            "To protect from overcurrent",
+            "To switch circuits"
+        ],
+        [
+            "Prevents short circuit",
+            "TN-S uses separate conductors for neutral and earth",
+            "Temporary shutdown",
+            "3% for lighting circuits"
+        ],
+        [
+            "60 Hz",
+            "Connects and disconnects circuits",
+            "Completes the circuit",
+            "Temporary shutdown"
+        ],
+        [
+            "Grounds live parts",
+            "XLPE cable",
+            "To switch circuits",
+            "To distribute power"
+        ],
+        [
+            "Grounds live parts",
+            "230V",
+            "60 Hz",
+            "To distribute power"
+        ],
+        [
+            "Protects against lightning strikes",
+            "Reduces resistance",
+            "Grounds live parts",
+            "To distribute power"
+        ],
+        [
+            "To trip under overload",
+            "To provide additional safety",
+            "To protect equipment",
+            "Reduces resistance"
+        ],
+        [
+            "To provide a low-resistance path to ground",
+            "Active powers real work, reactive powers magnetic fields",
+            "Protects against lightning strikes",
+            "To isolate live parts"
+        ],
+        [
+            "Increases efficiency",
+            "Store and release electrical energy",
+            "Two-way switch",
+            "Prevents short circuit"
+        ],
+        [
+            "AC changes direction, DC is constant",
+            "3% for lighting circuits",
+            "Connects and disconnects circuits",
+            "Detects leakage current"
+        ],
+        [
+            "Lower resistance",
+            "Provides easy distribution of power",
+            "XLPE cable",
+            "To isolate faulty sections"
+        ],
+        [
+            "To protect from overcurrent",
+            "To switch circuits",
+            "Two-way switch",
+            "Increases efficiency"
+        ],
+        [
+            "Temporary shutdown",
+            "To provide additional safety",
+            "Induction motor",
+            "Reduces voltage"
+        ],
+        [
+            "To trip under overload",
+            "Protects against lightning strikes",
+            "Completes the circuit",
+            "Surge arrester"
+        ],
+        [
+            "Distributes power",
+            "Surge arrester",
+            "Reduces voltage",
+            "To protect equipment"
+        ],
+        [
+            "Active powers real work, reactive powers magnetic fields",
+            "To isolate live parts",
+            "Copper",
+            "Provides backup"
+        ],
+        [
+            "To distribute power",
+            "120 degrees",
+            "Distributes power",
+            "To trip under overload"
+        ],
+        [
+            "Single-core is for high load, multi-core for flexibility",
+            "Surge arrester",
+            "To switch circuits",
+            "Completes the circuit"
+        ],
+        [
+            "Temporary shutdown",
+            "Grounds live parts",
+            "Two-way switch",
+            "Single-core is for high load, multi-core for flexibility"
+        ],
+        [
+            "Protects against lightning strikes",
+            "To protect from overcurrent",
+            "Single-core is for high load, multi-core for flexibility",
+            "To vary light intensity"
+        ],
+        [
+            "Provides backup",
+            "Provides easy distribution of power",
+            "60 Hz",
+            "Distributes power"
+        ],
+        [
+            "Prevents flicker",
+            "TN-S uses separate conductors for neutral and earth",
+            "To trip under overload",
+            "Increases efficiency"
+        ],
+        [
+            "Turns off power",
+            "To provide a low-resistance path to ground",
+            "To step up or step down voltage",
+            "To protect from overcurrent"
+        ],
+        [
+            "Prevents short circuit",
+            "To protect from overcurrent",
+            "Copper",
+            "To distribute power"
+        ],
+        [
+            "Ratio of real to apparent power",
+            "AC changes direction, DC is constant",
+            "Detects leakage current",
+            "Increases efficiency"
+        ],
+        [
+            "Connects and disconnects circuits",
+            "To vary light intensity",
+            "To switch circuits",
+            "Reduces resistance"
+        ],
+        [
+            "Reduces resistance",
+            "Completes the circuit",
+            "Two-way switch",
+            "Lower resistance"
+        ],
+        [
+            "60 Hz",
+            "Increases voltage",
+            "To isolate faulty sections",
+            "TN-S uses separate conductors for neutral and earth"
+        ],
+        [
+            "Prevents short circuit",
+            "Single-core is for high load, multi-core for flexibility",
+            "TN-S uses separate conductors for neutral and earth",
+            "Prevents flicker"
+        ],
+        [
+            "Increases voltage",
+            "To protect equipment",
+            "To isolate live parts",
+            "To protect from overload"
+        ],
+        [
+            "AC changes direction, DC is constant",
+            "Lower resistance",
+            "To distribute power",
+            "Detects leakage current"
+        ],
+        [
+            "Provides easy distribution of power",
+            "To trip under overload",
+            "Grounds live parts",
+            "Improves reliability"
+        ],
+        [
+            "Surge arrester",
+            "To detect imbalance between live and neutral",
+            "Protects against lightning strikes",
+            "Increases efficiency"
+        ],
+        [
+            "Non-linear loads",
+            "To switch circuits",
+            "Improves power factor",
+            "Non-linear loads"
+        ],
+        [
+            "To distribute power",
+            "To protect equipment",
+            "Detects leakage current",
+            "Grounds live parts"
+        ],
+        [
+            "25,000 hours vs 1,000 hours",
+            "3% for lighting circuits",
+            "To distribute power",
+            "To isolate live parts"
+        ],
+        [
+            "25,000 hours vs 1,000 hours",
+            "Combines protective and neutral conductors",
+            "Lower resistance",
+            "Protects against lightning strikes"
+        ],
+        [
+            "Improves power factor",
+            "To isolate faulty sections",
+            "60 Hz",
+            "Grounds live parts"
+        ],
+        [
+            "Distributes power",
+            "Induction motor",
+            "Distributes power",
+            "Temporary shutdown"
+        ],
+        [
+            "XLPE cable",
+            "Combined resistance and reactance",
+            "Increases voltage drop",
+            "Detects leakage current"
+        ]
+    ],
+    "hints": [
+        "The correct answer is 'To provide a low-resistance path to ground'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Single-phase uses one live wire, three-phase uses three live wires'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Copper'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To step up or step down voltage'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Combined resistance and reactance'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Combines protective and neutral conductors'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To detect imbalance between live and neutral'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Provides easy distribution of power'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Ratio of real to apparent power'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Surge arrester'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Store and release electrical energy'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is '120 degrees'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To protect from overload'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is '230V'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To switch circuits'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To provide additional safety'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'TN-S uses separate conductors for neutral and earth'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Connects and disconnects circuits'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'XLPE cable'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To distribute power'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Reduces resistance'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To protect equipment'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To isolate live parts'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Two-way switch'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is '3% for lighting circuits'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To isolate faulty sections'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To protect from overcurrent'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Induction motor'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To trip under overload'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Reduces voltage'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Active powers real work, reactive powers magnetic fields'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To distribute power'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To switch circuits'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Temporary shutdown'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Protects against lightning strikes'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Provides backup'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Prevents flicker'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Turns off power'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Prevents short circuit'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'AC changes direction, DC is constant'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'To vary light intensity'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Completes the circuit'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is '60 Hz'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Single-core is for high load, multi-core for flexibility'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Increases voltage'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Detects leakage current'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Improves reliability'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Increases efficiency'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Non-linear loads'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Grounds live parts'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is '25,000 hours vs 1,000 hours'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Lower resistance'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Improves power factor'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Distributes power'. This is important because it helps to ensure the reliability and safety of electrical systems.",
+        "The correct answer is 'Increases voltage drop'. This is important because it helps to ensure the reliability and safety of electrical systems."
+    ]
+}
