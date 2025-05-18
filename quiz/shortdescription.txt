@@ -1,0 +1,3 @@
+This is a short description of the quiz repo.
+So, this repo is my first repo I have made. It contains my first program that was written in python language.
+It is a continously upgrading or extending program as I extend it by new topics to help me in my studies, for instance.
