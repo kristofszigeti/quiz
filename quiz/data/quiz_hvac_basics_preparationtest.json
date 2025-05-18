@@ -175,7 +175,7 @@
       "D. It is computed by measuring room dimensions and window areas"
     ],
     [
-      "A. It includes moisture generation from occupants and equipment measured as a mass (kg or g) combined with the airflow rate (m³/h)",
+      "A. It includes moisture generation from occupants and equipment measured as a mass (kg or g) combined with the reducing airflow rate (m³/h)",
       "B. It is determined only by the room’s volume and relative humidity",
       "C. It is calculated solely by the difference in temperature",
       "D. It is defined by duct length and fan speed"
@@ -193,7 +193,7 @@
       "D. It uses only the building’s age and materials"
     ],
     [
-      "A. Dynamic pressure is the kinetic energy of air calculated as 0.5 × air density × velocity² and is measured with a Pitot tube",
+      "A. Dynamic pressure is the kinetic energy of air calculated as (0.5 × air density × velocity²) and is measured with a Pitot tube",
       "B. It is the static force within ducts measured with a manometer",
       "C. It is unrelated to airflow and based solely on duct dimensions",
       "D. It represents the temperature drop across the fan measured with a thermometer"

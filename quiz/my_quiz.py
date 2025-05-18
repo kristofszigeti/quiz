@@ -61,7 +61,7 @@ class Quiz:
         # print(len(self.question))
         # feedback field, showing if the answer is correct or wrong,
         self.feedback = ttk.Label(frame, font=('Franklin Gothic', 15, 'bold'), anchor='center', justify='center') # in this form it does not do anything, must be referred it later and add/customize the response with text and color
-        self.feedback.place(x=350, y=340)
+        self.feedback.place(x=350, y=365)
 
         self.correct = 0.0 # initial counter value of correct answers
 
@@ -143,11 +143,11 @@ class Quiz:
                 # unlocking bonus
                 topics.entryconfig(5, state='active', label="Topic BONUS - Board Games", image= logo_t06)
 
-            if self.correct == self.data_size and topics.entrycget(6, 'label') == 'T, T-É és SZÉS1':
-                mb.showinfo("BONUS", "Szép volt főni! Ezt kimaxoltad.")
-
             elif self.correct == self.data_size and topics.entrycget(5, 'state') == 'active':
                 mb.showinfo("Apologize", "Sorry, but I do not have more bonuses for you.")
+
+            # if self.correct == self.data_size and topics.entrycget(6, 'label') == 'T, T-É és SZÉS1':
+                # mb.showinfo("BONUS", "Szép volt főni! Ezt kimaxoltad.")
 
             mb.showinfo("Help", "You are at the end of the guiz. \n\nNow you can hit 'OK' and select a new topic from 'Topics' menu to play again!\n\nGood luck!\n")
             self.name_entry.state(['!disabled'])
@@ -179,7 +179,7 @@ class Quiz:
                              width=10, bg='lightblue', fg='black', font=('Franklin Gothic', 16, 'bold'),
                              activebackground='dark blue', activeforeground='white')
         # placing next
-        next_button.place(x=350, y=390)
+        next_button.place(x=350, y=395)
 
 
         # hint_button itself to show a hint to the user
@@ -188,7 +188,7 @@ class Quiz:
                              width=10, bg="seashell", fg="black", font=('Franklin Gothic', 12, 'bold'),
                              activebackground='gold', activeforeground='black')
         # placing hint
-        hint_button.place(x=680, y=345)
+        hint_button.place(x=680, y=395)
 
 
         # quit_button to close the game and the window
@@ -197,7 +197,7 @@ class Quiz:
                              width=10, bg="light grey", fg="black", font=('Franklin Gothic', 12, 'bold'),
                              activebackground='maroon', activeforeground='white')
         # placing quit
-        quit_button.place(x=680, y=380) # it is the bottom-right corner
+        quit_button.place(x=680, y=430) # it is the bottom-right corner
 
     def display_options(self):
         val = 0 # starting value
@@ -243,19 +243,19 @@ class Quiz:
         q_list = []
         # print(len(q_list))
         # position of the first option
-        y_pos = 160
+        y_pos = 155
 
         # adding the choices to the list # lab_11_hotel.py
         while len(q_list) < 4:
             # setting the radio button properties
             radio_btn = Radiobutton(frame, text="", variable=self.selected_option, value=len(q_list) + 1,
-                                    font=('Franklin Gothic', 14),
-                                    width= 80, anchor='w',justify="left", wraplength=650)
+                                    font=('Franklin Gothic', 13),
+                                    width= 80, anchor='w',justify="left", wraplength=660)
             # print(len(q_list))
             q_list.append(radio_btn) # adding the button to the end of the list one by one
 
-            radio_btn.place(x=85, y=y_pos) # placing the button
-            y_pos += 50  # increasing the y-axis position by +50 (downwards)
+            radio_btn.place(x=80, y=y_pos) # placing the button
+            y_pos += 55  # increasing the y-axis position by +50 (downwards)
 
         # return the list of radio buttons
         return q_list # important!
@@ -318,7 +318,7 @@ guitop_height = 480
 # queries the Win screensize setting and store them in a variable
 screen_width = guitop.winfo_screenwidth()
 screen_height = guitop.winfo_screenheight()
-# print(screen_width, screen_height)
+print(screen_width, screen_height)
 # positions the parent window
 guitop.geometry(f"{guitop_width}x{guitop_height}+{(screen_width // 2)-(guitop_width // 2)}+{(screen_height // 2)-(guitop_height // 2)}") #("800x480")
 guitop.configure(bg='dark gray')
@@ -383,7 +383,7 @@ topics.add_radiobutton(label = 'Electrical Systems - Earthing', variable = choic
 topics.add_radiobutton(label = 'Electrical Systems - General p02', variable = choice, value = 10,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p03_gen.json'), 9), quiz.display_topic_label(9)))
 topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 11,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_hvac_basics_preparationtest.json'), 10), quiz.display_topic_label(10)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_hvac_basics_preparationstest_mixed.json'), 10), quiz.display_topic_label(10)))
 
 
 
