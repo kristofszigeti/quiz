@@ -1,0 +1,316 @@
+{
+  "question": [
+    "Q1. What are the main elements of a heating system? (List at least five)",
+    "Q2. What are the main elements of a cooling system? (List at least five)",
+    "Q3. What are the main elements of a ventilation system? (List at least five)",
+    "Q4. Which sequence best represents the structure of a ventilation system?",
+    "Q5. What is the difference between comfort and industrial type ventilated rooms?",
+    "Q6. What kind of comfort levels are in ventilation? What does each comfort level apply to?",
+    "Q7. What are the main components of an air handling unit (AHU)? (List at least five elements with a short description)",
+    "Q8. What are the main parameters of air filters?",
+    "Q9. What are the grades of air filters?",
+    "Q10. What are the selection criteria of fans? (List at least seven aspects)",
+    "Q11. Which option best summarizes the advantages and disadvantages of an adiabatic humidification chamber?",
+    "Q12. Which statement correctly describes the pros and cons of steam humidification?",
+    "Q13. What are the main requirements of an air-duct system? (List at least six aspects)",
+    "Q14. How many kinds of loads can occur in rooms? Define each type of internal load.",
+    "Q15. What is the heat balance of a room in the summer state? Describe the elements of the equation with units.",
+    "Q16. What is the heat balance of a room in the winter state? Describe the elements with quantities and units.",
+    "Q17. How is the volume flow rate of supply air (to remove a heat load) determined? Describe the equation and units.",
+    "Q18. What is the resultant humidity load of a room? Describe the elements of the equation with quantities and units.",
+    "Q19. How is the volume flow rate of supply air to remove the humidity load determined? Describe the necessary parameters.",
+    "Q20. When determining the volume flow rate of supply air to remove pollutants, which pollution sources are considered?",
+    "Q21. What is dynamic pressure, how is it calculated, and where can it be measured?",
+    "Q22. What is static pressure and where can it be measured?",
+    "Q23. How is airflow rate calculated from a measured dynamic pressure?",
+    "Q24. What best describes total air pressure, its calculation, and its measurement location?",
+    "Q25. How can the energy consumption of the fan be calculated?",
+    "Q26. Write a short list about the complex designing of air-conditioning systems in 13 steps.",
+    "Q27. What is the air distribution system?",
+    "Q28. What are the main types of the air distribution system?",
+    "Q29. Describe the displacement type ventilation.",
+    "Q30. Describe the microclimate air distribution system.",
+    "Q31. Describe the jet air distribution system.",
+    "Q32. Describe the diffuse air distribution system.",
+    "Q33. Describe the tangential air distribution system.",
+    "Q34. Describe the piston‑type air distribution system."
+  ],
+  "answer": [
+    2,
+    3,
+    4,
+    1,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    1,
+    4,
+    2,
+    3,
+    1,
+    4,
+    2,
+    3,
+    1,
+    4,
+    2,
+    3,
+    1
+  ],
+  "choices": [
+    [
+      "A. Heat generator, fuel storage, temperature regulator, air purifiers, energy monitor",
+      "B. Heat producer, heat transfer medium, heat distribution system, heat emitters, control system",
+      "C. Primary energy source, cooling system, ventilation apparatus, insulation, remote controller",
+      "D. Combustion chamber, boiler feed pump, water treatment, mixing unit, recirculation device"
+    ],
+    [
+      "A. Cooling compressor, refrigerant condenser, water pump, air duct, filter system",
+      "B. Evaporative cooler, water pump, fan, humidifier, sensor network",
+      "C. Heat pump, thermal storage, refrigerant circuit, duct insulation, valve controls",
+      "D. Cooling generator, coolant distribution system, coolers, fans, control units"
+    ],
+    [
+      "A. Insulation, duct sealing, lighting, humidity sensors, fire dampers",
+      "B. Air filters, fans, boilers, cooling towers, control valves",
+      "C. Heat producer, water pump, chiller, radiator, thermostat",
+      "D. Air handling unit, air-duct system, air inlets/outlets, control dampers, heat recovery unit"
+    ],
+    [
+      "A. Fresh air intake → AHU (with filter, heater, cooler, fan) → air ducts → supply inlets → room → return ducts → exhaust/recirculation",
+      "B. Exhaust air intake → air handler → direct room supply with no ducts → exhaust",
+      "C. Room → supply ducts → air handling → filters → intake air",
+      "D. Air ducts from the room → heating elements → recirculation → cooling module"
+    ],
+    [
+      "A. Comfort rooms always use recirculation whereas industrial rooms use only fresh air",
+      "B. Both types have identical ventilation designs",
+      "C. Comfort rooms focus on occupant comfort with controlled temperature and air quality, while industrial rooms meet process demands and pollutant removal",
+      "D. Comfort rooms require less controlled ventilation compared to industrial rooms"
+    ],
+    [
+      "A. Airflow, heat, cold, noise, and water comfort",
+      "B. Comfort, efficiency, performance, sustainability, and control",
+      "C. Temperature, humidity, pressure, volume, and velocity comfort",
+      "D. Thermal comfort, draught comfort, indoor air quality, acoustic comfort, and lighting comfort"
+    ],
+    [
+      "A. Air-dampers, air-filters, heaters, coolers, fans",
+      "B. Air exchangers, compressors, condensers, chillers, duct insulation",
+      "C. Filters, compressors, valves, ducts, insulation",
+      "D. Chillers, condensers, compressors, expansion valves, refrigerant pipes"
+    ],
+    [
+      "A. Size, durability, sound level",
+      "B. Design, price, installation ease",
+      "C. Geometry, flow resistance, efficiency",
+      "D. Material type, color, weight"
+    ],
+    [
+      "A. Standard, premium, high-efficiency, ultra-efficiency",
+      "B. Coarse dust filters, fine dust filters, HEPA, ULPA",
+      "C. Basic, intermediate, advanced, supreme",
+      "D. Type I, Type II, Type III, Type IV"
+    ],
+    [
+      "A. Blade design, color, size, speed, longevity, warranty, and brand",
+      "B. Air velocity, duct size, noise level, power supply, installation ease, vibration, and heat generation",
+      "C. Total pressure drop, volume flow rate, motor power consumption, efficiency, installation constraints, acoustics, and cost",
+      "D. Flow rate, heat exchange, material, brand, warranty, service plan, and recharge cycle"
+    ],
+    [
+      "A. Advantages: low energy consumption, increased absolute humidity via water spray, and simple design; Disadvantages: large space requirement, potential for microbial growth, and less precise control",
+      "B. Advantages: high output efficiency and compact design; Disadvantages: high energy usage and expensive maintenance",
+      "C. Advantages: fast humidity response and minimal space occupancy; Disadvantages: complex design and high cost",
+      "D. Advantages: precise humidity control and small space requirement; Disadvantages: high energy usage and cost"
+    ],
+    [
+      "A. Advantages: energy efficient and maintenance-free; Disadvantages: bulky and noisy",
+      "B. Advantages: low cost, low energy, and simple design; Disadvantages: low control accuracy",
+      "C. Advantages: failsafe operation with low noise; Disadvantages: requires more space and exhibits lower control accuracy",
+      "D. Advantages: high hygienic quality, compact design, and precise control; Disadvantages: high energy consumption and higher cost"
+    ],
+    [
+      "A. Color coordination, flexible design, lightweight structure, low cost, easy cleaning, and modular assembly",
+      "B. High air velocity, reduced friction, optimized length, lightweight material, minimal maintenance, and durability",
+      "C. Air-tight sealing, fire resistance, noise reduction, ease of installation, structural stability, and thermal insulation",
+      "D. Heat recovery, energy tracking, modular design, automatic cleaning, integrated sensors, and digital control"
+    ],
+    [
+      "A. Only two loads: external and internal.",
+      "B. Three loads: thermal, mechanical, and electrical.",
+      "C. Four loads: sensible, latent, radiant, and convective.",
+      "D. Loads from people, lighting, equipment/machinery, process-specific operations, solar gains, and ventilation/infiltration."
+    ],
+    [
+      "A. Q_inflow, Q_outflow, Q_storage, Q_loss, and Q_gain – typically in Joules",
+      "B. Q_transient, Q_techn, Q_people, Q_gain, and Q_light – each measured in Watts",
+      "C. Temperature, humidity, pressure, volume, and flow rate values",
+      "D. Air density, specific heat, volume, time, and temperature difference"
+    ],
+    [
+      "A. Q_heat, Q_cool, Q_vent, Q_hum, and Q_damp – in kilowatts",
+      "B. None of the above",
+      "C. Q_tr (negative, representing transmission loss), Q_techn, Q_people, Q_gain, and Q_light – all expressed in Watts",
+      "D. Pressure drop, energy input, thermal capacity, velocity, and time"
+    ],
+    [
+      "A. It is determined solely by the room’s dimensions.",
+      "B. It depends solely on the fan speed and duct geometry.",
+      "C. It is calculated using the heat load (in Watts), air density, specific heat capacity, and temperature difference to yield a flow rate in m³/h.",
+      "D. It is computed by measuring room dimensions and window areas."
+    ],
+    [
+      "A. It is determined only by the room’s total volume and relative humidity.",
+      "B. It is calculated solely by the difference in temperature.",
+      "C. It includes moisture generation from occupants and equipment (in kg or g) combined with the airflow rate (m³/h).",
+      "D. It is defined by duct length and fan speed."
+    ],
+    [
+      "A. It is measured by the difference in wall insulation factors.",
+      "B. It is determined solely by window placement and fan speed.",
+      "C. It depends solely on the building’s age and materials.",
+      "D. It is calculated using the moisture load (in kg/s), the specific humidity, and the resultant airflow to remove the moisture load."
+    ],
+    [
+      "A. Only external dust and pollen are considered.",
+      "B. Pollutants such as tobacco smoke, VOCs from paints and furniture, bioeffluents, dust/allergens, cooking moisture, and combustion by-products (CO, CO₂) are considered.",
+      "C. Only chemical fumes from industrial processes are considered.",
+      "D. Only moisture and temperature fluctuations are considered."
+    ],
+    [
+      "A. It is calculated from the difference in static pressures measured at two points.",
+      "B. It is the sum of kinetic and potential energy in the air stream.",
+      "C. It is the static force within ducts measured with a manometer.",
+      "D. It is the kinetic energy per unit volume (0.5 × density × velocity²) and is measured with a Pitot tube."
+    ],
+    [
+      "A. Static pressure is the ambient air pressure in the duct as measured at the duct wall using a Pitot-static tube.",
+      "B. It is the difference between the supply and exhaust pressures measured in the room.",
+      "C. It is the upward force generated by warm air, measured at the ceiling.",
+      "D. It is the pressure exerted solely by the fan, measured at the fan inlet."
+    ],
+    [
+      "A. It is directly measured without conversion.",
+      "B. Airflow rate is calculated by converting dynamic pressure to velocity (using Bernoulli’s equation) and then multiplying by the duct’s cross-sectional area.",
+      "C. It requires only temperature data instead of pressure.",
+      "D. It is the sum of dynamic and static pressures."
+    ],
+    [
+      "A. It is simply the static pressure measured at the duct wall.",
+      "B. Total air pressure is the sum of static and dynamic pressures, measured inside the duct with a Pitot-static tube aligned with the airflow.",
+      "C. It is the average pressure in the room.",
+      "D. It is the difference between the supply and return duct pressures."
+    ],
+    [
+      "A. By taking the difference between the inlet and outlet air temperatures.",
+      "B. Fan energy consumption is calculated from the fan’s mechanical power input – using the airflow rate, total pressure rise, and motor efficiency.",
+      "C. It is computed solely based on the physical size of the fan.",
+      "D. By measuring the fan’s operating hours alone."
+    ],
+    [
+      "A. Define the purpose, set indoor climate requirements, identify loads, choose system type, size equipment, design the AHU, calculate airflow rates, design duct layout, select air distribution, design controls, ensure standards compliance, assess energy efficiency/recovery, and finalize planning.",
+      "B. Select fans, install ducts, set temperatures, monitor energy use, choose colors, plan logistics, and schedule maintenance.",
+      "C. Focus solely on equipment selection while ignoring load calculations.",
+      "D. Design only for heating or cooling without integration."
+    ],
+    [
+      "A. It refers only to the ductwork in a building.",
+      "B. It is simply the network of fans used to circulate air.",
+      "C. It is a separate cooling system integrated with ventilation.",
+      "D. It is the subsystem that delivers conditioned air to occupied spaces—with ducts, diffusers, and control elements—and removes exhaust air."
+    ],
+    [
+      "A. Central, decentralized, forced, natural, balanced, and unbalanced.",
+      "B. Displacement, microclimate, jet (mixing), diffuse, tangential, and piston‑type.",
+      "C. Radial, concentric, parallel, series, mixed, and distributed.",
+      "D. Direct, indirect, hybrid, automated, manual, and programmable."
+    ],
+    [
+      "A. Hot air is forced from the ceiling downward to promote mixing.",
+      "B. Air is recirculated internally with no fresh air intake.",
+      "C. Cold air is introduced at low-level inlets so that as it warms it rises and removes pollutants upward.",
+      "D. Air is injected at high velocity across the room to create rapid mixing."
+    ],
+    [
+      "A. It supplies air directly into occupants’ breathing zones (e.g., integrated into seating) for personalized comfort.",
+      "B. It delivers air uniformly throughout the entire room.",
+      "C. It relies on high-speed air jets to induce mixing in large spaces.",
+      "D. It uses only ceiling diffusers without focus on individual zones."
+    ],
+    [
+      "A. Air is slowly released through wall-mounted inlets with minimal mixing.",
+      "B. Air is delivered from floor diffusers at a low velocity.",
+      "C. Air is circulated solely by natural convection, with no forced jets.",
+      "D. High-speed air jets from ceiling-mounted nozzles induce rapid mixing before the air reaches the occupied zone."
+    ],
+    [
+      "A. Air is delivered in strong pulsed bursts from wall inlets.",
+      "B. Air is introduced at low velocity through ceiling diffusers, creating uniform mixing.",
+      "C. Air is forced at high velocity from floor registers.",
+      "D. Air is supplied randomly through various small vents with no defined pattern."
+    ],
+    [
+      "A. Air is delivered strictly vertically from ceiling diffusers without surface interaction.",
+      "B. Air is supplied solely from floor registers with minimal mixing.",
+      "C. Air is supplied tangentially along walls or ceilings, harnessing the Coandă effect to enhance circulation.",
+      "D. Air is injected randomly into the room with no regard for surrounding surfaces."
+    ],
+    [
+      "A. It delivers air uniformly in a piston-like manner from ceiling or wall diffusers, ensuring even distribution and contaminant removal.",
+      "B. It uses high-pressure jets to create turbulent mixing in the room.",
+      "C. It relies on natural convection without any forced air movement.",
+      "D. It injects air at variable speeds, leading to uneven distribution."
+    ]
+  ],
+  "hints": [
+    "Include elements such as a heat producer (e.g., gas boiler, biomass boiler, solar collector, or heat pump), a transfer medium (water, air, steam, or thermo oil), a distribution system (pipelines, pumps, valves, expansion vessels), heat emitters (radiators, surface heating, or AHU exchangers), and a control system (thermostats, sensors, actuators).",
+    "A cooling system typically features a cooling generator (such as a chiller or a heat pump in cooling mode), a coolant distribution system (using pipelines), integrated coolers (frequently in air-handling units), fans for forced air movement, and control units to regulate temperature and flow.",
+    "A well-designed ventilation system comprises an air handling unit (AHU), an air-duct system, designated air inlets and outlets, control dampers for regulating airflow, and optionally a heat recovery unit for energy efficiency.",
+    "Visualize the airflow: Fresh air is taken in, treated within the AHU (which includes filters, a heater, a cooler, and a fan), then distributed via ducts to supply inlets in the room; finally, return ducts lead to exhaust or recirculation.",
+    "Comfort ventilated rooms emphasize human thermal comfort and high indoor air quality, while industrial ventilated rooms are designed for process-specific needs and efficient removal of pollutants and excess heat.",
+    "Comfort levels in ventilation include thermal comfort (maintaining the right temperature and humidity), draught comfort (minimizing unwanted airflow), indoor air quality (controlling pollutants), acoustic comfort (reducing noise), and sometimes lighting comfort.",
+    "Key components of an AHU include air-dampers, air-filters, heaters, coolers, and fans; additional components can include humidifiers and heat recovery devices.",
+    "The performance of an air filter is evaluated by its geometry (shape and size), the pressure drop (flow resistance) it creates, and its efficiency in capturing particles.",
+    "Common grades for air filters include coarse dust filters, fine dust filters, HEPA filters, and ULPA filters, classified by their particle retention capabilities.",
+    "When selecting fans, consider the total pressure drop, required volume flow rate, motor power consumption, efficiency, installation constraints, acoustics (noise levels), and overall cost.",
+    "Adiabatic humidification chambers offer low energy consumption and use water spray to increase absolute humidity with a simple construction; however, they require large space, may be less hygienic, and provide less precise control.",
+    "Steam humidification provides high hygienic quality (with steam above 100°C), compact design, and precise control, but it comes with higher energy consumption and cost.",
+    "An effective air-duct system must have air-tight sealing, fire resistance, noise reduction features, ease of installation, structural stability, and thermal insulation to prevent heat loss or condensation.",
+    "Internal room loads originate from occupants (heat and moisture), lighting (which emits heat), equipment/machinery, process-specific operations, solar gains through windows, and ventilation/infiltration of outside air.",
+    "For a summer heat balance, consider transient heat gains (solar), technology-generated heat, sensible heat from occupants, internal heat gains from devices, and heat from lighting—all expressed in Watts.",
+    "In winter, the heat balance involves a negative transmission loss (Q_tr) from heat loss through building envelopes, countered by gains from occupants, equipment, internal heating sources, and lighting, all measured in Watts.",
+    "The volume flow rate required to remove a heat load is calculated using the room’s heat gain (in Watts), the air’s density, its specific heat capacity, and the temperature difference, resulting in a flow rate in m³/h.",
+    "Humidity load calculation combines the moisture produced by people and equipment (in kg or g per time unit) with the necessary airflow to remove that moisture, ensuring comfort levels are maintained.",
+    "To remove a humidity load, calculate the airflow (in m³/h) needed based on the moisture generation rate and the desired reduction in indoor humidity.",
+    "When removing pollutants, consider sources such as tobacco smoke, VOCs from paints and furniture, human bioeffluents, dust and allergens, cooking-generated moisture, and combustion by-products (CO, CO₂) to determine the required dilution airflow.",
+    "Dynamic pressure is the kinetic energy per unit volume of moving air, calculated as 0.5 × air density × velocity², and is typically measured using a Pitot tube.",
+    "Static pressure is the pressure exerted by the air at rest, measured at the duct walls or via a Pitot-static tube, independent of airflow velocity.",
+    "Airflow rate can be derived by converting the measured dynamic pressure into an air velocity (applying Bernoulli’s principle) and multiplying that velocity by the duct’s cross-sectional area.",
+    "Total air pressure is the sum of static and dynamic pressures; it’s usually measured inside the duct using a properly oriented Pitot-static tube.",
+    "Fan energy consumption is calculated based on the mechanical power required to overcome the system’s pressure drop at a given airflow, then adjusted for the motor’s efficiency.",
+    "A complex air-conditioning design follows a multi-step process: define the purpose, set indoor climate requirements, evaluate thermal and moisture loads, choose the system type, size equipment, design the AHU and ductwork, select distribution methods, design controls, comply with standards, assess energy efficiency, and finalize documentation.",
+    "The air distribution system comprises the network of ducts and diffusers that delivers conditioned air to occupied spaces while removing exhaust air to maintain indoor comfort.",
+    "Air distribution systems include various types such as displacement, microclimate, jet (mixing), diffuse, tangential, and piston‑type systems—each suited for different spaces and comfort requirements.",
+    "Displacement ventilation supplies cool air near the floor; as it warms naturally, it rises, removing heat and pollutants from the occupied space.",
+    "Microclimate ventilation targets the occupant’s breathing zone by delivering conditioned air directly, resulting in enhanced personal comfort and energy savings.",
+    "Jet air distribution makes use of high-velocity air jets (typically from ceiling inlets) to induce rapid mixing of air in large spaces before it reaches occupants.",
+    "Diffuse air distribution employs low-velocity diffusers, often mounted on the ceiling, to gently and uniformly mix air throughout a room.",
+    "Tangential ventilation introduces air along walls or ceilings, using the Coandă effect to promote smooth and even circulation in the space.",
+    "Piston‑type ventilation delivers air in a steady, uniform, piston-like stream from diffusers, ensuring even distribution and effective removal of contaminants."
+  ]
+}
