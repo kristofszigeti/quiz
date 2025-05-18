@@ -353,6 +353,7 @@ logo_t07 = PhotoImage(file = resource_path('./logo/logo_structural engineering.p
 logo_t08 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
 logo_t09 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
 logo_t10 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
+logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsample(7,7)
 
 # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?resume=false
 # https://stackoverflow.com/questions/63871376/tkinter-widget-cgetvariable
@@ -378,6 +379,8 @@ topics.add_radiobutton(label = 'Electrical Systems - Earthing', variable = choic
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p02_earthing.json'), 8), quiz.display_topic_label(8)))
 topics.add_radiobutton(label = 'Electrical Systems - General p02', variable = choice, value = 10,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p03_gen.json'), 9), quiz.display_topic_label(9)))
+topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 10,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_hvac_basics_preparationtest.json'), 10), quiz.display_topic_label(10)))
 
 
 
@@ -392,6 +395,7 @@ topics.entryconfig(6, image= logo_t07, compound= 'left') # T, T-É és SZÉS1
 topics.entryconfig(7, image= logo_t08, compound= 'left') # bme - electrical systems
 topics.entryconfig(8, image= logo_t09, compound= 'left') # bme - electrical systems
 topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical systems
+topics.entryconfig(10, image=logo_t11, compound='left') # bme - hvac basics
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
