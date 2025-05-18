@@ -31,7 +31,13 @@
     "Q29. Which factor does NOT significantly affect the resistance of an earth electrode?",
     "Q30. What is the main function of an earth mat in substations?"
   ],
-  "answer": [1, 1, 2, 1, 2, 3, 3, 1, 1, 1, 3, 3, 3, 2, 1, 1, 1, 4, 3, 2, 1, 4, 1, 4, 1, 1, 2, 1, 4, 2],
+  "answer": [
+    1, 1, 2, 1, 2, 
+    3, 3, 1, 1, 1,
+    3, 3, 3, 2, 1, 
+    1, 1, 4, 3, 2, 
+    1, 4, 1, 4, 1, 
+    1, 2, 1, 4, 2],
   "choices": [
     ["To provide a path for fault currents", "To stabilize the voltage levels", "To reduce electromagnetic interference", "To improve power factor"],
     ["Earth electrode", "Circuit breaker", "Surge arrester", "Transformer"],

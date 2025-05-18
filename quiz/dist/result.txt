@@ -8,3 +8,63 @@ T, T-É és SZÉS1
 Player name: Type your name 
 Your score: 20%
 ---------------------------------
+2025-03-31, 16:11:25
+Electrical Systems - General p02
+Player name: Type your name 
+Your score: 65%
+---------------------------------
+2025-03-31, 16:18:39
+Electrical Systems - Earthing
+Player name: Type your name 
+Your score: 75%
+---------------------------------
+2025-03-31, 17:33:56
+Electrical Systems - General p02
+Player name: Type your name 
+Your score: 85%
+---------------------------------
+2025-04-01, 10:52:01
+Electrical Systems - General
+Player name: Type your name 
+Your score: 60%
+---------------------------------
+2025-04-01, 11:25:51
+Electrical Systems - Earthing
+Player name: Type your name 
+Your score: 40%
+---------------------------------
+2025-04-01, 11:54:01
+Electrical Systems - Earthing
+Player name: Type your name 
+Your score: 45%
+---------------------------------
+2025-04-01, 12:02:53
+Electrical Systems - Earthing
+Player name: Kristóf        
+Your score: 60%
+---------------------------------
+2025-04-01, 13:25:04
+Electrical Systems - Earthing
+Player name: Kristóf        
+Your score: 90%
+---------------------------------
+2025-04-01, 13:35:00
+Electrical Systems - General p02
+Player name: Kristóf        
+Your score: 55%
+---------------------------------
+2025-04-01, 18:20:33
+Electrical Systems - Earthing
+Player name: Type your name 
+Your score: 70%
+---------------------------------
+2025-04-01, 18:41:23
+Electrical Systems - Earthing
+Player name: Type your name 
+Your score: 75%
+---------------------------------
+2025-04-01, 18:48:09
+Electrical Systems - Earthing
+Player name: Kristóf        
+Your score: 55%
+---------------------------------

@@ -61,7 +61,7 @@ class Quiz:
         # print(len(self.question))
         # feedback field, showing if the answer is correct or wrong,
         self.feedback = ttk.Label(frame, font=('Franklin Gothic', 15, 'bold'), anchor='center', justify='center') # in this form it does not do anything, must be referred it later and add/customize the response with text and color
-        self.feedback.place(x=350, y=330)
+        self.feedback.place(x=350, y=340)
 
         self.correct = 0.0 # initial counter value of correct answers
 
@@ -179,7 +179,7 @@ class Quiz:
                              width=10, bg='lightblue', fg='black', font=('Franklin Gothic', 16, 'bold'),
                              activebackground='dark blue', activeforeground='white')
         # placing next
-        next_button.place(x=350, y=380)
+        next_button.place(x=350, y=390)
 
 
         # hint_button itself to show a hint to the user
@@ -188,7 +188,7 @@ class Quiz:
                              width=10, bg="seashell", fg="black", font=('Franklin Gothic', 12, 'bold'),
                              activebackground='gold', activeforeground='black')
         # placing hint
-        hint_button.place(x=680, y=330)
+        hint_button.place(x=680, y=345)
 
 
         # quit_button to close the game and the window
@@ -228,7 +228,7 @@ class Quiz:
     def display_title(self):
         # title of the game
         title = Label(frame, text="Quiz Game",
-                      padx=50, width=guitop_width//(2*8),
+                      padx=0, width=guitop_width//(2*8),
                       bg='light sky blue', fg="white", font=('Franklin Gothic', 20, "bold"),
                       justify='center') # color ref.: https://i.sstatic.net/lFZum.png
 
@@ -255,7 +255,7 @@ class Quiz:
             q_list.append(radio_btn) # adding the button to the end of the list one by one
 
             radio_btn.place(x=85, y=y_pos) # placing the button
-            y_pos += 40  # increasing the y-axis position by +40 (downwards)
+            y_pos += 50  # increasing the y-axis position by +50 (downwards)
 
         # return the list of radio buttons
         return q_list # important!
