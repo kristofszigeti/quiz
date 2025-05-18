@@ -175,7 +175,7 @@ class Quiz:
         # color ref.: https://stackoverflow.com/questions/22408237/named-colors-in-matplotlib
         # next_button itself for checking the answer and moving to the next question
         next_button = Button(frame, text="Next",
-                             command=self.next_btn, # call the next_btn method of the Quiz class
+                             command=self.next_btn, # call the next_btn method of the class Quiz
                              width=10, bg='lightblue', fg='black', font=('Franklin Gothic', 16, 'bold'),
                              activebackground='dark blue', activeforeground='white')
         # placing next
@@ -184,7 +184,7 @@ class Quiz:
 
         # hint_button itself to show a hint to the user
         hint_button = Button(frame, text="Hint",
-                             command=self.hint_btn, # call the hint_btn method of the Quiz class
+                             command=self.hint_btn, # call the hint_btn method of the class Quiz
                              width=10, bg="seashell", fg="black", font=('Franklin Gothic', 12, 'bold'),
                              activebackground='gold', activeforeground='black')
         # placing hint
@@ -216,7 +216,7 @@ class Quiz:
         # showing questions inside a Label widget
         # https://www.geeksforgeeks.org/python-tkinter-label/?ref=lbp
         if self.q_no < len(self.question):
-            q_no = Label(frame, text=self.question[self.q_no], wraplength= 700, # index
+            q_no = Label(frame, text=self.question[self.q_no], wraplength= 600, # index
                          font=('Franklin Gothic', 16, 'bold'), anchor='center', # https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/labelanchor.png
                          justify='center',
                          width=55, height=3)
@@ -228,7 +228,10 @@ class Quiz:
     def display_title(self):
         # title of the game
         title = Label(frame, text="Quiz Game",
-                             padx=75, width=40, bg='light sky blue', fg="white", font=('Franklin Gothic', 20, "bold"), justify='center') # color ref.: https://i.sstatic.net/lFZum.png
+                      padx=50, width=guitop_width//(2*8),
+                      bg='light sky blue', fg="white", font=('Franklin Gothic', 20, "bold"),
+                      justify='center') # color ref.: https://i.sstatic.net/lFZum.png
+
         # placing of the title
         title.place(x=0, y=0)
 
@@ -247,14 +250,14 @@ class Quiz:
             # setting the radio button properties
             radio_btn = Radiobutton(frame, text="", variable=self.selected_option, value=len(q_list) + 1,
                                     font=('Franklin Gothic', 14),
-                                    width= 60, anchor='w',justify="left")
+                                    width= 80, anchor='w',justify="left", wraplength=650)
             # print(len(q_list))
             q_list.append(radio_btn) # adding the button to the end of the list one by one
 
-            radio_btn.place(x=100, y=y_pos) # placing the button
+            radio_btn.place(x=85, y=y_pos) # placing the button
             y_pos += 40  # increasing the y-axis position by +40 (downwards)
 
-        # return the lsit of radio buttons
+        # return the list of radio buttons
         return q_list # important!
 
     def call_topic(self, topic_datafile, index, topic_length=10):
@@ -379,7 +382,7 @@ topics.add_radiobutton(label = 'Electrical Systems - Earthing', variable = choic
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p02_earthing.json'), 8), quiz.display_topic_label(8)))
 topics.add_radiobutton(label = 'Electrical Systems - General p02', variable = choice, value = 10,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p03_gen.json'), 9), quiz.display_topic_label(9)))
-topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 10,
+topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 11,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_hvac_basics_preparationtest.json'), 10), quiz.display_topic_label(10)))
 
 
@@ -395,7 +398,7 @@ topics.entryconfig(6, image= logo_t07, compound= 'left') # T, T-É és SZÉS1
 topics.entryconfig(7, image= logo_t08, compound= 'left') # bme - electrical systems
 topics.entryconfig(8, image= logo_t09, compound= 'left') # bme - electrical systems
 topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical systems
-topics.entryconfig(10, image=logo_t11, compound='left') # bme - hvac basics
+topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
