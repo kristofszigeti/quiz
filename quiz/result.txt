@@ -33,6 +33,61 @@ Electrical Systems
 Player name: Type your name 
 Your score: 55%
 ---------------------------------
+2025-05-18, 11:54:40
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 40%
+---------------------------------
+2025-05-18, 13:35:33
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 40%
+---------------------------------
+2025-05-18, 16:29:11
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 0%
+---------------------------------
+2025-05-18, 16:29:23
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 0%
+---------------------------------
+2025-05-18, 16:30:41
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 0%
+---------------------------------
+2025-05-18, 16:40:26
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 0%
+---------------------------------
+2025-05-19, 18:32:33
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 85%
+---------------------------------
+2025-05-21, 15:45:34
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 0%
+---------------------------------
+2025-05-21, 20:10:12
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 80%
+---------------------------------
+2025-05-21, 20:21:59
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2025-05-22, 10:53:43
+HVAC Basics - Preparations
+Player name: Type your name 
+Your score: 100%
+---------------------------------
 2026-02-05, 22:46:52
 Topic Two - Movies  
 Player name: Type your name 
@@ -67,4 +122,24 @@ Your score: 100%
 Topic One - Sport   
 Player name: németfej       
 Your score: 100%
+---------------------------------
+2026-04-05, 13:31:06
+Topic One - Sport   
+Player name: Type your name 
+Your score: 90%
+---------------------------------
+2026-04-05, 13:33:31
+Topic One - Sport   
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-05, 13:35:25
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 50%
+---------------------------------
+2026-04-05, 13:39:28
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 80%
 ---------------------------------
