@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="v03">
+      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_b1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/my_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/my_quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/result.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +25,10 @@
     <option name="groupingKeys">
       <option value="directory" />
     </option>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="588" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +45,10 @@
     &quot;accountId&quot;: &quot;b62d7f6f-8e9d-4a42-9b9f-8215c2654279&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,18 +61,77 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.my_quiz.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Kristof/IT/Python/prj/quiz",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/kristof/PycharmProjects/quiz/quiz/data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecapSpentCounter">
+    <option name="endsOfQuotaMs" value="1776250856423" />
+    <option name="spentUsd" value="0.3825248" />
+  </component>
+  <component name="RecapUselessUpdatesCounter">
+    <option name="suspendCountdown" value="0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kristof\PycharmProjects\quiz\quiz\data" />
+      <recent name="C:\Users\kristof\PycharmProjects\quiz\quiz\data\raw" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="my_quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="quiz" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/my_quiz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my_quiz" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -67,6 +143,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738333616331</updated>
+      <workItem from="1760988347865" duration="46000" />
+      <workItem from="1760988410838" duration="286000" />
+      <workItem from="1760988896338" duration="33000" />
+      <workItem from="1760989191058" duration="80000" />
+      <workItem from="1760989340627" duration="1970000" />
+      <workItem from="1761045108208" duration="274000" />
+      <workItem from="1761047338973" duration="26000" />
+      <workItem from="1761047427531" duration="7000" />
+      <workItem from="1761047585400" duration="144000" />
+      <workItem from="1761048533220" duration="54000" />
+      <workItem from="1761141617973" duration="3000" />
+      <workItem from="1761491204320" duration="69000" />
+      <workItem from="1763423914300" duration="402000" />
+      <workItem from="1763424339527" duration="101000" />
+      <workItem from="1765050293651" duration="4826000" />
+      <workItem from="1765129685653" duration="1892000" />
+      <workItem from="1770322086426" duration="1820000" />
+      <workItem from="1771608487565" duration="645000" />
+      <workItem from="1774692075628" duration="13987000" />
+      <workItem from="1775335867549" duration="1505000" />
     </task>
     <task id="LOCAL-00001" summary="v03">
       <option name="closed" value="true" />
@@ -87,8 +183,14 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v03" />
     <option name="LAST_COMMIT_MESSAGE" value="v03" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/quiz$my_quiz.coverage" NAME="my_quiz Coverage Results" MODIFIED="1774812334240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz" />
   </component>
 </project>

@@ -33,3 +33,38 @@ Electrical Systems
 Player name: Type your name 
 Your score: 55%
 ---------------------------------
+2026-02-05, 22:46:52
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 60%
+---------------------------------
+2026-02-05, 22:51:09
+Topic Two - Movies  
+Player name: Mari           
+Your score: 50%
+---------------------------------
+2026-04-04, 21:47:26
+Topic One - Sport   
+Player name: Type your name 
+Your score: 70%
+---------------------------------
+2026-04-04, 21:49:51
+Topic One - Sport   
+Player name: Type your name 
+Your score: 65%
+---------------------------------
+2026-04-04, 21:57:50
+Topic One - Sport   
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-04, 22:30:16
+Topic One - Sport   
+Player name: németfej       
+Your score: 100%
+---------------------------------
+2026-04-04, 22:33:10
+Topic One - Sport   
+Player name: németfej       
+Your score: 100%
+---------------------------------

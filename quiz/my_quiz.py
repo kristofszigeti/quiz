@@ -305,63 +305,71 @@ class Quiz:
                       width=650, bg='sky blue', fg="black", font=("Franklin Gothic", 16, "bold"), justify='center')
         topic.place(x=90, y=40) # placing the label
 
-# Tkinter GUI:
+    def display_deutsch_label(self, index):
+        # referring to parameters
+        deutsch_label = deutsch.entrycget(index, 'label')
+        deutsch_logo = deutsch.entrycget(index, 'image')
 
-# create a top-level parent GUI Window
+        # label widget
+        topic = Label(frame, text=f"{deutsch_label}", image=deutsch_logo, compound='left',
+                      width=650, bg='sky blue', fg="black", font=("Franklin Gothic", 16, "bold"), justify='center')
+        topic.place(x=90, y=40) # placing the label
+
+######################################
+# TKINTER GRAPHICAL USER INTERFACE:
+######################################
+
+# WINDOW
+# creates a top-level parent GUI Window
 guitop = Tk() # parent
 
-# dimensions of the GUI Window
-guitop_width = 800
+# DIMENSIONS
+# Height and Width of the GUI Window
 guitop_height = 480
+guitop_width = 800
 
-# put the window to the center # https://www.youtube.com/watch?v=Z8jdlBNIaDo
+# POSITIONING
+# puts the window to the center # https://www.youtube.com/watch?v=Z8jdlBNIaDo
 # queries the Win screensize setting and store them in a variable
 screen_width = guitop.winfo_screenwidth()
 screen_height = guitop.winfo_screenheight()
-print(screen_width, screen_height)
+# print(screen_width, screen_height)
 # positions the parent window
 guitop.geometry(f"{guitop_width}x{guitop_height}+{(screen_width // 2)-(guitop_width // 2)}+{(screen_height // 2)-(guitop_height // 2)}") #("800x480")
 guitop.configure(bg='dark gray')
 # print((screen_width // 2)-(guitop_width // 2), (screen_height // 2)-(guitop_height // 2))
 
-# set the title of the Window
+# DISPLAY
+# sets the title of the Window
 guitop.title("Quiz Game")
 frame = ttk.Frame(guitop)
 frame.pack(fill= NONE, expand= True) # https://www.geeksforgeeks.org/difference-between-fill-and-expand-options-for-tkinter-pack-method/
 frame.config(height = guitop_height, width = guitop_width)
 frame.config(relief = 'sunken')
 
-# set the menubar
+# sets the menubar
 guitop.option_add('*tearOff', False) # https://www.geeksforgeeks.org/what-does-the-tearoff-attribute-do-in-a-tkinter-menu/
 menubar = Menu(guitop) # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?resume=false
 guitop.config(menu = menubar)
 topics = Menu(menubar)
+deutsch = Menu(menubar)
 # results = Menu(menubar)
 # help_ = Menu(menubar) # underscore is for avoiding shadowing https://www.linjiangxiong.com/2024/08/28/how-to-fix-shadows-name-from-outer-scope-warning-in-pycharm/index.html
 
 menubar.add_cascade(menu = topics, label ='Topics')
-# menubar.add_cascade(menu = results, label ='Results', state='disabled')
+menubar.add_cascade(menu = deutsch, label ='Deutsch')
+# menubar.add_cascade(menu = results, label = 'Results', state='disabled')
 # menubar.add_cascade(menu = help_, label = 'Help', state='disabled')
 
 # results.add_command(label ='Ranking', state='disabled', command = lambda: quiz.open_rankings())
 
-# icons to show for the topics
-logo_t01 = PhotoImage(file = resource_path('./logo/logo_sport.png')).subsample(14, 14)
-logo_t02 = PhotoImage(file = resource_path('./logo/logo_movie.png')).subsample(7, 7)
-logo_t03 = PhotoImage(file = resource_path('./logo/logo_geography.png')).subsample(14, 14)
-logo_t04 = PhotoImage(file = resource_path('./logo/logo_football.png')).subsample(14, 14)
-logo_t05 = PhotoImage(file = resource_path('./logo/logo_darts.png')).subsample(14, 14)
-logo_t06 = PhotoImage(file = resource_path('./logo/logo_boardgames.png')).subsample(14, 14)
-logo_t07 = PhotoImage(file = resource_path('./logo/logo_structural engineering.png')).subsample(14, 14)
-logo_t08 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
-logo_t09 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
-logo_t10 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
-logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsample(7,7)
 
 # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?resume=false
 # https://stackoverflow.com/questions/63871376/tkinter-widget-cgetvariable
 # https://www.geeksforgeeks.org/python-setting-and-retrieving-values-of-tkinter-variable/
 choice = IntVar()
+
+# TOPICS MENUBAR
 topics.add_radiobutton(label = 'Topic One - Sport', variable = choice, value = 1,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_sport.json'), 0), quiz.display_topic_label(0)))
 topics.add_radiobutton(label = 'Topic Two - Movies', variable = choice, value = 2,
@@ -384,7 +392,38 @@ topics.add_radiobutton(label = 'Electrical Systems - General p02', variable = ch
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p03_gen.json'), 9), quiz.display_topic_label(9)))
 topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 11,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_hvac_basics_preparationstest_mixed.json'), 10), quiz.display_topic_label(10)))
+topics.add_radiobutton(label = 'Python', variable = choice, value = 12,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_python_with_hints.json'), 11), quiz.display_topic_label(11)))
 
+# DEUTSCH MENUBAR
+choice = IntVar()
+deutsch.add_radiobutton(label = 'Deutsch A1.1', variable = choice, value = 1,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-1.json'), 0), quiz.display_deutsch_label(0)))
+deutsch.add_radiobutton(label = 'Deutsch A1.2', variable = choice, value = 2,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-2.json'), 1), quiz.display_deutsch_label(1)))
+deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 3,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_geography.json'), 2), quiz.display_deutsch_label(2)))
+deutsch.add_radiobutton(label = 'Deutsch A1.4', variable = choice, value = 4,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_football.json'), 3), quiz.display_deutsch_label(3)))
+deutsch.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 5,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_darts.json'), 4), quiz.display_deutsch_label(4)))
+deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 6,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_boardgames.json'), 5), quiz.display_deutsch_label(5)))
+
+# icons to show for the topics
+logo_t01 = PhotoImage(file = resource_path('./logo/logo_sport.png')).subsample(14, 14)
+logo_t02 = PhotoImage(file = resource_path('./logo/logo_movie.png')).subsample(7, 7)
+logo_t03 = PhotoImage(file = resource_path('./logo/logo_geography.png')).subsample(14, 14)
+logo_t04 = PhotoImage(file = resource_path('./logo/logo_football.png')).subsample(14, 14)
+logo_t05 = PhotoImage(file = resource_path('./logo/logo_darts.png')).subsample(14, 14)
+logo_t06 = PhotoImage(file = resource_path('./logo/logo_boardgames.png')).subsample(14, 14)
+logo_t07 = PhotoImage(file = resource_path('./logo/logo_structural engineering.png')).subsample(14, 14)
+logo_t08 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
+logo_t09 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
+logo_t10 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
+logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsample(7,7)
+# logo_t12 = PhotoImage(file = resource_path('./logo/logo_python.png')).subsample(7,7)
+logo_t13 = PhotoImage(file = resource_path('./logo/logo_deutschA1_.png')).subsample(14,14)
 
 
 # customizing the menubar
@@ -399,6 +438,15 @@ topics.entryconfig(7, image= logo_t08, compound= 'left') # bme - electrical syst
 topics.entryconfig(8, image= logo_t09, compound= 'left') # bme - electrical systems
 topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical systems
 topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
+# topics.entryconfig(11, image=logo_t12, compound= 'left') # bme - hvac basics
+
+deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
+deutsch.entryconfig(1, image= logo_t13, compound ='left') # adding icon and position it
+deutsch.entryconfig(2, image= logo_t13, compound ='left')
+deutsch.entryconfig(3, image= logo_t13, compound ='left')
+deutsch.entryconfig(4, image= logo_t13, compound ='left')
+deutsch.entryconfig(5, image= logo_t13, compound ='left')
+
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
