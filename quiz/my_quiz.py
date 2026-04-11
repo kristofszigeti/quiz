@@ -313,10 +313,10 @@ class Quiz:
         # label widget
         topic = Label(frame, text=f"{deutsch_label}", image=deutsch_logo, compound='left',
                       width=650, bg='sky blue', fg="black", font=("Franklin Gothic", 16, "bold"), justify='center')
-        topic.place(x=90, y=40) # placing the label
+        topic.place(x=90, y=40) # places the label
 
 ######################################
-# TKINTER GRAPHICAL USER INTERFACE:
+# TKINTER GRAPHICAL USER INTERFACE   #
 ######################################
 
 # WINDOW
@@ -334,7 +334,7 @@ guitop_width = 800
 screen_width = guitop.winfo_screenwidth()
 screen_height = guitop.winfo_screenheight()
 # print(screen_width, screen_height)
-# positions the parent window
+# position of the parent window
 guitop.geometry(f"{guitop_width}x{guitop_height}+{(screen_width // 2)-(guitop_width // 2)}+{(screen_height // 2)-(guitop_height // 2)}") #("800x480")
 guitop.configure(bg='dark gray')
 # print((screen_width // 2)-(guitop_width // 2), (screen_height // 2)-(guitop_height // 2))
@@ -423,7 +423,7 @@ logo_t09 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_bu
 logo_t10 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
 logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsample(7,7)
 # logo_t12 = PhotoImage(file = resource_path('./logo/logo_python.png')).subsample(7,7)
-logo_t13 = PhotoImage(file = resource_path('./logo/logo_deutschA1_.png')).subsample(14,14)
+# logo_t13 = PhotoImage(file = resource_path('./logo/logo_deutschA1_.png')).subsample(14,14)
 
 
 # customizing the menubar
@@ -440,12 +440,12 @@ topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical syst
 topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
 # topics.entryconfig(11, image=logo_t12, compound= 'left') # bme - hvac basics
 
-deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
-deutsch.entryconfig(1, image= logo_t13, compound ='left') # adding icon and position it
-deutsch.entryconfig(2, image= logo_t13, compound ='left')
-deutsch.entryconfig(3, image= logo_t13, compound ='left')
-deutsch.entryconfig(4, image= logo_t13, compound ='left')
-deutsch.entryconfig(5, image= logo_t13, compound ='left')
+# deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
+# deutsch.entryconfig(1, image= logo_t13, compound ='left') # adding icon and position it
+# deutsch.entryconfig(2, image= logo_t13, compound ='left')
+# deutsch.entryconfig(3, image= logo_t13, compound ='left')
+# deutsch.entryconfig(4, image= logo_t13, compound ='left')
+# deutsch.entryconfig(5, image= logo_t13, compound ='left')
 
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
