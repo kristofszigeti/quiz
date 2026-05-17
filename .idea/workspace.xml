@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="v03">
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_german_b1.json" afterDir="false" />
+    <list default="true" id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="topic fixed:&#10;- Deutsch A1.1-A1.6 - logo">
+      <change beforePath="$PROJECT_DIR$/.idea/quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/quiz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_german_a1-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_german_a1-4.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_german_a1-5.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-5.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz/my_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/my_quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/result.txt" afterDir="false" />
     </list>
@@ -27,7 +24,7 @@
     </option>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="588" />
+    <option name="cachedIndexableFilesCount" value="75" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -163,6 +160,12 @@
       <workItem from="1771608487565" duration="645000" />
       <workItem from="1774692075628" duration="13987000" />
       <workItem from="1775335867549" duration="1505000" />
+      <workItem from="1776630839002" duration="1213000" />
+      <workItem from="1777657624942" duration="3485000" />
+      <workItem from="1777811531145" duration="13343000" />
+      <workItem from="1777919267363" duration="7403000" />
+      <workItem from="1778004854090" duration="2077000" />
+      <workItem from="1779038874232" duration="5548000" />
     </task>
     <task id="LOCAL-00001" summary="v03">
       <option name="closed" value="true" />
@@ -180,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738335585013</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="topic fixed:&#10;- Deutsch A1.1-A1.6 - logo">
+      <option name="closed" value="true" />
+      <created>1775916787226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775916787226</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,9 +199,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v03" />
-    <option name="LAST_COMMIT_MESSAGE" value="v03" />
+    <MESSAGE value="topic fixed:&#10;- Deutsch A1.1-A1.6 - logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="topic fixed:&#10;- Deutsch A1.1-A1.6 - logo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/quiz$my_quiz.coverage" NAME="my_quiz Coverage Results" MODIFIED="1774812334240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz" />
+    <SUITE FILE_PATH="coverage/quiz$my_quiz.coverage" NAME="my_quiz Coverage Results" MODIFIED="1779050960590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz" />
   </component>
 </project>

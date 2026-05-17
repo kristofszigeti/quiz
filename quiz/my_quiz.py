@@ -60,8 +60,8 @@ class Quiz:
         # print(self.data_size)
         # print(len(self.question))
         # feedback field, showing if the answer is correct or wrong,
-        self.feedback = ttk.Label(frame, font=('Franklin Gothic', 15, 'bold'), anchor='center', justify='center') # in this form it does not do anything, must be referred it later and add/customize the response with text and color
-        self.feedback.place(x=350, y=365)
+        self.feedback = ttk.Label(frame, font=('Calibri', 15, 'bold'), anchor='center', justify='center') # in this form it does not do anything, must be referred it later and add/customize the response with text and color
+        self.feedback.place(x=0, y=365, relwidth=1)
 
         self.correct = 0.0 # initial counter value of correct answers
 
@@ -72,7 +72,7 @@ class Quiz:
         self.current_topic = StringVar() # initial empty and blank in the main window
 
         self.player_name = StringVar()
-        self.name_entry = ttk.Entry(frame, width=20, textvariable=self.player_name, font=('Franklin Gothic', 10)) # width controls the size of the name_entry field, and specifies the number of characters, not pixels
+        self.name_entry = ttk.Entry(frame, width=20, textvariable=self.player_name, font=('Calibri', 10)) # width controls the size of the name_entry field, and specifies the number of characters, not pixels
         self.name_entry.place(x=5, y=395)
         self.name_entry.insert(0, "Type your name")
 
@@ -139,7 +139,7 @@ class Quiz:
             # print(self.name_entry['width'])
 
             if self.correct == self.data_size and topics.entrycget(5, 'state') == 'disabled':
-                mb.showinfo("BONUS", "Congratulations!\n\nYou have earned a bonus topic!!\n\nCheck the 'Topics' cascade menu!")
+                # mb.showinfo("BONUS", "Congratulations!\n\nYou have earned a bonus topic!!\n\nCheck the 'Topics' cascade menu!")
                 # unlocking bonus
                 topics.entryconfig(5, state='active', label="Topic BONUS - Board Games", image= logo_t06)
 
@@ -176,25 +176,23 @@ class Quiz:
         # next_button itself for checking the answer and moving to the next question
         next_button = Button(frame, text="Next",
                              command=self.next_btn, # call the next_btn method of the class Quiz
-                             width=10, bg='lightblue', fg='black', font=('Franklin Gothic', 16, 'bold'),
+                             width=10, bg='lightblue', fg='black', font=('Calibri', 16, 'bold'),
                              activebackground='dark blue', activeforeground='white')
         # placing next
         next_button.place(x=350, y=395)
 
-
         # hint_button itself to show a hint to the user
         hint_button = Button(frame, text="Hint",
                              command=self.hint_btn, # call the hint_btn method of the class Quiz
-                             width=10, bg="seashell", fg="black", font=('Franklin Gothic', 12, 'bold'),
+                             width=10, bg="seashell", fg="black", font=('Calibri', 12, 'bold'),
                              activebackground='gold', activeforeground='black')
         # placing hint
         hint_button.place(x=680, y=395)
 
-
         # quit_button to close the game and the window
         quit_button = Button(frame, text="Quit",
                              command=guitop.destroy, # destroy is built-in therefore belongs to the parent=guitop
-                             width=10, bg="light grey", fg="black", font=('Franklin Gothic', 12, 'bold'),
+                             width=10, bg="light grey", fg="black", font=('Calibri', 12, 'bold'),
                              activebackground='maroon', activeforeground='white')
         # placing quit
         quit_button.place(x=680, y=430) # it is the bottom-right corner
@@ -207,7 +205,29 @@ class Quiz:
 
         # looping over the choices to be displayed for the text parameter of the radio buttons.
         for option in self.choices[self.q_no]:
-            self.options[val]['text'] = option
+
+            # COLOURING for better Visual Recognition and Learning
+            if option.startswith(("r ", "der ")):
+                prefix = "● " # BLUE dot for masculine (männlich mit Artikel 'der') words
+                fontcolor = "blue"
+            elif option.startswith(("e ", "die ")):
+                prefix = "● " # RED dot for feminin (weiblich mit Artikel 'der') words
+                fontcolor = "red"
+            elif option.startswith(("s ", "das ")):
+                prefix = "● " # YELLOW dot for masculine (neutral mit Artikel 'der') words
+                fontcolor = "#daa520" # goldenrod
+            else:
+                prefix = ""
+                fontcolor = "black"
+
+            # assemble the option again
+            option = prefix + option
+
+            # self.options[val]['text'] = option
+            # self.options[val]['fg'] = fontcolor
+            self.options[val].config(text=option,
+                                     fg=fontcolor,
+                                     )
             val += 1 # it must be increased to go through the choices and show them
 
     # this method shows the current question on the screen
@@ -217,23 +237,23 @@ class Quiz:
         # https://www.geeksforgeeks.org/python-tkinter-label/?ref=lbp
         if self.q_no < len(self.question):
             q_no = Label(frame, text=self.question[self.q_no], wraplength= 600, # index
-                         font=('Franklin Gothic', 16, 'bold'), anchor='center', # https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/labelanchor.png
+                         font=('Calibri', 16, 'bold'), anchor='center', # https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/labelanchor.png
                          justify='center',
-                         width=55, height=3)
+                         height=2)
 
             # placing of the option in the frame
-            q_no.place(x=40, y=80)
+            q_no.place(x=0, y=85, relwidth=1.0)
 
     # this method shows a title label in the parent window
     def display_title(self):
         # title of the game
         title = Label(frame, text="Quiz Game",
-                      padx=0, width=guitop_width//(2*8),
-                      bg='light sky blue', fg="white", font=('Franklin Gothic', 20, "bold"),
+                      anchor='center',
+                      bg='light sky blue', fg="white", font=('Calibri', 20, 'bold'),
                       justify='center') # color ref.: https://i.sstatic.net/lFZum.png
 
         # placing of the title
-        title.place(x=0, y=0)
+        title.place(x=0, y=0, relwidth=1)
 
     # because of the radio buttons, to select the answers from "choices"
     # returns a list of radio button which are later used to add the choices to them.
@@ -243,24 +263,24 @@ class Quiz:
         q_list = []
         # print(len(q_list))
         # position of the first option
-        y_pos = 155
+        y_pos = 160
 
         # adding the choices to the list # lab_11_hotel.py
         while len(q_list) < 4:
             # setting the radio button properties
-            radio_btn = Radiobutton(frame, text="", variable=self.selected_option, value=len(q_list) + 1,
-                                    font=('Franklin Gothic', 13),
-                                    width= 80, anchor='w',justify="left", wraplength=660)
+            radio_btn = Radiobutton(frame, text='', variable=self.selected_option, value=len(q_list) + 1,
+                                    font=('Calibri', 14),
+                                    anchor='w', justify='left')
             # print(len(q_list))
             q_list.append(radio_btn) # adding the button to the end of the list one by one
 
-            radio_btn.place(x=80, y=y_pos) # placing the button
-            y_pos += 55  # increasing the y-axis position by +50 (downwards)
+            radio_btn.place(x=(guitop_width // 2) - 65 , y=y_pos) # placing the button
+            y_pos += 40  # increasing the y-axis position by +45 (downwards)
 
         # return the list of radio buttons
         return q_list # important!
 
-    def call_topic(self, topic_datafile, index, topic_length=10):
+    def call_topic(self, topic_datafile, index, topic_length=100):
         # load topics # https://pynative.com/python-json-exercise/#h-exercise-8-check-whether-following-json-is-valid-or-invalid-if-invalid-correct-it
         with open(topic_datafile, 'r', encoding='utf-8') as datafile:
             data_dict = json.load(datafile)
@@ -292,7 +312,7 @@ class Quiz:
         progress_counter.set(f"Correct: 0/{len(self.question)}")
 
         self.feedback['text'] = ""  # restore feedback label to 'blank' status
-        self.current_topic = topics.entrycget(index, 'label') # declares/fills the label content
+        # self.current_topic = topics.entrycget(index, 'label') # declares/fills the label content
         self.name_entry.state(['disabled'])
 
     def display_topic_label(self, index):
@@ -300,20 +320,24 @@ class Quiz:
         topic_label = topics.entrycget(index, 'label')
         topic_logo = topics.entrycget(index, 'image')
 
+        # stores the chosen topic - in this case the general topics that are stored in 'topics'
+        self.current_topic = topics.entrycget(index, 'label')  # declares/fills the label content
+
         # label widget
-        topic = Label(frame, text=f"{topic_label}", image=topic_logo, compound='left',
-                      width=650, bg='sky blue', fg="black", font=("Franklin Gothic", 16, "bold"), justify='center')
-        topic.place(x=90, y=40) # placing the label
+        topic = Label(frame, text=f"{topic_label}", image=topic_logo, compound='left', bg='sky blue', fg='black', font=('Calibri', 16, "bold"), justify='center')
+        topic.place(x=0, y=40, relwidth=1.0) # placing the label
 
     def display_deutsch_label(self, index):
         # referring to parameters
         deutsch_label = deutsch.entrycget(index, 'label')
         deutsch_logo = deutsch.entrycget(index, 'image')
 
+        # stores the chosen topic - in this case the topics that are stored in 'deutsch' for german learning purpose
+        self.current_topic = deutsch.entrycget(index, 'label')  # declares/fills the label content
+
         # label widget
-        topic = Label(frame, text=f"{deutsch_label}", image=deutsch_logo, compound='left',
-                      width=650, bg='sky blue', fg="black", font=("Franklin Gothic", 16, "bold"), justify='center')
-        topic.place(x=90, y=40) # places the label
+        topic = Label(frame, text=f"{deutsch_label}", image=deutsch_logo, compound='left', bg='steel blue', fg='black', font=('Calibri', 16, 'bold'), justify='center')
+        topic.place(x=0, y=40, relwidth=1.0) # places the label
 
 ######################################
 # TKINTER GRAPHICAL USER INTERFACE   #
@@ -345,7 +369,7 @@ guitop.title("Quiz Game")
 frame = ttk.Frame(guitop)
 frame.pack(fill= NONE, expand= True) # https://www.geeksforgeeks.org/difference-between-fill-and-expand-options-for-tkinter-pack-method/
 frame.config(height = guitop_height, width = guitop_width)
-frame.config(relief = 'sunken')
+frame.config(relief = 'flat')
 
 # sets the menubar
 guitop.option_add('*tearOff', False) # https://www.geeksforgeeks.org/what-does-the-tearoff-attribute-do-in-a-tkinter-menu/
@@ -402,13 +426,18 @@ deutsch.add_radiobutton(label = 'Deutsch A1.1', variable = choice, value = 1,
 deutsch.add_radiobutton(label = 'Deutsch A1.2', variable = choice, value = 2,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-2.json'), 1), quiz.display_deutsch_label(1)))
 deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 3,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_geography.json'), 2), quiz.display_deutsch_label(2)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-3.json'), 2), quiz.display_deutsch_label(2)))
 deutsch.add_radiobutton(label = 'Deutsch A1.4', variable = choice, value = 4,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_football.json'), 3), quiz.display_deutsch_label(3)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-4.json'), 3), quiz.display_deutsch_label(3)))
 deutsch.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 5,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_darts.json'), 4), quiz.display_deutsch_label(4)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-5.json'), 4), quiz.display_deutsch_label(4)))
 deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 6,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_boardgames.json'), 5), quiz.display_deutsch_label(5)))
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-6.json'), 5), quiz.display_deutsch_label(5)))
+deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 7,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 6), quiz.display_deutsch_label(6)))
+deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 8,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 7), quiz.display_deutsch_label(7)))
+
 
 # icons to show for the topics
 logo_t01 = PhotoImage(file = resource_path('./logo/logo_sport.png')).subsample(14, 14)
@@ -423,7 +452,8 @@ logo_t09 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_bu
 logo_t10 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
 logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsample(7,7)
 # logo_t12 = PhotoImage(file = resource_path('./logo/logo_python.png')).subsample(7,7)
-# logo_t13 = PhotoImage(file = resource_path('./logo/logo_deutschA1_.png')).subsample(14,14)
+logo_t13 = PhotoImage(file = resource_path('./logo/logo_deutschA1.png')).subsample(14,14)
+logo_t14 = PhotoImage(file = resource_path('./logo/logo_bimdeutschland.png')).subsample(5,5)
 
 
 # customizing the menubar
@@ -432,7 +462,7 @@ topics.entryconfig(1, image= logo_t02, compound ='left') # adding icon and posit
 topics.entryconfig(2, image= logo_t03, compound ='left')
 topics.entryconfig(3, image= logo_t04, compound = 'left')
 topics.entryconfig(4, image= logo_t05, compound = 'left')
-topics.entryconfig(5, compound= 'left', state ='disabled') # bonusz topic, initially locked
+topics.entryconfig(5, compound= 'left', state ='disabled') # bonus topic, initially locked
 topics.entryconfig(6, image= logo_t07, compound= 'left') # T, T-É és SZÉS1
 topics.entryconfig(7, image= logo_t08, compound= 'left') # bme - electrical systems
 topics.entryconfig(8, image= logo_t09, compound= 'left') # bme - electrical systems
@@ -440,26 +470,27 @@ topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical syst
 topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
 # topics.entryconfig(11, image=logo_t12, compound= 'left') # bme - hvac basics
 
-# deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
-# deutsch.entryconfig(1, image= logo_t13, compound ='left') # adding icon and position it
-# deutsch.entryconfig(2, image= logo_t13, compound ='left')
-# deutsch.entryconfig(3, image= logo_t13, compound ='left')
-# deutsch.entryconfig(4, image= logo_t13, compound ='left')
-# deutsch.entryconfig(5, image= logo_t13, compound ='left')
-
+deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
+deutsch.entryconfig(1, image= logo_t13, compound ='left') # adding icon and position it
+deutsch.entryconfig(2, image= logo_t13, compound ='left')
+deutsch.entryconfig(3, image= logo_t13, compound ='left')
+deutsch.entryconfig(4, image= logo_t13, compound ='left')
+deutsch.entryconfig(5, image= logo_t13, compound ='left')
+deutsch.entryconfig(6, image= logo_t14, compound ='left')
+deutsch.entryconfig(7, image= logo_t14, compound ='left')
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar
 progressbar = ttk.Progressbar(frame, orient='horizontal', length=200, mode='determinate', maximum=100)
 progressbar.place(x=5, y=450)
-progressbar_label = ttk.Label(frame, text="Your progress", font=('Franklin Gothic', 10)) # text label
+progressbar_label = ttk.Label(frame, text="Your progress", font=('Calibri', 10)) # text label
 progressbar_label.place(x=5, y=425)
 # progress counter initial
 # https://www.geeksforgeeks.org/python-setting-and-retrieving-values-of-tkinter-variable/
 progress_counter = StringVar()
 progress_counter.set("Correct: 0/0") # initial text string
 
-progress_label = ttk.Label(frame, textvariable=progress_counter, font=('Franklin Gothic', 10))
+progress_label = ttk.Label(frame, textvariable=progress_counter, font=('Calibri', 10))
 progress_label.place(x=110, y=425)
 progress_label['relief'] = 'groove'
 
