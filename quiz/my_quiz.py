@@ -21,11 +21,13 @@ import os
 import sys
 
 def resource_path(relative_path):
+    # When running as a bundled executable created by PyInstaller
     if hasattr(sys, '_MEIPASS'):
-        # When running as a bundled executable
-        return os.path.join(sys._MEIPASS, relative_path)
-    # When running in development mode
-    return os.path.join(os.path.abspath("."), relative_path)
+        base_path = sys._MEIPASS
+    else:
+        # Use the script directory as the base path, not the current working directory
+        base_path = os.path.dirname(os.path.abspath(__file__))
+    return os.path.join(base_path, relative_path)
 
 # the main class
 class Quiz:
@@ -47,6 +49,8 @@ class Quiz:
         # radiobuttons and their corresponding answer according to current question
         # self.options = self.radio_buttons() # assigns and shows radiobuttons initially # (korábbi állapot)
         self.options = None # initial None storage (de a változót létrehozni szükséges)
+        self.question_label = None # store the single question label widget
+        self.buttons_created = False # prevent duplicate buttons when topics are reloaded
 
         # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/making-selections-with-the-combobox-and-spinbox?resume=false
         self.selected_option = IntVar() # initial (integer) value type to assign integer to check answer
@@ -132,7 +136,8 @@ class Quiz:
             # if it is correct then it displays the score
             # self.display_result()
 
-            with open("result.txt", "a", encoding="UTF-8") as outfile:
+            result_file_path = resource_path('result.txt')
+            with open(result_file_path, 'a', encoding='UTF-8') as outfile:
                 player_name = self.player_name.get() # storing the name_entry field in variable
                 line_newscore= f"{date.today()}, {time.strftime('%H:%M:%S')}\n{self.current_topic:20s}\nPlayer name: {player_name:15s}\n{quiz.display_result()}\n" + f"{'-'*(13+self.name_entry['width'])}\n" # https://www.geeksforgeeks.org/get-current-date-and-time-using-python/
                 outfile.write(line_newscore)
@@ -172,30 +177,35 @@ class Quiz:
     # showing buttons in quitop/frame
     # https://www.geeksforgeeks.org/python-creating-a-button-in-tkinter/
     def buttons(self):
+        # avoid creating duplicate buttons when the topic is reloaded
+        if self.buttons_created:
+            return
+
         # color ref.: https://stackoverflow.com/questions/22408237/named-colors-in-matplotlib
         # next_button itself for checking the answer and moving to the next question
-        next_button = Button(frame, text="Next",
-                             command=self.next_btn, # call the next_btn method of the class Quiz
-                             width=10, bg='lightblue', fg='black', font=('Calibri', 16, 'bold'),
-                             activebackground='dark blue', activeforeground='white')
+        self.next_button = Button(frame, text="Next",
+                                  command=self.next_btn, # call the next_btn method of the class Quiz
+                                  width=10, bg='lightblue', fg='black', font=('Calibri', 16, 'bold'),
+                                  activebackground='dark blue', activeforeground='white')
         # placing next
-        next_button.place(x=350, y=395)
+        self.next_button.place(x=350, y=395)
 
         # hint_button itself to show a hint to the user
-        hint_button = Button(frame, text="Hint",
-                             command=self.hint_btn, # call the hint_btn method of the class Quiz
-                             width=10, bg="seashell", fg="black", font=('Calibri', 12, 'bold'),
-                             activebackground='gold', activeforeground='black')
+        self.hint_button = Button(frame, text="Hint",
+                                  command=self.hint_btn, # call the hint_btn method of the class Quiz
+                                  width=10, bg="seashell", fg="black", font=('Calibri', 12, 'bold'),
+                                  activebackground='gold', activeforeground='black')
         # placing hint
-        hint_button.place(x=680, y=395)
+        self.hint_button.place(x=680, y=395)
 
         # quit_button to close the game and the window
-        quit_button = Button(frame, text="Quit",
-                             command=guitop.destroy, # destroy is built-in therefore belongs to the parent=guitop
-                             width=10, bg="light grey", fg="black", font=('Calibri', 12, 'bold'),
-                             activebackground='maroon', activeforeground='white')
+        self.quit_button = Button(frame, text="Quit",
+                                  command=guitop.destroy, # destroy is built-in therefore belongs to the parent=guitop
+                                  width=10, bg="light grey", fg="black", font=('Calibri', 12, 'bold'),
+                                  activebackground='maroon', activeforeground='white')
         # placing quit
-        quit_button.place(x=680, y=430) # it is the bottom-right corner
+        self.quit_button.place(x=680, y=430) # it is the bottom-right corner
+        self.buttons_created = True
 
     def display_options(self):
         val = 0 # starting value
@@ -236,13 +246,14 @@ class Quiz:
         # showing questions inside a Label widget
         # https://www.geeksforgeeks.org/python-tkinter-label/?ref=lbp
         if self.q_no < len(self.question):
-            q_no = Label(frame, text=self.question[self.q_no], wraplength= 600, # index
-                         font=('Calibri', 16, 'bold'), anchor='center', # https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/labelanchor.png
-                         justify='center',
-                         height=2)
-
-            # placing of the option in the frame
-            q_no.place(x=0, y=85, relwidth=1.0)
+            if self.question_label is None:
+                self.question_label = Label(frame, text=self.question[self.q_no], wraplength=600, # index
+                                            font=('Calibri', 16, 'bold'), anchor='center', # https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/labelanchor.png
+                                            justify='center',
+                                            height=2)
+                self.question_label.place(x=0, y=85, relwidth=1.0)
+            else:
+                self.question_label.config(text=self.question[self.q_no])
 
     # this method shows a title label in the parent window
     def display_title(self):
@@ -258,6 +269,11 @@ class Quiz:
     # because of the radio buttons, to select the answers from "choices"
     # returns a list of radio button which are later used to add the choices to them.
     def radio_buttons(self):
+
+        # destroy any old radio buttons before creating new ones
+        if self.options:
+            for old_btn in self.options:
+                old_btn.destroy()
 
         # initialize the list with an empty list of choices
         q_list = []
@@ -288,7 +304,8 @@ class Quiz:
         # combine data into a list https://www.w3schools.com/python/ref_func_zip.asp
         data_list = list(zip(data_dict['question'], data_dict['choices'], data_dict['answer'], data_dict['hints'])) # https://discovery.cs.illinois.edu/guides/Python-Fundamentals/brackets/ # https://www.geeksforgeeks.org/parentheses-square-brackets-and-curly-braces-in-python/
         # random.shuffle(data_list) # https://www.geeksforgeeks.org/python-random-sample-function/
-        data_sample_list = random.sample(data_list, k=topic_length)
+        sample_size = min(topic_length, len(data_list))
+        data_sample_list = random.sample(data_list, k=sample_size)
 
         # unpack the shuffled data back into separate lists
         # global question, choices, answer, hint

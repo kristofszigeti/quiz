@@ -1325,3964 +1325,3964 @@
   ],
   "choices": [
     [
-      "r Status",
+      "laut",
       "r Bau",
-      "r Bauablauf",
-      "e Planung"
+      "s Bauteil",
+      "e Bauphase"
     ],
     [
       "unter",
       "punktuell",
-      "untergeordnet",
-      "unter anderem"
+      "justieren",
+      "unterstützen"
     ],
     [
       "über",
-      "übergeordnet",
-      "im Überblick",
-      "etabliert"
+      "r Übergang",
+      "überwachen",
+      "übertragen"
     ],
     [
-      "zielgerichtet",
-      "zeitgleich",
-      "konsistent",
+      "sichern",
+      "entscheiden",
+      "berichten",
       "zwischen"
     ],
     [
-      "demnach",
+      "innerhalb",
       "deshalb",
-      "dezentral",
-      "prozessual"
+      "außerhalb",
+      "dauerhaft"
     ],
     [
-      "integriert",
-      "untergeordnet",
+      "entscheiden",
+      "wiederholbar",
       "entweder oder",
-      "insbesondere"
+      "unter anderem"
     ],
     [
-      "relevant",
+      "skalierbar",
       "klar",
-      "laut",
-      "konsolidiert"
+      "e Zielklarheit",
+      "skalieren"
     ],
     [
-      "e Projektreife",
+      "s Projektteam",
       "r Projekt",
-      "e Projektphase",
-      "e Projektgröße"
-    ],
-    [
-      "abstimmen",
-      "visualisieren",
-      "abschließen",
-      "simulieren"
-    ],
-    [
-      "stabil",
-      "aktuell",
-      "entwickeln",
+      "r Projektpfad",
       "projektweise"
     ],
     [
+      "anschließend",
       "ausschließlich",
-      "ausreichend",
-      "flächendeckend",
+      "abschließen",
+      "skalieren"
+    ],
+    [
+      "punktuell",
+      "aktuell",
+      "strukturell",
+      "s Gesamtmodell"
+    ],
+    [
+      "abschließen",
+      "nachfolgend",
+      "analysieren",
       "anschließend"
     ],
     [
-      "qualitativ",
+      "r Ansatz",
       "anstatt",
-      "konsistent",
-      "abgestimmt"
+      "transparent",
+      "insgesamt"
     ],
     [
       "anwenden",
-      "auswerten",
-      "anpassen",
-      "angemessen"
+      "bewerten",
+      "r Anwendungsfall",
+      "ableiten"
     ],
     [
-      "absichern",
-      "anschließend",
+      "abgleichen",
+      "vergleichend",
       "ausreichend",
-      "verpflichtend"
+      "entsprechend"
     ],
     [
       "außerhalb",
-      "alternativ",
-      "auf Vorgabe",
-      "zentral"
+      "innerhalb",
+      "deshalb",
+      "dauerhaft"
     ],
     [
       "beispielsweise",
-      "wahlweise",
-      "stufenweise",
-      "schrittweise"
+      "teilweise",
+      "e Vorgehensweise",
+      "phasenweise"
     ],
     [
-      "überwachen",
-      "bewerten",
+      "r Bericht",
+      "verpflichtend",
       "berichten",
-      "begleiten"
+      "überführen"
     ],
     [
-      "validiert",
-      "etabliert",
+      "r Rahmen",
+      "auf Dauer",
       "daher",
-      "datenbasiert"
+      "sichern"
     ],
     [
-      "optional",
+      "regional",
       "digital",
-      "im Detail",
-      "zielgerichtet"
+      "digitalisieren",
+      "dezentral"
     ],
     [
       "e Lücke",
-      "e Verbindlichkeit",
-      "s Werkzeug",
-      "s Prüfwerkzeug"
+      "e Rückmeldung",
+      "entwickeln",
+      "im Kern"
     ],
     [
-      "r Methodenrahmen",
-      "s Gesamtmodell",
-      "e Methodenkompetenz",
+      "methodisch",
+      "e Methodenreife",
+      "mithilfe",
       "e Methode"
     ],
     [
-      "e Bauphase",
+      "e Startphase",
       "e Phase",
-      "e Analyse",
-      "e Projektphase"
+      "planen",
+      "phasenweise"
     ],
     [
       "e Planung",
-      "e Planableitung",
-      "e Verankerung",
-      "e Pilotierung"
+      "planen",
+      "e Terminplanung",
+      "e Planungsphase"
     ],
     [
       "e Präsentation",
-      "e Prozessdefinition",
-      "r Projektnutzen",
-      "r Projektaufwand"
+      "e Dokumentation",
+      "e Prozessintegration",
+      "e Projektkoordination"
     ],
     [
       "e Qualität",
-      "e Datenqualität",
-      "e Prozessqualität",
-      "e Ergebnisqualität"
+      "qualitativ",
+      "e Modellqualität",
+      "e Kapazität"
     ],
     [
-      "e Vorlage",
+      "s Rollenbild",
       "e Rolle",
-      "e Modellreife",
-      "r Rahmen"
+      "parallel",
+      "verfolgen"
     ],
     [
       "e Software",
-      "e Vorgabe",
-      "r Standard",
-      "r Aufwand"
+      "sowie",
+      "e Startphase",
+      "e Vorlage"
     ],
     [
       "einführen",
-      "vereinbaren",
-      "monitoren",
-      "hingegen"
+      "überführen",
+      "einsetzen",
+      "definieren"
     ],
     [
-      "erheben",
-      "entlasten",
+      "fortschreiben",
+      "entsprechend",
       "entscheiden",
-      "einsetzen"
+      "r Entscheidungspunkt"
     ],
     [
-      "im Wesentlichen",
+      "weiterentwickeln",
       "entwickeln",
-      "interdisziplinär",
-      "entweder oder"
+      "r Entwicklungspfad",
+      "entlasten"
     ],
     [
-      "eindeutig",
-      "nachhaltig",
-      "einheitlich",
+      "rechtzeitig",
+      "frühzeitig",
+      "gleichwohl",
       "gleichzeitig"
     ],
     [
-      "im Einzelfall",
-      "im Ergebnis",
-      "im Überblick",
+      "im Regelfall",
+      "im Übergang",
+      "im Kern",
       "im Detail"
     ],
     [
-      "zeitgleich",
+      "r Vergleich",
       "im Vergleich",
-      "im Ergebnis",
-      "im Wesentlichen"
+      "vergleichen",
+      "im Überblick"
     ],
     [
       "innerhalb",
-      "zentral",
-      "unter Vorbehalt",
-      "im Einzelfall"
+      "außerhalb",
+      "deshalb",
+      "wiederholbar"
     ],
     [
-      "abgestimmt",
-      "integriert",
+      "insoweit",
+      "anstatt",
       "insgesamt",
-      "innerhalb"
+      "insbesondere"
     ],
     [
-      "demnach",
-      "dennoch",
+      "jedoch",
+      "technisch",
       "je nach",
-      "auf Sicht"
+      "e Governance"
     ],
     [
-      "zeitgleich",
-      "regional",
-      "im Vergleich",
+      "je nach",
+      "dennoch",
+      "demnach",
       "jedoch"
     ],
     [
       "kontrollieren",
-      "koordinieren",
-      "optimieren",
-      "kooperieren"
+      "kontrollierbar",
+      "konsolidieren",
+      "modellieren"
     ],
     [
-      "relevant",
-      "robust",
-      "anstatt",
+      "r Bau",
+      "e Planung",
+      "s Bauteil",
       "laut"
     ],
     [
-      "anpassen",
+      "angemessen",
       "messen",
-      "festlegen",
-      "anwenden"
+      "messbar",
+      "umsetzen"
     ],
     [
-      "infolge",
-      "beispielsweise",
-      "priorisiert",
+      "e Methode",
+      "e Richtlinie",
+      "mittelfristig",
       "mithilfe"
     ],
     [
-      "folglich",
+      "zusätzlich",
       "nämlich",
-      "fachlich",
-      "bezüglich"
+      "nachträglich",
+      "grundsätzlich"
     ],
     [
-      "insbesondere",
-      "unter anderem",
+      "sowohl als auch",
+      "kontinuierlich",
       "nicht nur sondern auch",
-      "vor dem Hintergrund"
+      "insofern"
     ],
     [
-      "konsensfähig",
-      "rechtzeitig",
-      "während",
+      "r Nutzenbeitrag",
+      "vollständig",
+      "zuständig",
       "notwendig"
     ],
     [
       "nutzen",
-      "r Nutzenbeitrag",
-      "e Sitzung",
-      "e Nutzenbewertung"
+      "einsetzen",
+      "umsetzen",
+      "r Projektnutzen"
     ],
     [
-      "digital",
-      "organisationsweit",
-      "prozessual",
+      "regional",
+      "optimieren",
+      "r Informationsgehalt",
       "optional"
     ],
     [
       "organisieren",
-      "digitalisieren",
-      "kommunizieren",
-      "visualisieren"
+      "normalisieren",
+      "harmonisieren",
+      "priorisieren"
     ],
     [
-      "entlasten",
-      "ableiten",
-      "implementieren",
+      "e Planung",
+      "prüfen",
+      "e Phase",
       "planen"
     ],
     [
       "prüfen",
-      "planen",
-      "erheben",
-      "überführen"
+      "überprüfen",
+      "r Prüfpunkt",
+      "s Prüfmodell"
     ],
     [
       "r Bericht",
-      "r Fachbereich",
-      "r Vergleich",
-      "r Betrieb"
+      "berichten",
+      "überwachen",
+      "zielgerichtet"
     ],
     [
       "r Mehrwert",
-      "e Methodenreife",
-      "e Methode",
-      "r Bericht"
+      "r Projektmehrwert",
+      "integriert",
+      "derzeit"
     ],
     [
-      "r Projektnutzen",
-      "r Nutzenbeitrag",
-      "e Sitzung",
+      "einsetzen",
+      "umsetzen",
+      "notwendig",
       "r Nutzen"
     ],
     [
-      "r Projekt",
+      "prozessual",
       "r Prozess",
-      "r Standardprozess",
-      "r Projektstatus"
+      "r Regelprozess",
+      "e Prozessreife"
     ],
     [
       "r Vergleich",
-      "r Vergleichsmaßstab",
-      "e Vergabe",
-      "r Bericht"
+      "vergleichen",
+      "vergleichbar",
+      "im Vergleich"
     ],
     [
       "rechtzeitig",
-      "nachhaltig",
-      "eindeutig",
-      "technisch"
+      "gleichzeitig",
+      "frühzeitig",
+      "e Richtlinie"
     ],
     [
       "regelmäßig",
-      "rechtzeitig",
-      "konsensfähig",
-      "mittelfristig"
+      "zweckmäßig",
+      "r Regelbetrieb",
+      "gemäß"
     ],
     [
-      "rechtzeitig",
-      "konsensfähig",
+      "zweckmäßig",
+      "r Regelbetrieb",
       "regelmäßig",
-      "mittelfristig"
+      "gemäß"
     ],
     [
-      "rechtzeitig",
+      "zweckmäßig",
       "regelmäßig",
-      "anschlussfähig",
-      "konsensfähig"
+      "r Regelbetrieb",
+      "gemäß"
     ],
     [
-      "r Workshop",
-      "r Workflow",
-      "r Prozess",
+      "s Prüfwerkzeug",
+      "derzeit",
+      "e Verankerung",
       "s Werkzeug"
     ],
     [
-      "ausreichend",
+      "absichern",
       "sichern",
-      "im Kern",
-      "insofern"
+      "steuern",
+      "zwischen"
     ],
     [
       "sowohl als auch",
-      "nicht nur sondern auch",
-      "modellbasiert",
-      "je nach"
+      "gegebenenfalls auch",
+      "r Sollzustand",
+      "r Modellstand"
     ],
     [
-      "systematisch",
-      "strategisch",
+      "methodisch",
+      "taktisch",
       "technisch",
-      "verbindlich"
+      "fachlich"
     ],
     [
-      "stufenweise",
-      "schrittweise",
+      "wahlweise",
+      "e Arbeitsweise",
       "teilweise",
-      "projektweise"
+      "beispielsweise"
     ],
     [
       "trotz",
-      "alternativ",
-      "strukturell",
-      "unter Voraussetzung"
+      "e Strategie",
+      "r Datensatz",
+      "unterstützen"
     ],
     [
       "unter anderem",
-      "insbesondere",
-      "unter Voraussetzung",
-      "entweder oder"
+      "unter Vorbehalt",
+      "verankern",
+      "untergeordnet"
     ],
     [
-      "umsetzen",
+      "r Unterstützungsbedarf",
       "unterstützen",
-      "entlasten",
-      "übertragen"
-    ],
-    [
-      "definieren",
-      "vereinheitlichen",
-      "koordinieren",
-      "vereinbaren"
-    ],
-    [
-      "vereinheitlichen",
-      "bereitstellen",
-      "koordinieren",
-      "vereinbaren"
-    ],
-    [
-      "vergleichen",
-      "abgleichen",
-      "begleiten",
+      "e Unterstützungsleistung",
       "verstetigen"
     ],
     [
-      "notwendig",
-      "durchgängig",
-      "zweckmäßig",
-      "vollständig"
+      "e Zielvereinbarung",
+      "verfügbar",
+      "verankern",
+      "vereinbaren"
     ],
     [
-      "fortschreiben",
-      "ableiten",
+      "e Zielvereinbarung",
+      "verfügbar",
+      "definieren",
+      "vereinbaren"
+    ],
+    [
       "vergleichen",
-      "vorbereiten"
-    ],
-    [
-      "überwiegend",
-      "während",
-      "nachfolgend",
-      "flächendeckend"
-    ],
-    [
-      "kurzfristig",
-      "zusätzlich",
-      "frühzeitig",
-      "zukünftig"
-    ],
-    [
-      "justieren",
-      "zusammenarbeiten",
-      "harmonisieren",
-      "dokumentieren"
-    ],
-    [
-      "nachträglich",
-      "zusätzlich",
-      "hinsichtlich",
-      "ausschließlich"
+      "vergleichend",
+      "r Vergleich",
+      "vergleichbar"
     ],
     [
       "zuständig",
-      "nachträglich",
-      "zusätzlich",
-      "hinsichtlich"
-    ],
-    [
-      "insgesamt",
-      "objektbasiert",
-      "abgestimmt",
-      "anstatt"
+      "e Selbstständigkeit",
+      "r Sollzustand",
+      "vollständig"
     ],
     [
       "begleiten",
-      "abgleichen",
-      "berichten",
-      "überwachen"
+      "e Projektvorbereitung",
+      "bewerten",
+      "vorbereiten"
     ],
     [
-      "abhängig von",
-      "im Sinne von",
-      "in Anlehnung an",
-      "im Hinblick auf"
+      "ergänzend",
+      "während",
+      "r Rahmen",
+      "r Mehrwert"
+    ],
+    [
+      "künftig",
+      "zukunftsfähig",
+      "zuständig",
+      "zukünftig"
     ],
     [
       "vorbereiten",
-      "auswerten",
+      "zusammenarbeiten",
+      "e Datenreife",
+      "auswerten"
+    ],
+    [
+      "grundsätzlich",
+      "zusätzlich",
+      "zeitgleich",
+      "nämlich"
+    ],
+    [
+      "grundsätzlich",
+      "zeitgleich",
+      "zusätzlich",
+      "nämlich"
+    ],
+    [
       "abstimmen",
+      "e Abstimmung",
+      "abgestimmt",
+      "auf Sicht"
+    ],
+    [
+      "vergleichen",
+      "abgleichen",
+      "ableiten",
+      "ausreichend"
+    ],
+    [
+      "abhängig von",
+      "unabhängig von",
+      "e Abhängigkeit",
+      "in Abhängigkeit von"
+    ],
+    [
+      "abgleichen",
+      "begleiten",
+      "auf Seiten",
       "ableiten"
     ],
     [
-      "ausreichend",
-      "steuern",
-      "insofern",
+      "sichern",
+      "abgleichen",
+      "abstimmen",
       "absichern"
     ],
     [
-      "abschließen",
+      "e Abstimmung",
       "abstimmen",
-      "ableiten",
-      "abgleichen"
+      "abgestimmt",
+      "justieren"
     ],
     [
       "alternativ",
-      "außerhalb",
-      "qualitativ",
-      "datenbasiert"
+      "operativ",
+      "kooperativ",
+      "e Datenkoordination"
     ],
     [
       "analysieren",
-      "skalieren",
-      "normalisieren",
-      "standardisieren"
-    ],
-    [
-      "hingegen",
-      "bewerten",
-      "integrieren",
-      "angemessen"
-    ],
-    [
-      "messbar",
-      "anpassbar",
-      "verfügbar",
-      "steuerbar"
+      "validieren",
+      "e Analyse",
+      "visualisieren"
     ],
     [
       "messen",
       "anpassen",
       "anwenden",
-      "analysieren"
+      "angemessen"
     ],
     [
-      "auf Ebene",
-      "auf Sicht",
-      "auf Seiten",
+      "anpassen",
+      "anpassbar",
+      "r Anpassungsbedarf",
+      "belastbar"
+    ],
+    [
+      "anpassbar",
+      "anpassen",
+      "angemessen",
+      "entlasten"
+    ],
+    [
+      "e Datenbasis",
+      "auf Dauer",
+      "r Aufwand",
       "auf Basis"
     ],
     [
-      "auf Sicht",
-      "auf Seiten",
-      "datenbasiert",
+      "e Datenbasis",
+      "auf Dauer",
+      "auf Ebene",
       "auf Basis"
     ],
     [
       "auf Dauer",
+      "auf Basis",
+      "auf Seiten",
+      "auf Grundlage"
+    ],
+    [
+      "auf Seiten",
+      "auf Vorgabe",
+      "auf Ebene",
+      "erheben"
+    ],
+    [
       "aufgrund",
-      "auf Vorgabe",
-      "auf Ebene"
-    ],
-    [
       "auf Grundlage",
-      "auf Dauer",
-      "auf Ebene",
-      "auf Basis"
-    ],
-    [
-      "auf Dauer",
-      "auf Grundlage",
-      "auf Vorgabe",
-      "auf Ebene"
-    ],
-    [
-      "vorab",
-      "auf Vorgabe",
-      "auf Grundlage",
-      "auf Dauer"
-    ],
-    [
       "im Grundsatz",
-      "auf Dauer",
-      "außerhalb",
+      "grundlegend"
+    ],
+    [
+      "e Vorgabe",
+      "auf Vorgabe",
+      "e Vergabe",
+      "nach Maßgabe"
+    ],
+    [
+      "r Aufwand",
+      "auf Grundlage",
+      "auf Ebene",
       "aufgrund"
     ],
     [
-      "wirtschaftlich",
-      "kontinuierlich",
+      "anschließend",
+      "abschließen",
       "ausschließlich",
-      "zusätzlich"
+      "e Ausschreibung"
     ],
     [
-      "justieren",
-      "ableiten",
-      "zusammenarbeiten",
+      "bewerten",
+      "auf Seiten",
+      "anwenden",
       "auswerten"
     ],
     [
-      "priorisieren",
-      "organisieren",
-      "optimieren",
+      "e Automatisierung",
+      "r Automatisierungsgrad",
+      "normalisieren",
       "automatisieren"
     ],
     [
-      "vergleichen",
-      "abgleichen",
-      "befähigen",
+      "ableiten",
+      "bewerten",
+      "übergreifend",
       "begleiten"
     ],
     [
-      "vergleichbar",
-      "skalierbar",
+      "messbar",
+      "anpassbar",
       "belastbar",
-      "erweiterbar"
+      "verfügbar"
     ],
     [
-      "verstetigen",
-      "einsetzen",
-      "bewerten",
+      "e Schnittstelle",
+      "berichten",
+      "vereinbaren",
       "bereitstellen"
     ],
     [
-      "übergeordnet",
-      "objektbasiert",
+      "e Bewertung",
+      "befähigen",
       "bewährt",
-      "geprüft"
+      "bewerten"
     ],
     [
       "bewerten",
-      "begleiten",
-      "berichten",
-      "überprüfen"
+      "e Bewertung",
+      "auswerten",
+      "vorbereiten"
     ],
     [
-      "objektbasiert",
+      "e Datenbasis",
       "datenbasiert",
-      "standardisiert",
-      "harmonisiert"
+      "modellbasiert",
+      "e Datenqualität"
     ],
     [
-      "steuerbar",
+      "außerhalb",
       "dauerhaft",
-      "skalierbar",
-      "wirtschaftlich"
+      "e Datenreife",
+      "s Datenformat"
     ],
     [
       "definieren",
-      "optimieren",
-      "modellieren",
-      "vereinbaren"
+      "reflektieren",
+      "koordinieren",
+      "validieren"
     ],
     [
-      "jedoch",
-      "deshalb",
+      "je nach",
+      "dennoch",
       "demnach",
-      "dezentral"
+      "technisch"
     ],
     [
       "dennoch",
-      "dezentral",
-      "derzeit",
-      "vereinheitlicht"
+      "demnach",
+      "jedoch",
+      "je nach"
     ],
     [
-      "dezentral",
-      "operativ",
+      "s Werkzeug",
+      "r Mehrwert",
       "derzeit",
-      "insoweit"
+      "rechtzeitig"
     ],
     [
-      "derzeit",
-      "prozessual",
-      "gegebenenfalls",
+      "zentral",
+      "s Kernteam",
+      "digital",
       "dezentral"
     ],
     [
-      "normalisieren",
+      "visualisieren",
       "digitalisieren",
-      "validieren",
-      "automatisieren"
+      "r Digitalisierungsgrad",
+      "organisieren"
     ],
     [
       "dokumentieren",
-      "reflektieren",
-      "modellieren",
-      "kommunizieren"
+      "e Dokumentation",
+      "implementieren",
+      "kooperieren"
     ],
     [
       "durchgängig",
+      "zuständig",
+      "nachhaltig",
+      "kurzfristig"
+    ],
+    [
+      "zuständig",
       "vollständig",
-      "zweckmäßig",
-      "frühzeitig"
-    ],
-    [
-      "kurzfristig",
-      "gleichzeitig",
       "durchgängig",
-      "zweckmäßig"
+      "nachhaltig"
     ],
     [
-      "e Selbstständigkeit",
-      "e Anschlussfähigkeit",
+      "abhängig von",
+      "e Zuständigkeit",
       "e Abhängigkeit",
-      "e Umsetzungsfähigkeit"
+      "in Abhängigkeit von"
     ],
     [
       "e Abschlussphase",
-      "e Umsetzungsphase",
-      "e Übergangsphase",
-      "e Betriebsphase"
+      "anschlussfähig",
+      "e Entscheidungsphase",
+      "e Anschlussfähigkeit"
     ],
     [
-      "r Abstimmungsaufwand",
-      "e Sitzung",
+      "abstimmen",
+      "in Abstimmung mit",
       "e Abstimmung",
-      "e Pilotierung"
+      "r Abstimmungsbedarf"
     ],
     [
       "e Analyse",
-      "e Maßnahme",
-      "e Bauphase",
-      "r Handlungsrahmen"
-    ],
-    [
-      "r Projektleiter",
-      "e Arbeitsdatei",
-      "e Organisationsstrategie",
-      "r Projektkontext"
+      "analysieren",
+      "anpassen",
+      "e Phase"
     ],
     [
       "e Arbeitsweise",
-      "e Vorgehensweise",
-      "e Prozessreife",
-      "e Anwendungsreife"
+      "e Arbeitsdatei",
+      "r Projektstatus",
+      "übertragen"
     ],
     [
-      "e Visualisierung",
+      "e Arbeitsweise",
+      "e Standardarbeitsweise",
+      "schrittweise",
+      "e Arbeitsdatei"
+    ],
+    [
+      "automatisieren",
       "e Automatisierung",
-      "e Stabilisierung",
-      "e Priorisierung"
-    ],
-    [
-      "e Abschlussphase",
-      "e Bauphase",
-      "e Übergangsphase",
-      "e Betriebsphase"
-    ],
-    [
-      "r Bewertungsrahmen",
-      "e Bewertung",
-      "e Steuerung",
-      "e Erweiterung"
-    ],
-    [
-      "e Prozessintegration",
-      "e Datenkoordination",
-      "e Dokumentation",
-      "e Modellkoordination"
-    ],
-    [
-      "e Effizienz",
-      "e Konsistenz",
-      "e Vision",
-      "nutzen"
-    ],
-    [
-      "e Entwicklungsstufe",
-      "e Anwendungstiefe",
-      "e Anwendungsreife",
-      "e Entscheidungsphase"
-    ],
-    [
-      "e Terminplanung",
-      "e Erhaltung",
-      "r Verwaltungsprozess",
-      "e Bewertung"
-    ],
-    [
-      "e Skalierung",
-      "e Erhaltung",
-      "e Erweiterung",
-      "e Verankerung"
-    ],
-    [
-      "e Prozesskompetenz",
-      "e Projektkompetenz",
-      "e Fachkompetenz",
-      "e Umsetzungskompetenz"
-    ],
-    [
-      "e Schnittstelle",
-      "e Perspektive",
-      "e Initiative",
-      "e Linienfunktion"
-    ],
-    [
-      "s Informationsniveau",
-      "e Initiative",
-      "e Schnittstelle",
-      "e Perspektive"
-    ],
-    [
-      "e Kostenkontrolle",
-      "s Koordinationsmodell",
-      "e Rolle",
-      "e Datenreife"
-    ],
-    [
-      "r Zielrahmen",
-      "r Handlungsrahmen",
-      "e Maßnahme",
-      "r Umsetzungsrahmen"
-    ],
-    [
-      "r Zielrahmen",
-      "e Maßnahme",
-      "r Handlungsrahmen",
-      "r Standardrahmen"
-    ],
-    [
-      "e Modellentwicklung",
-      "e Modellierung",
-      "r Modellstand",
+      "r Automatisierungsgrad",
       "e Normalisierung"
     ],
     [
-      "r Projektleiter",
-      "r Projekt",
-      "e Projektgröße",
-      "e Perspektive"
+      "e Phase",
+      "e Bauphase",
+      "e Startphase",
+      "e Planungsphase"
     ],
     [
-      "e Planungskonsistenz",
-      "e Planung",
-      "e Planungsphase",
-      "e Normalisierungsphase"
+      "bewerten",
+      "e Bewertung",
+      "e Statusbewertung",
+      "e Nutzenbewertung"
     ],
     [
-      "e Modellentwicklung",
-      "e Weiterentwicklung",
-      "e Projektentwicklung",
-      "e Systementwicklung"
-    ],
-    [
-      "e Projektwirkung",
-      "e Projektabwicklung",
-      "e Projektvorbereitung",
-      "e Projekterfahrung"
-    ],
-    [
-      "r Projekterfolg",
-      "s Projektteam",
-      "r Projektpfad",
-      "e Projektgröße"
-    ],
-    [
-      "e Organisationskoordination",
-      "r Projektkontext",
-      "e Projektkoordination",
-      "e Prozessdefinition"
-    ],
-    [
-      "s Projektteam",
-      "e Projektphase",
-      "e Projektreife",
-      "r Projektumfang"
-    ],
-    [
-      "e Projektstruktur",
-      "e Datenstruktur",
-      "e Projektwirkung",
-      "r Projektleiter"
-    ],
-    [
-      "e Projektabwicklung",
-      "e Projektstruktur",
-      "e Projektvorbereitung",
-      "r Projektmehrwert"
-    ],
-    [
-      "e Richtlinie",
-      "e Wirtschaftlichkeit",
-      "e Vereinheitlichung",
-      "e Visualisierung"
-    ],
-    [
-      "e Projekterfahrung",
-      "r Übergang",
-      "e Rückmeldung",
-      "e Zielsetzung"
-    ],
-    [
-      "e Steuerungsfähigkeit",
-      "e Umsetzungsfähigkeit",
-      "e Selbstständigkeit",
-      "e Organisationsfähigkeit"
-    ],
-    [
+      "dokumentieren",
       "e Präsentation",
-      "e Vision",
-      "e Prozessintegration",
+      "e Dokumentation",
       "e Simulation"
     ],
     [
+      "e Effizienz",
+      "effizient",
+      "r Effizienztreiber",
+      "e Effizienzsteigerung"
+    ],
+    [
+      "e Entwicklungsstufe",
+      "r Entwicklungspfad",
+      "r Entwicklungszyklus",
+      "r Entwicklungsbedarf"
+    ],
+    [
       "e Erweiterung",
-      "r Umsetzungsplan",
-      "r Umsetzungsgrad",
+      "e Erhaltung",
+      "e Verantwortung",
+      "e Planableitung"
+    ],
+    [
+      "erweiterbar",
+      "r Erweiterungsbedarf",
+      "e Erweiterung",
+      "e Zielorientierung"
+    ],
+    [
+      "e Datenkompetenz",
+      "e Modellkompetenz",
+      "e Fachkompetenz",
+      "e Methodenkompetenz"
+    ],
+    [
+      "e Linienorganisation",
+      "s Informationsniveau",
+      "e Initiative",
+      "qualitativ"
+    ],
+    [
+      "operativ",
+      "e Initiative",
+      "anstatt",
+      "e Linienorganisation"
+    ],
+    [
+      "e Kostenkontrolle",
+      "e Kostensicherheit",
+      "s Datenmodell",
+      "strukturell"
+    ],
+    [
+      "r Maßnahmenkatalog",
+      "im Rahmen",
+      "e Maßnahme",
+      "r Methodenrahmen"
+    ],
+    [
+      "r Maßnahmenkatalog",
+      "e Maßnahme",
+      "im Rahmen",
+      "r Methodenrahmen"
+    ],
+    [
+      "modellieren",
+      "e Modellierung",
+      "e Modellprüfung",
+      "e Modellnutzung"
+    ],
+    [
+      "perspektivisch",
+      "verstetigen",
+      "e Projektreife",
+      "e Perspektive"
+    ],
+    [
+      "e Umsetzungsphase",
+      "e Übergangsphase",
+      "e Planungsphase",
+      "e Planungssicherheit"
+    ],
+    [
+      "e Prozessentwicklung",
+      "e Projektabwicklung",
+      "e Projektentwicklung",
+      "e Projektwirkung"
+    ],
+    [
+      "r Projektumfang",
+      "r Projekterfolg",
+      "e Projektentwicklung",
+      "e Projekterfahrung"
+    ],
+    [
+      "e Projektphase",
+      "projektweise",
+      "e Projektreife",
+      "e Projektgröße"
+    ],
+    [
+      "e Prozesskoordination",
+      "e Modellkoordination",
+      "e Projektkoordination",
+      "e Datenkoordination"
+    ],
+    [
+      "r Projektpfad",
+      "e Projektphase",
+      "projektweise",
+      "e Projektgröße"
+    ],
+    [
+      "e Projektstruktur",
+      "e Objektstruktur",
+      "r Projektstatus",
+      "r Projektzyklus"
+    ],
+    [
+      "e Projektkompetenz",
+      "e Projekterfahrung",
+      "e Projektvorbereitung",
+      "e Projektwirkung"
+    ],
+    [
+      "e Richtlinie",
+      "rechtzeitig",
+      "vereinheitlichen",
+      "e Modellierungsrichtlinie"
+    ],
+    [
+      "e Fortschreibung",
+      "e Reifegradmessung",
+      "e Rückmeldung",
+      "e Ausschreibung"
+    ],
+    [
+      "e Zuständigkeit",
+      "e Abhängigkeit",
+      "e Selbstständigkeit",
+      "e Anschlussfähigkeit"
+    ],
+    [
+      "simulieren",
+      "e Linienfunktion",
+      "e Dokumentation",
+      "e Simulation"
+    ],
+    [
+      "e Zielsetzung",
+      "e Skalierung",
+      "e Abstimmung",
       "e Sitzung"
     ],
     [
-      "e Normalisierung",
-      "e Automatisierung",
-      "e Konsolidierung",
+      "e Standardisierung",
+      "e Visualisierung",
+      "e Skalierung",
       "e Stabilisierung"
     ],
     [
-      "e Phase",
+      "e Bauphase",
       "e Startphase",
-      "e Planungsphase",
-      "e Umsetzungsphase"
+      "r Status",
+      "e Projektphase"
     ],
     [
-      "e Skalierung",
+      "steuern",
       "e Steuerung",
-      "r Steuerungsrahmen",
-      "r Steuerungsbedarf"
+      "steuerbar",
+      "r Steuerungsstatus"
     ],
     [
-      "e Strategieentwicklung",
+      "strategisch",
+      "r Strategiezyklus",
+      "e Strategie",
+      "r Strategieprozess"
+    ],
+    [
+      "e Planung",
+      "r Zeitplan",
+      "e Erhaltung",
+      "e Terminplanung"
+    ],
+    [
+      "transparent",
+      "e Transparenz",
+      "e Projekttransparenz",
+      "transparenz schaffen"
+    ],
+    [
+      "e Übergangsphase",
+      "e Umsetzungsphase",
+      "e Betriebsphase",
+      "r Übergang"
+    ],
+    [
+      "e Umsetzungsphase",
+      "e Betriebsphase",
+      "r Übergang",
+      "e Übergangsphase"
+    ],
+    [
+      "verantwortlich",
+      "e Linienverantwortung",
+      "e Verantwortung",
+      "e Verankerung"
+    ],
+    [
+      "e Simulation",
+      "optional",
+      "validieren",
+      "e Vision"
+    ],
+    [
+      "visualisieren",
+      "e Normalisierung",
+      "e Stabilisierung",
+      "e Visualisierung"
+    ],
+    [
+      "e Vergabe",
+      "s Vorhaben",
+      "e Vorgabe",
+      "vorab"
+    ],
+    [
+      "e Arbeitsweise",
+      "stufenweise",
+      "beispielsweise",
+      "e Vorgehensweise"
+    ],
+    [
+      "e Vorgabe",
+      "s Vorhaben",
+      "e Vorlage",
+      "vorab"
+    ],
+    [
+      "weiterentwickeln",
+      "e Weiterentwicklung",
+      "e Systementwicklung",
+      "e Datenentwicklung"
+    ],
+    [
+      "e Datenbasis",
+      "s Wissensmanagement",
+      "e Wissensbasis",
+      "konsensfähig"
+    ],
+    [
+      "e Zielorientierung",
+      "e Zielvereinbarung",
+      "e Zielsetzung",
+      "e Zielerreichung"
+    ],
+    [
+      "r Zielbezug",
+      "e Zielsetzung",
+      "e Zielerreichung",
+      "e Sitzung"
+    ],
+    [
+      "e Effizienz",
+      "r Effizienztreiber",
+      "effizient",
+      "e Effizienzsteigerung"
+    ],
+    [
+      "e Effizienz",
+      "r Effizienztreiber",
+      "effizient",
+      "validiert"
+    ],
+    [
+      "einheitlich",
+      "gleichzeitig",
+      "künftig",
+      "eindeutig"
+    ],
+    [
+      "vereinheitlicht",
+      "vereinheitlichen",
+      "einheitlich",
+      "e Vereinheitlichung"
+    ],
+    [
+      "vereinheitlicht",
+      "einheitlich",
+      "vereinheitlichen",
+      "e Vereinheitlichung"
+    ],
+    [
+      "umsetzen",
+      "nutzen",
+      "einsetzen",
+      "hingegen"
+    ],
+    [
+      "entlang",
+      "entlasten",
+      "r Zeitplan",
+      "e Terminplanung"
+    ],
+    [
+      "entlasten",
+      "entlang",
+      "anpassen",
+      "entwickeln"
+    ],
+    [
+      "ausreichend",
+      "entscheiden",
+      "entsprechend",
+      "integrieren"
+    ],
+    [
+      "ausreichend",
+      "entsprechend",
+      "entscheiden",
+      "übergreifend"
+    ],
+    [
+      "verbindlich",
+      "erforderlich",
+      "folglich",
+      "verantwortlich"
+    ],
+    [
+      "übergreifend",
+      "vergleichend",
+      "überwiegend",
+      "ergänzend"
+    ],
+    [
+      "während",
+      "übergreifend",
+      "vergleichend",
+      "ergänzend"
+    ],
+    [
+      "s Vorhaben",
+      "festlegen",
+      "erheben",
+      "fortschreiben"
+    ],
+    [
+      "e Erweiterung",
+      "erweiterbar",
+      "r Erweiterungsbedarf",
+      "steuerbar"
+    ],
+    [
+      "r Fachbereich",
+      "fachlich",
+      "nachträglich",
+      "technisch"
+    ],
+    [
+      "justieren",
+      "verstetigen",
+      "festlegen",
+      "reflektieren"
+    ],
+    [
+      "folglich",
+      "fachlich",
+      "bezüglich",
+      "r Vergleich"
+    ],
+    [
+      "r Zeitaufwand",
+      "fortlaufend",
+      "e Vorlage",
+      "festlegen"
+    ],
+    [
+      "r Zeitaufwand",
+      "fortlaufend",
+      "r Projektaufwand",
+      "e Vorlage"
+    ],
+    [
+      "rechtzeitig",
+      "gleichzeitig",
+      "frühzeitig",
+      "e Fortschreibung"
+    ],
+    [
+      "gegebenenfalls auch",
+      "r Lebenszyklus",
+      "im Einzelfall",
+      "gegebenenfalls"
+    ],
+    [
+      "gegebenenfalls",
+      "gegebenenfalls auch",
+      "r Lebenszyklus",
+      "im Regelfall"
+    ],
+    [
+      "gegebenenfalls auch",
+      "gegebenenfalls",
+      "sowohl als auch",
+      "r Kompetenzaufbau"
+    ],
+    [
+      "überprüfen",
+      "geprüft",
+      "e Modellprüfung",
+      "r Mehrwert"
+    ],
+    [
+      "überwiegend",
+      "hingegen",
+      "grundlegend",
+      "auf Grundlage"
+    ],
+    [
+      "zusätzlich",
+      "organisatorisch",
+      "grundsätzlich",
+      "einheitlich"
+    ],
+    [
+      "grundsätzlich",
+      "zusätzlich",
+      "organisatorisch",
+      "nämlich"
+    ],
+    [
+      "zusätzlich",
+      "organisatorisch",
+      "grundsätzlich",
+      "einheitlich"
+    ],
+    [
+      "einsetzen",
+      "definieren",
+      "hingegen",
+      "einführen"
+    ],
+    [
+      "im Ergebnis",
+      "im Vergleich",
+      "im Detail",
+      "im Übergang"
+    ],
+    [
+      "im Vergleich",
+      "im Übergang",
+      "im Ergebnis",
+      "im Kern"
+    ],
+    [
+      "im Fokus",
+      "im Kontext",
+      "infolge",
+      "im Hinblick auf"
+    ],
+    [
+      "im Ergebnis",
+      "im Fokus",
+      "infolge",
+      "im Grundsatz"
+    ],
+    [
+      "auf Grundlage",
+      "r Reifegradstatus",
+      "im Grundsatz",
+      "im Kontext"
+    ],
+    [
+      "im Rahmen",
+      "r Zielrahmen",
+      "r Rahmen",
+      "e Maßnahme"
+    ],
+    [
+      "r Zielrahmen",
+      "im Rahmen",
+      "r Rahmen",
+      "r Umsetzungsrahmen"
+    ],
+    [
+      "im Einzelfall",
+      "im Regelfall",
+      "im Detail",
+      "gegebenenfalls"
+    ],
+    [
+      "im Überblick",
+      "im Übergang",
+      "im Vergleich",
+      "im Wesentlichen"
+    ],
+    [
+      "r Übergang",
+      "im Überblick",
+      "im Übergang",
+      "im Kern"
+    ],
+    [
+      "r Übergang",
+      "im Überblick",
+      "im Kern",
+      "im Übergang"
+    ],
+    [
+      "implementieren",
+      "weiterentwickeln",
+      "vereinheitlichen",
+      "im Wesentlichen"
+    ],
+    [
+      "in Abstimmung mit",
+      "in Übereinstimmung mit",
+      "e Abstimmung",
+      "in Anlehnung an"
+    ],
+    [
+      "in Anlehnung an",
+      "im Hinblick auf",
+      "r Zielbezug",
+      "in Bezug auf"
+    ],
+    [
+      "insofern",
+      "insbesondere",
+      "unter anderem",
+      "r Mindeststandard"
+    ],
+    [
+      "insofern",
+      "insbesondere",
+      "unter anderem",
+      "integriert"
+    ],
+    [
+      "insofern",
+      "unter anderem",
+      "integrieren",
+      "insbesondere"
+    ],
+    [
+      "insoweit",
+      "insbesondere",
+      "konsolidieren",
+      "insofern"
+    ],
+    [
+      "integriert",
+      "etablieren",
+      "kontrollieren",
+      "integrieren"
+    ],
+    [
+      "integriert",
+      "integrieren",
+      "r Integrationsgrad",
+      "etabliert"
+    ],
+    [
+      "organisieren",
+      "kommunizieren",
+      "koordinieren",
+      "harmonisieren"
+    ],
+    [
+      "konsequent",
+      "konsistent",
+      "e Konsistenz",
+      "konsolidiert"
+    ],
+    [
+      "koordiniert",
+      "hinsichtlich",
+      "erforderlich",
+      "kontinuierlich"
+    ],
+    [
+      "e Kostensicherheit",
+      "kontinuierlich",
+      "verbindlich",
+      "optimieren"
+    ],
+    [
+      "kontrollierbar",
+      "kontrollieren",
+      "r Kontrollpunkt",
+      "nachvollziehbar"
+    ],
+    [
+      "operativ",
+      "kooperieren",
+      "kooperativ",
+      "alternativ"
+    ],
+    [
+      "koordinieren",
+      "konsolidieren",
+      "kooperieren",
+      "kommunizieren"
+    ],
+    [
+      "koordiniert",
+      "koordinieren",
+      "kooperieren",
+      "kommunizieren"
+    ],
+    [
+      "koordinieren",
+      "konsolidiert",
+      "koordiniert",
+      "priorisiert"
+    ],
+    [
+      "kurzfristig",
+      "langfristig",
+      "mittelfristig",
+      "künftig"
+    ],
+    [
+      "langfristig",
+      "mittelfristig",
+      "kurzfristig",
+      "künftig"
+    ],
+    [
+      "künftig",
+      "zukünftig",
+      "eindeutig",
+      "zukunftsfähig"
+    ],
+    [
+      "kurzfristig",
+      "mittelfristig",
+      "e Planungskonsistenz",
+      "langfristig"
+    ],
+    [
+      "langfristig",
+      "kurzfristig",
+      "mittelfristig",
+      "e Mengenermittlung"
+    ],
+    [
+      "messen",
+      "messbar",
+      "belastbar",
+      "steuerbar"
+    ],
+    [
+      "e Methode",
+      "technisch",
+      "methodisch",
+      "taktisch"
+    ],
+    [
+      "mittelfristig",
+      "langfristig",
+      "kurzfristig",
+      "r digitaler Zwilling"
+    ],
+    [
+      "langfristig",
+      "mittelfristig",
+      "kurzfristig",
+      "r digitaler Zwilling"
+    ],
+    [
+      "modellieren",
+      "e Modellierung",
+      "e Modellreife",
+      "modellbasiert"
+    ],
+    [
+      "verfolgen",
+      "nachvollziehen",
+      "e Fachkompetenz",
+      "nachfolgend"
+    ],
+    [
+      "nachfolgend",
+      "nachvollziehen",
+      "nach Maßgabe",
+      "nachhaltig"
+    ],
+    [
+      "fachlich",
+      "nachträglich",
+      "r Fachbereich",
+      "nämlich"
+    ],
+    [
+      "fachlich",
+      "nachträglich",
+      "r Fachbereich",
+      "nämlich"
+    ],
+    [
+      "e Nachvollziehbarkeit",
+      "nachvollziehen",
+      "reproduzierbar",
+      "nachvollziehbar"
+    ],
+    [
+      "e Nachvollziehbarkeit",
+      "nachvollziehen",
+      "nachvollziehbar",
+      "kontrollierbar"
+    ],
+    [
+      "nachvollziehbar",
+      "nachvollziehen",
+      "e Nachvollziehbarkeit",
+      "nachfolgend"
+    ],
+    [
+      "operativ",
+      "kooperativ",
+      "alternativ",
+      "e Perspektive"
+    ],
+    [
+      "operativ",
+      "kooperativ",
+      "alternativ",
+      "e Perspektive"
+    ],
+    [
+      "automatisieren",
+      "organisieren",
+      "validieren",
+      "optimieren"
+    ],
+    [
+      "e Organisationsreife",
+      "organisationsweit",
+      "organisatorisch",
+      "r Organisationspfad"
+    ],
+    [
+      "e Rolle",
+      "e Planableitung",
+      "prüfen",
+      "parallel"
+    ],
+    [
+      "stufenweise",
+      "wahlweise",
+      "phasenweise",
+      "projektweise"
+    ],
+    [
+      "stufenweise",
+      "wahlweise",
+      "phasenweise",
+      "e Datenreife"
+    ],
+    [
+      "r Prozess",
+      "priorisiert",
+      "e Prozessreife",
+      "präzise"
+    ],
+    [
+      "r Projektleiter",
+      "r Projektnutzen",
+      "projektbezogen",
+      "e Projektreife"
+    ],
+    [
+      "e Projektreife",
+      "r Projektleiter",
+      "e Projektphase",
+      "projektweise"
+    ],
+    [
+      "e Projektreife",
+      "r Projektleiter",
+      "projektweise",
+      "e Projektphase"
+    ],
+    [
+      "e Qualität",
+      "e Qualitätssicherung",
+      "qualitativ",
+      "e Qualitätssteigerung"
+    ],
+    [
+      "anstatt",
+      "r Datensatz",
+      "r Ansatz",
+      "e Transparenz"
+    ],
+    [
+      "r Aufwand",
+      "aufgrund",
+      "r Zeitaufwand",
+      "r Projektaufwand"
+    ],
+    [
+      "e Bauphase",
+      "e Planableitung",
+      "r Bauablauf",
+      "in Bezug auf"
+    ],
+    [
+      "r Regelbetrieb",
+      "e Betriebsphase",
+      "r Betrieb",
+      "übertragen"
+    ],
+    [
+      "r Ansatz",
+      "e Datenstruktur",
+      "r Datensatz",
+      "e Datenkonsistenz"
+    ],
+    [
+      "r Digitalisierungsgrad",
+      "r Standardisierungsgrad",
+      "r Automatisierungsgrad",
+      "digitalisieren"
+    ],
+    [
+      "r Fachbereich",
+      "r Geschäftsbereich",
+      "fachlich",
+      "nachträglich"
+    ],
+    [
+      "r Fortschritt",
+      "fortschreiben",
+      "e Fortschreibung",
+      "e Fortschrittsbewertung"
+    ],
+    [
+      "r Zielzustand",
+      "r Istzustand",
+      "r Umsetzungsstand",
+      "r Sollzustand"
+    ],
+    [
+      "kontrollieren",
+      "kontrollierbar",
+      "r Prüfpunkt",
+      "r Kontrollpunkt"
+    ],
+    [
+      "r Bauwerkslebenszyklus",
+      "r Umsetzungszyklus",
+      "lebenszyklusorientiert",
+      "r Lebenszyklus"
+    ],
+    [
+      "r Bauwerkslebenszyklus",
+      "r Umsetzungszyklus",
+      "r Lebenszyklus",
+      "lebenszyklusorientiert"
+    ],
+    [
+      "r Meilenstein",
+      "begleiten",
+      "e Modellkonsistenz",
+      "teilweise"
+    ],
+    [
+      "begleiten",
+      "e Modellkonsistenz",
+      "teilweise",
+      "r Meilenstein"
+    ],
+    [
+      "r Projektaufwand",
+      "r Projektpfad",
+      "r Projektnutzen",
+      "r Zeitaufwand"
+    ],
+    [
+      "r Projektumfang",
+      "e Projekterfahrung",
+      "e Projektwirkung",
+      "r Projekterfolg"
+    ],
+    [
+      "projektweise",
+      "e Projektreife",
+      "r Projektleiter",
+      "r Projektmehrwert"
+    ],
+    [
+      "projektbezogen",
+      "r Projektaufwand",
+      "s Projektteam",
+      "r Projektnutzen"
+    ],
+    [
+      "e Projektstruktur",
+      "r Projektzyklus",
+      "s Projektteam",
+      "r Projektstatus"
+    ],
+    [
+      "e Projektstruktur",
+      "r Projektzyklus",
+      "r Projektkontext",
+      "r Projektstatus"
+    ],
+    [
+      "r Projektzyklus",
+      "r Projektstatus",
+      "e Projektabwicklung",
+      "e Projektstruktur"
+    ],
+    [
+      "r Prüfpunkt",
+      "prüfen",
+      "r Projekt",
+      "r Kontrollpunkt"
+    ],
+    [
+      "e Qualitätssteigerung",
+      "e Qualitätssicherung",
+      "r Qualitätsstandard",
+      "r Mindeststandard"
+    ],
+    [
+      "im Rahmen",
+      "r Zielrahmen",
+      "daher",
+      "r Rahmen"
+    ],
+    [
+      "r Zielzustand",
+      "r Istzustand",
+      "r Sollzustand",
+      "r Modellstand"
+    ],
+    [
+      "r Standardumfang",
+      "r Standardrahmen",
+      "r Standard",
+      "standardisiert"
+    ],
+    [
+      "r Standardprozess",
+      "r Strategieprozess",
+      "r Standardrahmen",
+      "standardisiert"
+    ],
+    [
+      "r Status",
+      "stabil",
+      "e Startphase",
+      "strategisch"
+    ],
+    [
+      "stabil",
       "r Status",
       "e Strategie",
       "e Startphase"
     ],
     [
-      "e Vereinheitlichung",
-      "e Zielvereinbarung",
-      "e Verankerung",
-      "e Terminplanung"
-    ],
-    [
-      "e Organisationstransparenz",
-      "e Transparenz",
-      "r Ansatz",
-      "e Konsistenz"
-    ],
-    [
+      "im Übergang",
       "e Übergangsphase",
-      "e Planungsphase",
-      "e Entscheidungsphase",
-      "e Abschlussphase"
-    ],
-    [
-      "e Planungsphase",
-      "e Entscheidungsphase",
-      "e Bauphase",
-      "e Übergangsphase"
-    ],
-    [
-      "e Bewertung",
-      "e Reifegradbewertung",
-      "e Verantwortung",
-      "e Steuerungswirkung"
-    ],
-    [
-      "r Zielhorizont",
-      "e Effizienz",
-      "e Visualisierung",
-      "e Vision"
-    ],
-    [
-      "e Skalierung",
-      "e Automatisierung",
-      "e Standardisierung",
-      "e Visualisierung"
-    ],
-    [
-      "e Vorlage",
-      "e Governance",
-      "e Vorgabe",
-      "e Software"
-    ],
-    [
-      "e Prozessreife",
-      "e Standardarbeitsweise",
-      "e Organisationsreife",
-      "e Vorgehensweise"
-    ],
-    [
-      "e Vergabe",
-      "e Rolle",
-      "e Vorlage",
-      "e Governance"
-    ],
-    [
-      "e Reifegradentwicklung",
-      "e Weiterentwicklung",
-      "e Methodenentwicklung",
-      "e Prozessentwicklung"
-    ],
-    [
-      "e Wiederverwendbarkeit",
-      "r Meilenstein",
-      "e Wissensbasis",
-      "e Linienorganisation"
-    ],
-    [
-      "r Zielbezug",
-      "r Zielhorizont",
-      "e Weiterentwicklung",
-      "e Zielerreichung"
-    ],
-    [
-      "e Zielorientierung",
-      "e Zielsetzung",
-      "e Modellnutzung",
-      "e Zielvereinbarung"
-    ],
-    [
-      "validiert",
-      "etabliert",
-      "effizient",
-      "konsistent"
-    ],
-    [
-      "etabliert",
-      "koordiniert",
-      "effizient",
-      "konsistent"
-    ],
-    [
-      "rechtzeitig",
-      "langfristig",
-      "frühzeitig",
-      "eindeutig"
-    ],
-    [
-      "hinsichtlich",
-      "eindeutig",
-      "einheitlich",
-      "verantwortlich"
-    ],
-    [
-      "hinsichtlich",
-      "einheitlich",
-      "eindeutig",
-      "verantwortlich"
-    ],
-    [
-      "einführen",
-      "definieren",
-      "einsetzen",
-      "entscheiden"
-    ],
-    [
-      "entlang",
-      "dezentral",
-      "im Einzelfall",
-      "entwickeln"
-    ],
-    [
-      "entlasten",
-      "unterstützen",
-      "entscheiden",
-      "analysieren"
-    ],
-    [
-      "übergreifend",
-      "vergleichend",
-      "entsprechend",
-      "phasenübergreifend"
-    ],
-    [
-      "vergleichend",
-      "entsprechend",
-      "phasenübergreifend",
-      "verpflichtend"
-    ],
-    [
-      "kontinuierlich",
-      "erforderlich",
-      "fachlich",
-      "einheitlich"
-    ],
-    [
-      "während",
-      "grundlegend",
-      "fortlaufend",
-      "ergänzend"
-    ],
-    [
       "überwiegend",
-      "verpflichtend",
-      "grundlegend",
-      "ergänzend"
-    ],
-    [
-      "verfolgen",
-      "kooperieren",
-      "erheben",
-      "integrieren"
-    ],
-    [
-      "skalierbar",
-      "erweiterbar",
-      "reproduzierbar",
-      "vergleichbar"
-    ],
-    [
-      "folglich",
-      "fachlich",
-      "nämlich",
-      "bezüglich"
-    ],
-    [
-      "übertragen",
-      "abschließen",
-      "festlegen",
-      "projektbezogen"
-    ],
-    [
-      "folglich",
-      "erforderlich",
-      "nämlich",
-      "vergleichend"
-    ],
-    [
-      "übergreifend",
-      "fortlaufend",
-      "ergänzend",
-      "vergleichend"
-    ],
-    [
-      "übergreifend",
-      "fortlaufend",
-      "ergänzend",
-      "vergleichend"
-    ],
-    [
-      "künftig",
-      "nachhaltig",
-      "frühzeitig",
-      "langfristig"
-    ],
-    [
-      "im Regelfall",
-      "regional",
-      "weiterentwickeln",
-      "gegebenenfalls"
-    ],
-    [
-      "gegebenenfalls",
-      "im Einzelfall",
-      "regional",
-      "weiterentwickeln"
-    ],
-    [
-      "gegebenenfalls auch",
-      "im Regelfall",
-      "in Bezug auf",
-      "im Einzelfall"
-    ],
-    [
-      "übergeordnet",
-      "geprüft",
-      "untergeordnet",
-      "gemäß"
-    ],
-    [
-      "anschließend",
-      "grundsätzlich",
-      "grundlegend",
-      "nachfolgend"
-    ],
-    [
-      "nämlich",
-      "verantwortlich",
-      "grundsätzlich",
-      "verbindlich"
-    ],
-    [
-      "grundsätzlich",
-      "einheitlich",
-      "verantwortlich",
-      "erforderlich"
-    ],
-    [
-      "nämlich",
-      "verantwortlich",
-      "grundsätzlich",
-      "verbindlich"
-    ],
-    [
-      "festlegen",
-      "integrieren",
-      "hingegen",
-      "validieren"
-    ],
-    [
-      "im Ergebnis",
-      "im Überblick",
-      "im Einklang mit",
-      "im Regelfall"
-    ],
-    [
-      "im Detail",
-      "im Überblick",
-      "im Ergebnis",
-      "im Fokus"
-    ],
-    [
-      "im Fokus",
-      "im Ergebnis",
-      "im Rahmen",
-      "im Grundsatz"
-    ],
-    [
-      "im Kontext",
-      "im Fokus",
-      "im Hinblick auf",
-      "im Rahmen"
-    ],
-    [
-      "aufgrund",
-      "insgesamt",
-      "im Grundsatz",
-      "im Übergang"
-    ],
-    [
-      "im Rahmen",
-      "im Sinne von",
-      "im Kontext",
-      "parallel"
-    ],
-    [
-      "im Sinne von",
-      "im Rahmen",
-      "im Kontext",
-      "im Übergang"
-    ],
-    [
-      "im Vergleich",
-      "im Regelfall",
-      "regional",
-      "im Übergang"
-    ],
-    [
-      "im Überblick",
-      "im Hinblick auf",
-      "im Detail",
-      "im Ergebnis"
-    ],
-    [
-      "in Bezug auf",
-      "im Detail",
-      "im Übergang",
-      "im Vergleich"
-    ],
-    [
-      "in Bezug auf",
-      "im Ergebnis",
-      "im Detail",
-      "im Übergang"
-    ],
-    [
-      "im Widerspruch zu",
-      "im Überblick",
-      "im Vergleich",
-      "im Wesentlichen"
-    ],
-    [
-      "in Abstimmung mit",
-      "im Einklang mit",
-      "in Abhängigkeit von",
-      "in Bezug auf"
-    ],
-    [
-      "in Abstimmung mit",
-      "in Übereinstimmung mit",
-      "im Übergang",
-      "in Bezug auf"
-    ],
-    [
-      "insoweit",
-      "insbesondere",
-      "insgesamt",
-      "integriert"
-    ],
-    [
-      "insoweit",
-      "insbesondere",
-      "insgesamt",
-      "nicht nur sondern auch"
-    ],
-    [
-      "insoweit",
-      "integriert",
-      "insgesamt",
-      "insbesondere"
-    ],
-    [
-      "im Kern",
-      "absichern",
-      "sichern",
-      "insofern"
-    ],
-    [
-      "modellieren",
-      "kooperieren",
-      "analysieren",
-      "integrieren"
-    ],
-    [
-      "integriert",
-      "datenbasiert",
-      "untergeordnet",
-      "konsolidiert"
-    ],
-    [
-      "konsolidieren",
-      "kommunizieren",
-      "normalisieren",
-      "kontrollieren"
-    ],
-    [
-      "konsequent",
-      "transparent",
-      "koordiniert",
-      "insoweit"
-    ],
-    [
-      "kontrollierbar",
-      "ausschließlich",
-      "verbindlich",
-      "kontinuierlich"
-    ],
-    [
-      "kontrollierbar",
-      "kontinuierlich",
-      "erforderlich",
-      "einheitlich"
-    ],
-    [
-      "kontrollierbar",
-      "reproduzierbar",
-      "skalierbar",
-      "erweiterbar"
-    ],
-    [
-      "qualitativ",
-      "konsequent",
-      "kooperativ",
-      "vorab"
-    ],
-    [
-      "kontrollieren",
-      "dokumentieren",
-      "kooperieren",
-      "optimieren"
-    ],
-    [
-      "konsolidieren",
-      "koordinieren",
-      "kontrollieren",
-      "priorisieren"
-    ],
-    [
-      "normalisiert",
-      "standardisiert",
-      "koordiniert",
-      "validiert"
-    ],
-    [
-      "kurzfristig",
-      "zukünftig",
-      "durchgängig",
-      "zukunftsfähig"
-    ],
-    [
-      "zukünftig",
-      "durchgängig",
-      "kurzfristig",
-      "frühzeitig"
-    ],
-    [
-      "künftig",
-      "langfristig",
-      "kurzfristig",
-      "konsensfähig"
-    ],
-    [
-      "künftig",
-      "gleichzeitig",
-      "nachhaltig",
-      "langfristig"
-    ],
-    [
-      "langfristig",
-      "künftig",
-      "gleichzeitig",
-      "nachhaltig"
-    ],
-    [
-      "anpassbar",
-      "messbar",
-      "verfügbar",
-      "wiederholbar"
-    ],
-    [
-      "systematisch",
-      "fachlich",
-      "methodisch",
-      "bezüglich"
-    ],
-    [
-      "mittelfristig",
-      "regelmäßig",
-      "methodisch",
-      "eindeutig"
-    ],
-    [
-      "technisch",
-      "mittelfristig",
-      "regelmäßig",
-      "notwendig"
-    ],
-    [
-      "modellieren",
-      "kontrollieren",
-      "etablieren",
-      "skalieren"
-    ],
-    [
-      "nachvollziehbar",
-      "anschließend",
-      "nachträglich",
-      "nachfolgend"
-    ],
-    [
-      "nachvollziehbar",
-      "nachträglich",
-      "gleichzeitig",
-      "nachhaltig"
-    ],
-    [
-      "zusätzlich",
-      "nachträglich",
-      "nachfolgend",
-      "folglich"
-    ],
-    [
-      "ausschließlich",
-      "nachträglich",
-      "grundsätzlich",
-      "nachvollziehbar"
-    ],
-    [
-      "kontrollierbar",
-      "nachfolgend",
-      "vergleichbar",
-      "nachvollziehbar"
-    ],
-    [
-      "reproduzierbar",
-      "nachfolgend",
-      "nachvollziehbar",
-      "vergleichbar"
-    ],
-    [
-      "kontrollieren",
-      "nachvollziehen",
-      "harmonisieren",
-      "validieren"
-    ],
-    [
-      "operativ",
-      "qualitativ",
-      "derzeit",
-      "modellbasiert"
-    ],
-    [
-      "operativ",
-      "qualitativ",
-      "derzeit",
-      "modellbasiert"
-    ],
-    [
-      "definieren",
-      "koordinieren",
-      "quantifizieren",
-      "optimieren"
-    ],
-    [
-      "grundsätzlich",
-      "taktisch",
-      "organisatorisch",
-      "strategisch"
-    ],
-    [
-      "punktuell",
-      "normalisiert",
-      "im Rahmen",
-      "parallel"
-    ],
-    [
-      "beispielsweise",
-      "schrittweise",
-      "phasenweise",
-      "teilweise"
-    ],
-    [
-      "projektweise",
-      "beispielsweise",
-      "phasenweise",
-      "schrittweise"
-    ],
-    [
-      "phasenweise",
-      "projektweise",
-      "prozessual",
-      "präzise"
-    ],
-    [
-      "reflektieren",
-      "festlegen",
-      "projektbezogen",
-      "umsetzen"
-    ],
-    [
-      "phasenweise",
-      "teilweise",
-      "stufenweise",
-      "projektweise"
-    ],
-    [
-      "phasenweise",
-      "teilweise",
-      "projektweise",
-      "stufenweise"
-    ],
-    [
-      "kooperativ",
-      "operativ",
-      "qualitativ",
-      "anstatt"
-    ],
-    [
-      "e Konsistenz",
-      "r Standard",
-      "r Ansatz",
-      "e Datenkonsistenz"
-    ],
-    [
-      "r Aufwand",
-      "r Steuerungsaufwand",
-      "r Ressourcenaufwand",
-      "r Istzustand"
-    ],
-    [
-      "r Handlungsbedarf",
-      "s Bauteil",
-      "r Bauablauf",
-      "r Bau"
-    ],
-    [
-      "r Bericht",
-      "r Mehrwert",
-      "r Betrieb",
-      "s Leitprinzip"
-    ],
-    [
-      "e Datenbasis",
-      "s Datenformat",
-      "r Datensatz",
-      "e Datenqualität"
-    ],
-    [
-      "r Digitalisierungsgrad",
-      "r Strukturierungsgrad",
-      "e Normalisierungsphase",
-      "e Visualisierung"
-    ],
-    [
-      "r Fachbereich",
-      "s Fachmodell",
-      "r Bericht",
-      "e Fachkompetenz"
-    ],
-    [
-      "r Fortschritt",
-      "e Kostensicherheit",
-      "e Informationsqualität",
-      "e Terminsicherheit"
-    ],
-    [
-      "r Zeitaufwand",
-      "r Istzustand",
-      "r Umsetzungsstatus",
-      "r Modellstand"
-    ],
-    [
-      "e Konsolidierung",
-      "r Entscheidungspunkt",
-      "r Koordinationsaufwand",
-      "r Kontrollpunkt"
-    ],
-    [
-      "r Projektzyklus",
-      "r Strategiezyklus",
-      "r Entwicklungszyklus",
-      "r Lebenszyklus"
-    ],
-    [
-      "r Projektzyklus",
-      "r Strategiezyklus",
-      "r Lebenszyklus",
-      "r Entwicklungszyklus"
-    ],
-    [
-      "r Meilenstein",
-      "e Effizienzsteigerung",
-      "e Umsetzungstiefe",
-      "e Modellierungsrichtlinie"
-    ],
-    [
-      "e Effizienzsteigerung",
-      "s Kompetenzteam",
-      "e Umsetzungstiefe",
-      "r Meilenstein"
-    ],
-    [
-      "r Projektaufwand",
-      "r Projektumfang",
-      "e Projekttransparenz",
-      "r Projekterfolg"
-    ],
-    [
-      "r Projektpfad",
-      "r Projektmehrwert",
-      "e Projektreife",
-      "r Projekterfolg"
-    ],
-    [
-      "r Projektkontext",
-      "r Projektstatus",
-      "r Projektleiter",
-      "e Projektstruktur"
-    ],
-    [
-      "r Projektumfang",
-      "e Projektphase",
-      "e Projektgröße",
-      "r Projektnutzen"
-    ],
-    [
-      "r Projektpfad",
-      "e Projektphase",
-      "r Projektleiter",
-      "r Projektstatus"
-    ],
-    [
-      "s Projektteam",
-      "r Projektpfad",
-      "e Projekterfahrung",
-      "r Projektstatus"
-    ],
-    [
-      "r Projektzyklus",
-      "e Projektentwicklung",
-      "r Lebenszyklus",
-      "e Projektwirkung"
-    ],
-    [
-      "r Prüfpunkt",
-      "s Prüfmodell",
-      "s Prüfwerkzeug",
-      "s Prüfkriterium"
-    ],
-    [
-      "e Qualität",
-      "r Standard",
-      "r Qualitätsstandard",
-      "e Organisationstransparenz"
-    ],
-    [
-      "r Ordnungsrahmen",
-      "r Standardrahmen",
-      "r Methodenrahmen",
-      "r Rahmen"
-    ],
-    [
-      "r Umsetzungsstand",
-      "e Modellkonsistenz",
-      "r Sollzustand",
-      "e Modellnutzung"
-    ],
-    [
-      "r Mindeststandard",
-      "r Standardprozess",
-      "r Standard",
-      "e Standardisierung"
-    ],
-    [
-      "r Standardprozess",
-      "r Standardumfang",
-      "e Standardarbeitsweise",
-      "r Standardisierungsgrad"
-    ],
-    [
-      "r Status",
-      "e Strategie",
-      "r Projektstatus",
-      "e Statusbewertung"
-    ],
-    [
-      "r Projektstatus",
-      "r Status",
-      "r Reifegradstatus",
-      "e Statusbewertung"
-    ],
-    [
-      "e Vergabe",
-      "e Bewertung",
-      "e Befähigung",
       "r Übergang"
     ],
     [
-      "s Vorhaben",
+      "r Workshop",
       "r Workflow",
-      "r Anwendungskatalog",
-      "r Objektkatalog"
+      "s Werkzeug",
+      "wirtschaftlich"
     ],
     [
       "r Workshop",
-      "e Fortschreibung",
-      "r Organisationspfad",
-      "s Vorhaben"
+      "r Workflow",
+      "r Fortschritt",
+      "s Werkzeug"
     ],
     [
-      "r Zielzustand",
-      "r Steuerungsaufwand",
-      "r Ressourcenaufwand",
+      "r Aufwand",
+      "r Projektaufwand",
+      "r Zeitplan",
       "r Zeitaufwand"
     ],
     [
-      "e Terminplanung",
+      "zentral",
       "r Zeitplan",
-      "s Leitprinzip",
-      "r Zielzustand"
+      "entlang",
+      "r Zeitaufwand"
     ],
     [
-      "r Modellstand",
+      "r Istzustand",
       "r Zielzustand",
-      "s Zielbild",
-      "e Zielsetzung"
+      "r Sollzustand",
+      "r Umsetzungsstand"
     ],
     [
-      "etablieren",
+      "implementieren",
       "reflektieren",
-      "strukturieren",
-      "skalieren"
+      "definieren",
+      "dokumentieren"
     ],
     [
       "regional",
-      "gegebenenfalls",
-      "zentral",
-      "übergeordnet"
+      "optional",
+      "digital",
+      "im Regelfall"
     ],
     [
-      "transparent",
-      "zielgerichtet",
-      "konsequent",
+      "e Zieldefinition",
+      "e Reifegradstufe",
+      "laut",
       "relevant"
     ],
     [
-      "priorisiert",
-      "laut",
+      "r Prozess",
+      "r Projekt",
       "robust",
-      "harmonisiert"
-    ],
-    [
-      "e Arbeitsweise",
-      "e Bauphase",
-      "e Strategie",
-      "s Bauteil"
-    ],
-    [
-      "e Datenkoordination",
-      "e Datenkompetenz",
-      "s Datenformat",
-      "e Datenanforderung"
-    ],
-    [
-      "s Projektteam",
-      "s Werkzeug",
-      "r Meilenstein",
-      "s Kernteam"
-    ],
-    [
-      "e Projektreife",
-      "e Projektphase",
-      "s Projektteam",
-      "r Projektnutzen"
-    ],
-    [
-      "s Vorhaben",
-      "e Vorlage",
-      "e Vergabe",
-      "r Rahmen"
-    ],
-    [
-      "wahlweise",
-      "teilweise",
-      "schrittweise",
-      "stufenweise"
-    ],
-    [
-      "phasenweise",
-      "schrittweise",
-      "teilweise",
-      "projektweise"
-    ],
-    [
-      "visualisieren",
-      "simulieren",
-      "strukturieren",
-      "kommunizieren"
-    ],
-    [
-      "stabil",
-      "normalisiert",
-      "konsolidiert",
       "somit"
     ],
     [
-      "wahlweise",
-      "stabil",
-      "sowie",
-      "präzise"
+      "aktuell",
+      "r Bau",
+      "laut",
+      "s Bauteil"
     ],
     [
-      "phasenweise",
-      "wahlweise",
-      "sowie",
-      "stabil"
+      "s Datenmodell",
+      "e Datenstruktur",
+      "s Datenformat",
+      "r Datensatz"
+    ],
+    [
+      "s Kompetenzteam",
+      "zentral",
+      "dezentral",
+      "s Kernteam"
+    ],
+    [
+      "r Projektpfad",
+      "r Projektkontext",
+      "s Projektteam",
+      "r Projekt"
+    ],
+    [
+      "s Vorhaben",
+      "e Vorgabe",
+      "erheben",
+      "vorab"
+    ],
+    [
+      "e Schnittstelle",
+      "e Arbeitsweise",
+      "schrittweise",
+      "phasenweise"
+    ],
+    [
+      "e Schnittstelle",
+      "schrittweise",
+      "e Arbeitsweise",
+      "wahlweise"
+    ],
+    [
+      "skalieren",
+      "simulieren",
+      "etablieren",
+      "e Simulation"
     ],
     [
       "sowie",
+      "insoweit",
+      "robust",
+      "somit"
+    ],
+    [
       "somit",
-      "stabil",
-      "aktuell"
+      "e Software",
+      "sowie",
+      "insoweit"
     ],
     [
-      "absichern",
-      "im Kern",
-      "insofern",
+      "somit",
+      "e Software",
+      "sowie",
+      "insoweit"
+    ],
+    [
+      "r Status",
+      "etabliert",
+      "stabil",
+      "e Stabilisierung"
+    ],
+    [
+      "e Steuerung",
+      "steuerbar",
+      "sichern",
       "steuern"
     ],
     [
-      "systematisch",
+      "e Strategie",
       "strategisch",
-      "perspektivisch",
+      "r Strategiezyklus",
+      "taktisch"
+    ],
+    [
+      "strategisch",
+      "e Strategie",
+      "r Strategiezyklus",
+      "r Strategieprozess"
+    ],
+    [
+      "strukturell",
+      "r Strukturierungsgrad",
+      "strukturieren",
+      "simulieren"
+    ],
+    [
+      "phasenweise",
+      "e Vorgehensweise",
+      "stufenweise",
+      "schrittweise"
+    ],
+    [
+      "stufenweise",
+      "phasenweise",
+      "teilweise",
+      "e Vorgehensweise"
+    ],
+    [
+      "e Systementwicklung",
+      "systematisch",
+      "taktisch",
       "technisch"
     ],
     [
       "strategisch",
-      "taktisch",
+      "e Systementwicklung",
       "systematisch",
-      "perspektivisch"
+      "taktisch"
     ],
     [
-      "justieren",
-      "automatisieren",
-      "strukturieren",
-      "skalieren"
-    ],
-    [
-      "teilweise",
-      "projektweise",
-      "stufenweise",
-      "wahlweise"
-    ],
-    [
-      "stufenweise",
-      "schrittweise",
-      "projektweise",
-      "beispielsweise"
-    ],
-    [
-      "strategisch",
-      "systematisch",
-      "organisatorisch",
-      "methodisch"
-    ],
-    [
-      "technisch",
-      "perspektivisch",
-      "systematisch",
-      "organisatorisch"
-    ],
-    [
-      "konsequent",
-      "konsistent",
-      "anstatt",
+      "e Transparenz",
+      "e Projekttransparenz",
+      "transparenz schaffen",
       "transparent"
     ],
     [
-      "konsequent",
+      "e Transparenz",
       "transparent",
-      "konsistent",
-      "anstatt"
+      "e Projekttransparenz",
+      "transparenz schaffen"
     ],
     [
-      "im Wesentlichen",
-      "präzise",
+      "e Transparenz",
+      "transparent",
       "transparenz schaffen",
-      "parallel"
+      "e Toollandschaft"
     ],
     [
-      "unterstützen",
-      "messen",
+      "einsetzen",
+      "r Umsetzungsplan",
       "umsetzen",
-      "verstetigen"
+      "r Umsetzungsgrad"
     ],
     [
       "unabhängig von",
-      "in Anlehnung an",
-      "im Sinne von",
-      "nach Maßgabe"
+      "abhängig von",
+      "in Abhängigkeit von",
+      "e Abhängigkeit"
     ],
     [
       "untergeordnet",
-      "übergeordnet",
-      "unter anderem",
-      "integriert"
+      "unter Vorbehalt",
+      "unter Voraussetzung",
+      "unterstützen"
     ],
     [
-      "prüfen",
-      "überführen",
+      "übertragen",
+      "übergreifend",
       "überprüfen",
-      "berichten"
+      "überwachen"
     ],
     [
-      "überwachen",
-      "verfolgen",
-      "übertragen",
-      "befähigen"
-    ],
-    [
-      "überwachen",
-      "übertragen",
-      "berichten",
-      "bewerten"
-    ],
-    [
-      "grundlegend",
+      "überprüfen",
       "überwiegend",
-      "ergänzend",
-      "phasenübergreifend"
-    ],
-    [
-      "verankern",
-      "verbindlich",
-      "verantwortlich",
-      "einheitlich"
-    ],
-    [
-      "überführen",
       "übertragen",
-      "verfolgen",
-      "vergleichen"
+      "überführen"
     ],
     [
-      "belastbar",
-      "messbar",
-      "wiederholbar",
+      "überwachen",
+      "überwiegend",
+      "überprüfen",
+      "überführen"
+    ],
+    [
+      "überwachen",
+      "überwiegend",
+      "übergreifend",
+      "übertragen"
+    ],
+    [
+      "e Verantwortung",
+      "vereinheitlicht",
+      "verantwortlich",
+      "erforderlich"
+    ],
+    [
+      "infolge",
+      "verstetigen",
+      "verfolgen",
+      "nachfolgend"
+    ],
+    [
+      "vereinbaren",
+      "vergleichbar",
+      "r Reifegrad",
       "verfügbar"
     ],
     [
       "vergleichbar",
-      "verfügbar",
-      "erweiterbar",
+      "vergleichen",
+      "r Vergleich",
+      "vergleichend"
+    ],
+    [
+      "vergleichend",
+      "vergleichen",
+      "vergleichbar",
       "verpflichtend"
     ],
     [
       "vergleichend",
-      "übergreifend",
-      "ausreichend",
-      "ergänzend"
-    ],
-    [
-      "entsprechend",
-      "vergleichbar",
-      "ausreichend",
+      "berichten",
+      "e Verbindlichkeit",
       "verpflichtend"
     ],
     [
-      "validieren",
+      "e Visualisierung",
       "visualisieren",
-      "simulieren",
-      "organisieren"
+      "digitalisieren",
+      "normalisieren"
     ],
     [
       "vorab",
-      "auf Vorgabe",
-      "innerhalb",
-      "außerhalb"
+      "e Vorgabe",
+      "s Vorhaben",
+      "e Vergabe"
     ],
     [
-      "stufenweise",
-      "beispielsweise",
-      "sowie",
+      "teilweise",
+      "schrittweise",
+      "phasenweise",
       "wahlweise"
     ],
     [
       "weiterentwickeln",
-      "im Wesentlichen",
-      "zeitgleich",
-      "strukturell"
+      "e Weiterentwicklung",
+      "e Reifegradentwicklung",
+      "entwickeln"
     ],
     [
-      "verfügbar",
-      "belastbar",
-      "wiederholbar",
-      "messbar"
-    ],
-    [
-      "dezentral",
       "innerhalb",
-      "prozessual",
+      "e Wiederverwendbarkeit",
+      "wiederholbar",
+      "steuerbar"
+    ],
+    [
+      "s Kernteam",
+      "r Nutzenbeitrag",
+      "r Zeitplan",
       "zentral"
     ],
     [
-      "zukünftig",
-      "notwendig",
+      "e Zuständigkeit",
+      "vollständig",
       "zuständig",
-      "zukunftsfähig"
+      "durchgängig"
     ],
     [
-      "aufgrund",
-      "klar",
-      "lebenszyklusorientiert",
+      "auf Vorgabe",
+      "r Zielhorizont",
+      "zentral",
       "zuvor"
     ],
     [
-      "auf Sicht",
+      "auswerten",
       "auf Seiten",
-      "auf Dauer",
+      "auf Ebene",
+      "ableiten"
+    ],
+    [
+      "auf Seiten",
+      "auf Sicht",
+      "r Bericht",
       "auf Basis"
     ],
     [
-      "auf Ebene",
-      "auf Sicht",
-      "abgestimmt",
-      "auf Dauer"
-    ],
-    [
-      "überführen",
-      "definieren",
+      "e Befähigung",
+      "begleiten",
       "befähigen",
-      "übertragen"
+      "bewährt"
     ],
     [
-      "fachlich",
-      "nämlich",
-      "methodisch",
+      "zeitgleich",
+      "folglich",
+      "r Vergleich",
       "bezüglich"
     ],
     [
-      "fachlich",
-      "verbindlich",
+      "zeitgleich",
+      "folglich",
       "bezüglich",
-      "nämlich"
+      "r Vergleich"
     ],
     [
-      "e Methodenkompetenz",
-      "e Datenkompetenz",
-      "r Anwendungskatalog",
+      "e Umsetzungskompetenz",
+      "e Steuerungskompetenz",
+      "e Anwendungstiefe",
       "e Anwendungskompetenz"
     ],
     [
-      "e Zielerreichung",
-      "e Zielvereinbarung",
+      "e Fortschreibung",
+      "ausschließlich",
       "e Ausschreibung",
-      "e Qualitätssicherung"
+      "fortschreiben"
     ],
     [
       "e Befähigung",
-      "e Ausschreibung",
-      "r Übergang",
-      "e Zielerreichung"
+      "befähigen",
+      "e Bewertung",
+      "e Erhaltung"
     ],
     [
       "e Betriebsphase",
-      "e Umsetzungsphase",
-      "e Startphase",
-      "e Planungsphase"
+      "r Betrieb",
+      "e Übergangsphase",
+      "e Abschlussphase"
     ],
     [
-      "e Umsetzungsphase",
-      "e Startphase",
-      "e Konsolidierungsphase",
+      "r Betrieb",
+      "e Übergangsphase",
+      "e Abschlussphase",
       "e Betriebsphase"
     ],
     [
-      "e Datenentwicklung",
+      "e Lieferanforderung",
       "e Datenanforderung",
-      "s Datenmodell",
-      "s Datenformat"
+      "e Mindestanforderung",
+      "e Datenumgebung"
     ],
     [
-      "r Datensatz",
-      "e Datenkonsistenz",
-      "e Datenqualität",
+      "datenbasiert",
+      "e Wissensbasis",
+      "auf Basis",
       "e Datenbasis"
     ],
     [
-      "e Systementwicklung",
-      "e Strategieentwicklung",
-      "e Prozessentwicklung",
+      "e Weiterentwicklung",
+      "e Methodenentwicklung",
+      "e Modellentwicklung",
       "e Datenentwicklung"
     ],
     [
-      "e Modellkompetenz",
-      "e Prozesskompetenz",
+      "e Datenkonsistenz",
+      "e Fachkompetenz",
       "e Datenkompetenz",
-      "e Projektkompetenz"
+      "e Methodenkompetenz"
     ],
     [
-      "e Planungskonsistenz",
-      "e Konsistenz",
+      "e Datenkompetenz",
+      "e Modellkonsistenz",
       "e Datenkonsistenz",
-      "r Datensatz"
+      "e Prozesskonsistenz"
     ],
     [
-      "e Organisationskoordination",
-      "e Datenkonsistenz",
+      "e Modellkoordination",
+      "e Prozesskoordination",
       "e Datenkoordination",
-      "s Datenformat"
+      "e Projektkoordination"
     ],
     [
       "e Datenqualität",
-      "e Ergebnisqualität",
-      "e Umsetzungsqualität",
-      "e Informationsqualität"
-    ],
-    [
-      "e Qualität",
-      "e Datenqualität",
+      "e Modellqualität",
       "e Prozessqualität",
-      "e Umsetzungsqualität"
+      "e Qualität"
+    ],
+    [
+      "e Ergebnisqualität",
+      "e Datenqualität",
+      "e Modellqualität",
+      "datenbasiert"
     ],
     [
       "e Datenstruktur",
-      "r Datensatz",
-      "e Datenentwicklung",
-      "s Datenformat"
+      "e Objektstruktur",
+      "e Projektstruktur",
+      "e Organisationsstruktur"
     ],
     [
       "e Datenumgebung",
-      "e Datenentwicklung",
-      "e Nutzenbewertung",
-      "e Datenreife"
-    ],
-    [
-      "e Zielorientierung",
-      "e Effizienz",
-      "e Effizienzsteigerung",
+      "e Datenanforderung",
+      "e Datenkompetenz",
       "e Steuerung"
     ],
     [
-      "e Entscheidungsfähigkeit",
-      "e Entscheidungsqualität",
+      "r Effizienztreiber",
+      "e Qualitätssteigerung",
+      "e Effizienzsteigerung",
+      "effizient"
+    ],
+    [
+      "e Entscheidungslogik",
+      "r Entscheidungsbedarf",
       "e Entscheidungsbefugnis",
-      "e Entscheidungsgrundlage"
+      "r Entscheidungspunkt"
     ],
     [
       "e Entscheidungsfähigkeit",
-      "e Entscheidungslogik",
-      "r Entscheidungspunkt",
-      "e Anschlussfähigkeit"
-    ],
-    [
-      "e Entscheidungsgrundlage",
-      "e Entscheidungsqualität",
-      "e Entscheidungslogik",
+      "e Umsetzungsfähigkeit",
+      "e Steuerungsfähigkeit",
       "e Entscheidungsbefugnis"
     ],
     [
       "e Entscheidungsgrundlage",
       "e Entscheidungsphase",
-      "e Entscheidungsfähigkeit",
-      "e Entscheidungsqualität"
+      "r Entscheidungsbedarf",
+      "r Entscheidungspunkt"
     ],
     [
-      "e Modellqualität",
-      "e Entscheidungsqualität",
-      "e Qualität",
+      "r Entscheidungspunkt",
+      "e Entscheidungsphase",
+      "e Entscheidungslogik",
+      "r Entscheidungsbedarf"
+    ],
+    [
+      "e Umsetzungsqualität",
+      "e Prozessqualität",
+      "e Datenqualität",
       "e Ergebnisqualität"
     ],
     [
       "e Fortschreibung",
-      "e Fortschrittsbewertung",
-      "e Rückmeldung",
-      "e Projektvorbereitung"
+      "fortschreiben",
+      "e Ausschreibung",
+      "r Fortschritt"
     ],
     [
-      "e Fortschrittsbewertung",
-      "e Rückmeldung",
+      "fortschreiben",
+      "e Ausschreibung",
       "e Fortschreibung",
-      "e Projektvorbereitung"
+      "r Fortschritt"
     ],
     [
-      "r Fortschritt",
-      "e Reifegradbewertung",
-      "e Nutzenbewertung",
+      "e Wirksamkeitsbewertung",
+      "e Statusbewertung",
+      "e Fortschreibung",
       "e Fortschrittsbewertung"
     ],
     [
       "e Governance",
-      "e Vorgabe",
-      "r Übergang",
-      "e Vorlage"
+      "e Vergabe",
+      "verankern",
+      "demnach"
     ],
     [
-      "e Mengenermittlung",
-      "e Datenumgebung",
-      "e Anwendungskompetenz",
+      "r Handlungsrahmen",
+      "r Handlungsbedarf",
+      "r Ordnungsrahmen",
       "e Handlungsempfehlung"
     ],
     [
       "e Informationsqualität",
-      "e Datenqualität",
-      "e Umsetzungsqualität",
-      "e Prozessqualität"
+      "r Informationsgehalt",
+      "s Informationsmanagement",
+      "s Informationsniveau"
     ],
     [
       "e Kapazität",
-      "e Modellqualität",
-      "e Planableitung",
-      "e Prozessqualität"
+      "e Qualität",
+      "e Datenqualität",
+      "validiert"
     ],
     [
-      "e Modellkonsistenz",
-      "e Prozesskonsistenz",
-      "e Planungskonsistenz",
+      "konsistent",
+      "e Datenkonsistenz",
+      "konsequent",
       "e Konsistenz"
     ],
     [
-      "r Konsolidierungsbedarf",
+      "konsolidieren",
       "e Konsolidierung",
-      "e Normalisierung",
-      "e Modellierung"
+      "konsolidiert",
+      "e Konsolidierungsphase"
     ],
     [
       "e Konsolidierungsphase",
-      "e Entscheidungsphase",
-      "r Digitalisierungsgrad",
-      "r Standardisierungsbedarf"
+      "r Konsolidierungsbedarf",
+      "e Normalisierungsphase",
+      "e Konsolidierung"
     ],
     [
-      "e Zuständigkeit",
-      "e Kostenkontrolle",
-      "e Kostensicherheit",
-      "r Fortschritt"
-    ],
-    [
+      "e Terminsicherheit",
       "e Planungssicherheit",
-      "e Landesbehörde",
-      "r Mindeststandard",
-      "r Regelbetrieb"
+      "e Kostensicherheit",
+      "e Steuerbarkeit"
     ],
     [
-      "e Verantwortung",
-      "s Lieferobjekt",
-      "e Verankerung",
+      "r Handlungsbedarf",
+      "e Landesbehörde",
+      "e Mindestanforderung",
+      "e Handlungsempfehlung"
+    ],
+    [
+      "e Datenanforderung",
+      "e Mindestanforderung",
+      "e Linienverantwortung",
       "e Lieferanforderung"
     ],
     [
-      "e Simulation",
-      "e Präsentation",
+      "e Linienorganisation",
+      "e Zieldefinition",
       "e Linienfunktion",
-      "e Anwendungstiefe"
-    ],
-    [
-      "e Linienverantwortung",
-      "e Erweiterung",
-      "e Mengenermittlung",
-      "e Reifegradentwicklung"
-    ],
-    [
-      "e Methodenentwicklung",
-      "e Projektentwicklung",
-      "e Systementwicklung",
-      "e Prozessentwicklung"
-    ],
-    [
-      "e Fachkompetenz",
-      "e Methodenkompetenz",
-      "e Anwendungskompetenz",
-      "e Prozesskompetenz"
-    ],
-    [
-      "e Mindestanforderung",
-      "e Modellierung",
-      "e Standardisierung",
       "e Linienverantwortung"
     ],
     [
+      "e Methodenentwicklung",
+      "e Modellentwicklung",
+      "e Mengenermittlung",
+      "e Weiterentwicklung"
+    ],
+    [
+      "e Methodenentwicklung",
       "e Datenentwicklung",
-      "e Weiterentwicklung",
-      "e Systementwicklung",
+      "e Modellentwicklung",
+      "e Weiterentwicklung"
+    ],
+    [
+      "e Modellkompetenz",
+      "e Methodenkompetenz",
+      "e Datenkompetenz",
+      "e Umsetzungskompetenz"
+    ],
+    [
+      "e Mindestanforderung",
+      "e Lieferanforderung",
+      "e Datenanforderung",
+      "r Mindeststandard"
+    ],
+    [
+      "e Prozessentwicklung",
+      "e Projektentwicklung",
+      "e Methodenentwicklung",
       "e Modellentwicklung"
     ],
     [
-      "e Modellkonsistenz",
-      "e Richtlinie",
-      "e Modellquality",
+      "e Modellierung",
+      "e Modellentwicklung",
+      "r Steuerungsrahmen",
       "e Modellierungsrichtlinie"
     ],
     [
-      "e Konsistenz",
-      "e Modellkoordination",
-      "r Modellstand",
+      "e Modellkompetenz",
+      "e Prozesskonsistenz",
+      "e Datenkonsistenz",
       "e Modellkonsistenz"
     ],
     [
       "e Modellkonsistenz",
-      "e Konsistenz",
-      "e Modellkoordination",
-      "e Planungskonsistenz"
-    ],
-    [
-      "e Modellkonsistenz",
       "e Modellkompetenz",
+      "e Prozesskonsistenz",
+      "e Datenkonsistenz"
+    ],
+    [
+      "e Prozesskoordination",
+      "e Projektkoordination",
       "e Modellkoordination",
-      "e Zieldefinition"
+      "e Datenkoordination"
     ],
     [
-      "e Modellentwicklung",
-      "e Modellquality",
+      "e Modellprüfung",
+      "e Modellierung",
       "e Modellnutzung",
-      "e Zielsetzung"
-    ],
-    [
-      "e Modellentwicklung",
-      "e Modellprüfung",
-      "r Modellstand",
-      "e Modellkompetenz"
-    ],
-    [
-      "e Datenqualität",
-      "e Ergebnisqualität",
-      "e Qualität",
-      "e Modellqualität"
-    ],
-    [
-      "e Modellprüfung",
-      "e Prozessqualität",
-      "e Modellquality",
       "r Modellstand"
     ],
     [
-      "e Wiederverwendbarkeit",
-      "e Zielklarheit",
-      "e Nachvollziehbarkeit",
-      "e Abhängigkeit"
+      "e Modellnutzung",
+      "e Modellprüfung",
+      "e Modellierung",
+      "e Modellreife"
     ],
     [
-      "e Visualisierung",
-      "e Automatisierung",
-      "e Stabilisierung",
+      "e Modellquality",
+      "e Prozessqualität",
+      "modellbasiert",
+      "e Modellqualität"
+    ],
+    [
+      "e Modellqualität",
+      "e Modellreife",
+      "e Modellquality",
+      "e Modellnutzung"
+    ],
+    [
+      "nachvollziehbar",
+      "nachvollziehen",
+      "e Nachvollziehbarkeit",
+      "e Steuerbarkeit"
+    ],
+    [
+      "normalisieren",
+      "normalisiert",
+      "e Normalisierungsphase",
       "e Normalisierung"
     ],
     [
-      "r Automatisierungsgrad",
+      "e Konsolidierungsphase",
       "e Normalisierungsphase",
-      "r Digitalisierungsgrad",
-      "r Konsolidierungsbedarf"
+      "e Normalisierung",
+      "normalisiert"
     ],
     [
-      "e Bewertung",
-      "e Wirksamkeitsbewertung",
+      "r Nutzenbeitrag",
+      "e Statusbewertung",
       "e Nutzenbewertung",
-      "e Umsetzungswirkung"
+      "e Reifegradbewertung"
     ],
     [
-      "r Projektstatus",
+      "e Projektstruktur",
       "e Objektstruktur",
-      "r Objektkatalog",
-      "e Projektentwicklung"
+      "e Datenstruktur",
+      "e Organisationsstruktur"
     ],
     [
-      "e Organisationswirkung",
-      "r Organisationsrahmen",
-      "r Organisationsnutzen",
+      "organisationsweit",
+      "e Organisationsfähigkeit",
+      "e Organisationsreife",
       "e Organisationseinheit"
     ],
     [
       "e Organisationsentwicklung",
-      "e Organisationseinheit",
-      "r Organisationsnutzen",
-      "e Organisationsfähigkeit"
+      "e Organisationswirkung",
+      "e Organisationsstruktur",
+      "r Organisationsstatus"
     ],
     [
-      "e Organisationswirkung",
-      "e Organisationsreife",
+      "e Organisationseinheit",
+      "organisationsweit",
       "e Organisationsfähigkeit",
-      "e Organisationsstruktur"
+      "r Organisationsrahmen"
     ],
     [
       "e Organisationsstrategie",
-      "r Organisationsrahmen",
-      "e Organisationseinheit",
-      "e Organisationswirkung"
-    ],
-    [
-      "e Organisationsentwicklung",
-      "e Organisationskompetenz",
+      "r Organisationsstatus",
       "e Organisationsreife",
       "e Organisationsstruktur"
     ],
     [
-      "e Stabilisierung",
-      "e Skalierung",
-      "e Automatisierung",
+      "r Organisationsstatus",
+      "e Organisationsstrategie",
+      "e Organisationswirkung",
+      "e Organisationsstruktur"
+    ],
+    [
+      "e Priorisierung",
+      "e Zielorientierung",
+      "e Visualisierung",
       "e Pilotierung"
     ],
     [
       "e Planableitung",
-      "e Erhaltung",
-      "e Statusbewertung",
-      "e Abstimmung"
+      "e Planung",
+      "ableiten",
+      "planen"
     ],
     [
-      "e Planungskonsistenz",
-      "e Landesbehörde",
+      "e Terminsicherheit",
+      "e Kostensicherheit",
       "e Planungssicherheit",
-      "e Modellierungsrichtlinie"
+      "e Planungsphase"
     ],
     [
-      "e Normalisierung",
-      "e Konsolidierung",
-      "e Zielorientierung",
+      "priorisieren",
+      "priorisiert",
+      "e Pilotierung",
       "e Priorisierung"
     ],
     [
-      "r Projektzyklus",
-      "e Projekterfahrung",
+      "e Projektentwicklung",
+      "e Projektwirkung",
       "e Projektabwicklung",
-      "e Projektvorbereitung"
+      "e Prozessentwicklung"
     ],
     [
-      "e Projekttransparenz",
+      "e Prozesskompetenz",
       "e Projektkompetenz",
-      "e Datenkompetenz",
-      "e Prozesskonsistenz"
+      "r Projektkontext",
+      "e Modellkompetenz"
     ],
     [
-      "r Projektaufwand",
-      "r Projektnutzen",
+      "e Projektkompetenz",
+      "e Organisationstransparenz",
       "e Projekttransparenz",
-      "e Projekterfahrung"
+      "e Transparenz"
     ],
     [
-      "r Projektumfang",
-      "e Projektstruktur",
-      "e Prozessentwicklung",
+      "e Projektabwicklung",
+      "e Projektentwicklung",
+      "r Projekterfolg",
       "e Projektwirkung"
     ],
     [
       "e Prozessdefinition",
-      "e Projektkoordination",
-      "e Prozessreife",
-      "e Präsentation"
-    ],
-    [
-      "e Projektabwicklung",
-      "e Methodenentwicklung",
-      "e Prozessentwicklung",
-      "e Weiterentwicklung"
-    ],
-    [
-      "e Projektkoordination",
-      "e Prozesslandschaft",
-      "e Dokumentation",
+      "e Prozesskoordination",
+      "e Zieldefinition",
       "e Prozessintegration"
     ],
     [
-      "e Datenkoordination",
-      "e Prozessintegration",
-      "e Organisationskoordination",
+      "e Projektentwicklung",
+      "e Strategieentwicklung",
+      "e Prozessentwicklung",
+      "e Modellentwicklung"
+    ],
+    [
+      "e Prozessdefinition",
+      "e Prozesskoordination",
+      "e Präsentation",
+      "e Prozessintegration"
+    ],
+    [
+      "e Projektkoordination",
+      "e Modellkoordination",
+      "e Prozessdefinition",
       "e Prozesskoordination"
     ],
     [
-      "e Prozesskonsistenz",
+      "e Toollandschaft",
       "e Prozesslandschaft",
-      "e Prozesskoordination",
-      "r Prozess"
+      "prozessual",
+      "e Prozessreife"
     ],
     [
-      "e Datenqualität",
+      "prozessual",
       "e Prozessqualität",
-      "e Umsetzungsqualität",
-      "e Modellquality"
-    ],
-    [
-      "e Stabilisierung",
-      "e Priorisierung",
-      "e Pilotierung",
-      "e Qualitätssicherung"
-    ],
-    [
-      "e Stabilisierung",
-      "e Automatisierung",
-      "e Steuerung",
-      "e Qualitätssteigerung"
+      "e Ergebnisqualität",
+      "e Modellqualität"
     ],
     [
       "e Qualitätssteigerung",
+      "r Qualitätsstandard",
+      "e Automatisierung",
+      "e Qualitätssicherung"
+    ],
+    [
+      "e Qualitätssicherung",
+      "r Qualitätsstandard",
+      "e Effizienzsteigerung",
+      "e Qualitätssteigerung"
+    ],
+    [
+      "schrittweise",
       "e Schnittstelle",
-      "e Arbeitsweise",
-      "e Strategie"
+      "bereitstellen",
+      "e Initiative"
     ],
     [
-      "e Abstimmung",
+      "e Zielerreichung",
       "e Selbsteinschätzung",
-      "e Zielvereinbarung",
-      "e Unterstützungsleistung"
+      "e Zielsetzung",
+      "e Sitzung"
     ],
     [
-      "e Modellierung",
+      "skalieren",
       "e Skalierung",
-      "e Visualisierung",
-      "e Steuerung"
-    ],
-    [
-      "e Arbeitsweise",
-      "r Standardrahmen",
-      "r Standardisierungsbedarf",
-      "e Standardarbeitsweise"
-    ],
-    [
-      "r Standardisierungsbedarf",
-      "e Standardisierung",
-      "r Standardumfang",
+      "skalierbar",
       "e Stabilisierung"
     ],
     [
-      "e Wirksamkeitsbewertung",
-      "e Reifegradbewertung",
-      "e Steuerung",
+      "r Standardprozess",
+      "standardisieren",
+      "standardisiert",
+      "e Standardarbeitsweise"
+    ],
+    [
+      "standardisieren",
+      "e Standardisierung",
+      "standardisiert",
+      "r Standardisierungsgrad"
+    ],
+    [
+      "e Nutzenbewertung",
+      "e Fortschrittsbewertung",
+      "e Bewertung",
       "e Statusbewertung"
     ],
     [
-      "e Projektentwicklung",
-      "e Weiterentwicklung",
-      "r Strategiezyklus",
+      "e Datenentwicklung",
+      "e Systementwicklung",
+      "e Prozessentwicklung",
       "e Strategieentwicklung"
     ],
     [
       "e Systementwicklung",
-      "e Methodenentwicklung",
-      "e Prozessentwicklung",
-      "e Projektentwicklung"
+      "e Datenentwicklung",
+      "e Weiterentwicklung",
+      "e Strategieentwicklung"
     ],
     [
       "e Terminsicherheit",
-      "e Steuerungsfähigkeit",
-      "e Transparenz",
-      "e Organisationseinheit"
-    ],
-    [
-      "r Sollzustand",
-      "e Toollandschaft",
-      "r Informationsgehalt",
-      "e Konsolidierungsphase"
-    ],
-    [
-      "r Umsetzungsstand",
-      "r Umsetzungsstatus",
-      "r Umsetzungsrahmen",
-      "e Umsetzungsphase"
-    ],
-    [
-      "r Umsetzungsstand",
-      "r Steuerungsbeitrag",
-      "e Unterstützungsleistung",
-      "e Steuerungswirkung"
-    ],
-    [
-      "e Lieferanforderung",
-      "e Erweiterung",
-      "e Datenanforderung",
-      "e Verankerung"
-    ],
-    [
-      "e Wirtschaftlichkeit",
-      "e Zuständigkeit",
-      "e Vereinheitlichung",
+      "e Kostensicherheit",
+      "e Planungssicherheit",
       "e Verbindlichkeit"
     ],
     [
-      "e Verbindlichkeit",
+      "e Prozesslandschaft",
+      "e Toollandschaft",
+      "transparenz schaffen",
+      "dauerhaft"
+    ],
+    [
+      "r Umsetzungsplan",
+      "e Umsetzungstiefe",
+      "r Umsetzungsgrad",
+      "e Umsetzungsphase"
+    ],
+    [
+      "r Unterstützungsbedarf",
+      "e Umsetzungswirkung",
+      "e Unterstützungsleistung",
+      "r Umsetzungsbeitrag"
+    ],
+    [
+      "verankern",
       "e Verantwortung",
+      "e Skalierung",
+      "e Verankerung"
+    ],
+    [
+      "verbindlich",
+      "verbindlich machen",
+      "e Terminsicherheit",
+      "e Verbindlichkeit"
+    ],
+    [
+      "vereinheitlichen",
+      "vereinheitlicht",
       "e Vereinheitlichung",
-      "e Zielerreichung"
+      "einheitlich"
     ],
     [
-      "e Governance",
-      "r Übergang",
+      "e Vorgabe",
+      "s Vorhaben",
       "e Vergabe",
-      "r Vergleich"
+      "e Vorlage"
     ],
     [
-      "e Nachvollziehbarkeit",
-      "e Verbindlichkeit",
+      "e Steuerbarkeit",
+      "wiederholbar",
       "e Wiederverwendbarkeit",
-      "e Wissensbasis"
+      "e Zielvereinbarung"
     ],
     [
-      "e Nutzenbewertung",
-      "e Verantwortung",
-      "e Fortschreibung",
+      "e Fortschrittsbewertung",
+      "e Statusbewertung",
+      "e Reifegradbewertung",
       "e Wirksamkeitsbewertung"
     ],
     [
-      "e Richtlinie",
-      "r Fortschritt",
-      "e Fortschrittsbewertung",
+      "wirtschaftlich",
+      "e Verbindlichkeit",
+      "hinsichtlich",
       "e Wirtschaftlichkeit"
     ],
     [
-      "e Linienorganisation",
+      "e Prozessdefinition",
       "e Zieldefinition",
-      "e Zielvereinbarung",
-      "e Behördenorganisation"
+      "zielgerichtet",
+      "e Linienfunktion"
     ],
     [
-      "r Zielhorizont",
-      "e Terminsicherheit",
+      "r Zielrahmen",
+      "zielgerichtet",
       "e Zielklarheit",
-      "e Kostensicherheit"
+      "e Steuerbarkeit"
     ],
     [
-      "e Zielsetzung",
+      "e Pilotierung",
       "e Zielorientierung",
-      "e Erweiterung",
+      "e Zielerreichung",
+      "e Priorisierung"
+    ],
+    [
+      "vereinbaren",
+      "e Zielerreichung",
+      "e Zielorientierung",
       "e Zielvereinbarung"
     ],
     [
-      "e Zieldefinition",
-      "e Linienverantwortung",
-      "e Zielsetzung",
-      "e Zielvereinbarung"
-    ],
-    [
-      "e Umsetzungsfähigkeit",
+      "e Selbstständigkeit",
       "e Zuständigkeit",
-      "e Verbindlichkeit",
-      "e Anschlussfähigkeit"
+      "zuständig",
+      "e Abhängigkeit"
     ],
     [
-      "modellieren",
-      "integrieren",
-      "analysieren",
+      "etabliert",
+      "skalieren",
+      "simulieren",
       "etablieren"
     ],
     [
-      "effizient",
-      "modellbasiert",
+      "etablieren",
+      "objektbasiert",
       "etabliert",
-      "standardisiert"
+      "datenbasiert"
     ],
     [
-      "entsprechend",
+      "anschließend",
       "flächendeckend",
-      "grundlegend",
-      "sichern"
+      "s Fachmodell",
+      "während"
     ],
     [
-      "vorbereiten",
-      "erheben",
-      "abschließen",
+      "e Fortschreibung",
+      "r Fortschritt",
+      "entscheiden",
       "fortschreiben"
     ],
     [
-      "bewährt",
-      "demnach",
+      "regelmäßig",
+      "zweckmäßig",
       "gemäß",
-      "abgestimmt"
+      "geprüft"
     ],
     [
-      "zielgerichtet",
-      "vereinheitlicht",
-      "verbindlich machen",
+      "gleichzeitig",
+      "r Vergleichsmaßstab",
+      "abgleichen",
       "gleichwohl"
     ],
     [
       "harmonisieren",
-      "normalisieren",
-      "kommunizieren",
-      "automatisieren"
-    ],
-    [
-      "validiert",
       "harmonisiert",
-      "standardisiert",
-      "konsolidiert"
+      "priorisieren",
+      "organisieren"
     ],
     [
-      "fachlich",
-      "kontinuierlich",
+      "harmonisieren",
+      "harmonisiert",
+      "normalisiert",
+      "priorisiert"
+    ],
+    [
+      "wirtschaftlich",
+      "einheitlich",
       "hinsichtlich",
-      "zusätzlich"
+      "e Wirtschaftlichkeit"
     ],
     [
       "hinsichtlich",
-      "fachlich",
-      "kontinuierlich",
-      "ausschließlich"
+      "wirtschaftlich",
+      "einheitlich",
+      "e Wirtschaftlichkeit"
     ],
     [
-      "im Sinne von",
-      "im Kontext",
+      "in Übereinstimmung mit",
+      "in Abstimmung mit",
       "im Einklang mit",
-      "im Einzelfall"
-    ],
-    [
-      "gegebenenfalls",
-      "im Hinblick auf",
-      "im Einklang mit",
-      "im Einzelfall"
-    ],
-    [
-      "im Überblick",
-      "verbindlich machen",
-      "im Widerspruch zu",
       "im Hinblick auf"
     ],
     [
-      "insofern",
-      "verankern",
-      "im Kern",
-      "steuern"
-    ],
-    [
-      "im Grundsatz",
-      "im Rahmen",
-      "im Kontext",
-      "im Einklang mit"
-    ],
-    [
-      "im Grundsatz",
+      "im Regelfall",
       "im Sinne von",
-      "insoweit",
-      "im Kontext"
+      "im Detail",
+      "im Einzelfall"
     ],
     [
-      "im Sinne von",
-      "in Abhängigkeit von",
-      "unabhängig von",
-      "im Kontext"
-    ],
-    [
-      "im Hinblick auf",
-      "in Anlehnung an",
-      "im Widerspruch zu",
-      "in Übereinstimmung mit"
-    ],
-    [
-      "reflektieren",
-      "implementieren",
-      "simulieren",
-      "optimieren"
-    ],
-    [
-      "in Abstimmung mit",
-      "in Anlehnung an",
-      "im Sinne von",
-      "in Abhängigkeit von"
-    ],
-    [
-      "in Abhängigkeit von",
-      "unabhängig von",
-      "abhängig von",
-      "in Anlehnung an"
-    ],
-    [
-      "interdisziplinär",
+      "im Einklang mit",
       "in Bezug auf",
-      "in Übereinstimmung mit",
-      "abgestimmt"
+      "im Sinne von",
+      "im Hinblick auf"
     ],
     [
-      "infolge",
-      "mithilfe",
+      "im Kontext",
+      "im Übergang",
+      "im Kern",
+      "simulieren"
+    ],
+    [
+      "r Projektkontext",
+      "im Kern",
+      "im Kontext",
+      "im Fokus"
+    ],
+    [
+      "r Projektkontext",
+      "im Kern",
       "im Fokus",
-      "auf Vorgabe"
+      "im Kontext"
     ],
     [
-      "organisationsweit",
-      "insbesondere",
-      "insoweit",
-      "infolge"
+      "im Sinne von",
+      "im Einklang mit",
+      "im Einzelfall",
+      "im Wesentlichen"
     ],
     [
-      "in Übereinstimmung mit",
-      "effizient",
-      "interdisziplinär",
-      "unter Berücksichtigung"
+      "im Wesentlichen",
+      "im Vergleich",
+      "im Widerspruch zu",
+      "im Überblick"
     ],
     [
-      "abstimmen",
-      "strukturieren",
-      "justieren",
+      "r Implementierungspfad",
+      "implementieren",
+      "r Implementierungsstand",
       "dokumentieren"
     ],
     [
-      "notwendig",
-      "künftig",
-      "vollständig",
+      "unabhängig von",
+      "abhängig von",
+      "e Abhängigkeit",
+      "in Abhängigkeit von"
+    ],
+    [
+      "in Abstimmung mit",
+      "in Bezug auf",
+      "in Übereinstimmung mit",
+      "in Anlehnung an"
+    ],
+    [
+      "in Abstimmung mit",
+      "im Einklang mit",
+      "in Übereinstimmung mit",
+      "in Anlehnung an"
+    ],
+    [
+      "infolge",
+      "verfolgen",
+      "einführen",
+      "e Rolle"
+    ],
+    [
+      "insofern",
+      "sowie",
+      "insoweit",
+      "somit"
+    ],
+    [
+      "e Informationsqualität",
+      "e Entscheidungsqualität",
+      "interdisziplinär",
+      "e Terminplanung"
+    ],
+    [
+      "festlegen",
+      "quantifizieren",
+      "justieren",
+      "auswerten"
+    ],
+    [
+      "zukunftsfähig",
+      "anschlussfähig",
+      "e Entscheidungsfähigkeit",
       "konsensfähig"
     ],
     [
       "konsistent",
-      "transparent",
-      "koordiniert",
-      "harmonisiert"
+      "e Konsistenz",
+      "konsequent",
+      "konsolidiert"
     ],
     [
-      "kooperieren",
-      "validieren",
-      "normalisieren",
+      "e Konsolidierung",
+      "konsolidiert",
+      "kontrollieren",
       "konsolidieren"
     ],
     [
-      "normalisiert",
+      "konsolidieren",
       "konsolidiert",
-      "koordiniert",
-      "konsistent"
+      "e Konsolidierung",
+      "validiert"
     ],
     [
       "modellbasiert",
-      "normalisiert",
-      "etabliert",
-      "konsolidiert"
-    ],
-    [
-      "einführen",
-      "konsolidieren",
-      "monitoren",
-      "priorisieren"
+      "objektbasiert",
+      "modellieren",
+      "datenbasiert"
     ],
     [
       "harmonisieren",
+      "nutzen",
+      "monitoren",
+      "kommunizieren"
+    ],
+    [
+      "e Normalisierung",
       "normalisieren",
-      "visualisieren",
-      "digitalisieren"
-    ],
-    [
-      "priorisiert",
-      "validiert",
       "normalisiert",
-      "konsolidiert"
+      "organisieren"
     ],
     [
-      "etabliert",
-      "priorisiert",
-      "objektbasiert",
+      "normalisieren",
+      "e Normalisierung",
+      "normalisiert",
       "harmonisiert"
     ],
     [
-      "normalisiert",
-      "transparent",
-      "organisationsweit",
-      "insoweit"
+      "modellbasiert",
+      "r Objektkatalog",
+      "objektbasiert",
+      "datenbasiert"
     ],
     [
-      "normalisiert",
-      "optional",
+      "e Organisationseinheit",
+      "e Organisationsreife",
       "organisationsweit",
-      "transparent"
+      "r Organisationspfad"
     ],
     [
-      "standardisiert",
-      "priorisiert",
-      "harmonisiert",
+      "e Organisationseinheit",
+      "e Organisationsreife",
+      "organisationsweit",
+      "r Organisationspfad"
+    ],
+    [
+      "e Organisationseinheit",
+      "e Organisationsreife",
+      "e Organisationsfähigkeit",
       "organisationsweit"
     ],
     [
       "perspektivisch",
-      "taktisch",
-      "strategisch",
-      "einheitlich"
+      "e Perspektive",
+      "systematisch",
+      "projektweise"
     ],
     [
-      "taktisch",
+      "e Perspektive",
       "perspektivisch",
-      "strategisch",
-      "einheitlich"
+      "systematisch",
+      "projektweise"
     ],
     [
-      "taktisch",
+      "e Perspektive",
       "perspektivisch",
-      "methodisch",
-      "erforderlich"
+      "systematisch",
+      "strategisch"
     ],
     [
-      "überwiegend",
-      "entsprechend",
-      "vergleichend",
+      "übergreifend",
+      "r Implementierungsaufwand",
+      "e Anwendungsreife",
       "phasenübergreifend"
     ],
     [
-      "organisieren",
-      "digitalisieren",
-      "priorisieren",
-      "normalisieren"
-    ],
-    [
-      "koordiniert",
+      "e Priorisierung",
       "priorisiert",
-      "normalisiert",
-      "präzise"
+      "priorisieren",
+      "harmonisieren"
     ],
     [
-      "präzise",
+      "priorisieren",
+      "priorisiert",
+      "e Priorisierung",
+      "harmonisiert"
+    ],
+    [
+      "r Prozess",
       "prozessual",
-      "zentral",
-      "dezentral"
+      "e Prozessqualität",
+      "e Prozessreife"
     ],
     [
-      "parallel",
-      "zentral",
-      "konsequent",
+      "aktuell",
+      "strukturell",
+      "unter",
       "punktuell"
     ],
     [
-      "parallel",
-      "zentral",
-      "digital",
+      "aktuell",
+      "strukturell",
+      "unter",
       "punktuell"
     ],
     [
-      "organisieren",
-      "konsolidieren",
+      "standardisieren",
+      "optimieren",
       "quantifizieren",
-      "justieren"
+      "automatisieren"
     ],
     [
       "r Abstimmungsaufwand",
-      "e Abstimmung",
-      "r Koordinationsaufwand",
-      "r Zeitaufwand"
-    ],
-    [
-      "r Erweiterungsbedarf",
-      "r Abstimmungsbedarf",
-      "r Entwicklungsbedarf",
-      "r Unterstützungsbedarf"
-    ],
-    [
-      "r Abstimmungsbedarf",
-      "r Erweiterungsbedarf",
-      "r Entwicklungsbedarf",
-      "r Unterstützungsbedarf"
-    ],
-    [
-      "r Steuerungsbedarf",
-      "r Anpassungsbedarf",
-      "r Entscheidungsbedarf",
-      "r Entwicklungsbedarf"
-    ],
-    [
-      "r Anwendungsfall",
-      "e Anwendungskompetenz",
-      "r Entwicklungspfad",
-      "r Anpassungsbedarf"
-    ],
-    [
-      "e Anwendungsreife",
-      "r Anwendungskatalog",
-      "r Maßnahmenkatalog",
-      "r Objektkatalog"
-    ],
-    [
-      "r Automatisierungsgrad",
-      "r Standardisierungsgrad",
-      "r Umsetzungsgrad",
-      "e Normalisierungsphase"
-    ],
-    [
-      "r Strategiezyklus",
-      "r Projektzyklus",
-      "r Bauwerkslebenszyklus",
-      "r Zielbezug"
-    ],
-    [
-      "s Bewertungskriterium",
-      "r Handlungsrahmen",
-      "r Bewertungsrahmen",
-      "e Bewertung"
-    ],
-    [
-      "r Ordnungsrahmen",
-      "s Bewertungskriterium",
-      "r Bewertungsrahmen",
-      "e Bewertung"
-    ],
-    [
-      "r digitaler Zwilling",
-      "e Zielerreichung",
-      "e Organisationsentwicklung",
-      "e Strategieentwicklung"
-    ],
-    [
-      "r Entscheidungspunkt",
-      "e Entscheidungslogik",
-      "r Entwicklungsbedarf",
-      "r Entscheidungsbedarf"
-    ],
-    [
-      "e Entscheidungsbefugnis",
-      "r Entscheidungsbedarf",
-      "e Entscheidungsgrundlage",
-      "r Entscheidungspunkt"
-    ],
-    [
-      "r Entscheidungsbedarf",
-      "r Entwicklungsbedarf",
-      "r Entwicklungszyklus",
-      "r Abstimmungsbedarf"
-    ],
-    [
-      "r Entwicklungspfad",
-      "r Implementierungspfad",
-      "r Anwendungsfall",
-      "e Entscheidungsphase"
-    ],
-    [
-      "r Implementierungspfad",
-      "r Anwendungsfall",
-      "e Entscheidungsphase",
-      "r Entwicklungspfad"
-    ],
-    [
-      "r Umsetzungszyklus",
-      "r Entwicklungszyklus",
-      "r Bauwerkslebenszyklus",
-      "r Lebenszyklus"
-    ],
-    [
-      "r Abstimmungsbedarf",
-      "r Entwicklungsbedarf",
-      "r Entscheidungsbedarf",
-      "r Erweiterungsbedarf"
-    ],
-    [
-      "r Abstimmungsbedarf",
-      "r Unterstützungsbedarf",
-      "r Entscheidungsbedarf",
-      "r Erweiterungsbedarf"
-    ],
-    [
-      "e Fortschrittsbewertung",
-      "r Geschäftsbereich",
-      "e Wirtschaftlichkeit",
-      "e Software"
-    ],
-    [
-      "r Handlungsbedarf",
-      "r Steuerungsbedarf",
-      "r Konsolidierungsbedarf",
-      "r Abstimmungsbedarf"
-    ],
-    [
-      "e Handlungsempfehlung",
-      "r Handlungsbedarf",
-      "r Erweiterungsbedarf",
-      "r Konsolidierungsbedarf"
-    ],
-    [
-      "r Steuerungsrahmen",
-      "r Handlungsbedarf",
-      "e Handlungsempfehlung",
-      "r Handlungsrahmen"
-    ],
-    [
       "r Steuerungsaufwand",
-      "r Abstimmungsaufwand",
-      "r Koordinationsaufwand",
+      "r Abstimmungsbedarf",
       "r Implementierungsaufwand"
     ],
     [
-      "r Steuerungsstatus",
-      "r Umsetzungsstatus",
-      "r Organisationsstatus",
-      "r Implementierungsstatus"
+      "r Abstimmungsaufwand",
+      "r Abstimmungsbedarf",
+      "r Steuerungsbedarf",
+      "r Anpassungsbedarf"
     ],
     [
-      "r Integrationsgrad",
-      "s Koordinationsmodell",
-      "r Informationsgehalt",
-      "e Normalisierung"
+      "r Abstimmungsbedarf",
+      "r Abstimmungsaufwand",
+      "r Steuerungsbedarf",
+      "r Anpassungsbedarf"
     ],
     [
-      "s Informationsniveau",
-      "r Organisationspfad",
-      "r Integrationsgrad",
-      "r Automatisierungsgrad"
+      "r Handlungsbedarf",
+      "r Anpassungsbedarf",
+      "r Standardisierungsbedarf",
+      "r Abstimmungsbedarf"
     ],
     [
-      "r Implementierungsaufwand",
-      "r Implementierungsstatus",
-      "e Fachkompetenz",
-      "r Kompetenzaufbau"
+      "r Anwendungsfall",
+      "r Anwendungskatalog",
+      "e Anwendungstiefe",
+      "e Anwendungsreife"
+    ],
+    [
+      "r Anwendungsfall",
+      "r Anwendungskatalog",
+      "e Anwendungstiefe",
+      "e Anwendungskompetenz"
+    ],
+    [
+      "r Automatisierungsgrad",
+      "e Automatisierung",
+      "r Digitalisierungsgrad",
+      "r Strukturierungsgrad"
+    ],
+    [
+      "r Lebenszyklus",
+      "r Entwicklungszyklus",
+      "r Bauwerkslebenszyklus",
+      "r Umsetzungszyklus"
+    ],
+    [
+      "r Steuerungsrahmen",
+      "r Umsetzungsrahmen",
+      "r Bewertungsrahmen",
+      "r Ordnungsrahmen"
+    ],
+    [
+      "r Steuerungsrahmen",
+      "r Umsetzungsrahmen",
+      "r Bewertungsrahmen",
+      "r Handlungsrahmen"
+    ],
+    [
+      "r digitaler Zwilling",
+      "digitalisieren",
+      "r Digitalisierungsgrad",
+      "digital"
+    ],
+    [
+      "e Entscheidungsphase",
+      "e Entscheidungsbefugnis",
+      "e Entscheidungsgrundlage",
+      "r Entscheidungsbedarf"
+    ],
+    [
+      "e Entscheidungsphase",
+      "e Entscheidungsqualität",
+      "e Entscheidungslogik",
+      "r Entscheidungspunkt"
+    ],
+    [
+      "r Entwicklungspfad",
+      "r Entwicklungsbedarf",
+      "e Entwicklungsstufe",
+      "r Erweiterungsbedarf"
+    ],
+    [
+      "r Entwicklungspfad",
+      "r Entwicklungsbedarf",
+      "e Entwicklungsstufe",
+      "r Entwicklungszyklus"
+    ],
+    [
+      "r Entwicklungsbedarf",
+      "e Entwicklungsstufe",
+      "r Entwicklungszyklus",
+      "r Entwicklungspfad"
+    ],
+    [
+      "e Entwicklungsstufe",
+      "r Entwicklungszyklus",
+      "r Entwicklungspfad",
+      "r Entwicklungsbedarf"
     ],
     [
       "r Steuerungsbedarf",
       "r Konsolidierungsbedarf",
-      "r Erweiterungsbedarf",
-      "r Handlungsbedarf"
+      "erweiterbar",
+      "r Erweiterungsbedarf"
     ],
     [
+      "r Steuerungsbedarf",
+      "r Entwicklungsbedarf",
+      "r Konsolidierungsbedarf",
+      "r Erweiterungsbedarf"
+    ],
+    [
+      "r Fachbereich",
+      "r Geschäftsbereich",
+      "erforderlich",
+      "ausschließlich"
+    ],
+    [
+      "r Handlungsbedarf",
+      "r Anpassungsbedarf",
+      "r Handlungsrahmen",
+      "r Standardisierungsbedarf"
+    ],
+    [
+      "r Anpassungsbedarf",
+      "r Handlungsbedarf",
+      "r Steuerungsbedarf",
+      "r Handlungsrahmen"
+    ],
+    [
+      "r Ordnungsrahmen",
+      "r Bewertungsrahmen",
+      "r Umsetzungsrahmen",
+      "r Handlungsrahmen"
+    ],
+    [
+      "r Implementierungsstand",
+      "r Implementierungspfad",
+      "r Implementierungsstatus",
+      "r Implementierungsaufwand"
+    ],
+    [
+      "r Implementierungsstand",
+      "r Implementierungspfad",
       "r Implementierungsaufwand",
-      "r Zeitaufwand",
+      "r Implementierungsstatus"
+    ],
+    [
+      "e Informationsqualität",
+      "s Informationsmanagement",
+      "r Informationsgehalt",
+      "s Informationsniveau"
+    ],
+    [
+      "r Informationsgehalt",
+      "integriert",
+      "r Integrationsgrad",
+      "integrieren"
+    ],
+    [
+      "s Kompetenzteam",
       "r Koordinationsaufwand",
-      "r Projektaufwand"
+      "fortlaufend",
+      "r Kompetenzaufbau"
     ],
     [
-      "e Dokumentation",
+      "e Konsolidierungsphase",
+      "r Konsolidierungsbedarf",
+      "r Standardisierungsbedarf",
+      "e Konsolidierung"
+    ],
+    [
+      "s Koordinationsmodell",
+      "r Organisationsnutzen",
+      "r Koordinationsaufwand",
+      "r Organisationspfad"
+    ],
+    [
+      "e Maßnahme",
       "r Maßnahmenkatalog",
-      "e Mengenermittlung",
-      "r Rahmen"
+      "r Anwendungskatalog",
+      "r Objektkatalog"
     ],
     [
-      "e Methodenreife",
+      "e Methodenkompetenz",
       "r Methodenrahmen",
-      "e Methode",
-      "r Zielrahmen"
+      "r Umsetzungsrahmen",
+      "r Bewertungsrahmen"
     ],
     [
-      "e Mindestanforderung",
-      "r Istzustand",
+      "r Standard",
+      "r Qualitätsstandard",
       "r Mindeststandard",
-      "r Zielzustand"
+      "r Modellstand"
     ],
     [
-      "e Modellnutzung",
+      "e Modellquality",
       "r Modellstand",
-      "r Sollzustand",
-      "e Modellreife"
+      "r Zielzustand",
+      "e Modellierung"
     ],
     [
-      "nutzen",
-      "e Datenreife",
-      "e Unterstützungsleistung",
+      "e Nutzenbewertung",
+      "r Umsetzungsbeitrag",
+      "r Steuerungsbeitrag",
       "r Nutzenbeitrag"
     ],
     [
-      "e Objektstruktur",
+      "objektbasiert",
       "r Objektkatalog",
-      "r Projekterfolg",
-      "e Projektkoordination"
+      "r Anwendungskatalog",
+      "r Maßnahmenkatalog"
     ],
     [
-      "r Umsetzungsrahmen",
-      "r Organisationsrahmen",
-      "r Standardrahmen",
+      "r Handlungsrahmen",
+      "r Bewertungsrahmen",
+      "r Steuerungsrahmen",
       "r Ordnungsrahmen"
     ],
     [
-      "e Organisationsreife",
-      "r Organisationsstatus",
-      "e Organisationsstruktur",
+      "r Organisationsrahmen",
+      "e Organisationskompetenz",
+      "e Organisationswirkung",
       "r Organisationsnutzen"
     ],
     [
-      "e Organisationsreife",
+      "r Organisationsnutzen",
       "r Organisationsrahmen",
-      "e Organisationskompetenz",
-      "r Organisationsstatus"
+      "e Organisationstransparenz",
+      "e Organisationsstrategie"
     ],
     [
-      "r Projektmehrwert",
-      "e Projektkoordination",
+      "e Projektkompetenz",
+      "s Projektteam",
       "r Projektkontext",
-      "e Projektgröße"
+      "r Projektleiter"
     ],
     [
-      "r Projektkontext",
-      "e Projektreife",
+      "r Projektleiter",
+      "projektbezogen",
       "r Projektmehrwert",
-      "r Mehrwert"
-    ],
-    [
-      "r Projektaufwand",
-      "r Projektpfad",
-      "r Projekt",
       "r Projekterfolg"
     ],
     [
-      "r Projektumfang",
+      "e Projektphase",
       "r Projektpfad",
-      "e Projektwirkung",
+      "r Projektumfang",
       "s Projektteam"
     ],
     [
-      "s Rollenbild",
+      "r Projektumfang",
+      "e Projekterfahrung",
+      "r Projektaufwand",
+      "r Projekterfolg"
+    ],
+    [
+      "r Betrieb",
       "r Regelbetrieb",
+      "regelmäßig",
+      "r Regelprozess"
+    ],
+    [
+      "r Strategieprozess",
+      "r Regelprozess",
+      "r Prozess",
+      "r Verwaltungsprozess"
+    ],
+    [
+      "r Reifegradpfad",
+      "e Reifegradstufe",
       "r Reifegrad",
-      "s Zielbild"
+      "s Reifegradmodell"
+    ],
+    [
+      "r Ressourcenaufwand",
+      "r Ressourcenbedarf",
+      "r Steuerungsaufwand",
+      "r Abstimmungsaufwand"
+    ],
+    [
+      "r Ressourcenbedarf",
+      "r Ressourcenaufwand",
+      "reproduzierbar",
+      "r Konsolidierungsbedarf"
+    ],
+    [
+      "standardisieren",
+      "r Standardprozess",
+      "r Standardrahmen",
+      "r Standardumfang"
+    ],
+    [
+      "r Standardumfang",
+      "e Standardisierung",
+      "r Standard",
+      "r Standardrahmen"
+    ],
+    [
+      "r Bewertungsrahmen",
+      "e Steuerungswirkung",
+      "r Steuerungsrahmen",
+      "e Steuerungskompetenz"
     ],
     [
       "r Standardprozess",
       "r Regelprozess",
-      "r Regelbetrieb",
-      "e Reifegradmessung"
-    ],
-    [
-      "r Reifegradstatus",
-      "e Reifegradmessung",
-      "r Reifegrad",
-      "e Reifegradbewertung"
-    ],
-    [
-      "r Ressourcenaufwand",
-      "r Zeitaufwand",
-      "r Aufwand",
-      "r Projektaufwand"
-    ],
-    [
-      "r Ressourcenbedarf",
-      "r Anpassungsbedarf",
-      "r Unterstützungsbedarf",
-      "r Handlungsbedarf"
-    ],
-    [
-      "r Standard",
-      "e Standardisierung",
-      "r Standardrahmen",
-      "r Steuerungsrahmen"
-    ],
-    [
-      "r Standardumfang",
-      "r Standardprozess",
-      "r Standardisierungsgrad",
-      "r Standardisierungsbedarf"
-    ],
-    [
-      "r Steuerungsstatus",
-      "e Steuerungsfähigkeit",
-      "r Steuerungsrahmen",
-      "r Steuerungsaufwand"
-    ],
-    [
-      "r Verwaltungsprozess",
-      "e Strategie",
       "r Strategieprozess",
-      "r Prozess"
+      "r Strategiezyklus"
     ],
     [
       "r Strategiezyklus",
-      "r Projektzyklus",
-      "r Lebenszyklus",
-      "r Umsetzungszyklus"
-    ],
-    [
-      "r Umsetzungsplan",
-      "r Steuerungsbeitrag",
-      "e Umsetzungstiefe",
-      "r Umsetzungsbeitrag"
+      "e Strategieentwicklung",
+      "r Strategieprozess",
+      "e Strategie"
     ],
     [
       "r Umsetzungsgrad",
-      "r Umsetzungsbeitrag",
       "r Umsetzungsstatus",
-      "r Umsetzungsrahmen"
-    ],
-    [
-      "r Umsetzungsplan",
-      "r Umsetzungszyklus",
       "e Umsetzungswirkung",
       "r Umsetzungsbeitrag"
     ],
     [
-      "r Bewertungsrahmen",
-      "r Umsetzungsrahmen",
       "r Umsetzungsgrad",
-      "e Umsetzungskompetenz"
-    ],
-    [
-      "e Umsetzungsphase",
       "r Umsetzungsstand",
-      "e Umsetzungswirkung",
-      "r Umsetzungsbeitrag"
-    ],
-    [
       "r Umsetzungsplan",
-      "r Umsetzungsgrad",
-      "r Umsetzungsstatus",
       "e Umsetzungsphase"
     ],
     [
-      "r Umsetzungszyklus",
       "r Umsetzungsplan",
+      "r Umsetzungsstand",
+      "r Umsetzungsgrad",
+      "e Umsetzungsphase"
+    ],
+    [
       "e Umsetzungstiefe",
-      "r Umsetzungsstand"
+      "r Umsetzungsrahmen",
+      "r Umsetzungsplan",
+      "e Umsetzungsfähigkeit"
     ],
     [
-      "r Anpassungsbedarf",
-      "r Steuerungsbedarf",
+      "r Umsetzungsstatus",
+      "r Umsetzungsstand",
+      "r Umsetzungsplan",
+      "r Umsetzungsgrad"
+    ],
+    [
+      "r Umsetzungsstand",
+      "r Umsetzungszyklus",
+      "r Umsetzungsstatus",
+      "e Umsetzungstiefe"
+    ],
+    [
+      "r Umsetzungszyklus",
+      "r Umsetzungsstatus",
+      "e Umsetzungswirkung",
+      "e Umsetzungsqualität"
+    ],
+    [
+      "e Unterstützungsleistung",
+      "r Erweiterungsbedarf",
       "r Unterstützungsbedarf",
-      "r Abstimmungsbedarf"
+      "r Entscheidungsbedarf"
     ],
     [
-      "r Vergleich",
+      "vergleichbar",
       "r Vergleichsmaßstab",
-      "e Arbeitsdatei",
-      "e Vorgehensweise"
+      "vergleichen",
+      "vergleichend"
     ],
     [
-      "e Erhaltung",
-      "r Bewertungsrahmen",
-      "s Schulungskonzept",
-      "r Verwaltungsprozess"
-    ],
-    [
-      "e Zielorientierung",
-      "r Zielbezug",
-      "r Zielhorizont",
-      "e Modellierung"
-    ],
-    [
-      "r Methodenrahmen",
-      "r Zielrahmen",
-      "s Reifegradmodell",
-      "e Reifegradmessung"
-    ],
-    [
-      "nachvollziehbar",
-      "reproduzierbar",
-      "steuerbar",
-      "skalierbar"
-    ],
-    [
-      "s Reifegradmodell",
-      "s Bestandsmodell",
-      "s Prüfmodell",
-      "s Koordinationsmodell"
-    ],
-    [
+      "r Strategieprozess",
+      "r Regelprozess",
       "s Bewertungskriterium",
-      "e Steuerungskompetenz",
-      "e Anwendungsreife",
       "r Verwaltungsprozess"
     ],
     [
-      "s Datenmodell",
-      "s Gesamtmodell",
-      "s Koordinationsmodell",
-      "s Datenformat"
+      "e Zielsetzung",
+      "r Zielbezug",
+      "s Zielbild",
+      "e Zielerreichung"
     ],
     [
+      "im Rahmen",
+      "r Zielrahmen",
+      "r Rahmen",
+      "e Zielklarheit"
+    ],
+    [
+      "erweiterbar",
+      "reproduzierbar",
+      "kontrollierbar",
+      "r Ressourcenbedarf"
+    ],
+    [
+      "s Gesamtmodell",
       "s Bestandsmodell",
-      "r Fachbereich",
-      "s Reifegradmodell",
+      "s Datenmodell",
       "s Fachmodell"
     ],
     [
+      "s Bewertungskriterium",
+      "s Prüfkriterium",
+      "r Bewertungsrahmen",
+      "r Steuerungsbeitrag"
+    ],
+    [
+      "s Datenmodell",
+      "s Fachmodell",
+      "s Bestandsmodell",
+      "s Prüfmodell"
+    ],
+    [
       "s Datenmodell",
       "s Prüfmodell",
-      "e Methode",
+      "s Gesamtmodell",
+      "s Fachmodell"
+    ],
+    [
+      "s Bestandsmodell",
+      "s Fachmodell",
+      "s Reifegradmodell",
       "s Gesamtmodell"
     ],
     [
-      "s Wissensmanagement",
-      "r Integrationsgrad",
-      "s Informationsmanagement",
-      "e Organisationstransparenz"
-    ],
-    [
-      "s Informationsniveau",
-      "r Integrationsgrad",
-      "e Initiative",
-      "e Normalisierung"
-    ],
-    [
-      "s Kompetenzteam",
-      "e Fachkompetenz",
-      "e Vorgehensweise",
-      "r Effizienztreiber"
-    ],
-    [
       "r Informationsgehalt",
-      "s Koordinationsmodell",
-      "s Bestandsmodell",
+      "e Informationsqualität",
+      "s Informationsmanagement",
       "s Informationsniveau"
     ],
     [
-      "r Betrieb",
-      "r digitaler Zwilling",
+      "s Informationsniveau",
+      "s Informationsmanagement",
+      "r Informationsgehalt",
+      "e Informationsqualität"
+    ],
+    [
+      "s Kompetenzteam",
+      "r Kompetenzaufbau",
+      "s Kernteam",
+      "r Meilenstein"
+    ],
+    [
+      "r Koordinationsaufwand",
+      "s Koordinationsmodell",
+      "s Datenmodell",
+      "koordiniert"
+    ],
+    [
+      "r Zeitplan",
+      "weiterentwickeln",
       "s Leitprinzip",
-      "e Terminplanung"
+      "interdisziplinär"
     ],
     [
       "s Lieferobjekt",
-      "e Steuerbarkeit",
-      "e Zielklarheit",
-      "r Mehrwert"
+      "r Projekt",
+      "e Lieferanforderung",
+      "e Wiederverwendbarkeit"
     ],
     [
-      "e Priorisierung",
+      "s Bewertungskriterium",
       "s Prüfkriterium",
-      "s Prüfmodell",
-      "r Prüfpunkt"
+      "s Prüfwerkzeug",
+      "e Prozessintegration"
     ],
     [
-      "s Gesamtmodell",
-      "s Reifegradmodell",
+      "s Fachmodell",
+      "s Datenmodell",
       "s Prüfmodell",
-      "s Bestandsmodell"
+      "prüfen"
     ],
     [
-      "s Prüfmodell",
-      "r Strategieprozess",
-      "e Projekterfahrung",
+      "s Werkzeug",
+      "s Prüfkriterium",
+      "r Prüfpunkt",
       "s Prüfwerkzeug"
     ],
     [
-      "e Modellentwicklung",
-      "r Sollzustand",
-      "r Ressourcenbedarf",
+      "s Zielbild",
+      "e Rolle",
+      "notwendig",
       "s Rollenbild"
     ],
     [
       "s Schulungskonzept",
-      "r Verwaltungsprozess",
-      "r Entscheidungspunkt",
-      "e Umsetzungskompetenz"
+      "e Steuerungskompetenz",
+      "e Steuerungsfähigkeit",
+      "e Entscheidungsfähigkeit"
     ],
     [
-      "e Datenumgebung",
+      "s Informationsmanagement",
       "s Wissensmanagement",
-      "e Mindestanforderung",
-      "e Kostensicherheit"
+      "e Wissensbasis",
+      "im Einklang mit"
     ],
     [
-      "r Zielzustand",
-      "r Zielrahmen",
-      "e Zieldefinition",
+      "r Zielbezug",
+      "s Rollenbild",
+      "r Zielhorizont",
       "s Zielbild"
     ],
     [
-      "erweiterbar",
-      "kontrollierbar",
-      "reproduzierbar",
+      "e Skalierung",
+      "skalieren",
+      "steuerbar",
       "skalierbar"
     ],
     [
-      "simulieren",
-      "analysieren",
-      "visualisieren",
+      "e Skalierung",
+      "skalierbar",
+      "etablieren",
       "skalieren"
     ],
     [
-      "quantifizieren",
-      "analysieren",
-      "standardisieren",
-      "priorisieren"
-    ],
-    [
-      "datenbasiert",
+      "e Standardisierung",
       "standardisiert",
-      "priorisiert",
-      "koordiniert"
+      "standardisieren",
+      "r Standardisierungsgrad"
     ],
     [
-      "skalierbar",
-      "erweiterbar",
-      "wiederholbar",
+      "standardisieren",
+      "standardisiert",
+      "e Standardisierung",
+      "r Standardisierungsgrad"
+    ],
+    [
+      "e Steuerung",
+      "steuern",
+      "e Steuerbarkeit",
       "steuerbar"
     ],
     [
-      "trotz",
-      "weiterentwickeln",
+      "strukturieren",
+      "punktuell",
       "strukturell",
-      "unter Vorbehalt"
+      "aktuell"
     ],
     [
-      "systematisch",
+      "strategisch",
       "taktisch",
-      "perspektivisch",
-      "organisatorisch"
+      "methodisch",
+      "technisch"
     ],
     [
-      "unter Vorbehalt",
-      "unter Berücksichtigung",
-      "zielgerichtet",
-      "untergeordnet"
-    ],
-    [
-      "untergeordnet",
-      "unter anderem",
       "unter Voraussetzung",
-      "trotz"
+      "unter Berücksichtigung",
+      "e Selbsteinschätzung",
+      "e Steuerungswirkung"
+    ],
+    [
+      "unter Berücksichtigung",
+      "unter Vorbehalt",
+      "unter Voraussetzung",
+      "e Unterstützungsleistung"
     ],
     [
       "unter Vorbehalt",
-      "unter Berücksichtigung",
-      "innerhalb",
-      "integriert"
+      "untergeordnet",
+      "unter Voraussetzung",
+      "unter anderem"
     ],
     [
       "überführen",
-      "berichten",
-      "übertragen",
-      "verfolgen"
+      "einführen",
+      "überwachen",
+      "überprüfen"
     ],
     [
-      "geprüft",
+      "untergeordnet",
       "übergeordnet",
-      "bewährt",
-      "zielgerichtet"
+      "überführen",
+      "übertragen"
     ],
     [
-      "vergleichend",
+      "phasenübergreifend",
       "übergreifend",
-      "ergänzend",
-      "fortlaufend"
+      "überwiegend",
+      "überprüfen"
     ],
     [
       "übergreifend",
-      "vergleichend",
-      "ergänzend",
-      "fortlaufend"
+      "phasenübergreifend",
+      "überwiegend",
+      "überprüfen"
     ],
     [
       "validieren",
-      "konsolidieren",
-      "skalieren",
-      "definieren"
+      "validiert",
+      "visualisieren",
+      "analysieren"
     ],
     [
-      "effizient",
-      "harmonisiert",
-      "etabliert",
+      "validieren",
+      "normalisiert",
+      "konsolidiert",
       "validiert"
     ],
     [
-      "im Kern",
+      "e Verankerung",
       "verankern",
-      "verantwortlich",
-      "steuern"
+      "vereinbaren",
+      "e Verantwortung"
     ],
     [
       "verbindlich",
-      "erforderlich",
-      "bezüglich",
-      "verantwortlich"
-    ],
-    [
-      "vereinheitlicht",
-      "im Hinblick auf",
+      "e Verbindlichkeit",
       "verbindlich machen",
-      "nach Maßgabe"
+      "vereinheitlicht"
     ],
     [
-      "vergleichen",
-      "vereinheitlichen",
-      "vereinbaren",
-      "verstetigen"
-    ],
-    [
-      "vereinheitlicht",
+      "verbindlich",
+      "e Verbindlichkeit",
       "verbindlich machen",
-      "zeitgleich",
-      "interdisziplinär"
-    ],
-    [
-      "verstetigen",
-      "vergleichen",
-      "vereinheitlichen",
-      "unterstützen"
-    ],
-    [
-      "verstetigen",
-      "vergleichen",
-      "bereitstellen",
       "vereinheitlichen"
     ],
     [
-      "auf Seiten",
-      "unter Berücksichtigung",
-      "nicht nur sondern auch",
+      "e Vereinheitlichung",
+      "vereinheitlichen",
+      "vereinheitlicht",
+      "einheitlich"
+    ],
+    [
+      "vereinheitlicht",
+      "e Vereinheitlichung",
+      "vereinheitlichen",
+      "einheitlich"
+    ],
+    [
+      "verstetigen",
+      "verfolgen",
+      "festlegen",
+      "e Perspektive"
+    ],
+    [
+      "verstetigen",
+      "verfolgen",
+      "festlegen",
+      "unterstützen"
+    ],
+    [
+      "vorbereiten",
+      "e Erweiterung",
+      "r Reifegrad",
       "vor dem Hintergrund"
     ],
     [
-      "einheitlich",
-      "ausschließlich",
-      "grundsätzlich",
+      "e Wirtschaftlichkeit",
+      "hinsichtlich",
+      "verantwortlich",
       "wirtschaftlich"
     ],
     [
-      "im Vergleich",
+      "r Vergleich",
       "zeitgleich",
-      "weiterentwickeln",
-      "zielgerichtet"
+      "bezüglich",
+      "folglich"
     ],
     [
       "zielgerichtet",
-      "gleichwohl",
-      "übergeordnet",
-      "zeitgleich"
+      "r Zielhorizont",
+      "e Zielerreichung",
+      "r Zielrahmen"
     ],
     [
-      "lebenszyklusorientiert",
-      "gleichwohl",
+      "r Zielhorizont",
+      "berichten",
       "zielgerichtet",
-      "übergeordnet"
+      "e Zielerreichung"
     ],
     [
-      "künftig",
-      "zuständig",
+      "zukünftig",
+      "konsensfähig",
       "zukunftsfähig",
+      "anschlussfähig"
+    ],
+    [
+      "regelmäßig",
+      "durchgängig",
+      "gemäß",
       "zweckmäßig"
     ],
     [
-      "zukunftsfähig",
-      "anschlussfähig",
-      "zuständig",
-      "zweckmäßig"
-    ],
-    [
-      "zukunftsfähig",
-      "anschließend",
-      "anschlussfähig",
-      "anpassbar"
-    ],
-    [
-      "e Organisationsfähigkeit",
-      "e Steuerungsfähigkeit",
       "e Anschlussfähigkeit",
-      "e Abschlussphase"
+      "e Abschlussphase",
+      "anschlussfähig",
+      "konsensfähig"
     ],
     [
-      "r Anwendungskatalog",
-      "e Anwendungsreife",
-      "e Entwicklungsstufe",
-      "r Bewertungsrahmen"
-    ],
-    [
-      "r Anwendungskatalog",
-      "e Anwendungskompetenz",
-      "e Anwendungstiefe",
-      "e Entwicklungsstufe"
-    ],
-    [
-      "e Modellkoordination",
-      "e Behördenorganisation",
-      "e Datenkoordination",
-      "e Prozesskoordination"
-    ],
-    [
-      "e Datenbasis",
-      "e Datenreife",
-      "e Datenstruktur",
-      "e Prozessreife"
-    ],
-    [
+      "anschlussfähig",
       "e Entscheidungsfähigkeit",
-      "e Entscheidungsqualität",
-      "r Entscheidungsbedarf",
+      "e Anschlussfähigkeit",
+      "e Umsetzungsfähigkeit"
+    ],
+    [
+      "e Anwendungstiefe",
+      "e Anwendungsreife",
+      "r Anwendungsfall",
+      "e Anwendungskompetenz"
+    ],
+    [
+      "e Anwendungsreife",
+      "e Umsetzungstiefe",
+      "e Anwendungstiefe",
+      "r Anwendungsfall"
+    ],
+    [
+      "e Linienorganisation",
+      "e Behördenorganisation",
+      "übergeordnet",
+      "e Zieldefinition"
+    ],
+    [
+      "e Methodenreife",
+      "e Datenreife",
+      "e Modellreife",
+      "e Datenumgebung"
+    ],
+    [
+      "e Entscheidungsbefugnis",
+      "r Entscheidungspunkt",
+      "e Entscheidungsphase",
       "e Entscheidungslogik"
     ],
     [
-      "e Entscheidungslogik",
-      "e Entscheidungsbefugnis",
-      "e Entscheidungsfähigkeit",
+      "e Umsetzungsqualität",
+      "e Entscheidungsgrundlage",
+      "r Entscheidungspunkt",
       "e Entscheidungsqualität"
     ],
     [
-      "e Zieldefinition",
-      "e Initiative",
-      "e Linienorganisation",
-      "e Datenkoordination"
-    ],
-    [
+      "e Behördenorganisation",
       "e Linienfunktion",
       "e Linienorganisation",
+      "e Linienverantwortung"
+    ],
+    [
+      "e Verantwortung",
+      "e Lieferanforderung",
       "e Linienverantwortung",
-      "e Verankerung"
+      "e Mengenermittlung"
     ],
     [
       "e Methodenreife",
-      "e Methodenkompetenz",
-      "e Methode",
-      "e Methodenentwicklung"
+      "r Methodenrahmen",
+      "e Datenreife",
+      "e Modellreife"
     ],
     [
-      "e Methodenkompetenz",
-      "e Methode",
+      "r Methodenrahmen",
+      "e Datenreife",
       "e Methodenreife",
-      "e Methodenentwicklung"
+      "e Modellreife"
     ],
     [
-      "e Projektkompetenz",
+      "e Modellkonsistenz",
       "e Modellkompetenz",
-      "e Datenkompetenz",
-      "e Fachkompetenz"
+      "e Prozesskompetenz",
+      "e Methodenkompetenz"
     ],
     [
       "e Modellreife",
-      "e Modellprüfung",
-      "e Modellierung",
-      "e Datenreife"
+      "modellieren",
+      "e Methodenreife",
+      "e Prozessreife"
     ],
     [
       "e Organisationskompetenz",
-      "e Organisationsstrategie",
-      "e Organisationsstruktur",
-      "r Organisationspfad"
+      "e Organisationstransparenz",
+      "r Organisationsrahmen",
+      "r Organisationsnutzen"
     ],
     [
-      "e Organisationseinheit",
-      "e Prozesskoordination",
+      "e Organisationskompetenz",
+      "r Organisationsrahmen",
       "e Organisationskoordination",
+      "r Organisationsnutzen"
+    ],
+    [
+      "organisationsweit",
+      "e Organisationsreife",
+      "r Organisationsrahmen",
       "e Organisationsstrategie"
     ],
     [
-      "r Organisationsnutzen",
-      "e Organisationsreife",
-      "e Organisationseinheit",
-      "r Organisationspfad"
-    ],
-    [
-      "r Organisationsnutzen",
-      "e Organisationsstruktur",
-      "r Organisationsstatus",
+      "e Organisationskompetenz",
+      "r Organisationsrahmen",
+      "e Organisationsstrategie",
       "e Organisationstransparenz"
     ],
     [
-      "r Organisationsrahmen",
-      "e Organisationsstruktur",
+      "e Organisationsentwicklung",
+      "e Organisationsfähigkeit",
       "e Organisationswirkung",
-      "e Organisationsstrategie"
+      "r Organisationsstatus"
     ],
     [
-      "e Planungssicherheit",
-      "e Planungsphase",
-      "e Modellkonsistenz",
+      "e Prozesskonsistenz",
+      "e Datenkonsistenz",
+      "e Konsistenz",
       "e Planungskonsistenz"
     ],
     [
-      "e Projektgröße",
-      "s Projektteam",
-      "e Projektphase",
-      "e Projektreife"
-    ],
-    [
+      "projektweise",
+      "r Projektleiter",
       "e Prozessreife",
-      "s Projektteam",
-      "e Projektphase",
       "e Projektreife"
     ],
     [
-      "e Steuerungskompetenz",
-      "e Datenkompetenz",
-      "e Umsetzungskompetenz",
+      "projektweise",
+      "r Projektleiter",
+      "e Projektgröße",
+      "e Projektreife"
+    ],
+    [
+      "e Projektkompetenz",
+      "e Prozesskonsistenz",
+      "e Modellkompetenz",
       "e Prozesskompetenz"
     ],
     [
-      "e Datenkonsistenz",
+      "e Prozesskompetenz",
       "e Prozesskonsistenz",
-      "e Projektkompetenz",
-      "e Prozesskoordination"
+      "e Planungskonsistenz",
+      "e Modellkonsistenz"
     ],
     [
-      "e Modellreife",
-      "e Prozessdefinition",
+      "e Projektreife",
+      "prozessual",
       "e Prozessreife",
-      "e Prozesskonsistenz"
+      "r Prozess"
     ],
     [
-      "e Reifegradstufe",
-      "r Reifegradpfad",
+      "e Reifegradmessung",
+      "e Reifegradentwicklung",
       "e Reifegradbewertung",
-      "r Reifegrad"
+      "r Reifegradstatus"
     ],
     [
-      "e Strategieentwicklung",
+      "e Weiterentwicklung",
       "e Reifegradentwicklung",
-      "e Reifegradstufe",
-      "e Systementwicklung"
-    ],
-    [
-      "e Reifegradentwicklung",
-      "s Reifegradmodell",
-      "r Reifegradpfad",
+      "e Reifegradbewertung",
       "e Reifegradmessung"
     ],
     [
-      "r Reifegrad",
       "e Reifegradbewertung",
       "e Reifegradstufe",
-      "s Reifegradmodell"
+      "r Reifegradstatus",
+      "e Reifegradmessung"
     ],
     [
-      "e Wiederverwendbarkeit",
-      "e Steuerungswirkung",
-      "e Steuerbarkeit",
-      "e Zielklarheit"
+      "r Reifegradstatus",
+      "e Reifegradmessung",
+      "e Reifegradstufe",
+      "r Reifegradpfad"
     ],
     [
-      "r Steuerungsrahmen",
-      "e Steuerungsfähigkeit",
-      "e Steuerungskompetenz",
-      "r Steuerungsbeitrag"
-    ],
-    [
-      "r Steuerungsrahmen",
-      "e Steuerungswirkung",
+      "steuerbar",
       "r Steuerungsbeitrag",
+      "e Steuerbarkeit",
+      "e Steuerungsfähigkeit"
+    ],
+    [
+      "e Umsetzungsfähigkeit",
+      "e Steuerungsfähigkeit",
+      "e Entscheidungsfähigkeit",
+      "e Steuerungswirkung"
+    ],
+    [
+      "e Umsetzungskompetenz",
+      "e Anwendungskompetenz",
+      "r Steuerungsstatus",
       "e Steuerungskompetenz"
     ],
     [
       "e Steuerungswirkung",
-      "r Steuerungsbeitrag",
-      "e Steuerungsfähigkeit",
-      "r Steuerungsrahmen"
+      "r Steuerungsstatus",
+      "r Steuerungsaufwand",
+      "e Umsetzungswirkung"
     ],
     [
-      "e Umsetzungswirkung",
-      "e Umsetzungstiefe",
-      "r Umsetzungsrahmen",
+      "e Steuerungsfähigkeit",
+      "e Entscheidungsfähigkeit",
+      "e Anschlussfähigkeit",
       "e Umsetzungsfähigkeit"
     ],
     [
       "e Umsetzungskompetenz",
-      "r Umsetzungsstand",
-      "r Umsetzungsplan",
-      "e Methodenkompetenz"
-    ],
-    [
-      "r Umsetzungszyklus",
-      "e Umsetzungsqualität",
-      "e Ergebnisqualität",
-      "r Umsetzungsgrad"
-    ],
-    [
-      "e Anwendungstiefe",
-      "r Umsetzungsbeitrag",
-      "e Umsetzungstiefe",
-      "e Umsetzungsfähigkeit"
-    ],
-    [
-      "r Umsetzungsstatus",
-      "e Umsetzungswirkung",
-      "e Umsetzungsfähigkeit",
+      "e Anwendungskompetenz",
+      "e Steuerungskompetenz",
       "e Umsetzungstiefe"
     ],
     [
-      "konsolidiert",
-      "insbesondere",
-      "lebenszyklusorientiert",
-      "organisationsweit"
+      "e Entscheidungsqualität",
+      "e Umsetzungsqualität",
+      "r Umsetzungsstatus",
+      "r Umsetzungsbeitrag"
     ],
     [
-      "unabhängig von",
-      "deshalb",
+      "e Umsetzungsphase",
+      "r Umsetzungsstatus",
+      "e Umsetzungstiefe",
+      "r Umsetzungsrahmen"
+    ],
+    [
+      "r Umsetzungsbeitrag",
+      "e Umsetzungswirkung",
+      "e Steuerungswirkung",
+      "r Umsetzungszyklus"
+    ],
+    [
+      "r Lebenszyklus",
+      "e Zielorientierung",
+      "lebenszyklusorientiert",
+      "koordiniert"
+    ],
+    [
+      "auf Vorgabe",
+      "nachhaltig",
       "nach Maßgabe",
-      "verbindlich machen"
+      "nachfolgend"
     ],
     [
       "r Effizienztreiber",
-      "e Methodenreife",
-      "r Meilenstein",
-      "r Projektleiter"
-    ],
-    [
-      "r Entwicklungspfad",
-      "r Strukturierungsgrad",
-      "r Implementierungspfad",
-      "r Digitalisierungsgrad"
+      "e Effizienzsteigerung",
+      "e Effizienz",
+      "effizient"
     ],
     [
       "r Implementierungsstand",
-      "r Umsetzungsstand",
-      "r Strukturierungsgrad",
-      "r Steuerungsstatus"
+      "r Implementierungsaufwand",
+      "r Implementierungspfad",
+      "r Implementierungsstatus"
     ],
     [
-      "e Organisationsreife",
-      "r Organisationsrahmen",
-      "r Organisationspfad",
-      "e Organisationskompetenz"
+      "r Implementierungsstand",
+      "r Implementierungsstatus",
+      "r Implementierungspfad",
+      "r Implementierungsaufwand"
     ],
     [
-      "e Organisationswirkung",
+      "organisationsweit",
       "r Organisationsstatus",
-      "r Organisationsnutzen",
-      "e Organisationsentwicklung"
+      "r Organisationspfad",
+      "r Organisationsnutzen"
     ],
     [
-      "e Reifegradmessung",
-      "s Reifegradmodell",
-      "r Reifegradpfad",
-      "e Reifegradbewertung"
+      "e Organisationsstruktur",
+      "r Organisationsstatus",
+      "e Organisationsstrategie",
+      "r Organisationspfad"
     ],
     [
-      "e Reifegradmessung",
       "r Reifegrad",
       "r Reifegradstatus",
-      "e Reifegradbewertung"
+      "r Reifegradpfad",
+      "e Reifegradstufe"
+    ],
+    [
+      "e Reifegradstufe",
+      "r Reifegradpfad",
+      "r Reifegradstatus",
+      "s Reifegradmodell"
     ],
     [
       "r Standardisierungsbedarf",
-      "r Anpassungsbedarf",
-      "r Steuerungsbedarf",
-      "r Handlungsbedarf"
-    ],
-    [
-      "r Automatisierungsgrad",
       "r Standardisierungsgrad",
-      "r Strukturierungsgrad",
-      "r Standardumfang"
+      "e Standardisierung",
+      "r Konsolidierungsbedarf"
     ],
     [
-      "r Digitalisierungsgrad",
+      "r Standardisierungsbedarf",
       "r Standardisierungsgrad",
-      "r Strukturierungsgrad",
-      "r Standardumfang"
+      "e Standardisierung",
+      "r Digitalisierungsgrad"
     ],
     [
-      "r Implementierungsaufwand",
-      "r Steuerungsstatus",
+      "r Standardisierungsbedarf",
+      "r Standardisierungsgrad",
+      "e Standardisierung",
+      "r Automatisierungsgrad"
+    ],
+    [
+      "r Abstimmungsaufwand",
+      "e Steuerungswirkung",
       "r Steuerungsaufwand",
-      "r Steuerungsbedarf"
+      "r Steuerungsrahmen"
     ],
     [
-      "r Abstimmungsbedarf",
+      "r Steuerungsbeitrag",
+      "r Steuerungsbedarf",
+      "r Erweiterungsbedarf",
+      "r Steuerungsaufwand"
+    ],
+    [
+      "r Steuerungsbeitrag",
       "r Steuerungsbedarf",
       "r Steuerungsstatus",
-      "r Anpassungsbedarf"
+      "r Umsetzungsbeitrag"
     ],
     [
       "r Steuerungsbeitrag",
       "e Steuerungswirkung",
-      "e Steuerungskompetenz",
-      "e Steuerbarkeit"
-    ],
-    [
-      "r Umsetzungsstatus",
-      "r Steuerungsaufwand",
       "r Steuerungsstatus",
-      "r Steuerungsrahmen"
+      "r Implementierungsstatus"
     ],
     [
-      "r Digitalisierungsgrad",
-      "r Implementierungsstand",
-      "r Implementierungspfad",
+      "strukturieren",
+      "r Automatisierungsgrad",
+      "r Standardisierungsgrad",
       "r Strukturierungsgrad"
     ],
     [
-      "e Zielerreichung",
-      "s Zielbild",
+      "zielgerichtet",
+      "e Zielsetzung",
       "r Zielhorizont",
-      "r Zielbezug"
-    ],
-    [
-      "r Zielhorizont",
-      "e Zielerreichung",
-      "e Zielorientierung",
       "e Zielklarheit"
     ],
     [
-      "e Reifegradstufe",
-      "r Reifegradstatus",
+      "r Zielhorizont",
+      "zielgerichtet",
+      "e Zielsetzung",
+      "s Zielbild"
+    ],
+    [
+      "e Reifegradmessung",
+      "r Reifegradpfad",
       "s Reifegradmodell",
-      "s Fachmodell"
+      "r Reifegrad"
     ]
   ],
   "hints": [
