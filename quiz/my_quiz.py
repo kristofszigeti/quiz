@@ -438,22 +438,22 @@ topics.add_radiobutton(label = 'Python', variable = choice, value = 12,
 
 # DEUTSCH MENUBAR
 choice = IntVar()
-deutsch.add_radiobutton(label = 'Deutsch A1.1', variable = choice, value = 1,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-1.json'), 0), quiz.display_deutsch_label(0)))
-deutsch.add_radiobutton(label = 'Deutsch A1.2', variable = choice, value = 2,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-2.json'), 1), quiz.display_deutsch_label(1)))
-deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 3,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-3.json'), 2), quiz.display_deutsch_label(2)))
-deutsch.add_radiobutton(label = 'Deutsch A1.4', variable = choice, value = 4,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-4.json'), 3), quiz.display_deutsch_label(3)))
-deutsch.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 5,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-5.json'), 4), quiz.display_deutsch_label(4)))
-deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 6,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_a1-6.json'), 5), quiz.display_deutsch_label(5)))
-deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 7,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 6), quiz.display_deutsch_label(6)))
-deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 8,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 7), quiz.display_deutsch_label(7)))
+deutsch.add_radiobutton(label = 'Deutsch A1', variable = choice, value = 1,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1.json'), 0), quiz.display_deutsch_label(0)))
+deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 2,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 1), quiz.display_deutsch_label(1)))
+deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 3,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 2), quiz.display_deutsch_label(2)))
+deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 4,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 3), quiz.display_deutsch_label(3)))
+# deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-3.json'), 2), quiz.display_deutsch_label(2)))
+# deutsch.add_radiobutton(label = '(X) Deutsch A1.4', variable = choice, value = 6,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-4.json'), 3), quiz.display_deutsch_label(3)))
+# deutsch.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 7,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-5.json'), 4), quiz.display_deutsch_label(4)))
+# deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 8,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-6.json'), 5), quiz.display_deutsch_label(5)))
 
 
 # icons to show for the topics
@@ -488,13 +488,13 @@ topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
 # topics.entryconfig(11, image=logo_t12, compound= 'left') # bme - hvac basics
 
 deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
-deutsch.entryconfig(1, image= logo_t13, compound ='left') # adding icon and position it
-deutsch.entryconfig(2, image= logo_t13, compound ='left')
-deutsch.entryconfig(3, image= logo_t13, compound ='left')
-deutsch.entryconfig(4, image= logo_t13, compound ='left')
-deutsch.entryconfig(5, image= logo_t13, compound ='left')
-deutsch.entryconfig(6, image= logo_t14, compound ='left')
-deutsch.entryconfig(7, image= logo_t14, compound ='left')
+deutsch.entryconfig(1, image= logo_t14, compound ='left')
+deutsch.entryconfig(2, image= logo_t14, compound ='left')
+# deutsch.entryconfig(3, image= logo_t15, compound ='left') # adding icon and position it
+# deutsch.entryconfig(2, image= logo_t13, compound ='left')
+# deutsch.entryconfig(3, image= logo_t13, compound ='left')
+# deutsch.entryconfig(4, image= logo_t13, compound ='left')
+# deutsch.entryconfig(5, image= logo_t13, compound ='left')
 
 # # PROGRESS BAR: # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?resume=false
 # the bar

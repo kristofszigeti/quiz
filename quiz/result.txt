@@ -143,3 +143,283 @@ Topic Two - Movies
 Player name: Type your name 
 Your score: 80%
 ---------------------------------
+2026-04-11, 16:14:59
+Topic One - Sport   
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:16:09
+Topic One - Sport   
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:36:36
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:37:31
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 80%
+---------------------------------
+2026-04-11, 16:42:10
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 90%
+---------------------------------
+2026-04-11, 16:43:05
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:44:39
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:46:06
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:51:26
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:52:25
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:54:03
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:55:12
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 16:56:34
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 17:16:31
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 17:19:57
+Topic Four - Football
+Player name: Type your name 
+Your score: 80%
+---------------------------------
+2026-04-11, 17:21:37
+Topic Five - Darts  
+Player name: Type your name 
+Your score: 90%
+---------------------------------
+2026-04-11, 17:23:36
+Topic Five - Darts  
+Player name: Type your name 
+Your score: 75%
+---------------------------------
+2026-04-11, 17:26:05
+Topic Five - Darts  
+Player name: Type your name 
+Your score: 80%
+---------------------------------
+2026-04-11, 17:27:17
+Topic Four - Football
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 17:29:59
+Topic BONUS         
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-04-11, 17:34:27
+Topic Four - Football
+Player name: Type your name 
+Your score: 95%
+---------------------------------
+2026-04-17, 21:59:18
+Topic One - Sport   
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-05-01, 21:57:52
+Topic One - Sport   
+Player name: Type your name 
+Your score: 99%
+---------------------------------
+2026-05-02, 16:54:45
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 97%
+---------------------------------
+2026-05-02, 17:02:22
+Topic Three - Geography
+Player name: kA1.2_1/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:07:16
+Topic Two - Movies  
+Player name: kA1.2_2/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:11:36
+Topic Two - Movies  
+Player name: kA1.2_3/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:14:30
+Topic Two - Movies  
+Player name: kA1.2_4/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:16:31
+Topic Two - Movies  
+Player name: kA1.2_5/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:21:27
+Topic Two - Movies  
+Player name: kA1.2_6/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:25:33
+Topic Two - Movies  
+Player name: kA1.2_7/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:52:10
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 95%
+---------------------------------
+2026-05-02, 17:55:39
+Topic Two - Movies  
+Player name: kA1.2_9/10     
+Your score: 100%
+---------------------------------
+2026-05-02, 17:57:19
+Topic Two - Movies  
+Player name: kA1.2_10/10    
+Your score: 100%
+---------------------------------
+2026-05-02, 18:15:29
+Topic Two - Movies  
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-05-03, 15:15:32
+Topic Three - Geography
+Player name: A1.3           
+Your score: 82%
+---------------------------------
+2026-05-03, 15:18:03
+Topic Three - Geography
+Player name: A1.3           
+Your score: 95%
+---------------------------------
+2026-05-03, 15:20:28
+Topic Three - Geography
+Player name: A1.3           
+Your score: 92%
+---------------------------------
+2026-05-03, 15:22:38
+Topic Three - Geography
+Player name: A1.3           
+Your score: 100%
+---------------------------------
+2026-05-03, 15:25:18
+Topic Three - Geography
+Player name: A1.3           
+Your score: 97%
+---------------------------------
+2026-05-03, 15:27:16
+Topic Three - Geography
+Player name: A1.3           
+Your score: 100%
+---------------------------------
+2026-05-03, 15:28:18
+Topic Three - Geography
+Player name: A1.3           
+Your score: 95%
+---------------------------------
+2026-05-03, 15:29:39
+Topic Three - Geography
+Player name: A1.3           
+Your score: 95%
+---------------------------------
+2026-05-03, 15:30:48
+Topic Three - Geography
+Player name: A1.3           
+Your score: 100%
+---------------------------------
+2026-05-03, 15:31:59
+Topic Three - Geography
+Player name: A1.3           
+Your score: 100%
+---------------------------------
+2026-05-03, 15:35:34
+Topic Three - Geography
+Player name: A1.3           
+Your score: 100%
+---------------------------------
+2026-05-03, 15:37:20
+Topic Three - Geography
+Player name: A1.3           
+Your score: 95%
+---------------------------------
+2026-05-03, 15:43:34
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-05-03, 16:58:40
+Topic Three - Geography
+Player name: Type your name 
+Your score: 100%
+---------------------------------
+2026-05-04, 21:31:06
+Deutsch A1.3        
+Player name: Type your name 
+Your score: 0%
+---------------------------------
+2026-05-04, 23:27:45
+Deutsch A1.3        
+Player name: Type your name 
+Your score: 99%
+---------------------------------
+2026-05-04, 23:49:08
+Deutsch A1.4        
+Player name: Type your name 
+Your score: 96%
+---------------------------------
+2026-05-24, 13:41:37
+Deutsch A1.1        
+Player name: Type your name 
+Your score: 98%
+---------------------------------
+2026-05-24, 14:39:35
+Deutsch A1.2        
+Player name: Type your name 
+Your score: 97%
+---------------------------------
+2026-05-24, 19:13:41
+Deutsch A1.3        
+Player name: Type your name 
+Your score: 90%
+---------------------------------
+2026-05-24, 19:55:20
+Deutsch A1.4        
+Player name: Type your name 
+Your score: 92%
+---------------------------------

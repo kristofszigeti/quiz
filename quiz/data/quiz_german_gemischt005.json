@@ -1,0 +1,4510 @@
+{
+  "question": [
+    "etwas ist genau so groß wie ...",
+    "während ...",
+    "einerseits ... andererseits ...",
+    "beide ...",
+    "Im Vergleich ...",
+    "ellentétben vmivel... (in contrast to ...)",
+    "a különbség... (in contrast ...)",
+    "Nicht nur ... sondern auch ...",
+    "entweder ... oder ...",
+    "weder ... noch ...",
+    "ezért (therefore)",
+    "amiből kifolyólag... (as a result of which ...)",
+    "also",
+    "tehát... (thus / so ...)",
+    "denn",
+    "s Ergebnis, -se",
+    "e Maßnahme, -n",
+    "megoldás (solution)",
+    "r Vorschlag, -¨e",
+    "javasol (to suggest / propose)",
+    "Ich bin der Meinung, dass ...",
+    "meiner Ansicht nach ...",
+    "Ich bin davon überzeugt, dass ...",
+    "úgy tűnik számomra, hogy... (It seems to me that ...)",
+    "es ist wichtig, dass ...",
+    "Es ist fraglich, ob ...",
+    "sürgős (urgent)",
+    "es ist notwendig, dass ...",
+    "célszerű (advisable / expedient)",
+    "Es ist ratsam, dass ...",
+    "Es ist unwahrscheinlich, dass ...",
+    "einfach (simple)",
+    "langweilig (boring)",
+    "gefährlich (dangerous)",
+    "sicher (safe)",
+    "hasznos (useful)",
+    "nutzlos (useless)",
+    "jó (good)",
+    "legjobb (best)",
+    "világos (light / bright)",
+    "hideg (cold)",
+    "meleg (warm)",
+    "kalt (cold)",
+    "fáradt (tired)",
+    "wach (awake)",
+    "beteg (sick)",
+    "gesund (healthy)",
+    "mérges (angry)",
+    "boldog (happy)",
+    "útvonal (route)",
+    "pozíció (position)",
+    "r Stadtplan, -¨e",
+    "térkép (map)",
+    "iránytű (compass)",
+    "eltévedni (to get lost)",
+    "der Unterschied ...",
+    "ok / indok (reason)",
+    "javaslat (suggestion / proposal)",
+    "Ich denke, dass ...",
+    "Ich glaube, dass ...",
+    "veszélyes (dangerous)",
+    "biztonságos (safe)",
+    "gut (good)",
+    "schön (beautiful)",
+    "éber (awake)",
+    "wütend (angry)",
+    "in welche Richtung? (in which direction?)",
+    "aluljáró (underpass)",
+    "abbiegen",
+    "kereszteződés / a kereszteződésnél (intersection)",
+    "előzni (to overtake)",
+    "előzés (overtaking)",
+    "baleset (accident)",
+    "jegyzőkönyv (protocol / report)",
+    "das Protokoll aufnehmen",
+    "mentők (ambulance / rescue)",
+    "Geh geradeaus!",
+    "Geh die Straße entlang!",
+    "Bieg nach links ab!",
+    "fordulj jobbra (turn right)",
+    "Menj át a hídon! (Cross the bridge!)",
+    "Menj át az úton! (Cross the street!)",
+    "e Ausrede, -n",
+    "Ich bin müde.",
+    "alsó, mélyebb (inferior / lower)",
+    "e Überlegenheit, -en",
+    "határozott, határozottan (decided / definite)",
+    "zárkózott, visszahúzódó (reserved / withdrawn)",
+    "tapasztalatszerzés / tapasztalatszerző (experiential)",
+    "feszült, görcsös (tense / uptight)",
+    "verklemmt",
+    "das Schlimmste erwarten",
+    "párhuzamosan valakivel/valamivel (in parallel with)",
+    "auf diese Art und Weise",
+    "hirtelen / hirtelen (abruptly / suddenly)",
+    "hirtelen, váratlanul (abruptly / suddenly)",
+    "auf einen Schlag",
+    "nem várt, váratlanul (unexpectedly)",
+    "egy pillanat alatt (in an instant)",
+    "költségbecslés (cost estimate)",
+    "költségszámítás / költségvetés (cost calculation)",
+    "tervezési és engedélyezési fázis (planning and approval phase)",
+    "tervezési fázis (planning phase)",
+    "engedélyezési fázis (approval phase)",
+    "e Ausführungsplanung",
+    "r Bauablauf",
+    "beosztás / ütemezés / elosztás (schedule / allocation)",
+    "e Vergabe",
+    "r Vergabeplan",
+    "üzembe helyezés / megnyitás (commissioning / kick-off)",
+    "átadás-átvétel (handover)",
+    "üzemeltetés / használat fázisa (operation phase)",
+    "vázlatterv / koncepcióterv (conceptual design)",
+    "r Entwurf",
+    "r Zeigefinger, -",
+    "a gyűrűsujj (the ring finger)",
+    "r Nerv, -en",
+    "fáj (vmije) (to hurt / to ache)",
+    "umgeben",
+    "wiederholen",
+    "Ich glaube",
+    "als",
+    "können",
+    "feladat (task)",
+    "stark | stärker",
+    "hanem (but (rather))",
+    "egyedi (individual)",
+    "hagyományos (traditional)",
+    "sich verbessern",
+    "sich beziehen auf",
+    "besprechen",
+    "r Vertrag",
+    "eszköz (tool / instrument)",
+    "felismerni (to recognize)",
+    "s Ergebnis",
+    "r Unterschied",
+    "hasonlóság (similarity)",
+    "r Fehler",
+    "richtig",
+    "falsch",
+    "r Sinn",
+    "e Maßnahme",
+    "felelősség (responsibility)",
+    "s Recht",
+    "kivétel (exception)",
+    "erlauben",
+    "tiltani (to forbid)",
+    "e Gelegenheit",
+    "kockázat (risk)",
+    "e Erinnerung",
+    "jövő (future)",
+    "r Augenblick",
+    "beginnen",
+    "befejezni (to finish)",
+    "dauern",
+    "e Situation",
+    "feltétel (condition)",
+    "r Prozess",
+    "sich sicher sein",
+    "zweifeln",
+    "elérni (to reach)",
+    "siker (success)",
+    "scheitern",
+    "e Bewerbung, -en",
+    "r Bereich, -e",
+    "e Erfahrung, -en",
+    "verantwortlich",
+    "e Verantwortung",
+    "döntés (decision)",
+    "megvalósítás (implementation)",
+    "e Kenntnis, -se",
+    "e Fähigkeit, -en",
+    "e Voraussetzung, -en",
+    "portabel",
+    "e Bekanntschaft",
+    "bekannt",
+    "ismeretlen (unknown)",
+    "s Gesicht, -er",
+    "verwechseln",
+    "r Zufall, -¨e",
+    "wie immer",
+    "e Ewigkeit, -en",
+    "vorhaben",
+    "befejezni (to end)",
+    "r Unterschied, -e",
+    "különböző (different)",
+    "vergleichen (+ Akk.)",
+    "valamilyen benyomást kelt (to make an impression)",
+    "wirken auf + Akk.",
+    "sympathisch",
+    "ellenszenves (unsympathetic)",
+    "s Vertrauen",
+    "csalódni / csalódást okozni (to disappoint)",
+    "e Erwartung, -en",
+    "sich streiten",
+    "megegyezni (to agree / to settle)",
+    "e Lösung, -en",
+    "r Kompromiss, -e",
+    "Kompromiss eingehen",
+    "sich entschuldigen",
+    "bocsánatkérés (apology)",
+    "verzeihen (+ Dat.)",
+    "kifogást keresni (to make an excuse)",
+    "sich bedanken",
+    "helfen (+ Dat.)",
+    "unterstützen",
+    "sich revanchieren",
+    "e Einladung, -en",
+    "meghívni (to invite)",
+    "ajándékozni (to gift)",
+    "überraschen",
+    "gratulieren (+ Dat.)",
+    "sich verabschieden",
+    "auf Wiedersehen",
+    "Tschüss",
+    "s Auto, -s",
+    "das Auto fahren",
+    "e Autobahn, -en",
+    "r Stau, -s",
+    "im Stau stehen",
+    "e Ampel, -n",
+    "e Kreuzung, -en",
+    "e Ausfahrt, -en",
+    "r Parkplatz, -¨e",
+    "e Tankstelle, -n",
+    "tankolni (to refuel)",
+    "r Fußgänger, -",
+    "r Zebrastreifen, -",
+    "überqueren",
+    "e Brücke, -n",
+    "r Tunnel, -",
+    "r Untergang",
+    "e Kreuzung | an der Kreuzung",
+    "Menj egyenesen! (Go straight ahead!)",
+    "Menj végig az utcán! (Go along the street!)",
+    "Bieg nach rechts ab!",
+    "Geh über die Brücke!",
+    "Geh über die Straße!",
+    "kifogás / magyarázkodás (excuse)",
+    "unterlegen",
+    "e Überlegenheit",
+    "erfahrungsmäßig",
+    "gespannt",
+    "schlagartig",
+    "e Kostenschätzung",
+    "e Kostenberechnung",
+    "e Planungs- und Genehmigungsphase",
+    "e Planungsphase",
+    "e Genehmigungsphase",
+    "építés menete (construction sequence)",
+    "e Einteilung",
+    "odaítélés / kiadás (awarding / assignment)",
+    "e Betriebsphase",
+    "s Vorentwurf / s Konzept",
+    "tervezet (draft)",
+    "der Kopf",
+    "das Haar, -e",
+    "hát (back)",
+    "has (stomach)",
+    "kar (arm)",
+    "der Fuß, -¨e",
+    "s Herz, -en",
+    "izom (muscle)",
+    "die Nase",
+    "die Wange, -n",
+    "mutatóujj (index finger)",
+    "der Mittelfinger",
+    "der kleine Finger",
+    "köröm (nail)",
+    "ideg (nerve)",
+    "die Krankheit, -en",
+    "wehtun / wehtun (+ Dat.)",
+    "körülvenni (to surround)",
+    "lefordítani (to translate)",
+    "megismételni (to repeat)",
+    "ellentétes (opposed)",
+    "sich eindecken",
+    "e Verpflichtung",
+    "vorkommen | auftreten",
+    "vállalat / vállalkozás (enterprise)",
+    "angemessen | ordnungsgemäß",
+    "im Gegenzug | als Gegenleistung",
+    "verschieben (+ Akkusativ)",
+    "in meinem Namen | in meinem Auftrag",
+    "absichtlich | bewusst",
+    "e Autorität | e Behörde",
+    "alapvetően / elvileg (fundamentally / basically)",
+    "feste / geregelte Einkünfte",
+    "hátrahagyni (to leave behind)",
+    "jól megérteni egymást (to get along well)",
+    "költségtérítés (reimbursement of expenses)",
+    "r Vorgesetzte | r Chef",
+    "megtartani a szavát (to keep one's word)",
+    "revidieren / überarbeiten",
+    "kifinomult (sophisticated)",
+    "megszegni az ígéretet (to break a promise)",
+    "unerträglich",
+    "völlig abwegig | absolut verrückt",
+    "unaufgefordert",
+    "in Einklang bringen | abstimmen",
+    "e Aussicht | e Prognose",
+    "in hohem Maße | stark",
+    "verabscheuen | hassen",
+    "erweitern | vergrößern",
+    "einberufen / versammeln",
+    "r Ablauf / r Verlauf",
+    "szokásos / hagyományos módon (conventional)",
+    "felbecsülni / értékelni (to estimate / assess)",
+    "vorwerfen",
+    "vorhalten",
+    "ausmachen (einen Unterschied ausmachen)",
+    "egy különbséget tenni / számít (to make a difference)",
+    "ügy (matter / issue)",
+    "einerseits ... andererseits",
+    "egész éjjel fennmaradni (to stay up all night)",
+    "das ist lächerlich",
+    "kompensieren / wieder gutmachen",
+    "widersprechen",
+    "megbízhatóan (reliably)",
+    "bewusst / absichtlich",
+    "entschlossen sein",
+    "felgyorsítani (to accelerate)",
+    "bequem machen",
+    "zögern",
+    "verwirren",
+    "wissen, worauf es ankommt",
+    "mit einem Problem umgehen",
+    "r Verdacht",
+    "wieder in Gang setzen",
+    "hervorholen / wieder aufnehmen",
+    "e Enttäuschung",
+    "verschwenden",
+    "hirtelen / váratlanul (abrupt / sudden)",
+    "von Grund auf neu anfangen",
+    "egy ígéretet betartani (to fulfill a promise)",
+    "zwingend erforderlich",
+    "egy pillanat alatt (in the blink of an eye)",
+    "im Großen und Ganzen",
+    "e Verwirrung",
+    "umgehend / sofortig",
+    "azonnali / haladéktalanul (prompt / immediate)",
+    "auf dem Laufenden bleiben",
+    "niedergeschlagen / verzweifelt",
+    "folyamatos (ongoing / continuous)",
+    "von nun an / ab jetzt",
+    "das Schlimmste befürchten",
+    "einer Angelegenheit nachgehen",
+    "sich auswirken auf",
+    "eine Entscheidung treffen",
+    "zuschreiben (Erfolg)",
+    "die Gelegenheit ergreifen",
+    "ein Geheimnis bewahren",
+    "verknüpfen (mit)",
+    "aushalten / ertragen",
+    "sich etwas vormachen",
+    "bescheuert / dumm",
+    "vermeintlich / angeblich",
+    "in jeder Hinsicht",
+    "hervorragend / beispielhaft",
+    "r Bruch | r Vertragsbruch",
+    "sich abzeichnen | drohen",
+    "súrol / töröl (tervet) (to scrub)",
+    "következmények / fallout (fallout)",
+    "kihoz vkit a sodrából (to set sby off)",
+    "húzza az időt (to keep stalling)",
+    "e Einhaltung | e Compliance",
+    "e Bestechung",
+    "megveszteget (to bribe)",
+    "verzerren | verfälschen",
+    "megakadályoz / megelőz (to prevent)",
+    "übergehen zu",
+    "valamin múlik / függ (to come down to sth)",
+    "etwas im Auge behalten",
+    "r Meilenstein",
+    "völlig ausschließen (to rule out completely)",
+    "jól megérteni egymást vkivel (to get along well with sby)",
+    "megkerülni / kicselezni (to circumvent)",
+    "kételkedik (to have doubts)",
+    "einkalkulieren",
+    "in vollem Gange",
+    "határozott (decided / definite)",
+    "völlig abwegig / absolut verrückt",
+    "kölcsönösen (mutually)",
+    "megszegni egy ígéretet (to break a promise)",
+    "ein Versprechen einhalten",
+    "a legrosszabbtól tartani (to fear the worst)",
+    "einschätzen / bewerten",
+    "alulértékelni (to devalue)",
+    "überschätzen",
+    "alulbecsülni (to underestimate)",
+    "plötzlich / abrupt",
+    "állítólagos / feltételezett (supposed / alleged)",
+    "juttatás / előny (benefit / perk)",
+    "szándékosan / tudatosan (deliberately / intentionally)",
+    "die ganze Nacht aufbleiben",
+    "kiszámíthatatlan (unpredictable)",
+    "szinergetikus (synergistic)",
+    "kiváló / példaértékű (outstanding / exemplary)",
+    "impertinent",
+    "nuanciert",
+    "falsifizieren",
+    "brüskieren",
+    "e Interoperabilität",
+    "állandósít / fenntart (to consolidate / stabilize)",
+    "skalieren",
+    "konsolidieren",
+    "multiplikátor / közvetítő (multiplier)",
+    "anschlussfähig",
+    "BIM érettségi szint (BIM maturity level)",
+    "lebenszyklus-",
+    "linienorganisation",
+    "meritokrácia / teljesítményelvűség (meritocracy)",
+    "e Charlatanerie",
+    "interoperabilitás (interoperability)",
+    "megbánt, megsért (to snub)",
+    "meghamisít, megcáfol (to falsify)",
+    "árnyalt (nuanced)",
+    "interoperabel",
+    "quintessenziell",
+    "pimasz, szemtelen (impertinent)",
+    "synergetisch",
+    "sich zusammenschließen mit",
+    "önjelölt (self-proclaimed)",
+    "leküzdeni (to overcome)",
+    "etwas hinter sich bringen",
+    "jogosult (eligible)",
+    "umgehen",
+    "beavatkozik (interfere)",
+    "e Beschwerde, -n",
+    "eljár vmi szerint (to proceed)",
+    "e Vorgabe, -n",
+    "támpont / iránymutatás (guideline / clue)",
+    "felülír / semmibe vesz (override / overrule)",
+    "kinevezett (designated)",
+    "igénybe venni / felhasználni (to avail oneself of / to make use of)",
+    "zuschreiben",
+    "hozzárendelés / tulajdonítás (attribution)",
+    "túlbecsül (overestimate)",
+    "unterschätzen",
+    "átmeneti (temporary / transitional)",
+    "állandósít (to make permanent / to stabilize)",
+    "e Verstetigung, -en",
+    "életciklus-orientált (life-cycle oriented)",
+    "verankern",
+    "e Skalierbarkeit",
+    "r BIM-Reifegrad",
+    "irányítás szempontjából releváns (relevant for steering)",
+    "életciklus (life cycle)",
+    "térbeli (spatial)",
+    "objektumalapú (object-based)",
+    "kollaborativ / együttműködő (collaborative)",
+    "adatmodell (data model)",
+    "e Informationsanreicherung, -en",
+    "fachspezifisch",
+    "s Fachmodell, -e",
+    "összehangolás / összevetés (coordination / clash detection)",
+    "konsistenzprüfend",
+    "r Kollisionscheck, -s",
+    "verlustfrei",
+    "r Informationsverlust, -e",
+    "schnittstellenübergreifend",
+    "életciklusokon átívelő (across life-cycles)",
+    "r BIM-Manager, -",
+    "r BIM-Koordinator, -en",
+    "r BIM-Autor, -en",
+    "adatcsere-formátum (data exchange format)",
+    "bővíthető (extensible)",
+    "tulajdonság (property / attribute)",
+    "e Attribuierung, -en",
+    "BIM kivitelezési terv / BEP (BIM Execution Plan)",
+    "információigény (information requirement)",
+    "r Detailierungsgrad, -e (LOD)",
+    "információtartalom (level of information / LOI)",
+    "e Modellanforderung, -en",
+    "fázisra jellemző / specifikus (phase-specific)",
+    "hozzáférési jog (access right)",
+    "r Rollenplan, -¨e",
+    "s Berechtigungskonzept, -e",
+    "minőségbiztosítás (quality assurance)",
+    "modell-ellenőrzés (model checking)",
+    "r Regelwerks-Check, -s",
+    "változáskezelés (change management)",
+    "e Revisionssicherheit",
+    "e Modellhistorie, -n",
+    "adatbiztonság (data security)",
+    "archívum (archive)",
+    "archivieren",
+    "előrejelzés / predikció (prediction)",
+    "e Ressourcenplanung, -en",
+    "s Lieferkettenmanagement, -s",
+    "építési logisztika (construction logistics)",
+    "szerelési folyamat (assembly process)",
+    "digitaler Zwilling",
+    "épületüzemeltetés (facility management)",
+    "e Instandhaltungsplanung, -en",
+    "e Predictive Maintenance",
+    "e Asset-Verwaltung, -en",
+    "e Sensorik",
+    "valós idejű adatok (real-time data)",
+    "befejez (to end)"
+  ],
+  "answer": [
+    3,
+    2,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    1,
+    2,
+    1,
+    3,
+    1,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    1,
+    2,
+    2,
+    3,
+    2,
+    4,
+    1,
+    3,
+    3,
+    4,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    4,
+    2,
+    1,
+    3,
+    2,
+    4,
+    3,
+    2,
+    2,
+    3,
+    1,
+    2,
+    3,
+    2,
+    3,
+    3,
+    2,
+    3,
+    2,
+    3,
+    1,
+    4,
+    2,
+    3,
+    4,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    2,
+    4,
+    1,
+    3,
+    2,
+    1,
+    2,
+    4,
+    2,
+    4,
+    3,
+    3,
+    2,
+    1,
+    4,
+    2,
+    3,
+    4,
+    3,
+    4,
+    1,
+    2,
+    4,
+    3,
+    2,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    4,
+    1,
+    2,
+    4,
+    2,
+    4,
+    3,
+    3,
+    2,
+    4,
+    3,
+    2,
+    4,
+    3,
+    2,
+    4,
+    1,
+    3,
+    1,
+    2,
+    3,
+    4,
+    1,
+    3,
+    1,
+    3,
+    1,
+    2,
+    3,
+    4,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    1,
+    2,
+    1,
+    3,
+    4,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    2,
+    3,
+    3,
+    4,
+    2,
+    3,
+    4,
+    3,
+    4,
+    2,
+    3,
+    1,
+    2,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    2,
+    1,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    3,
+    4,
+    1,
+    3,
+    4,
+    1,
+    3,
+    4,
+    2,
+    4,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    1,
+    3,
+    4,
+    1,
+    3,
+    1,
+    3,
+    1,
+    1,
+    3,
+    1,
+    3,
+    4,
+    1,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    3,
+    1,
+    4,
+    2,
+    3,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    3,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    4,
+    1,
+    3,
+    2,
+    4,
+    3,
+    2,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    4,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    4,
+    1,
+    3,
+    3,
+    1,
+    4,
+    2,
+    3,
+    4,
+    1,
+    3,
+    1,
+    2,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    1,
+    4,
+    1,
+    4,
+    3,
+    2,
+    4,
+    1,
+    2,
+    1,
+    3,
+    2,
+    4,
+    3,
+    4,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    3,
+    2,
+    3,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    3,
+    2,
+    3,
+    1,
+    3,
+    4,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    1,
+    3,
+    4,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    1
+  ],
+  "choices": [
+    [
+      "annak ellenére",
+      "amiből kifolyólag...",
+      "valami pontosan olyan nagy, mint...",
+      "ezzel szemben..."
+    ],
+    [
+      "mégis, azonban",
+      "miközben...",
+      "mindkettő...",
+      "azért, mert..."
+    ],
+    [
+      "úgy tűnik",
+      "lehetséges, hogy...",
+      "egyrészt... másrészt...",
+      "a különbség..."
+    ],
+    [
+      "a különbség...",
+      "mindkettő...",
+      "tehát...",
+      "azt gondolom, hogy..."
+    ],
+    [
+      "összehasonlításképpen...",
+      "úgy tűnik",
+      "hasznos",
+      "sürgős"
+    ],
+    [
+      "im Gegensatz zu ...",
+      "also",
+      "entweder ... oder ...",
+      "dagegen ..."
+    ],
+    [
+      "während ...",
+      "der Unterschied ...",
+      "beide ...",
+      "einerseits ... andererseits ..."
+    ],
+    [
+      "mindkettő...",
+      "nemcsak... hanem is...",
+      "ezért",
+      "amiből kifolyólag..."
+    ],
+    [
+      "vagy... vagy...",
+      "egyértelmű",
+      "mindkettő...",
+      "bonyolult"
+    ],
+    [
+      "tehát...",
+      "ezért",
+      "sem... sem...",
+      "amiből kifolyólag..."
+    ],
+    [
+      "daher",
+      "weder ... noch ...",
+      "also",
+      "dagegen ..."
+    ],
+    [
+      "während ...",
+      "wodurch ...",
+      "demnach",
+      "also"
+    ],
+    [
+      "következésképpen",
+      "drága",
+      "tehát",
+      "hangos"
+    ],
+    [
+      "somit / also ...",
+      "weder ... noch ...",
+      "beide ...",
+      "dagegen ..."
+    ],
+    [
+      "mert / mivel",
+      "tehát",
+      "ezért",
+      "következésképpen"
+    ],
+    [
+      "eredmény",
+      "intézkedés",
+      "ok / indok",
+      "javaslat"
+    ],
+    [
+      "ok / indok",
+      "javaslat",
+      "intézkedés",
+      "következmény"
+    ],
+    [
+      "e Lösung, -en",
+      "e Landkarte, -n",
+      "r Kompass, -e",
+      "r Standort, -e"
+    ],
+    [
+      "megoldás",
+      "javaslat",
+      "ok / indok",
+      "térkép"
+    ],
+    [
+      "verirren (sich)",
+      "vorschlagen",
+      "verankern",
+      "umgehen"
+    ],
+    [
+      "következésképpen",
+      "tehát",
+      "véleményem szerint...",
+      "mert / mivel"
+    ],
+    [
+      "úgy vélem, hogy...",
+      "szerintem / véleményem szerint...",
+      "úgy tűnik számomra, hogy...",
+      "azt gondolom, hogy..."
+    ],
+    [
+      "meg vagyok győződve róla, hogy...",
+      "lehetséges, hogy...",
+      "fontos, hogy...",
+      "úgy vélem, hogy..."
+    ],
+    [
+      "meiner Ansicht nach ...",
+      "Es scheint mir, dass ...",
+      "Ich bin der Meinung, dass ...",
+      "Ich bin davon überzeugt, dass ..."
+    ],
+    [
+      "kérdéses, hogy...",
+      "fontos, hogy...",
+      "célszerű",
+      "szükséges, hogy..."
+    ],
+    [
+      "fontos, hogy...",
+      "meg vagyok győződve róla, hogy...",
+      "kérdéses, hogy...",
+      "szükséges, hogy..."
+    ],
+    [
+      "sinnvoll",
+      "zweckmäßig",
+      "dringend",
+      "gefährlich"
+    ],
+    [
+      "meg vagyok győződve róla, hogy...",
+      "szükséges, hogy...",
+      "fontos, hogy...",
+      "kérdéses, hogy..."
+    ],
+    [
+      "zweckmäßig",
+      "verwirrend",
+      "langweilig",
+      "einfach"
+    ],
+    [
+      "szükséges, hogy...",
+      "fontos, hogy...",
+      "ajánlatos, hogy...",
+      "kérdéses, hogy..."
+    ],
+    [
+      "kérdéses, hogy...",
+      "szükséges, hogy...",
+      "valószínűtlen, hogy...",
+      "meg vagyok győződve róla, hogy..."
+    ],
+    [
+      "unalmas",
+      "egyszerű",
+      "biztonságos",
+      "értelmetlen"
+    ],
+    [
+      "ezért",
+      "is... is...",
+      "unalmas",
+      "tehát"
+    ],
+    [
+      "olcsó",
+      "veszélyes",
+      "éber",
+      "beteg"
+    ],
+    [
+      "tehát",
+      "biztonságos",
+      "drága",
+      "is... is..."
+    ],
+    [
+      "nützlich",
+      "einfach",
+      "langweilig",
+      "kompliziert"
+    ],
+    [
+      "haszontalan",
+      "lassú",
+      "bonyolult",
+      "drága"
+    ],
+    [
+      "gut",
+      "schlimmer",
+      "besser",
+      "schön"
+    ],
+    [
+      "am besten",
+      "langsam",
+      "schlimmer",
+      "billig"
+    ],
+    [
+      "schlimmer",
+      "hell",
+      "schön",
+      "besser"
+    ],
+    [
+      "kalt",
+      "schlimmer",
+      "besser",
+      "schön"
+    ],
+    [
+      "warm",
+      "langsam",
+      "schlimmer",
+      "besser"
+    ],
+    [
+      "éber",
+      "beteg",
+      "drága",
+      "hideg"
+    ],
+    [
+      "müde",
+      "langsam",
+      "schlimmer",
+      "besser"
+    ],
+    [
+      "beteg",
+      "éber",
+      "lassú",
+      "szép"
+    ],
+    [
+      "krank",
+      "langsam",
+      "schlimmer",
+      "besser"
+    ],
+    [
+      "egészséges",
+      "beteg",
+      "lassú",
+      "szép"
+    ],
+    [
+      "wütend",
+      "schlimmer",
+      "besser",
+      "schön"
+    ],
+    [
+      "glücklich",
+      "langsam",
+      "schlimmer",
+      "besser"
+    ],
+    [
+      "e Route, -n",
+      "r Kompass, -e",
+      "e Landkarte, -n",
+      "s Ziel, -e"
+    ],
+    [
+      "e Position, -en",
+      "e Landkarte, -n",
+      "r Kompass, -e",
+      "e Route, -n"
+    ],
+    [
+      "iránytű",
+      "megoldás",
+      "várostérkép",
+      "javaslat"
+    ],
+    [
+      "r Kompass, -e",
+      "e Landkarte, -n",
+      "r Weg, -e",
+      "r Vorschlag, -¨e"
+    ],
+    [
+      "r Kompass, -e",
+      "r Weg, -e",
+      "s Ziel, -e",
+      "r Vorschlag, -¨e"
+    ],
+    [
+      "sich zusammenschließen mit",
+      "zuschreiben",
+      "verirren (sich)",
+      "verankern"
+    ],
+    [
+      "a különbség...",
+      "nemcsak... hanem is...",
+      "vagy... vagy...",
+      "mindkettő..."
+    ],
+    [
+      "r Grund, -¨e",
+      "e Lösung, -en",
+      "e Konsequenz, -en",
+      "e Maßnahme, -n"
+    ],
+    [
+      "r Weg, -e",
+      "s Ziel, -e",
+      "r Vorschlag, -¨e",
+      "e Maßnahme, -n"
+    ],
+    [
+      "azt gondolom, hogy...",
+      "szerintem / véleményem szerint...",
+      "lehetséges, hogy...",
+      "úgy vélem, hogy..."
+    ],
+    [
+      "azt gondolom, hogy...",
+      "meg vagyok győződve róla, hogy...",
+      "úgy vélem, hogy...",
+      "szerintem / véleményem szerint..."
+    ],
+    [
+      "gefährlich",
+      "billig",
+      "schlimmer",
+      "wichtig"
+    ],
+    [
+      "sicher",
+      "schlimmer",
+      "besser",
+      "schön"
+    ],
+    [
+      "jó",
+      "besser",
+      "schlimmer",
+      "schön"
+    ],
+    [
+      "schön",
+      "schlimmer",
+      "besser",
+      "hell"
+    ],
+    [
+      "éber",
+      "beteg",
+      "lassú",
+      "szép"
+    ],
+    [
+      "mérges",
+      "schön",
+      "schlimmer",
+      "besser"
+    ],
+    [
+      "milyen irányba?",
+      "a jobb oldalon",
+      "balra",
+      "egyenesen"
+    ],
+    [
+      "e Überführung, -en",
+      "e Kreuzung, -en",
+      "e Unterführung, -en",
+      "e Einteilung, -en"
+    ],
+    [
+      "bekanyarodni",
+      "körülvenni",
+      "történni",
+      "haladni / továbbmenni"
+    ],
+    [
+      "e Ausrede, -n",
+      "r Fuß, -¨e",
+      "r Zeigefinger, -",
+      "e Kreuzung, -en / an der Kreuzung"
+    ],
+    [
+      "teil|nehmen an + Dat.",
+      "überholen",
+      "vergleichen (+ Akk.)",
+      "leiden an / unter"
+    ],
+    [
+      "s Überholen",
+      "r Hals, -¨e",
+      "e Überführung, -en",
+      "r Unterschied, -e"
+    ],
+    [
+      "r kleine Finger, -",
+      "s Erlebnis, -se",
+      "e Einteilung, -en",
+      "r Unfall, -¨e"
+    ],
+    [
+      "r Ansatz, -¨e",
+      "s Vorfertigungsmodell, -e",
+      "s Protokoll, -e",
+      "e Genehmigungsphase"
+    ],
+    [
+      "szállást találni",
+      "jegyzőkönyvet felvesz",
+      "tárgyalni vmiről",
+      "elkergetni"
+    ],
+    [
+      "r Rettungsdienst",
+      "r Austausch, -e",
+      "r Bauablauf",
+      "r Zweck, -e"
+    ],
+    [
+      "Menj egyenesen!",
+      "Lépj át!",
+      "Fordulj balra!",
+      "Lassan menj!"
+    ],
+    [
+      "Kérdezz rá az útra!",
+      "Maradj itt!",
+      "Menj végig az utcán!",
+      "Fordulj jobbra!"
+    ],
+    [
+      "Fordulj jobbra!",
+      "Fordulj balra!",
+      "Állj meg!",
+      "Menj a hídon át!"
+    ],
+    [
+      "Bieg nach links ab!",
+      "Geh die Straße entlang!",
+      "Bieg nach rechts ab!",
+      "Bieg nach geradeaus ab!"
+    ],
+    [
+      "Geh über die Brücke!",
+      "Geh über die Straße!",
+      "Bieg nach rechts ab!",
+      "Geh geradeaus!"
+    ],
+    [
+      "Geh über die Straße!",
+      "Geh die Straße entlang!",
+      "Bieg nach links ab!",
+      "Geh über die Brücke!"
+    ],
+    [
+      "kifogás / magyarázkodás",
+      "tapasztalatszerzés / tapasztalatszerző",
+      "aluljáró",
+      "átadás-átvétel"
+    ],
+    [
+      "Beteg vagyok.",
+      "Fáradt vagyok.",
+      "Szédülök.",
+      "Szomorú vagyok."
+    ],
+    [
+      "gespannt",
+      "unterlegen",
+      "entschieden",
+      "verklemmt"
+    ],
+    [
+      "aluljáró",
+      "átadás-átvétel",
+      "fáradtság",
+      "fölény / felsőbbrendűség"
+    ],
+    [
+      "unverhofft",
+      "entschieden",
+      "zurückhaltend",
+      "unterlegen"
+    ],
+    [
+      "erfahrungsmäßig",
+      "abrupt",
+      "zurückhaltend",
+      "schlagartig"
+    ],
+    [
+      "verklemmt",
+      "entschieden",
+      "erfahrungsmäßig",
+      "unterlegen"
+    ],
+    [
+      "unterlegen",
+      "gespannt",
+      "verklemmt",
+      "entschieden"
+    ],
+    [
+      "zárkózott, visszahúzódó",
+      "feszült, görcsös",
+      "fáradt",
+      "hirtelen / hirtelen"
+    ],
+    [
+      "a legrosszabbtól tartani",
+      "jegyezni / feljegyezni",
+      "a legrosszabbat várni",
+      "visszavonulni"
+    ],
+    [
+      "parallel zu + D",
+      "auf einen Schlag",
+      "auf diese Art und Weise",
+      "entschieden"
+    ],
+    [
+      "ily módon / ezen a módon",
+      "egy pillanat alatt",
+      "párhuzamosan valakivel/valamivel",
+      "nem várt, váratlanul"
+    ],
+    [
+      "unverhofft",
+      "abrupt",
+      "schlagartig",
+      "entschieden"
+    ],
+    [
+      "unverhofft",
+      "schlagartig",
+      "abrupt",
+      "unterlegen"
+    ],
+    [
+      "ily módon / ezen a módon",
+      "egy ütésre / csapásra",
+      "párhuzamosan valakivel/valamivel",
+      "nem várt, váratlanul"
+    ],
+    [
+      "schlagartig",
+      "unverhofft",
+      "abrupt",
+      "entschieden"
+    ],
+    [
+      "auf diese Art und Weise",
+      "parallel zu + D",
+      "im Handumdrehen",
+      "auf einen Schlag"
+    ],
+    [
+      "e Kostenberechnung",
+      "e Genehmigungsphase",
+      "e Kostenschätzung",
+      "e Vergabe"
+    ],
+    [
+      "e Überführung, -en",
+      "s Vorfertigungsmodell, -e",
+      "e Kostenberechnung",
+      "e Ausführungsplanung"
+    ],
+    [
+      "s Vorfertigungsmodell, -e",
+      "e Planungs- und Genehmigungsphase",
+      "e Vergabe",
+      "e Kostenschätzung"
+    ],
+    [
+      "e Genehmigungsphase",
+      "e Planungsphase",
+      "e Ausführungsplanung",
+      "e Kostenschätzung"
+    ],
+    [
+      "e Genehmigungsphase",
+      "e Planungsphase",
+      "e Ausführungsplanung",
+      "e Kostenberechnung"
+    ],
+    [
+      "kivitelezési tervezés",
+      "építés / kivitelezés",
+      "fázisra jellemző / specifikus",
+      "költségbecslés"
+    ],
+    [
+      "tervezési fázis",
+      "költségszámítás / költségvetés",
+      "építés menete",
+      "átadás-átvétel"
+    ],
+    [
+      "r Bauablauf",
+      "e Einteilung, -en",
+      "e Ausführungsplanung",
+      "s Informationsmodell, -e"
+    ],
+    [
+      "odaítélés / kiadás",
+      "üzembe helyezés / megnyitás",
+      "építés / kivitelezés",
+      "átadás-átvétel"
+    ],
+    [
+      "kivitelezési tervezés",
+      "odaítélési terv",
+      "építési engedélykérelem",
+      "tervezési fázis"
+    ],
+    [
+      "e Inbetriebnahme",
+      "r Entwurf",
+      "r Kick-off",
+      "e Vergabe"
+    ],
+    [
+      "r Kick-off",
+      "e Übergabe",
+      "e Betriebsphase",
+      "e Inbetriebnahme"
+    ],
+    [
+      "e Ausführungsplanung",
+      "e Planungs- und Genehmigungsphase",
+      "e Betriebsphase",
+      "e Nutzungsphase"
+    ],
+    [
+      "s Vorfertigungsmodell, -e",
+      "r Entwurf",
+      "s Vorentwurf / s Konzept",
+      "r Bauablauf"
+    ],
+    [
+      "beosztás / ütemezés / elosztás",
+      "építés menete",
+      "tervezet",
+      "költségbecslés"
+    ],
+    [
+      "középső ujj",
+      "mutatóujj",
+      "hüvelykujj",
+      "kisujj"
+    ],
+    [
+      "der Daumen",
+      "der kleine Finger",
+      "der Zeigefinger",
+      "der Ringfinger, -"
+    ],
+    [
+      "ín / ér",
+      "ideg",
+      "fáradtság",
+      "kifogás / magyarázkodás"
+    ],
+    [
+      "hassen",
+      "wehtun / wehtun (+ Dat.)",
+      "schwitzen",
+      "heilen"
+    ],
+    [
+      "felülír / semmibe vesz",
+      "üdvözöl / köszön",
+      "körülvenni",
+      "tárgyalni vmiről"
+    ],
+    [
+      "megkeverni",
+      "elkísérni",
+      "félbeszakítani",
+      "megismételni"
+    ],
+    [
+      "Remélem",
+      "Emlékszem",
+      "Úgy hiszem / Azt hiszem",
+      "Úgy érzem"
+    ],
+    [
+      "-ból, -ből / ki",
+      "mint / amikor",
+      "még / de",
+      "hanem"
+    ],
+    [
+      "tud / -hat, -het",
+      "megvitatni",
+      "érteni",
+      "tiltani"
+    ],
+    [
+      "r Zeitraum",
+      "s Werkzeug",
+      "r Prozess",
+      "e Aufgabe"
+    ],
+    [
+      "biztos",
+      "erős / erősebb",
+      "fontos",
+      "szürke"
+    ],
+    [
+      "noch",
+      "aus",
+      "sondern",
+      "als"
+    ],
+    [
+      "individuell",
+      "individuell",
+      "individuell",
+      "individuell"
+    ],
+    [
+      "traditionell",
+      "traditionell",
+      "traditionell",
+      "traditionell"
+    ],
+    [
+      "sich verbessern",
+      "sich beziehen auf",
+      "sich konzentrieren auf",
+      "sich sicher sein"
+    ],
+    [
+      "hivatkozni vmire",
+      "elérni",
+      "kudarcot vallani",
+      "összpontosítani vmire"
+    ],
+    [
+      "reagieren",
+      "erklären",
+      "besprechen",
+      "zweifeln"
+    ],
+    [
+      "r Fehler",
+      "r Unterschied",
+      "s Ende",
+      "r Vertrag"
+    ],
+    [
+      "e Maßnahme",
+      "e Bedingung",
+      "s Werkzeug",
+      "e Erfahrung"
+    ],
+    [
+      "beginnen",
+      "erkennen",
+      "beenden",
+      "erlauben"
+    ],
+    [
+      "s Problem",
+      "s Ergebnis",
+      "s Erlebnis",
+      "s Ende"
+    ],
+    [
+      "r Sinn",
+      "r Unterschied",
+      "r Zustand",
+      "r Vertrag"
+    ],
+    [
+      "e Ähnlichkeit",
+      "e Erinnerung",
+      "e Ausnahme",
+      "e Erfahrung"
+    ],
+    [
+      "r Augenblick",
+      "r Vertrag",
+      "r Fehler",
+      "r Zeitraum"
+    ],
+    [
+      "helyes",
+      "fontos",
+      "biztos",
+      "hamis / rossz"
+    ],
+    [
+      "hamis / rossz",
+      "biztos",
+      "fontos",
+      "helyes"
+    ],
+    [
+      "r Unterschied",
+      "r Zustand",
+      "r Sinn",
+      "r Fehler"
+    ],
+    [
+      "e Erfahrung",
+      "e Maßnahme",
+      "e Regel",
+      "e Unterschrift"
+    ],
+    [
+      "e Bedingung",
+      "e Verantwortung",
+      "e Regel",
+      "e Erfahrung"
+    ],
+    [
+      "s Erlebnis",
+      "s Ergebnis",
+      "s Recht",
+      "s Projekt"
+    ],
+    [
+      "e Ausnahme",
+      "e Unterschrift",
+      "e Lösung",
+      "e Wirkung"
+    ],
+    [
+      "erlauben",
+      "verbieten",
+      "erkennen",
+      "erklären"
+    ],
+    [
+      "verbieten",
+      "erlauben",
+      "beginnen",
+      "beenden"
+    ],
+    [
+      "e Gefahr",
+      "e Erinnerung",
+      "e Gelegenheit",
+      "e Bedingung"
+    ],
+    [
+      "s Risiko",
+      "s Problem",
+      "s Recht",
+      "s Erlebnis"
+    ],
+    [
+      "e Wirkung",
+      "e Erinnerung",
+      "e Bedingung",
+      "e Ausnahme"
+    ],
+    [
+      "e Entwicklung",
+      "e Zukunft",
+      "e Situation",
+      "e Aufgabe"
+    ],
+    [
+      "r Anfang",
+      "r Sinn",
+      "r Unterschied",
+      "r Augenblick"
+    ],
+    [
+      "beginnen",
+      "beenden",
+      "erlauben",
+      "erkennen"
+    ],
+    [
+      "verbieten",
+      "beenden",
+      "beginnen",
+      "erlauben"
+    ],
+    [
+      "tartani (időben)",
+      "kudarcot vallani",
+      "elérni",
+      "hivatkozni vmire"
+    ],
+    [
+      "e Entwicklung",
+      "e Wirkung",
+      "e Situation",
+      "e Lösung"
+    ],
+    [
+      "e Entwicklung",
+      "e Bedingung",
+      "e Unterschrift",
+      "e Ursache"
+    ],
+    [
+      "r Fehler",
+      "r Prozess",
+      "r Unterschied",
+      "r Vertrag"
+    ],
+    [
+      "sich konzentrieren auf",
+      "sich verbessern",
+      "sich weiterbilden",
+      "sich sicher sein"
+    ],
+    [
+      "müssen",
+      "reagieren",
+      "leugnen",
+      "zweifeln"
+    ],
+    [
+      "erreichen",
+      "dauern",
+      "scheitern",
+      "sich beziehen auf"
+    ],
+    [
+      "r Erfolg",
+      "r Zeitraum",
+      "r Prozess",
+      "r Zustand"
+    ],
+    [
+      "scheitern",
+      "dauern",
+      "erreichen",
+      "sich beziehen auf"
+    ],
+    [
+      "pályázat (application)",
+      "e Lösung, -en",
+      "s Erlebnis",
+      "e Regel"
+    ],
+    [
+      "e Pflicht",
+      "terület (area / field)",
+      "r Sinn",
+      "s Recht"
+    ],
+    [
+      "r Unterschied, -e",
+      "e Erinnerung",
+      "tapasztalat (experience)",
+      "e Ursache"
+    ],
+    [
+      "sinnvoll",
+      "wichtig",
+      "falsch",
+      "felelős (responsible)"
+    ],
+    [
+      "felelősség (responsibility)",
+      "s Ende",
+      "s Ziel",
+      "e Situation"
+    ],
+    [
+      "s Gesicht, -er",
+      "r Kompromiss, -e",
+      "e Entscheidung, -en",
+      "r Unterschied, -e"
+    ],
+    [
+      "e Umsetzung",
+      "e Ewigkeit, -en",
+      "s Gefühl, -e",
+      "e Enttäuschung, -en"
+    ],
+    [
+      "s Recht",
+      "e Gefahr",
+      "ismeret (knowledge)",
+      "e Erinnerung"
+    ],
+    [
+      "képesség (ability)",
+      "e Erinnerung",
+      "s Recht",
+      "e Maßnahme"
+    ],
+    [
+      "e Wirkung",
+      "előfeltétel (requirement / prerequisite)",
+      "e Ursache",
+      "e Regel"
+    ],
+    [
+      "hordozható (portable)",
+      "vergangen",
+      "sicher",
+      "wichtig"
+    ],
+    [
+      "s Erlebnis",
+      "e Entscheidung, -en",
+      "r Anfang",
+      "ismeretség (acquaintance)"
+    ],
+    [
+      "falsch",
+      "ismert (known)",
+      "wichtig",
+      "richtig"
+    ],
+    [
+      "wichtig",
+      "richtig",
+      "unbekannt",
+      "falsch"
+    ],
+    [
+      "arc (face)",
+      "e Situation",
+      "s Problem",
+      "e Wirkung"
+    ],
+    [
+      "összetéveszteni (to confuse / mix up)",
+      "schmecken",
+      "schießen auf + Akk.",
+      "schweigen"
+    ],
+    [
+      "r Fehler",
+      "véletlen (coincidence)",
+      "r Unterschied",
+      "r Anfang"
+    ],
+    [
+      "mint mindig (as always)",
+      "sich bewerben um",
+      "Einen Eindruck hinterlassen",
+      "Kompromiss eingehen"
+    ],
+    [
+      "e Ausnahme",
+      "s Projekt",
+      "e Erfahrung",
+      "örökkévalóság (eternity)"
+    ],
+    [
+      "tervezni (to plan)",
+      "erwähnen",
+      "dauern",
+      "erkennen"
+    ],
+    [
+      "zweifeln",
+      "beenden",
+      "erlauben",
+      "lehren"
+    ],
+    [
+      "s Ziel",
+      "r Zustand",
+      "különbség (difference)",
+      "s Ergebnis"
+    ],
+    [
+      "sicher",
+      "grau",
+      "verschieden",
+      "stark | stärker"
+    ],
+    [
+      "schneiden",
+      "erlauben",
+      "lehren",
+      "összehasonlítani (to compare)"
+    ],
+    [
+      "sich bedanken",
+      "Einen Eindruck hinterlassen",
+      "sich revanchieren",
+      "zu Gast sein"
+    ],
+    [
+      "sich konzentrieren auf",
+      "dauern",
+      "hatni vkire (to have an effect on)",
+      "aufpassen"
+    ],
+    [
+      "szimpatikus (sympathetic)",
+      "grau",
+      "stark | stärker",
+      "sicher"
+    ],
+    [
+      "sicher",
+      "falsch",
+      "unsympathisch",
+      "wichtig"
+    ],
+    [
+      "r Prozess",
+      "e Entscheidung, -en",
+      "e Erinnerung",
+      "bizalom (trust)"
+    ],
+    [
+      "sich entschuldigen",
+      "enttäuschen",
+      "überraschen",
+      "sich verbessern"
+    ],
+    [
+      "e Entschuldigung, -en",
+      "e Verantwortung",
+      "e Ausnahme",
+      "elvárás (expectation)"
+    ],
+    [
+      "sich verabschieden",
+      "veszekedni (to argue)",
+      "sich verbessern",
+      "sich beziehen auf"
+    ],
+    [
+      "schmecken",
+      "erklären",
+      "sich einigen",
+      "besprechen"
+    ],
+    [
+      "e Pflicht",
+      "e Gefahr",
+      "r Unterschied",
+      "megoldás (solution)"
+    ],
+    [
+      "kompromisszum (compromise)",
+      "r Prozess",
+      "r Fehler",
+      "e Wirkung"
+    ],
+    [
+      "Ausrede suchen",
+      "sich bewerben um",
+      "Kompromiss eingehen",
+      "Einen Eindruck hinterlassen"
+    ],
+    [
+      "bocsánatot kérni (to apologize)",
+      "sich weiterbilden",
+      "sich beziehen auf",
+      "sich sicher sein"
+    ],
+    [
+      "e Erfahrung",
+      "e Entschuldigung, -en",
+      "e Wirkung",
+      "e Situation"
+    ],
+    [
+      "erkennen",
+      "megbocsátani (to forgive)",
+      "schneiden",
+      "verbieten"
+    ],
+    [
+      "Ausrede suchen",
+      "sich bewerben um",
+      "Kompromiss eingehen",
+      "Einen Eindruck hinterlassen"
+    ],
+    [
+      "sich revanchieren",
+      "megköszönni (to thank)",
+      "sich bewerben um",
+      "sich sicher sein"
+    ],
+    [
+      "verzeihen (+ Dat.)",
+      "erkennen",
+      "schießen auf + Akk.",
+      "segíteni (to help)"
+    ],
+    [
+      "erwarten",
+      "erwähnen",
+      "zweifeln",
+      "támogatni (to support)"
+    ],
+    [
+      "viszonozni (to return the favor)",
+      "sich weiterbilden",
+      "sich konzentrieren auf",
+      "sich verabschieden"
+    ],
+    [
+      "r Augenblick",
+      "e Ursache",
+      "meghívás (invitation)",
+      "e Regel"
+    ],
+    [
+      "ein|laden",
+      "vermeiden",
+      "schweigen",
+      "dauern"
+    ],
+    [
+      "schenken",
+      "schmücken",
+      "beeinflussen",
+      "lehren"
+    ],
+    [
+      "meglepni (to surprise)",
+      "schießen",
+      "leugnen",
+      "üben"
+    ],
+    [
+      "gratulálni (to congratulate)",
+      "dauern",
+      "zweifeln",
+      "erwarten"
+    ],
+    [
+      "sich weiterbilden",
+      "elbúcsúzni (to say goodbye)",
+      "sich beziehen auf",
+      "sich bewerben um"
+    ],
+    [
+      "sich bewerben um",
+      "viszlát (goodbye)",
+      "Einen Eindruck hinterlassen",
+      "wie immer"
+    ],
+    [
+      "wie immer",
+      "Kompromiss eingehen",
+      "szia (bye)",
+      "sich bewerben um"
+    ],
+    [
+      "s Ergebnis",
+      "e Situation",
+      "e Maßnahme",
+      "autó (car)"
+    ],
+    [
+      "autót vezetni (to drive a car)",
+      "sich bewerben um",
+      "Einen Eindruck hinterlassen",
+      "sich sicher sein"
+    ],
+    [
+      "autópálya (highway)",
+      "e Pflicht",
+      "e Gefahr",
+      "e Erinnerung"
+    ],
+    [
+      "r Augenblick",
+      "dugó (traffic jam)",
+      "r Fehler",
+      "s Wissen"
+    ],
+    [
+      "dugóban állni (to be in a traffic jam)",
+      "sich bewerben um",
+      "sich weiterbilden",
+      "sich verabschieden"
+    ],
+    [
+      "e Erfahrung",
+      "e Ausnahme",
+      "közlekedési lámpa (traffic light)",
+      "e Lösung"
+    ],
+    [
+      "kereszteződés (intersection)",
+      "e Ursache",
+      "e Regel",
+      "e Entscheidung, -en"
+    ],
+    [
+      "e Enttäuschung, -en",
+      "kijárat (exit)",
+      "e Umsetzung",
+      "e Ewigkeit, -en"
+    ],
+    [
+      "r Abschied, -e",
+      "r Dank",
+      "parkoló (parking lot)",
+      "r Unterschied, -e"
+    ],
+    [
+      "e Pflicht",
+      "benzinkút (gas station)",
+      "e Überraschung, -en",
+      "e Ausnahme"
+    ],
+    [
+      "schneiden",
+      "tanken",
+      "entscheiden",
+      "erklären"
+    ],
+    [
+      "r Kompromiss, -e",
+      "r Fehler",
+      "gyalogos (pedestrian)",
+      "r Zustand"
+    ],
+    [
+      "r Streit",
+      "r Vertrag",
+      "r Unterschied",
+      "zebra (crosswalk)"
+    ],
+    [
+      "átkelni (to cross)",
+      "reagieren",
+      "erwähnen",
+      "leugnen"
+    ],
+    [
+      "híd (bridge)",
+      "e Ausrede, -n",
+      "e Lösung",
+      "e Ewigkeit, -en"
+    ],
+    [
+      "r Vertrag",
+      "r Zustand",
+      "alagút (tunnel)",
+      "r Prozess"
+    ],
+    [
+      "r Zeitraum",
+      "r Prozess",
+      "r Untergang",
+      "r Sinn"
+    ],
+    [
+      "e Pflicht",
+      "e Wirkung",
+      "e Maßnahme",
+      "e Kreuzung | an der Kreuzung"
+    ],
+    [
+      "Geh geradeaus!",
+      "Geh die Straße entlang!",
+      "Bieg nach links ab!",
+      "Bieg nach rechts ab!"
+    ],
+    [
+      "Geh über die Straße!",
+      "Bieg nach links ab!",
+      "Geh die Straße entlang!",
+      "Bieg nach rechts ab!"
+    ],
+    [
+      "Menj egyenesen!",
+      "Menj a hídon át!",
+      "Fordulj balra!",
+      "Fordulj jobbra!"
+    ],
+    [
+      "Menj át a hídon!",
+      "Menj végig az utcán!",
+      "Fordulj balra!",
+      "Menj egyenesen!"
+    ],
+    [
+      "Fordulj balra!",
+      "Kérdezz rá az útra!",
+      "Menj át az úton!",
+      "Menj egyenesen!"
+    ],
+    [
+      "e Ausrede, -n",
+      "e Ausnahme",
+      "e Pflicht",
+      "e Erfahrung"
+    ],
+    [
+      "biztos",
+      "unterlegen",
+      "wichtig",
+      "falsch"
+    ],
+    [
+      "e Überlegenheit",
+      "e Erfahrung",
+      "e Erinnerung",
+      "e Wirkung"
+    ],
+    [
+      "erfahrungsmäßig",
+      "sicher",
+      "falsch",
+      "richtig"
+    ],
+    [
+      "wichtig",
+      "gespannt",
+      "grau",
+      "stark | stärker"
+    ],
+    [
+      "schlagartig",
+      "falsch",
+      "sicher",
+      "wichtig"
+    ],
+    [
+      "e Kostenschätzung",
+      "e Lösung",
+      "e Erinnerung",
+      "e Ausnahme"
+    ],
+    [
+      "e Pflicht",
+      "e Gefahr",
+      "e Kostenberechnung",
+      "e Entwicklung"
+    ],
+    [
+      "e Planungs- und Genehmigungsphase",
+      "e Situation",
+      "e Maßnahme",
+      "e Erinnerung"
+    ],
+    [
+      "e Wirkung",
+      "e Ursache",
+      "e Planungsphase",
+      "e Entwicklung"
+    ],
+    [
+      "e Gefahr",
+      "e Erinnerung",
+      "e Genehmigungsphase",
+      "e Situation"
+    ],
+    [
+      "r Unterschied",
+      "r Anfang",
+      "r Bauablauf",
+      "r Zustand"
+    ],
+    [
+      "e Wirkung",
+      "e Ausnahme",
+      "e Erfahrung",
+      "e Einteilung"
+    ],
+    [
+      "e Erinnerung",
+      "e Vergabe",
+      "e Pflicht",
+      "e Maßnahme"
+    ],
+    [
+      "e Betriebsphase",
+      "e Maßnahme",
+      "e Erfahrung",
+      "e Regel"
+    ],
+    [
+      "s Ende",
+      "s Vorentwurf / s Konzept",
+      "s Erlebnis",
+      "s Ergebnis"
+    ],
+    [
+      "r Vertrag",
+      "r Entwurf",
+      "r Unterschied",
+      "r Prozess"
+    ],
+    [
+      "r Vertrag",
+      "r Fehler",
+      "r Anfang",
+      "der Kopf"
+    ],
+    [
+      "das Haar, -e",
+      "s Ende",
+      "s Erlebnis",
+      "s Projekt"
+    ],
+    [
+      "r Rücken, -",
+      "r Bauch, -¨e",
+      "r Hals, -¨e",
+      "r Kopf, -¨e"
+    ],
+    [
+      "r Bauch, -¨e",
+      "r Arm, -e",
+      "r Rücken, -",
+      "r Hals, -¨e"
+    ],
+    [
+      "r Bauch, -¨e",
+      "r Rücken, -",
+      "r Hals, -¨e",
+      "r Arm, -e"
+    ],
+    [
+      "der Vertrag",
+      "der Prozess",
+      "der Fuß, -¨e",
+      "der Zustand"
+    ],
+    [
+      "s Erlebnis",
+      "s Herz, -en",
+      "s Ergebnis",
+      "s Ende"
+    ],
+    [
+      "r Magen, -¨",
+      "r Muskel, -n",
+      "s Herz, -en",
+      "r Hals, -¨e"
+    ],
+    [
+      "die Entwicklung",
+      "die Nase",
+      "die Erinnerung",
+      "die Ausnahme"
+    ],
+    [
+      "die Ausnahme",
+      "die Wange, -n",
+      "die Erinnerung",
+      "die Erfahrung"
+    ],
+    [
+      "r Zeigefinger, -",
+      "r kleine Finger, -",
+      "r Mittelfinger, -",
+      "r Daumen, -"
+    ],
+    [
+      "der Zustand",
+      "der Vertrag",
+      "der Mittelfinger",
+      "der Fehler"
+    ],
+    [
+      "der Zeitraum",
+      "der Prozess",
+      "der kleine Finger",
+      "der Vertrag"
+    ],
+    [
+      "r kleine Finger, -",
+      "r Knochen, -",
+      "r Nagel, -¨",
+      "r Ringfinger, -"
+    ],
+    [
+      "r Muskel, -n",
+      "r Magen, -¨",
+      "r Nerv, -en",
+      "s Herz, -en"
+    ],
+    [
+      "die Krankheit, -en",
+      "die Pflicht",
+      "die Gefahr",
+      "die Erinnerung"
+    ],
+    [
+      "wehtun / wehtun (+ Dat.)",
+      "erkennen",
+      "erklären",
+      "erlauben"
+    ],
+    [
+      "umgeben",
+      "zweifeln",
+      "lernen",
+      "reagieren"
+    ],
+    [
+      "übersetzen",
+      "verbieten",
+      "erwarten",
+      "schießen"
+    ],
+    [
+      "wiederholen",
+      "leugnen",
+      "verstehen",
+      "entscheiden"
+    ],
+    [
+      "konventionell / üblich",
+      "zuverlässig",
+      "entgegengesetzt",
+      "abrupt / plötzlich"
+    ],
+    [
+      "bevásárolni / felszerelkezni",
+      "bővíteni / megnövelni",
+      "megvitatni",
+      "ellenezni / ellentmondani"
+    ],
+    [
+      "e Gelegenheit",
+      "e Enttäuschung",
+      "e Ausrede, -n",
+      "kötelezettség (obligation)"
+    ],
+    [
+      "összefoglalni",
+      "előfordul / fellép (to occur / to appear)",
+      "visszautasít (to reject)",
+      "kijavít / felülvizsgál (to revise)"
+    ],
+    [
+      "e Pflicht",
+      "s Wissen",
+      "s Unternehmen",
+      "r Sinn"
+    ],
+    [
+      "folyamatos",
+      "olcsó",
+      "kérdéses, hogy...",
+      "megfelelő / rendeltetésszerű (appropriate)"
+    ],
+    [
+      "egy pillanat alatt (in an instant)",
+      "cserébe / viszonzásképpen (in return)",
+      "ezzel szemben... (on the other hand / in contrast ...)",
+      "annak ellenére (in spite of that / nevertheless)"
+    ],
+    [
+      "elfelejt",
+      "elhalasztani (to postpone)",
+      "elkergetni",
+      "elutasítani (to decline / reject)"
+    ],
+    [
+      "a nevemben / megbízásomból (on my behalf)",
+      "tehát... (thus / so ...)",
+      "azért, mert... (because ...)",
+      "milyen irányba? (in which direction?)"
+    ],
+    [
+      "szándékosan / tudatosan (deliberately / intentionally)",
+      "kiváló (excellent)",
+      "hálás (grateful)",
+      "fokozatos (gradual)"
+    ],
+    [
+      "s Problem, -e",
+      "e Maßnahme",
+      "hatóság / hatáskör (authority)",
+      "s Geschenk, -e"
+    ],
+    [
+      "im Großen und Ganzen",
+      "grundsätzlich / prinzipiell",
+      "weder ... noch ...",
+      "umgehend / sofortig"
+    ],
+    [
+      "kötelesség",
+      "térkép",
+      "költségtérítés (reimbursement of expenses)",
+      "fix / rendszeres bevételek (fixed income)"
+    ],
+    [
+      "hinterlassen",
+      "enttäuschen",
+      "überholen",
+      "verzeihen (+ Dat.)"
+    ],
+    [
+      "gut miteinander auskommen",
+      "in Einklang bringen | abstimmen",
+      "ein Geheimnis bewahren",
+      "das Schlimmste erwarten"
+    ],
+    [
+      "e Kostenerstattung",
+      "s Vorfertigungsmodell, -e",
+      "e Entschuldigung, -en",
+      "r Unterschied, -e"
+    ],
+    [
+      "s Erlebnis",
+      "felettes / főnök (superior / boss)",
+      "r Start, -s",
+      "r Zweck, -e"
+    ],
+    [
+      "das Wort halten",
+      "Einen Eindruck hinterlassen",
+      "ein Geheimnis bewahren",
+      "sich auswirken auf"
+    ],
+    [
+      "kijavít / felülvizsgál (to revise)",
+      "egy különbséget tenni / számít",
+      "megismételni",
+      "egy ígéretet betartani"
+    ],
+    [
+      "raffiniert / durchdacht",
+      "unaufgefordert",
+      "sicherheitskritisch",
+      "unverhofft"
+    ],
+    [
+      "ein Geheimnis bewahren",
+      "gut miteinander auskommen",
+      "ein Versprechen brechen",
+      "sich etwas vormachen"
+    ],
+    [
+      "elviselhetetlen (unbearable)",
+      "zárkózott, visszahúzódó",
+      "szükségszerű",
+      "megalapozott"
+    ],
+    [
+      "teljesen abszurd / teljesen őrült (completely absurd)",
+      "tehát... (thus / so ...)",
+      "kölcsönösen",
+      "is... is... (both ... and ...)"
+    ],
+    [
+      "kéretlen / felszólítás nélkül (unprompted)",
+      "tapasztalatszerzés / tapasztalatszerző",
+      "hirtelen / váratlanul",
+      "zárkózott, visszahúzódó"
+    ],
+    [
+      "összehangolni / egyeztetni (to align / harmonize)",
+      "egy különbséget tenni / számít",
+      "megszegni az ígéretet",
+      "kifogást keresni"
+    ],
+    [
+      "kilátás / előrejelzés (prospect / forecast)",
+      "r Beginn / r Start",
+      "e Ausrede, -n",
+      "r Ablauf / r Verlauf"
+    ],
+    [
+      "legrosszabb",
+      "nagymértékben / erősen (highly / strongly)",
+      "szükségszerű",
+      "egyértelmű"
+    ],
+    [
+      "megvetni / utálni (to despise / hate)",
+      "túlbecsül",
+      "kivitelezni, megvalósítani",
+      "félbeszakítani"
+    ],
+    [
+      "bővíteni / megnövelni (to expand / enlarge)",
+      "hozzárendelés / tulajdonítás",
+      "tiltani",
+      "megvitatni"
+    ],
+    [
+      "összehívni / összegyűjteni (to convene)",
+      "megbocsátani (to forgive)",
+      "besprechen",
+      "hozzárendelés / tulajdonítás"
+    ],
+    [
+      "folyamat / lefolyás (process / course)",
+      "s Ergebnis",
+      "r Unterschied, -e",
+      "r Verdacht"
+    ],
+    [
+      "konventionell / üblich",
+      "unaufhörlich / kontinuierlich",
+      "raffiniert / durchdacht",
+      "vermeintlich / angeblich"
+    ],
+    [
+      "aus|steigen",
+      "abschätzen / bewerten",
+      "verirren (sich)",
+      "schaffen"
+    ],
+    [
+      "szemrehányást tenni (to accuse / reproach)",
+      "visszautasít",
+      "tiltani",
+      "tanulni"
+    ],
+    [
+      "szemrehányást tenni (to reproach)",
+      "megismételni",
+      "leugnen",
+      "kivitelezni, megvalósítani"
+    ],
+    [
+      "megkerül",
+      "kifogást keresni",
+      "számít (make a difference)",
+      "megtartani a szavát"
+    ],
+    [
+      "einen Unterschied machen",
+      "Einen Eindruck hinterlassen",
+      "Kompromiss eingehen",
+      "sich zusammenschließen mit"
+    ],
+    [
+      "e Gelegenheit",
+      "e Angelegenheit",
+      "e Wirkung, -en",
+      "e Einteilung"
+    ],
+    [
+      "egyrészt... másrészt...",
+      "még / de",
+      "mindkettő...",
+      "is... is... (both ... and ...)"
+    ],
+    [
+      "die ganze Nacht aufbleiben",
+      "ein Geheimnis bewahren",
+      "die Gelegenheit ergreifen",
+      "sich etwas vormachen"
+    ],
+    [
+      "ez nevetséges (that's ridiculous)",
+      "nehezemre esik",
+      "ezért",
+      "amiből kifolyólag..."
+    ],
+    [
+      "kompenzálni / jóvátenni (to compensate)",
+      "kifogást keresni",
+      "befejez",
+      "túlesni valamin"
+    ],
+    [
+      "befejez",
+      "bízni",
+      "ellenezni / ellentmondani (to contradict)",
+      "állandósít"
+    ],
+    [
+      "zuverlässig",
+      "sicherheitskritisch",
+      "unverhofft",
+      "anschlussfähig"
+    ],
+    [
+      "szándékosan / tudatosan (deliberately)",
+      "múltbéli",
+      "fáradt",
+      "szükségszerű"
+    ],
+    [
+      "elhatározta magát (to be determined)",
+      "feszült, görcsös",
+      "szkeptikus",
+      "hálás (grateful)"
+    ],
+    [
+      "beschleunigen",
+      "beenden",
+      "abwerten",
+      "überschätzen"
+    ],
+    [
+      "kenyelmesen elhelyezkedni (to make comfortable)",
+      "valamilyen benyomást kelt",
+      "sich bewerben um",
+      "ein Geheimnis bewahren"
+    ],
+    [
+      "megkérdezi az utat",
+      "késlekedni / habozni (to hesitate)",
+      "tárgyalni vmiről",
+      "elkergetni"
+    ],
+    [
+      "összehangolni / egyeztetni",
+      "elhalasztani",
+      "összezavarni (to confuse)",
+      "kölcsönözni"
+    ],
+    [
+      "tudni, hogy mi a lényeg (to know what matters)",
+      "die Gelegenheit ergreifen",
+      "sich auswirken auf",
+      "ein Versprechen brechen"
+    ],
+    [
+      "kezelni egy problémát (to handle a problem)",
+      "einen Unterschied machen",
+      "das ist lächerlich",
+      "Einen Eindruck hinterlassen"
+    ],
+    [
+      "gyanú (suspicion)",
+      "e Enttäuschung",
+      "r Vorgesetzte | r Chef",
+      "r Kompass, -e"
+    ],
+    [
+      "újra beindítani (to restart)",
+      "einen Unterschied machen",
+      "sich etwas vormachen",
+      "Kompromiss eingehen"
+    ],
+    [
+      "elhalasztani",
+      "elővenni / újra elkezdeni (to bring out)",
+      "állandósít",
+      "egy különbséget tenni / számít"
+    ],
+    [
+      "hasonlóság",
+      "s Erlebnis",
+      "e Ewigkeit, -en",
+      "csalódás (disappointment)"
+    ],
+    [
+      "megvitatni",
+      "kölcsönözni",
+      "elkergetni",
+      "elpazarolni (to waste)"
+    ],
+    [
+      "abrupt / plötzlich",
+      "wichtig",
+      "schwierig (difficult)",
+      "unaufgefordert"
+    ],
+    [
+      "elölről / az alapoktól kezdeni (to start from scratch)",
+      "ein Geheimnis bewahren",
+      "die Gelegenheit ergreifen",
+      "sich auswirken auf"
+    ],
+    [
+      "ein Versprechen einhalten",
+      "sich bewerben um",
+      "Kompromiss eingehen",
+      "das Schlimmste befürchten"
+    ],
+    [
+      "feltétlenül szükséges (absolutely necessary)",
+      "unerträglich",
+      "völlig abwegig | absolut verrückt",
+      "absichtlich | bewusst"
+    ],
+    [
+      "im Handumdrehen",
+      "in meinem Namen | in meinem Auftrag",
+      "weder ... noch ...",
+      "also"
+    ],
+    [
+      "egészében véve / nagyjából (by and large)",
+      "a különbség...",
+      "mindkettő...",
+      "is... is..."
+    ],
+    [
+      "e Verpflichtung",
+      "e Angelegenheit",
+      "zavarodottság (confusion)",
+      "r Unterschied, -e"
+    ],
+    [
+      "azonnali (immediate)",
+      "unvorhersehbar",
+      "unaufgefordert",
+      "verbindlich / obligatorisch"
+    ],
+    [
+      "umgehend / unverzüglich",
+      "tödlich (deadly / fatal)",
+      "unerträglich",
+      "anschlussfähig"
+    ],
+    [
+      "képben maradni / tájékozottnak lenni (to stay updated)",
+      "Kompromiss eingehen",
+      "die Gelegenheit ergreifen",
+      "sich etwas vormachen"
+    ],
+    [
+      "langweilig (boring)",
+      "unaufhörlich / kontinuierlich",
+      "entschieden",
+      "anschlussfähig"
+    ],
+    [
+      "fortlaufend / andauernd",
+      "bescheuert / dumm",
+      "tödlich (deadly / fatal)",
+      "wichtig"
+    ],
+    [
+      "mostantól fogva (from now on)",
+      "nemcsak... hanem is...",
+      "még / de",
+      "a különbség..."
+    ],
+    [
+      "legrosszabbtól tartani (to fear the worst)",
+      "sich zusammenschließen mit",
+      "das Schlimmste erwarten",
+      "gut miteinander auskommen"
+    ],
+    [
+      "egy ügynek utánajárni (to pursue a matter)",
+      "die ganze Nacht aufbleiben",
+      "ein Versprechen einhalten",
+      "die Gelegenheit ergreifen"
+    ],
+    [
+      "kihat valamire (to have an effect on)",
+      "das ist lächerlich",
+      "Einen Eindruck hinterlassen",
+      "Kompromiss eingehen"
+    ],
+    [
+      "döntést hozni (to make a decision)",
+      "ein Geheimnis bewahren",
+      "sich zusammenschließen mit",
+      "sich etwas vormachen"
+    ],
+    [
+      "tulajdonítani (sikert) (to attribute)",
+      "megismételni",
+      "kölcsönözni",
+      "elkergetni"
+    ],
+    [
+      "megragadni az alkalmat (to seize the opportunity)",
+      "die ganze Nacht aufbleiben",
+      "sich etwas vormachen",
+      "Kompromiss eingehen"
+    ],
+    [
+      "titkot tartani (to keep a secret)",
+      "sich bewerben um",
+      "Kompromiss eingehen",
+      "das Schlimmste befürchten"
+    ],
+    [
+      "kifogást keresni",
+      "összekötni / összekapcsolni (to link)",
+      "megszegni az ígéretet",
+      "állandósít"
+    ],
+    [
+      "kibírni / elviselni (to endure)",
+      "megkerül",
+      "kifogást keresni",
+      "beavatkozik"
+    ],
+    [
+      "ámítani magát (to fool oneself)",
+      "sich auswirken auf",
+      "ein Versprechen brechen",
+      "das Schlimmste befürchten"
+    ],
+    [
+      "hülye / idióta (stupid)",
+      "tödlich (deadly / fatal)",
+      "unerträglich",
+      "unaufgefordert"
+    ],
+    [
+      "állítólagos / feltételezett (supposed / alleged)",
+      "schlimm",
+      "schwierig (difficult)",
+      "verklemmt"
+    ],
+    [
+      "minden szempontból (in every respect)",
+      "tehát...",
+      "nemcsak... hanem is...",
+      "mindkettő..."
+    ],
+    [
+      "kiváló / példaértékű (outstanding / exemplary)",
+      "unaufgefordert",
+      "schwierig (difficult)",
+      "bescheuert / dumm"
+    ],
+    [
+      "r Unterschied",
+      "r Start, -s",
+      "r Zweck, -e",
+      "törés / szerződésszegés (breach)"
+    ],
+    [
+      "sich entschuldigen",
+      "ausmachen (einen Unterschied ausmachen)",
+      "körvonalazódni / fenyegetni (to loom / to be imminent)",
+      "sich konzentrieren auf"
+    ],
+    [
+      "schrubben",
+      "verirren (sich)",
+      "aufpassen",
+      "scheitern"
+    ],
+    [
+      "s Vorfertigungsmodell, -e",
+      "e Schmerzen (Pl.)",
+      "r Bruch | r Vertragsbruch",
+      "e Auswirkungen | r Fallout"
+    ],
+    [
+      "sich zusammenschließen mit",
+      "jmdn. auf die Palme bringen",
+      "einberufen / versammeln",
+      "leiden an / unter"
+    ],
+    [
+      "aufhalten | Zeit schinden",
+      "widersprechen",
+      "verknüpfen (mit)",
+      "verankern"
+    ],
+    [
+      "e Gelegenheit",
+      "e Wirkung, -en",
+      "e Maßnahme",
+      "megfelelés / betartás (compliance / adherence)"
+    ],
+    [
+      "megvesztegetés (bribery)",
+      "e Entschuldigung, -en",
+      "r Unterschied, -e",
+      "r Abschied, -e"
+    ],
+    [
+      "verzerren | verfälschen",
+      "verbergen",
+      "bestechen",
+      "ausdehnen / verlängern"
+    ],
+    [
+      "beavatkozik (interfere)",
+      "eltorzít / meghamisít (to distort / falsify)",
+      "elhalasztani (to postpone / delay)",
+      "kételkedik (to have doubts)"
+    ],
+    [
+      "vermeiden",
+      "beilegen",
+      "hervorholen / wieder aufnehmen",
+      "verhindern / vorbeugen"
+    ],
+    [
+      "rátérni / áttérni (to transition to)",
+      "túlesni valamin (to get sth over with)",
+      "megkerülni / kicselezni (to circumvent)",
+      "megtartani a szavát (to keep one's word)"
+    ],
+    [
+      "auf etwas ankommen / abhängen von",
+      "gut miteinander auskommen",
+      "sich auswirken auf",
+      "mit einem Problem umgehen"
+    ],
+    [
+      "egy ígéretet betartani (to fulfill a promise)",
+      "szemmel tartani (to keep an eye on)",
+      "kilátás / előrejelzés (prospect / forecast)",
+      "kifogást keresni (to make an excuse)"
+    ],
+    [
+      "r Zeitraum",
+      "r Vorgesetzte | r Chef",
+      "mérföldkő (milestone)",
+      "e Kreuzung, -en"
+    ],
+    [
+      "teljesen kizárni",
+      "Einen Eindruck hinterlassen",
+      "das ist lächerlich",
+      "von Grund auf neu anfangen"
+    ],
+    [
+      "Kompromiss eingehen",
+      "die ganze Nacht aufbleiben",
+      "ein Geheimnis bewahren",
+      "gut miteinander auskommen"
+    ],
+    [
+      "untergraben",
+      "sich zusammenschließen mit",
+      "umgehen / austricksen",
+      "zuschreiben (Erfolg)"
+    ],
+    [
+      "scheitern",
+      "zweifeln / Bedenken haben",
+      "leugnen",
+      "verzerren | verfälschen"
+    ],
+    [
+      "belekalkulál (to factor in)",
+      "lefordítani (to translate)",
+      "elhalasztani / késleltetni (to postpone / delay)",
+      "megtagadni (to deny)"
+    ],
+    [
+      "gőzerővel folyik (in full swing)",
+      "egy pillanat alatt (in an instant)",
+      "szokásos / hagyományos módon (conventional)",
+      "egy ütésre / csapásra (all at once)"
+    ],
+    [
+      "bonyolult (complicated)",
+      "entschieden",
+      "verklemmt",
+      "unvorhersehbar"
+    ],
+    [
+      "teljesen abszurd / teljesen őrült (completely absurd)",
+      "tehát... (thus / so ...)",
+      "kölcsönösen (mutually)",
+      "is... is... (both ... and ...)"
+    ],
+    [
+      "also",
+      "gegenseitig",
+      "demnach",
+      "im Großen und Ganzen"
+    ],
+    [
+      "sich etwas vormachen",
+      "ein Versprechen brechen",
+      "ein Geheimnis bewahren",
+      "das Schlimmste befürchten"
+    ],
+    [
+      "egy ígéretet betartani (to fulfill a promise)",
+      "szemmel tartani (to keep an eye on)",
+      "kilátás / előrejelzés (prospect / forecast)",
+      "kifogást keresni (to make an excuse)"
+    ],
+    [
+      "sich zusammenschließen mit",
+      "das Schlimmste erwarten",
+      "gut miteinander auskommen",
+      "das Schlimmste befürchten"
+    ],
+    [
+      "alulértékelni (to devalue)",
+      "felbecsülni / értékelni (to estimate / assess)",
+      "alulbecsülni (to underestimate)",
+      "megbocsátani (to forgive)"
+    ],
+    [
+      "abwerten",
+      "überschätzen",
+      "beschleunigen",
+      "beenden"
+    ],
+    [
+      "túlbecsül (to overestimate)",
+      "megbocsátani (to forgive)",
+      "alulértékelni (to devalue)",
+      "tanítani (to teach)"
+    ],
+    [
+      "abwerten",
+      "unterschätzen",
+      "überschätzen",
+      "beenden"
+    ],
+    [
+      "hirtelen, váratlanul (abruptly / suddenly)",
+      "biztos (safe / secure)",
+      "helyes (correct)",
+      "zárkózott, visszahúzódó (reserved / withdrawn)"
+    ],
+    [
+      "vermeintlich / angeblich",
+      "unvorhersehbar",
+      "gesprächig",
+      "bescheuert / dumm"
+    ],
+    [
+      "r Anhaltspunkt, -e",
+      "r Benefit, -s",
+      "r Prüfalgorithmus, -men",
+      "e Vorgabe, -n"
+    ],
+    [
+      "absichtlich / bewusst",
+      "kiváló (excellent)",
+      "hálás (grateful)",
+      "fokozatos (gradual)"
+    ],
+    [
+      "egész éjjel fennmaradni (to stay up all night)",
+      "ein Geheimnis bewahren",
+      "die Gelegenheit ergreifen",
+      "sich etwas vormachen"
+    ],
+    [
+      "unvorhersehbar",
+      "verklemmt",
+      "falsch",
+      "schlimm"
+    ],
+    [
+      "szinergetikus (synergistic)",
+      "kölcsönösen (mutually)",
+      "is... is... (both ... and ...)",
+      "tehát... (thus / so ...)"
+    ],
+    [
+      "hervorragend / beispielhaft",
+      "unaufgefordert",
+      "schwierig (difficult)",
+      "bescheuert / dumm"
+    ],
+    [
+      "pimasz, szemtelen (impertinent)",
+      "több tudományágat átfogó",
+      "szkeptikus (skeptical)",
+      "kollaborativ (collaborative)"
+    ],
+    [
+      "árnyalt (nuanced)",
+      "kollaborativ (collaborative)",
+      "szkeptikus (skeptical)",
+      "átlátható (transparent)"
+    ],
+    [
+      "meghamisít, megcáfol (to falsify)",
+      "megbocsátani (to forgive)",
+      "alulértékelni (to devalue)",
+      "tanítani (to teach)"
+    ],
+    [
+      "megbánt, megsért (to snub)",
+      "lefordítani (to translate)",
+      "megismételni (to repeat)",
+      "szenvedni vmitől (to suffer from)"
+    ],
+    [
+      "interoperabilitás (interoperability)",
+      "e Installation, -en",
+      "r Planer, -",
+      "r Ort, -e"
+    ],
+    [
+      "verstetigen",
+      "verankern",
+      "skalieren",
+      "archivieren"
+    ],
+    [
+      "skáláz (to scale)",
+      "túlesni valamin (to get sth over with)",
+      "beavatkozik (interfere)",
+      "állandósít (to stabilize)"
+    ],
+    [
+      "konszolidál / megerősít (to consolidate)",
+      "rögzít / beágyaz (to anchor)",
+      "skáláz (to scale)",
+      "betart (szabályt) (to comply)"
+    ],
+    [
+      "r Multiplikator",
+      "r BIM-Autor, -en",
+      "r BIM-Koordinator, -en",
+      "r BIM-Manager, -"
+    ],
+    [
+      "kapcsolódni képes (compatible / connective)",
+      "veszteségmentes (lossless)",
+      "fázisra jellemző / specifikus (phase-specific)",
+      "kollaborativ / együttműködő (collaborative)"
+    ],
+    [
+      "r BIM-Reifegrad",
+      "r BIM-Abwicklungsplan, -¨e (BAP)",
+      "r BIM-Manager, -",
+      "r BIM-Koordinator, -en"
+    ],
+    [
+      "életciklus-orientált (life-cycle oriented)",
+      "erweitert",
+      "fachspezifisch",
+      "berechtigt"
+    ],
+    [
+      "vonalas szervezet (line organisation)",
+      "s Wissen",
+      "s Unternehmen",
+      "r Sinn"
+    ],
+    [
+      "e Meritokratie",
+      "e Erfahrung, -en",
+      "e Kultur, -en",
+      "e Meinung, -en"
+    ],
+    [
+      "sarlatánság (charlatanry)",
+      "tapasztalat (experience)",
+      "vélemény (opinion)",
+      "kultúra (culture)"
+    ],
+    [
+      "e Interoperabilität",
+      "e Ausführung, -en",
+      "e Installation, -en",
+      "e Schnittstelle, -n"
+    ],
+    [
+      "brüskieren",
+      "übersetzen",
+      "wiederholen",
+      "leiden an / unter"
+    ],
+    [
+      "falsifizieren",
+      "verzeihen (+ Dat.)",
+      "abwerten",
+      "lehren"
+    ],
+    [
+      "nuanciert",
+      "kollaborativ",
+      "skeptisch",
+      "transparent"
+    ],
+    [
+      "interoperábilis (interoperable)",
+      "szabványosított (standardized)",
+      "szkeptikus (skeptical)",
+      "egyértelmű (unambiguous)"
+    ],
+    [
+      "lényegi (quintessential)",
+      "kiváló (excellent)",
+      "szkeptikus (skeptical)",
+      "kollaborativ (collaborative)"
+    ],
+    [
+      "impertinent",
+      "multidisziplinär",
+      "skeptisch",
+      "kollaborativ"
+    ],
+    [
+      "szinergetikus (synergistic)",
+      "egyértelmű (unambiguous)",
+      "kollaborativ (collaborative)",
+      "kiváló (excellent)"
+    ],
+    [
+      "beavatkozik",
+      "társulni / összeállni valakivel",
+      "túlbecsül",
+      "tulajdonít / javára ír"
+    ],
+    [
+      "fachspezifisch",
+      "verlustfrei",
+      "anschlussfähig",
+      "selbsternannt"
+    ],
+    [
+      "archivieren",
+      "über|winden",
+      "einkalkulieren",
+      "zuschreiben"
+    ],
+    [
+      "társulni / összeállni valakivel",
+      "túlesni valamin",
+      "betart (szabályt)",
+      "felülír / semmibe vesz"
+    ],
+    [
+      "berechtigt",
+      "fachspezifisch",
+      "selbsternannt",
+      "verlustfrei"
+    ],
+    [
+      "megkerül",
+      "túlbecsül",
+      "felülír / semmibe vesz",
+      "belekalkulál"
+    ],
+    [
+      "sich zusammenschließen mit",
+      "über|winden",
+      "eingreifen in",
+      "konsolidieren"
+    ],
+    [
+      "panasz",
+      "változáskezelés",
+      "szerelési folyamat",
+      "szabály / előírás"
+    ],
+    [
+      "skalieren",
+      "vorgehen nach",
+      "einhalten",
+      "archivieren"
+    ],
+    [
+      "szabály / előírás",
+      "támpont / iránymutatás",
+      "építési logisztika",
+      "adatvédelem"
+    ],
+    [
+      "r Anhaltspunkt, -e",
+      "e Datensicherheit",
+      "s Modell-Checking, -s",
+      "e Qualitätssicherung, -en"
+    ],
+    [
+      "sich zusammenschließen mit",
+      "zuschreiben",
+      "aushebeln",
+      "angehen"
+    ],
+    [
+      "fachspezifisch",
+      "erweitert",
+      "ausgewiesen",
+      "verlustfrei"
+    ],
+    [
+      "umgehen",
+      "in Anspruch nehmen",
+      "konsolidieren",
+      "skalieren"
+    ],
+    [
+      "túlbecsül",
+      "tulajdonít / javára ír",
+      "alábecsül",
+      "megkerül"
+    ],
+    [
+      "e Qualitätssicherung, -en",
+      "e Zuordnung, -en",
+      "e Datensicherheit",
+      "s Modell-Checking, -s"
+    ],
+    [
+      "einkalkulieren",
+      "überschätzen",
+      "aushebeln",
+      "angehen"
+    ],
+    [
+      "alábecsül",
+      "megkerül",
+      "beavatkozik",
+      "betart (szabályt)"
+    ],
+    [
+      "anschlussfähig",
+      "selbsternannt",
+      "temporär",
+      "phasenspezifisch"
+    ],
+    [
+      "verstetigen",
+      "verankern",
+      "skalieren",
+      "archivieren"
+    ],
+    [
+      "adatcsere-formátum",
+      "bővíthető",
+      "állandósítás / fenntartás",
+      "túlbecsül"
+    ],
+    [
+      "lebenszyklus-",
+      "erweitert",
+      "fachspezifisch",
+      "berechtigt"
+    ],
+    [
+      "rögzít / beágyaz",
+      "skáláz",
+      "túlbecsül",
+      "konszolidál / megerősít"
+    ],
+    [
+      "skálázhatóság",
+      "támpont / iránymutatás",
+      "fázisra jellemző / specifikus",
+      "szakág"
+    ],
+    [
+      "BIM érettségi szint",
+      "BIM kivitelezési terv / BEP",
+      "BIM-menedzser",
+      "BIM-koordinátor"
+    ],
+    [
+      "verlustfrei",
+      "objektbasiert",
+      "steuerungsrelevant",
+      "räumlich"
+    ],
+    [
+      "r Lebenszyklus",
+      "r Detailierungsgrad, -e (LOD)",
+      "r Informationsverlust, -e",
+      "r Rollenplan, -¨e"
+    ],
+    [
+      "räumlich",
+      "verlustfrei",
+      "fachspezifisch",
+      "anschlussfähig"
+    ],
+    [
+      "objektbasiert",
+      "lebenszyklus-",
+      "verlustfrei",
+      "erweitert"
+    ],
+    [
+      "kollaborativ",
+      "räumlich",
+      "fachspezifisch",
+      "berechtigt"
+    ],
+    [
+      "s Datenmodell, -e",
+      "s Koordinationsmodell, -e",
+      "s Vorfertigungsmodell, -e",
+      "s Fachmodell, -e"
+    ],
+    [
+      "információbővítés",
+      "információveszteség",
+      "modellkövetelmény",
+      "információtartalom"
+    ],
+    [
+      "szakspecifikus",
+      "veszteségmentes",
+      "kollaborativ / együttműködő",
+      "objektumalapú"
+    ],
+    [
+      "szakági modell",
+      "adatmodell",
+      "koordinációs modell",
+      "előregyártási modell"
+    ],
+    [
+      "s Zusammenführen",
+      "e Revisionssicherheit",
+      "e Informationsanreicherung, -en",
+      "e Ressourcenplanung, -en"
+    ],
+    [
+      "konzisztencia-vizsgáló",
+      "kollaborativ / együttműködő",
+      "szakspecifikus",
+      "életciklusokon átívelő"
+    ],
+    [
+      "ütközésvizsgálat",
+      "szabályrendszer-ellenőrzés",
+      "hozzáférési jog",
+      "állandósítás / fenntartás"
+    ],
+    [
+      "veszteségmentes",
+      "objektumalapú",
+      "fázisra jellemző / specifikus",
+      "térbeli"
+    ],
+    [
+      "információveszteség",
+      "információbővítés",
+      "információtartalom",
+      "információigény"
+    ],
+    [
+      "interfészeken átívelő",
+      "életciklus-orientált",
+      "térbeli",
+      "szakspecifikus"
+    ],
+    [
+      "lebenszyklusübergreifend",
+      "steuerungsrelevant",
+      "objektbasiert",
+      "konsistenzprüfend"
+    ],
+    [
+      "BIM-menedzser",
+      "BIM-koordinátor",
+      "BIM-szerző",
+      "BIM kivitelezési terv / BEP"
+    ],
+    [
+      "BIM-koordinátor",
+      "BIM-szerző",
+      "BIM-menedzser",
+      "multiplikátor / közvetítő"
+    ],
+    [
+      "BIM-szerző",
+      "BIM-menedzser",
+      "BIM-koordinátor",
+      "multiplikátor / közvetítő"
+    ],
+    [
+      "s Datenaustauschformat, -e",
+      "s Datenmodell, -e",
+      "s Koordinationsmodell, -e",
+      "s Berechtigungskonzept, -e"
+    ],
+    [
+      "erweiterbar",
+      "verlustfrei",
+      "räumlich",
+      "objektbasiert"
+    ],
+    [
+      "e Eigenschaft, -en",
+      "e Sensorik",
+      "e Datensicherheit",
+      "e Vorbedingung, -en"
+    ],
+    [
+      "attribútum / hozzárendelés",
+      "változáskezelés",
+      "minőségbiztosítás",
+      "archívum"
+    ],
+    [
+      "r BIM-Abwicklungsplan, -¨e (BAP)",
+      "r Regelwerks-Check, -s",
+      "r Kollisionscheck, -s",
+      "r Rollenplan, -¨e"
+    ],
+    [
+      "r Informationsbedarf, -e",
+      "r Informationsverlust, -e",
+      "r Informationsgehalt, -e",
+      "r Detailierungsgrad, -e (LOD)"
+    ],
+    [
+      "részletezettségi szint",
+      "információtartalom",
+      "információigény",
+      "BIM érettségi szint"
+    ],
+    [
+      "r Informationsgehalt, -e",
+      "r Informationsbedarf, -e",
+      "r Informationsverlust, -e",
+      "r Detailierungsgrad, -e (LOD)"
+    ],
+    [
+      "modellkövetelmény",
+      "modell-előzmények",
+      "modell-ellenőrzés",
+      "kollaborativ / együttműködő"
+    ],
+    [
+      "phasenspezifisch",
+      "erweitert",
+      "anschlussfähig",
+      "verlustfrei"
+    ],
+    [
+      "s Zugriffsrecht, -e",
+      "s Berechtigungskonzept, -e",
+      "s Datenmodell, -e",
+      "s Vorfertigungsmodell, -e"
+    ],
+    [
+      "szerepkör-terv",
+      "jogosultsági koncepció",
+      "adatcsere-formátum",
+      "archívum"
+    ],
+    [
+      "jogosultsági koncepció",
+      "támpont / iránymutatás",
+      "épületüzemeltetés",
+      "szerepkör-terv"
+    ],
+    [
+      "e Qualitätssicherung, -en",
+      "e Ressourcenplanung, -en",
+      "e Revisionssicherheit",
+      "e Datensicherheit"
+    ],
+    [
+      "s Modell-Checking, -s",
+      "s Zusammenführen",
+      "s Berechtigungskonzept, -e",
+      "s Lieferkettenmanagement, -s"
+    ],
+    [
+      "szabályrendszer-ellenőrzés",
+      "ütközésvizsgálat",
+      "ellenőrző algoritmus",
+      "szerepkör-terv"
+    ],
+    [
+      "s Änderungsmanagement, -s",
+      "s Lieferkettenmanagement, -s",
+      "s Gebäudemanagement, -s",
+      "s Berechtigungskonzept, -e"
+    ],
+    [
+      "revízióbiztonság",
+      "minőségbiztosítás",
+      "adatbiztonság",
+      "állandósítás / fenntartás"
+    ],
+    [
+      "modell-előzmények",
+      "modellkövetelmény",
+      "modell-ellenőrzés",
+      "adatcsere-formátum"
+    ],
+    [
+      "e Datensicherheit",
+      "e Revisionssicherheit",
+      "e Qualitätssicherung, -en",
+      "e Sensorik"
+    ],
+    [
+      "s Archiv, -e",
+      "s Datenmodell, -e",
+      "s Fachmodell, -e",
+      "s Koordinationsmodell, -e"
+    ],
+    [
+      "archivál",
+      "állandósít",
+      "beavatkozik",
+      "túlesni valamin"
+    ],
+    [
+      "e Vorhersage, -n",
+      "e Vorgabe, -n",
+      "e Eigenschaft, -en",
+      "e Modellanforderung, -en"
+    ],
+    [
+      "erőforrás-tervezés",
+      "ellátási lánc menedzsment",
+      "minőségbiztosítás",
+      "építési logisztika"
+    ],
+    [
+      "ellátási lánc menedzsment",
+      "erőforrás-tervezés",
+      "építési logisztika",
+      "minőségbiztosítás"
+    ],
+    [
+      "e Baulogistik",
+      "e Datensicherheit",
+      "e Revisionssicherheit",
+      "e Vorhersage, -n"
+    ],
+    [
+      "r Montageprozess, -e",
+      "r Regelwerks-Check, -s",
+      "r Prüfalgorithmus, -men",
+      "r Kollisionscheck, -s"
+    ],
+    [
+      "digitális iker",
+      "életciklus-orientált",
+      "többdimenziósság",
+      "veszteségmentes"
+    ],
+    [
+      "s Gebäudemanagement, -s",
+      "s Änderungsmanagement, -s",
+      "s Lieferkettenmanagement, -s",
+      "s Berechtigungskonzept, -e"
+    ],
+    [
+      "karbantartás-tervezés",
+      "erőforrás-tervezés",
+      "modell-előzmények",
+      "információbővítés"
+    ],
+    [
+      "prediktív / megelőző karbantartás",
+      "kivitelezési terv",
+      "információbővítés",
+      "minőségbiztosítás"
+    ],
+    [
+      "vagyongazdálkodás",
+      "karbantartás-tervezés",
+      "erőforrás-tervezés",
+      "információbővítés"
+    ],
+    [
+      "szenzorika",
+      "vagyongazdálkodás",
+      "adatbiztonság",
+      "revízióbiztonság"
+    ],
+    [
+      "e Echtzeitdaten (Pl.)",
+      "e Metadaten (Pl.)",
+      "e Leistungsdaten (Pl.)",
+      "e Strukturdaten (Pl.)"
+    ],
+    [
+      "beenden",
+      "anfangen",
+      "ausführen",
+      "schaffen"
+    ]
+  ],
+  "hints": [
+    "Das rote Haus ist genau so groß wie das blaue Haus.",
+    "Während er arbeitete, las sie ein Buch.",
+    "Einerseits ist es teuer, andererseits ist es gut.",
+    "Beide Lösungen sind akzeptabel.",
+    "Im Vergleich zum Vorjahr haben wir mehr Umsatz.",
+    "Im Gegensatz zu dir mag ich Regen.",
+    "Der Unterschied zwischen den beiden Modellen ist groß.",
+    "Er spricht nicht nur Deutsch, sondern auch Englisch.",
+    "Du kannst entweder Tee oder Kaffee haben.",
+    "Ich trinke weder Tee noch Kaffee.",
+    "Ich bin krank, daher bleibe ich im Bett.",
+    "Die Straße ist gesperrt, wodurch wir einen Umweg fahren müssen.",
+    "Ich denke, also bin ich.",
+    "Die Lösung ist gefunden, somit können wir abschließen.",
+    "Er kommt nicht, denn er ist krank.",
+    "Das Ergebnis des Experiments war überraschend.",
+    "Wir müssen sofort eine Maßnahme ergreifen.",
+    "Haben Sie eine Lösung für dieses Problem?",
+    "Ich habe einen guten Vorschlag für das Wochenende.",
+    "Ich möchte vorschlagen, dass wir eine Pause machen.",
+    "Ich bin der Meinung, dass wir mehr tun sollten.",
+    "Meiner Ansicht nach ist das die beste Lösung.",
+    "Ich bin davon überzeugt, dass wir erfolgreich sein werden.",
+    "Es scheint mir, dass es bald regnen wird.",
+    "Es ist wichtig, dass alle Regeln eingehalten werden.",
+    "Es ist fraglich, ob er das Projekt pünktlich abschließen kann.",
+    "Bitte antworten Sie sofort, die Sache ist dringend.",
+    "Es ist notwendig, dass das Update installiert wird.",
+    "Es ist zweckmäßig, ein Backup zu erstellen.",
+    "Es ist ratsam, dass Sie den Vertrag prüfen lassen.",
+    "Es ist unwahrscheinlich, dass es heute schneit.",
+    "Die Lösung des Problems war sehr einfach.",
+    "Der Vortrag war sehr langweilig.",
+    "Es ist gefährlich, bei Rot über die Straße zu gehen.",
+    "In unserem neuen Haus fühlen wir uns sicher.",
+    "Ein Wörterbuch ist sehr nützlich beim Sprachenlernen.",
+    "Dieses alte Werkzeug ist für mich nutzlos.",
+    "Das Wetter ist heute wirklich gut.",
+    "Er ist der beste Schüler in der Klasse.",
+    "Das Zimmer ist sehr hell und freundlich.",
+    "Der Kaffee ist leider schon kalt.",
+    "Zieh dir etwas an, damit dir schön warm wird.",
+    "Im Winter ist es draußen oft kalt.",
+    "Nach der langen Arbeit war er sehr müde.",
+    "Ich bin schon seit sechs Uhr morgens wach.",
+    "Er konnte nicht kommen, weil er krank war.",
+    "Sport und gute Ernährung halten dich gesund.",
+    "Sie war wütend über den großen Fehler.",
+    "Die Kinder waren glücklich über die Geschenke.",
+    "Die Route auf der Karte ist rot markiert.",
+    "Die genaue Position wird auf dem GPS angezeigt.",
+    "Auf dem Stadtplan siehst du alle Straßen der Stadt.",
+    "Die Landkarte zeigt die Grenzen der Region.",
+    "Der Kompass zeigt immer nach Norden.",
+    "Wir haben uns im Wald verirrt.",
+    "Der Unterschied zwischen den beiden Modellen ist groß.",
+    "Was ist der Grund für deine Verspätung?",
+    "Ich habe einen guten Vorschlag für das Wochenende.",
+    "Ich denke, dass diese Idee sehr gut ist.",
+    "Ich glaube, dass er die Wahrheit sagt.",
+    "Es ist gefährlich, bei Rot über die Straße zu gehen.",
+    "In unserem neuen Haus fühlen wir uns sicher.",
+    "Das Wetter ist heute wirklich gut.",
+    "Das Bild im Museum ist wunderschön.",
+    "Ich bin schon seit sechs Uhr morgens wach.",
+    "Sie war wütend über den großen Fehler.",
+    "In welche Richtung müssen wir gehen?",
+    "Gehen Sie durch die Unterführung unter den Schienen durch.",
+    "An der nächsten Kreuzung müssen wir rechts abbiegen.",
+    "Wir biegen an der nächsten Kreuzung links ab.",
+    "Auf der Autobahn darf man auf der linken Spur überholen.",
+    "Das Überholen ist in dieser Kurve verboten.",
+    "Gestern passierte ein schwerer Unfall auf der Straße.",
+    "Die Polizei hat ein Protokoll vom Unfall aufgenommen.",
+    "Der Polizist musste das Protokoll aufnehmen.",
+    "Der Rettungsdienst war schnell am Unfallort.",
+    "Geh geradeaus bis zur nächsten Kreuzung.",
+    "Geh die Straße entlang bis zum Ende.",
+    "Bieg nach links ab an der großen Eiche.",
+    "Bieg nach rechts ab, wenn du das Museum siehst.",
+    "Geh über die Brücke und dann gleich links.",
+    "Geh über die Straße, dort ist die Bäckerei.",
+    "Das war keine gute Ausrede für deine Verspätung.",
+    "Ich bin müde von der langen Reise.",
+    "Er fühlte sich seinem Gegner unterlegen.",
+    "Seine Überlegenheit war im Spiel deutlich zu spüren.",
+    "Sie hat sich entschieden gegen den Vorschlag ausgesprochen.",
+    "Er ist sehr zurückhaltend und spricht wenig.",
+    "Diese Methode ist erfahrungsmäßig die beste.",
+    "Er war sehr gespannt vor der großen Prüfung.",
+    "Sie wirkte bei dem Vorstellungsgespräch sehr verklemmt.",
+    "Wir müssen auf alles vorbereitet sein und das Schlimmste erwarten.",
+    "Wir arbeiten parallel zu der anderen Abteilung an diesem Projekt.",
+    "Auf diese Art und Weise können wir viel Zeit sparen.",
+    "Der Sturm begann völlig abrupt.",
+    "Das Problem trat unverhofft auf.",
+    "Die Lösung fiel mir auf einen Schlag ein.",
+    "Das Paket kam schlagartig an, als wir nicht damit rechneten.",
+    "Wir haben das Projekt im Handumdrehen abgeschlossen.",
+    "Die Kostenberechnung liegt dem Bauherrn vor.",
+    "Wir warten noch auf die genaue Kostenschätzung.",
+    "Die Planungs- und Genehmigungsphase ist fast abgeschlossen.",
+    "In der Planungsphase werden alle Details geklärt.",
+    "Die Genehmigungsphase dauert oft länger als gedacht.",
+    "Die Ausführungsplanung muss bis Freitag fertig sein.",
+    "Der Bauablauf muss genau koordiniert werden.",
+    "Die Einteilung der Aufgaben ist sehr wichtig.",
+    "Die Vergabe der Bauaufträge ist abgeschlossen.",
+    "Der Vergabeplan regelt die Termine.",
+    "Die Inbetriebnahme der Anlage erfolgt im Juli.",
+    "Die Übergabe des Hauses findet am Montag statt.",
+    "Während der Betriebsphase fallen Wartungskosten an.",
+    "Der Vorentwurf / das Konzept wurde vom Kunden abgelehnt.",
+    "Der Entwurf zeigt die grobe Struktur des Gebäudes.",
+    "Er deutete mit dem Zeigefinger auf das Haus.",
+    "Sie trägt den goldenen Ring am Ringfinger.",
+    "Der Lärm raubte ihm fast jeden Nerv.",
+    "Mein Kopf tut mir heute schrecklich weh.",
+    "Er umgibt sein Haus mit einer hohen Mauer.",
+    "Können Sie den Satz bitte wiederholen?",
+    "Ich glaube, dass es heute noch regnen wird.",
+    "Er ist größer als ich.",
+    "Ich kann Deutsch sprechen.",
+    "Das ist deine Aufgabe.",
+    "Er ist stark, aber sein Bruder ist stärker.",
+    "Das ist nicht rot, sondern blau.",
+    "Jeder Mensch ist individuell.",
+    "Das ist ein traditionelles Rezept.",
+    "Er möchte sich im Tennis verbessern.",
+    "Seine Kritik bezog sich auf meine Arbeit.",
+    "Wir müssen das Problem besprechen.",
+    "Der Vertrag ist gültig.",
+    "Ein Hammer ist ein nützliches Werkzeug.",
+    "Ich habe ihn sofort erkannt.",
+    "Das Ergebnis ist sehr gut.",
+    "Was ist der Unterschied zwischen den beiden Wörtern?",
+    "Es gibt eine große Ähnlichkeit zwischen den beiden.",
+    "Ich habe einen Fehler gemacht.",
+    "Deine Antwort ist richtig.",
+    "Das ist die falsche Richtung.",
+    "Das ergibt keinen Sinn.",
+    "Die Regierung hat neue Maßnahmen angekündigt.",
+    "Jeder muss Verantwortung für sein Handeln übernehmen.",
+    "Du hast das Recht zu schweigen.",
+    "Keine Regel ohne Ausnahme.",
+    "Rauchen ist hier nicht erlaubt.",
+    "Das Parken ist hier verboten.",
+    "Das ist eine gute Gelegenheit.",
+    "Das Risiko ist zu groß.",
+    "Ich habe schöne Erinnerungen an meine Kindheit.",
+    "In Zukunft werde ich mehr Sport machen.",
+    "Einen Augenblick, bitte.",
+    "Der Kurs beginnt um 9 Uhr.",
+    "Ich beende meine Arbeit um 17 Uhr.",
+    "Wie lange dauert der Flug?",
+    "Die Situation ist außer Kontrolle.",
+    "Unter dieser Bedingung stimme ich zu.",
+    "Der Prozess ist noch nicht abgeschlossen.",
+    "Ich bin mir sicher, dass er kommt.",
+    "Ich zweifle an seiner Geschichte.",
+    "Wir haben unser gemeinsames Ziel fast erreicht.",
+    "Was möchtest du in deinem Leben erreichen?",
+    "Viel Erfolg bei deinem neuen Job!",
+    "Ich werde eine Bewerbung für die Stelle schreiben.",
+    "Dieser Bereich ist nur für Mitarbeiter zugänglich.",
+    "Sie hat viel Erfahrung in diesem Beruf.",
+    "Wer ist für dieses Projekt verantwortlich?",
+    "Er übernimmt gerne Verantwortung im Team.",
+    "Das war eine sehr wichtige Entscheidung.",
+    "Die Umsetzung des Projekts dauerte länger als gedacht.",
+    "Gute Deutschkenntnisse sind für den Job wichtig.",
+    "Ihre sprachliche Fähigkeit ist beeindruckend.",
+    "Ein Schulabschluss ist die Voraussetzung für das Studium.",
+    "Dieser Computer ist sehr leicht und portabel.",
+    "Ich habe gestern eine neue Bekanntschaft gemacht.",
+    "Dieser Schauspieler ist sehr bekannt.",
+    "Der Täter ist der Polizei noch unbekannt.",
+    "Ich habe mir sein Gesicht gut gemerkt.",
+    "Ich habe die beiden Zwillinge immer verwechselt.",
+    "Es war reiner Zufall, dass wir uns getroffen haben.",
+    "Er kam heute, wie immer, zu spät.",
+    "Ich habe dich schon eine Ewigkeit nicht gesehen.",
+    "Was hast du am Wochenende vor?",
+    "Ich werde meine Arbeit um 17 Uhr beenden.",
+    "Es gibt einen großen Unterschied zwischen den beiden Autos.",
+    "Die beiden Brüder haben sehr verschiedene Hobbys.",
+    "Man kann Äpfel nicht mit Birnen vergleichen.",
+    "Er wollte einen guten Eindruck bei ihr hinterlassen.",
+    "Die laute Musik wirkt auf ihn sehr störend.",
+    "Der neue Kollege ist mir sehr sympathisch.",
+    "Sein Verhalten war mir von Anfang an unsympathisch.",
+    "Ich habe großes Vertrauen in seine Fähigkeiten.",
+    "Ich möchte meine Eltern nicht enttäuschen.",
+    "Die Erwartung der Zuschauer war sehr hoch.",
+    "Die Kinder streiten sich oft um das Spielzeug.",
+    "Wir konnten uns schließlich auf einen Preis einigen.",
+    "Wir müssen eine schnelle Lösung finden.",
+    "Wir haben einen guten Kompromiss gefunden.",
+    "Manchmal muss man einen Kompromiss eingehen.",
+    "Er sollte sich für sein Verhalten entschuldigen.",
+    "Ich erwarte eine ehrliche Entschuldigung von dir.",
+    "Kannst du mir diesen Fehler noch einmal verzeihen?",
+    "Er versuchte, eine gute Ausrede zu suchen.",
+    "Ich möchte mich für deine Hilfe bedanken.",
+    "Kannst du mir bitte beim Tragen helfen?",
+    "Meine Eltern unterstützen mich bei meinem Studium.",
+    "Ich werde mich beim nächsten Mal revanchieren.",
+    "Vielen Dank für die nette Einladung.",
+    "Wir wollen dich zu unserem Fest einladen.",
+    "Wir wollen ihr zum Geburtstag ein Buch schenken.",
+    "Ich wollte dich mit dieser Party überraschen.",
+    "Wir gratulieren dir herzlich zum Geburtstag.",
+    "Es ist Zeit, dass wir uns verabschieden.",
+    "Auf Wiedersehen, bis zum nächsten Mal!",
+    "Tschüss, mach's gut!",
+    "Ich fahre jeden Tag mit dem Auto zur Arbeit.",
+    "Ich lerne gerade, wie man Auto fährt.",
+    "Auf der Autobahn darf man oft schnell fahren.",
+    "Auf dem Weg zur Arbeit stand ich im Stau.",
+    "Ich hasse es, jeden Morgen im Stau zu stehen.",
+    "Die Ampel ist rot, du musst anhalten.",
+    "An der nächsten Kreuzung müssen Sie rechts abbiegen.",
+    "Wir müssen die nächste Ausfahrt nehmen.",
+    "Ich habe keinen freien Parkplatz gefunden.",
+    "Wir müssen an der nächsten Tankstelle anhalten.",
+    "Ich muss das Auto heute noch volltanken.",
+    "Der Fußgänger wartet an der Ampel.",
+    "Am Zebrastreifen haben Fußgänger Vorrang.",
+    "Wir überqueren jetzt die Straße.",
+    "Die Brücke führt über den Fluss.",
+    "Die Autobahn führt durch einen langen Tunnel.",
+    "Viele reiche Römer erlebten den eigenen Untergang.",
+    "Wir biegen an der nächsten Kreuzung links ab.",
+    "Geh geradeaus bis zur nächsten Kreuzung.",
+    "Geh die Straße entlang bis zum Ende.",
+    "Bieg nach rechts ab, wenn du das Museum siehst.",
+    "Geh über die Brücke und dann gleich links.",
+    "Geh über die Straße, dort ist die Bäckerei.",
+    "Das war keine gute Ausrede für deine Verspätung.",
+    "Er fühlte sich seinem Gegner unterlegen.",
+    "Seine Überlegenheit war im Spiel deutlich zu spüren.",
+    "Diese Methode ist erfahrungsmäßig die beste.",
+    "Er war sehr gespannt vor der großen Prüfung.",
+    "Das Paket kam schlagartig an, als wir nicht damit rechneten.",
+    "Die Kostenschätzung liegt dem Bauherrn vor.",
+    "Wir warten noch auf die genaue Kostenberechnung.",
+    "Die Planungs- und Genehmigungsphase ist fast abgeschlossen.",
+    "In der Planungsphase werden alle Details geklärt.",
+    "Die Genehmigungsphase dauert oft länger als gedacht.",
+    "Der Bauablauf muss genau koordiniert werden.",
+    "Die Einteilung der Aufgaben ist sehr wichtig.",
+    "Die Vergabe der Bauaufträge ist abgeschlossen.",
+    "Während der Betriebsphase fallen Wartungskosten an.",
+    "Der Vorentwurf / das Konzept wurde vom Kunden abgelehnt.",
+    "Der Entwurf zeigt die grobe Struktur des Gebäudes.",
+    "Er hat starke Schmerzen im Kopf.",
+    "Sie hat sehr lange, braune Haare.",
+    "Er hat oft Schmerzen im unteren Rücken.",
+    "Nach dem vielen Essen tut ihr der Bauch weh.",
+    "Der Arm ist nach dem Sturz gebrochen.",
+    "Er hat sich den linken Fuß verstaucht.",
+    "Sein Herz schlägt sehr schnell vor Aufregung.",
+    "Der Muskel im rechten Arm ist angespannt.",
+    "Der Geruch stieg ihm sofort in die Nase.",
+    "Eine Träne rollte über ihre Wange.",
+    "Er deutete mit dem Zeigefinger auf das Haus.",
+    "Der Mittelfinger ist meist der längste Finger.",
+    "Er hat sich den kleinen Finger an der Tür geklemmt.",
+    "Der Nagel am rechten Daumen ist abgebrochen.",
+    "Der Lärm raubte ihm fast jeden Nerv.",
+    "Diese Krankheit ist zum Glück gut behandelbar.",
+    "Mein Kopf tut mir heute schrecklich weh.",
+    "Er umgibt sein Haus mit einer hohen Mauer.",
+    "Ich muss diesen Text ins Deutsche übersetzen.",
+    "Können Sie den Satz bitte wiederholen?",
+    "Ihre Meinungen waren völlig entgegengesetzt.",
+    "Wir müssen uns für den Winter mit Holz eindecken.",
+    "Er hat die Verpflichtung, den Vertrag zu erfüllen.",
+    "Solche Fehler dürfen nicht noch einmal vorkommen.",
+    "Das neue Unternehmen ist sehr erfolgreich.",
+    "Seine Reaktion war der Situation angemessen.",
+    "Im Gegenzug erwarte ich deine Hilfe.",
+    "Wir müssen das Meeting auf morgen verschieben.",
+    "Er handelt in meinem Namen.",
+    "Das hat er völlig bewusst und absichtlich getan.",
+    "Die Behörde hat den Bauantrag abgelehnt.",
+    "Grundsätzlich bin ich mit dem Vorschlag einverstanden.",
+    "Für einen Kredit braucht man feste Einkünfte.",
+    "Er wollte seine Vergangenheit hinter sich lassen.",
+    "Die neuen Kollegen kommen gut miteinander aus.",
+    "Sie können eine Kostenerstattung beantragen.",
+    "Mein Vorgesetzter hat mir die Aufgabe gegeben.",
+    "Er ist ein Mann, der sein Wort hält.",
+    "Wir müssen den Plan noch einmal revidieren.",
+    "Das System ist sehr durchdacht und raffiniert.",
+    "Es ist schlimm, wenn man ein Versprechen bricht.",
+    "Die Schmerzen waren fast unerträglich.",
+    "Deine Idee ist völlig abwegig.",
+    "Er hat mir unaufgefordert geholfen.",
+    "Wir müssen unsere Termine in Einklang bringen.",
+    "Die Aussicht auf Erfolg ist gering.",
+    "Ich bin in hohem Maße von seiner Leistung beeindruckt.",
+    "Ich verabscheue Unpünktlichkeit.",
+    "Die Firma möchte ihr Geschäft erweitern.",
+    "Der Chef hat eine Krisensitzung einberufen.",
+    "Der Ablauf der Veranstaltung war gut geplant.",
+    "Das ist die konventionelle Methode.",
+    "Wir müssen das Risiko abschätzen.",
+    "Man kann ihm nichts vorwerfen.",
+    "Er hat mir meine Fehler vorgehalten.",
+    "Dieses Detail kann einen großen Unterschied ausmachen.",
+    "Ein gutes Team kann einen großen Unterschied machen.",
+    "Das ist eine sehr private Angelegenheit.",
+    "Einerseits möchte ich gehen, andererseits bin ich müde.",
+    "Wir mussten die ganze Nacht aufbleiben, um das Projekt zu beenden.",
+    "Das ist doch lächerlich, das glaube ich nicht.",
+    "Er versuchte, seinen Fehler zu kompensieren.",
+    "Ich muss dir in diesem Punkt leider widersprechen.",
+    "Er hat die Aufgabe sehr zuverlässig erledigt.",
+    "Er hat die Tür absichtlich offen gelassen.",
+    "Sie war fest entschlossen, die Prüfung zu bestehen.",
+    "Wir müssen den Prozess deutlich beschleunigen.",
+    "Mach es dir auf dem Sofa bequem.",
+    "Er hat keine Sekunde gezögert.",
+    "Die vielen Zahlen verwirren mich.",
+    "Er ist ein Profi und weiß, worauf es ankommt.",
+    "Er weiß sehr gut, wie man mit Problemen umgeht.",
+    "Es besteht der Verdacht auf Diebstahl.",
+    "Wir müssen das alte Projekt wieder in Gang setzen.",
+    "Ich werde das alte Buch aus dem Keller hervorholen.",
+    "Das Ergebnis des Spiels war eine große Enttäuschung.",
+    "Bitte verschwende nicht meine Zeit.",
+    "Die Musik hörte abrupt auf.",
+    "Nach dem Brand mussten sie von Grund auf neu anfangen.",
+    "Er ist ein Mann, der immer sein Versprechen einhält.",
+    "Ihre Anwesenheit ist zwingend erforderlich.",
+    "Er löste das Problem im Handumdrehen.",
+    "Im Großen und Ganzen bin ich zufrieden.",
+    "Die neuen Regeln sorgten für große Verwirrung.",
+    "Wir bitten um umgehende Antwort.",
+    "Bitte verlassen Sie das Gebäude unverzüglich.",
+    "Bitte halten Sie mich über das Projekt auf dem Laufenden.",
+    "Nach der schlechten Nachricht war er sehr niedergeschlagen.",
+    "Der fortlaufende Prozess erfordert ständige Kontrolle.",
+    "Von nun an werde ich jeden Tag Sport treiben.",
+    "Als er nicht nach Hause kam, begann sie das Schlimmste zu befürchten.",
+    "Die Polizei muss dieser Angelegenheit nachgehen.",
+    "Das schlechte Wetter wird sich auf die Ernte auswirken.",
+    "Wir müssen heute noch eine wichtige Entscheidung treffen.",
+    "Man kann diesen Erfolg nur ihrem harten Training zuschreiben.",
+    "Du solltest diese seltene Gelegenheit ergreifen.",
+    "Kannst du ein Geheimnis bewahren?",
+    "Wir müssen diese beiden Themen miteinander verknüpfen.",
+    "Die Hitze heute ist kaum auszuhalten.",
+    "Mach dir nichts vor, er wird nicht zurückkommen.",
+    "Das war eine wirklich bescheuerte Idee.",
+    "Der vermeintliche Experte hatte in Wirklichkeit keine Ahnung.",
+    "Sein Verhalten war in jeder Hinsicht beispielhaft.",
+    "Sie hat eine hervorragende Leistung erbracht.",
+    "Das ist ein klarer Bruch des Vertrages.",
+    "Eine Lösung beginnt sich am Horizont abzuzeichnen.",
+    "Sie musste den Plan leider schrubben.",
+    "Der Fallout dieser Entscheidung war immens.",
+    "Seine Bemerkung brachte mich auf die Palme.",
+    "Er versucht nur, Zeit zu schinden.",
+    "Die Einhaltung der Regeln ist zwingend erforderlich.",
+    "Bestechung ist eine Straftat.",
+    "Er hat versucht, den Beamten zu bestechen.",
+    "Die Umfrageergebnisse wurden verzerrt dargestellt.",
+    "Wir müssen das Problem verhindern, bevor es entsteht.",
+    "Wir wollen nun zum nächsten Punkt übergehen.",
+    "Es kommt darauf an, wie viel Zeit wir haben.",
+    "Wir werden die Entwicklung im Auge behalten.",
+    "Das Erreichen dieses Ziels ist ein wichtiger Meilenstein.",
+    "Wir können diese Möglichkeit nicht völlig ausschließen.",
+    "Die beiden Kollegen kommen gut miteinander aus.",
+    "Er hat versucht, die Regeln zu umgehen.",
+    "Ich zweifle daran, dass dies die beste Lösung ist.",
+    "Wir müssen diese Kosten einkalkulieren.",
+    "Die Vorbereitungen sind in vollem Gange.",
+    "Sie hat sich entschieden gegen den Vorschlag ausgesprochen.",
+    "Deine Idee ist völlig abwegig.",
+    "Der Vertrag wurde gegenseitig unterschrieben.",
+    "Es ist schlimm, wenn man ein Versprechen bricht.",
+    "Er ist ein Mann, der immer sein Versprechen einhält.",
+    "Als er nicht nach Hause kam, begann sie das Schlimmste zu befürchten.",
+    "Wir müssen das Risiko abschätzen.",
+    "Die Währung wurde stark abgewertet.",
+    "Viele Leute überschätzen ihre eigenen Fähigkeiten.",
+    "Man darf die Gefahr nicht unterschätzen.",
+    "Das Problem trat unverhofft auf.",
+    "Der vermeintliche Experte hatte in Wirklichkeit keine Ahnung.",
+    "Kostenloser Kaffee ist ein netter Benefit.",
+    "Das hat er völlig bewusst und absichtlich getan.",
+    "Wir mussten die ganze Nacht aufbleiben, um das Projekt zu beenden.",
+    "Das Wetter hier ist völlig unvorhersehbar.",
+    "Die Zusammenarbeit erzeugt synergetische Effekte.",
+    "Sie hat eine hervorragende Leistung erbracht.",
+    "Er stellte eine impertinente Frage.",
+    "Das Problem erfordert eine nuancierte Betrachtung.",
+    "Die Theorie wurde durch neue Daten falsifiziert.",
+    "Mit seinem Verhalten brüskierte er die Gäste.",
+    "Offene Standards fördern die Interoperabilität zwischen Softwarelösungen.",
+    "Die Verstetigung der Prozesse ist unser Ziel.",
+    "Die Skalierung des Modells ist möglich.",
+    "Wir müssen die Ergebnisse konsolidieren.",
+    "Die Multiplikatoren geben das Wissen weiter.",
+    "Das System ist anschlussfähig an andere Daten.",
+    "Wir messen den BIM-Reifegrad der Behörde.",
+    "Wir verfolgen einen lebenszyklusorientierten Ansatz.",
+    "Die Aufgaben liegen in der Linienorganisation.",
+    "In einer Meritokratie ist die individuelle Leistung entscheidend.",
+    "Das ist pure Charlatanerie, was er da behauptet.",
+    "Offene Formate machen Software interoperabel.",
+    "Mit seinem Verhalten brüskierte er die Gäste.",
+    "Die Theorie wurde durch neue Daten falsifiziert.",
+    "Das Problem erfordert eine nuancierte Betrachtung.",
+    "Offene Formate machen Software interoperabel.",
+    "Das ist die quintenzielle Frage unseres Lebens.",
+    "Er stellte eine impertinente Frage.",
+    "Die Zusammenarbeit erzeugt synergetische Effekte.",
+    "Wir haben uns mit einer anderen Firma zusammengeschlossen, um das Projekt zu bewältigen.",
+    "Er ist ein selbsternannter Experte auf diesem Gebiet.",
+    "Sie musste viele Hindernisse überwinden, um ihr Ziel zu erreichen.",
+    "Ich möchte die Prüfung einfach nur hinter mich bringen.",
+    "Wer ist für diese Förderung berechtigt?",
+    "Manchmal muss man die Regeln umgehen.",
+    "Der Staat sollte nicht in den Markt eingreifen.",
+    "Wir haben eine Beschwerde vom Kunden erhalten.",
+    "Wir müssen nach einem bestimmten Plan vorgehen.",
+    "Die Vorgabe des Chefs ist ganz klar.",
+    "Wir haben noch keine Anhaltspunkte.",
+    "Der Chef kann diese Entscheidung aushebeln.",
+    "Er ist der ausgewiesene Experte für dieses System.",
+    "Sie können diesen Service jederzeit in Anspruch nehmen.",
+    "Man muss diesen Erfolg dem ganzen Team zuschreiben.",
+    "Die Zuordnung der Aufgaben ist noch nicht klar.",
+    "Viele Leute überschätzen ihre eigenen Fähigkeiten.",
+    "Man darf die Gefahr nicht unterschätzen.",
+    "Das ist nur eine temporäre Lösung.",
+    "Wir müssen die neuen Prozesse verstetigen.",
+    "Die Verstetigung der Prozesse ist unser Ziel.",
+    "Wir verfolgen einen lebenszyklusorientierten Ansatz.",
+    "Wir wollen die neuen Werte fest verankern.",
+    "Die Skalierbarkeit ist ein technischer Vorteil.",
+    "Wir messen den BIM-Reifegrad der Behörde.",
+    "Das sind steuerungsrelevante Informationen.",
+    "Der Lebenszyklus eines Gebäudes ist lang.",
+    "Das räumliche Vorstellungsvermögen ist wichtig.",
+    "Wir arbeiten objektbasiert.",
+    "Das Team arbeitet sehr kollaborativ.",
+    "Das Datenmodell ist die Grundlage.",
+    "Die Informationsanreicherung erfolgt im Laufe des Projekts.",
+    "Die Anforderungen sind fachspezifisch.",
+    "Das Fachmodell zeigt nur die Lüftung.",
+    "Das Zusammenführen der Modelle dauert etwas.",
+    "Der Prozess ist konsistenzprüfend.",
+    "Der Kollisionscheck zeigte einige Fehler.",
+    "Der Datenaustausch sollte verlustfrei sein.",
+    "Wir müssen Informationsverlust vermeiden.",
+    "Wir arbeiten schnittstellenübergreifend.",
+    "Die Daten werden lebenszyklusübergreifend genutzt.",
+    "Der BIM-Manager leitet das Projekt.",
+    "Der BIM-Koordinator prüft die Modelle.",
+    "Der BIM-Autor erstellt das 3D-Modell.",
+    "IFC ist ein Datenaustauschformat.",
+    "Das System ist flexibel und erweiterbar.",
+    "Jedes Objekt hat eine spezifische Eigenschaft.",
+    "Die Attribuierung der Elemente ist wichtig.",
+    "Der BAP regelt die Zusammenarbeit.",
+    "Der Informationsbedarf steigt im Projektverlauf.",
+    "Der LOD definiert die Genauigkeit des Modells.",
+    "Der Informationsgehalt muss ausreichen.",
+    "Die Modellanforderung ist klar definiert.",
+    "Die Daten sind phasenspezifisch.",
+    "Er hat kein Zugriffsrecht auf diesen Ordner.",
+    "Der Rollenplan regelt, wer was darf.",
+    "Das Berechtigungskonzept schützt die Daten.",
+    "Die Qualitätssicherung ist ein wichtiger Prozess.",
+    "Das Modell-Checking erfolgt wöchentlich.",
+    "Der Regelwerks-Check prüft die Einhaltung der Normen.",
+    "Das Änderungsmanagement ist komplex.",
+    "Das System bietet hohe Revisionssicherheit.",
+    "Die Modellhistorie zeigt alle Änderungen.",
+    "Die Datensicherheit ist sehr wichtig.",
+    "Das alte Modell liegt im Archiv.",
+    "Wir müssen die alten Pläne archivieren.",
+    "Die Vorhersage der Kosten ist schwierig.",
+    "Die Ressourcenplanung ist Teil des Managements.",
+    "Das Lieferkettenmanagement muss optimiert werden.",
+    "Die Baulogistik ist eine große Herausforderung.",
+    "Der Montageprozess geht schnell.",
+    "Der digitale Zwilling repräsentiert das Gebäude.",
+    "Das Gebäudemanagement nutzt die BIM-Daten.",
+    "Die Instandhaltungsplanung wird einfacher.",
+    "Predictive Maintenance verhindert Ausfälle.",
+    "Die Asset-Verwaltung wird digitalisiert.",
+    "Die Sensorik liefert wichtige Daten.",
+    "Wir nutzen Echtzeitdaten für die Steuerung.",
+    "Er hat seine Prüfung mit Erfolg abgelegt."
+  ]
+}
