@@ -1,102 +1,102 @@
 {
   "question": [
-    "r Mann",
+    "der Mann",
     "Nő (Woman)",
     "gehen",
     "nagy (big)",
-    "s Kind",
+    "das Kind",
     "Fiú (Boy)",
     "kommen",
     "kicsi (small)",
-    "s Mädchen",
+    "das Mädchen",
     "Apa (Father)",
     "essen",
     "öreg / régi (old)",
-    "e Mutter",
+    "die Mutter",
     "Fivér / Testvér (Brother)",
     "trinken",
     "új (new)",
-    "e Schwester",
+    "die Schwester",
     "Barát (Friend)",
     "spielen",
     "szép (beautiful)",
-    "e Familie",
+    "die Familie",
     "Víz (Water)",
     "arbeiten",
     "jó (good)",
-    "s Brot",
+    "das Brot",
     "Alma (Apple)",
     "schlafen",
     "rossz (bad)",
-    "s Fleisch",
+    "das Fleisch",
     "Sajt (Cheese)",
     "lesen",
     "gyors (fast)",
-    "e Milch",
+    "die Milch",
     "Kávé (Coffee)",
     "schreiben",
     "lassú (slow)",
-    "r Tee",
+    "der Tee",
     "Sör (Beer)",
     "machen",
     "drága (expensive)",
-    "r Wein",
+    "der Wein",
     "Ház (House)",
     "sagen",
     "olcsó (cheap)",
-    "s Auto",
+    "das Auto",
     "Utca (Street)",
     "fragen",
     "forró (hot)",
-    "e Stadt",
+    "die Stadt",
     "Ország (Country)",
     "hören",
     "hideg (cold)",
-    "s Zimmer",
+    "das Zimmer",
     "Ajtó (Door)",
     "sehen",
     "sok (much / many)",
-    "s Fenster",
+    "das Fenster",
     "Asztal (Table)",
     "sprechen",
     "kevés (little / few)",
-    "r Stuhl",
+    "der Stuhl",
     "Ágy (Bed)",
     "lernen",
     "mindig (always)",
-    "s Bad",
+    "das Bad",
     "Konyha (Kitchen)",
     "kaufen",
     "soha (never)",
-    "s Geld",
+    "das Geld",
     "Idő (Time)",
     "wohnen",
     "gyakran (often)",
-    "r Hund",
+    "der Hund",
     "Macska (Cat)",
     "heißen",
     "ma (today)",
-    "r Morgen",
+    "der Morgen",
     "Este (Evening)",
     "sein",
     "holnap (tomorrow)",
-    "e Nacht",
+    "die Nacht",
     "Nap (Day)",
     "haben",
     "tegnap (yesterday)",
-    "e Woche",
+    "die Woche",
     "Hónap (Month)",
     "werden",
     "itt (here)",
-    "s Jahr",
+    "das Jahr",
     "Munka (Work)",
     "können",
     "ott (there)",
-    "e Schule",
+    "die Schule",
     "Könyv (Book)",
     "müssen",
     "korán (early)",
-    "s Bild",
+    "das Bild",
     "Név (Name)",
     "wollen",
     "későn (late)",
@@ -1211,10 +1211,10 @@
       "Barát (Friend)"
     ],
     [
-      "s Mädchen",
-      "e Mutter",
-      "e Frau",
-      "e Schwester"
+      "das Mädchen",
+      "die Mutter",
+      "die Frau",
+      "die Schwester"
     ],
     [
       "állni (to stand)",
@@ -1235,10 +1235,10 @@
       "Gyerek (Child)"
     ],
     [
-      "r Junge",
-      "r Mann",
-      "r Vater",
-      "r Bruder"
+      "der Junge",
+      "der Mann",
+      "der Vater",
+      "der Bruder"
     ],
     [
       "menni (to go)",
@@ -1259,10 +1259,10 @@
       "Gyerek (Child)"
     ],
     [
-      "r Bruder",
-      "r Vater",
-      "r Sohn",
-      "r Opa"
+      "der Bruder",
+      "der Vater",
+      "der Sohn",
+      "der Opa"
     ],
     [
       "enni (to eat)",
@@ -1283,10 +1283,10 @@
       "Lány (Girl)"
     ],
     [
-      "r Vater",
-      "r Bruder",
-      "r Freund",
-      "r Junge"
+      "der Vater",
+      "der Bruder",
+      "der Freund",
+      "der Junge"
     ],
     [
       "inni (to drink)",
@@ -1307,10 +1307,10 @@
       "Család (Family)"
     ],
     [
-      "r Feind",
-      "r Mensch",
-      "r Mann",
-      "r Freund"
+      "der Feind",
+      "der Mensch",
+      "der Mann",
+      "der Freund"
     ],
     [
       "játszani (to play)",
@@ -1331,10 +1331,10 @@
       "Gyerek (Child)"
     ],
     [
-      "s Brot",
-      "e Milch",
-      "s Wasser",
-      "r Wein"
+      "das Brot",
+      "die Milch",
+      "das Wasser",
+      "der Wein"
     ],
     [
       "játszani (to play)",
@@ -1355,10 +1355,10 @@
       "Víz (Water)"
     ],
     [
-      "s Fleisch",
-      "r Apfel",
-      "r Tee",
-      "r Kaffee"
+      "das Fleisch",
+      "der Apfel",
+      "der Tee",
+      "der Kaffee"
     ],
     [
       "dolgozni (to work)",
@@ -1379,10 +1379,10 @@
       "Hús (Meat)"
     ],
     [
-      "s Brot",
-      "r Käse",
-      "e Wurst",
-      "r Apfel"
+      "das Brot",
+      "der Käse",
+      "die Wurst",
+      "der Apfel"
     ],
     [
       "olvasni (to read)",
@@ -1403,10 +1403,10 @@
       "Kávé (Coffee)"
     ],
     [
-      "r Tee",
-      "r Wein",
-      "s Wasser",
-      "r Kaffee"
+      "der Tee",
+      "der Wein",
+      "das Wasser",
+      "der Kaffee"
     ],
     [
       "írni (to write)",
@@ -1427,10 +1427,10 @@
       "Sör (Beer)"
     ],
     [
-      "s Bier",
-      "s Wasser",
-      "r Wein",
-      "r Kaffee"
+      "das Bier",
+      "das Wasser",
+      "der Wein",
+      "der Kaffee"
     ],
     [
       "látni (to see)",
@@ -1451,10 +1451,10 @@
       "Tej (Milk)"
     ],
     [
-      "s Auto",
-      "s Zimmer",
-      "e Straße",
-      "s Haus"
+      "das Auto",
+      "das Zimmer",
+      "die Straße",
+      "das Haus"
     ],
     [
       "mondani (to say)",
@@ -1475,10 +1475,10 @@
       "Ajtó (Door)"
     ],
     [
-      "e Stadt",
-      "e Straße",
-      "s Land",
-      "r Weg"
+      "die Stadt",
+      "die Straße",
+      "das Land",
+      "der Weg"
     ],
     [
       "mondani (to say)",
@@ -1499,10 +1499,10 @@
       "Város (City)"
     ],
     [
-      "e Stadt",
-      "s Land",
-      "e Welt",
-      "e Straße"
+      "die Stadt",
+      "das Land",
+      "die Welt",
+      "die Straße"
     ],
     [
       "hallani (to hear)",
@@ -1523,10 +1523,10 @@
       "Ablak (Window)"
     ],
     [
-      "s Fenster",
-      "s Zimmer",
-      "r Tisch",
-      "e Tür"
+      "das Fenster",
+      "das Zimmer",
+      "der Tisch",
+      "die Tür"
     ],
     [
       "látni (to see)",
@@ -1547,10 +1547,10 @@
       "Ablak (Window)"
     ],
     [
-      "r Stuhl",
-      "r Tisch",
-      "s Bett",
-      "s Zimmer"
+      "der Stuhl",
+      "der Tisch",
+      "das Bett",
+      "das Zimmer"
     ],
     [
       "beszélni (to speak)",
@@ -1571,10 +1571,10 @@
       "Ajtó (Door)"
     ],
     [
-      "r Tisch",
-      "r Stuhl",
-      "s Bett",
-      "s Haus"
+      "der Tisch",
+      "der Stuhl",
+      "das Bett",
+      "das Haus"
     ],
     [
       "tanulni (to learn)",
@@ -1595,10 +1595,10 @@
       "Ház (House)"
     ],
     [
-      "s Bad",
-      "e Küche",
-      "s Zimmer",
-      "e Tür"
+      "das Bad",
+      "die Küche",
+      "das Zimmer",
+      "die Tür"
     ],
     [
       "venni / vásárolni (to buy)",
@@ -1619,10 +1619,10 @@
       "Év (Year)"
     ],
     [
-      "s Geld",
-      "e Zeit",
-      "r Tag",
-      "e Woche"
+      "das Geld",
+      "die Zeit",
+      "der Tag",
+      "die Woche"
     ],
     [
       "dolgozni (to work)",
@@ -1643,10 +1643,10 @@
       "Hal (Fish)"
     ],
     [
-      "r Hund",
-      "s Pferd",
-      "r Vogel",
-      "e Katze"
+      "der Hund",
+      "das Pferd",
+      "der Vogel",
+      "die Katze"
     ],
     [
       "hívni / nevezni (to be called)",
@@ -1667,10 +1667,10 @@
       "Nap (Day)"
     ],
     [
-      "r Morgen",
-      "r Tag",
-      "r Abend",
-      "e Nacht"
+      "der Morgen",
+      "der Tag",
+      "der Abend",
+      "die Nacht"
     ],
     [
       "lenni (to be)",
@@ -1691,10 +1691,10 @@
       "Nap (Day)"
     ],
     [
-      "e Nacht",
-      "r Tag",
-      "r Morgen",
-      "r Abend"
+      "die Nacht",
+      "der Tag",
+      "der Morgen",
+      "der Abend"
     ],
     [
       "lenni (to be)",
@@ -1715,10 +1715,10 @@
       "Nap (Day)"
     ],
     [
-      "s Jahr",
-      "e Woche",
-      "r Monat",
-      "r Tag"
+      "das Jahr",
+      "die Woche",
+      "der Monat",
+      "der Tag"
     ],
     [
       "lenni (to be)",
@@ -1739,10 +1739,10 @@
       "Nap (Day)"
     ],
     [
-      "e Schule",
-      "e Freizeit",
-      "e Arbeit",
-      "s Geld"
+      "die Schule",
+      "die Freizeit",
+      "die Arbeit",
+      "das Geld"
     ],
     [
       "tudni / képesnek lenni (to be able to)",
@@ -1763,10 +1763,10 @@
       "Város (City)"
     ],
     [
-      "s Bild",
-      "s Buch",
-      "s Zimmer",
-      "e Zeit"
+      "das Bild",
+      "das Buch",
+      "das Zimmer",
+      "die Zeit"
     ],
     [
       "kelleni / muszáj (to must)",
@@ -1787,10 +1787,10 @@
       "Asztal (Table)"
     ],
     [
-      "s Bild",
-      "r Name",
-      "s Wort",
-      "s Buch"
+      "das Bild",
+      "der Name",
+      "das Wort",
+      "das Buch"
     ],
     [
       "akarni (to want)",

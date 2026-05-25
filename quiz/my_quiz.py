@@ -332,6 +332,7 @@ class Quiz:
         # self.current_topic = topics.entrycget(index, 'label') # declares/fills the label content
         self.name_entry.state(['disabled'])
 
+    # GENERAL TOPICS
     def display_topic_label(self, index):
         # referring to parameters
         topic_label = topics.entrycget(index, 'label')
@@ -344,6 +345,7 @@ class Quiz:
         topic = Label(frame, text=f"{topic_label}", image=topic_logo, compound='left', bg='sky blue', fg='black', font=('Calibri', 16, "bold"), justify='center')
         topic.place(x=0, y=40, relwidth=1.0) # placing the label
 
+    # LANGUAGE LEARNING: GERMAN
     def display_deutsch_label(self, index):
         # referring to parameters
         deutsch_label = deutsch.entrycget(index, 'label')
@@ -354,6 +356,19 @@ class Quiz:
 
         # label widget
         topic = Label(frame, text=f"{deutsch_label}", image=deutsch_logo, compound='left', bg='steel blue', fg='black', font=('Calibri', 16, 'bold'), justify='center')
+        topic.place(x=0, y=40, relwidth=1.0) # places the label
+
+    # LANGUAGE LEARNING: ENGLISH
+    def display_english_label(self, index):
+        # referring to parameters
+        english_label = english.entrycget(index, 'label')
+        english_logo = english.entrycget(index, 'image')
+
+        # stores the chosen topic - in this case the topics that are stored in 'deutsch' for german learning purpose
+        self.current_topic = english.entrycget(index, 'label')  # declares/fills the label content
+
+        # label widget
+        topic = Label(frame, text=f"{english_label}", image=english_logo, compound='left', bg='steel blue', fg='black', font=('Calibri', 16, 'bold'), justify='center')
         topic.place(x=0, y=40, relwidth=1.0) # places the label
 
 ######################################
@@ -394,11 +409,13 @@ menubar = Menu(guitop) # https://www.linkedin.com/learning/python-gui-developmen
 guitop.config(menu = menubar)
 topics = Menu(menubar)
 deutsch = Menu(menubar)
+english = Menu(menubar)
 # results = Menu(menubar)
 # help_ = Menu(menubar) # underscore is for avoiding shadowing https://www.linjiangxiong.com/2024/08/28/how-to-fix-shadows-name-from-outer-scope-warning-in-pycharm/index.html
 
 menubar.add_cascade(menu = topics, label ='Topics')
 menubar.add_cascade(menu = deutsch, label ='Deutsch')
+menubar.add_cascade(menu = english, label ='English')
 # menubar.add_cascade(menu = results, label = 'Results', state='disabled')
 # menubar.add_cascade(menu = help_, label = 'Help', state='disabled')
 
@@ -408,9 +425,9 @@ menubar.add_cascade(menu = deutsch, label ='Deutsch')
 # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?resume=false
 # https://stackoverflow.com/questions/63871376/tkinter-widget-cgetvariable
 # https://www.geeksforgeeks.org/python-setting-and-retrieving-values-of-tkinter-variable/
-choice = IntVar()
 
 # TOPICS MENUBAR
+choice = IntVar()
 topics.add_radiobutton(label = 'Topic One - Sport', variable = choice, value = 1,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_sport.json'), 0), quiz.display_topic_label(0)))
 topics.add_radiobutton(label = 'Topic Two - Movies', variable = choice, value = 2,
@@ -434,25 +451,44 @@ topics.add_radiobutton(label = 'Electrical Systems - General p02', variable = ch
 topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 11,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_hvac_basics_preparationstest_mixed.json'), 10), quiz.display_topic_label(10)))
 topics.add_radiobutton(label = 'Python', variable = choice, value = 12,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_python_with_hints.json'), 11), quiz.display_topic_label(11)))
+                       command= lambda: (quiz.call_topic(resource_path('data/raw/quiz_python_with_hints.json'), 11), quiz.display_topic_label(11)))
 
 # DEUTSCH MENUBAR
 choice = IntVar()
 deutsch.add_radiobutton(label = 'Deutsch A1', variable = choice, value = 1,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1.json'), 0), quiz.display_deutsch_label(0)))
+                        command= lambda: (quiz.call_topic(resource_path('data/raw/quiz_german_a1.json'), 0), quiz.display_deutsch_label(0)))
 deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 2,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 1), quiz.display_deutsch_label(1)))
 deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 3,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 2), quiz.display_deutsch_label(2)))
 deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 4,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 3), quiz.display_deutsch_label(3)))
-# deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-3.json'), 2), quiz.display_deutsch_label(2)))
+deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 4), quiz.display_deutsch_label(4)))
 # deutsch.add_radiobutton(label = '(X) Deutsch A1.4', variable = choice, value = 6,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-4.json'), 3), quiz.display_deutsch_label(3)))
 # deutsch.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 7,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-5.json'), 4), quiz.display_deutsch_label(4)))
 # deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 8,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-6.json'), 5), quiz.display_deutsch_label(5)))
+
+# DEUTSCH MENUBAR
+choice = IntVar()
+english.add_radiobutton(label = 'English A1 Vocab', variable = choice, value = 1,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 0), quiz.display_deutsch_label(0)))
+english.add_radiobutton(label = 'English Irregular Verbs', variable = choice, value = 2,
+                       command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 1), quiz.display_deutsch_label(1)))
+# english.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 3,
+#                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 2), quiz.display_deutsch_label(2)))
+# english.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 4,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 3), quiz.display_deutsch_label(3)))
+# english.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 4), quiz.display_deutsch_label(4)))
+# english.add_radiobutton(label = '(X) Deutsch A1.4', variable = choice, value = 6,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-4.json'), 3), quiz.display_deutsch_label(3)))
+# english.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 7,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-5.json'), 4), quiz.display_deutsch_label(4)))
+# english.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 8,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-6.json'), 5), quiz.display_deutsch_label(5)))
 
 
@@ -490,6 +526,15 @@ topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
 deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
 deutsch.entryconfig(1, image= logo_t14, compound ='left')
 deutsch.entryconfig(2, image= logo_t14, compound ='left')
+# deutsch.entryconfig(3, image= logo_t15, compound ='left') # adding icon and position it
+# deutsch.entryconfig(2, image= logo_t13, compound ='left')
+# deutsch.entryconfig(3, image= logo_t13, compound ='left')
+# deutsch.entryconfig(4, image= logo_t13, compound ='left')
+# deutsch.entryconfig(5, image= logo_t13, compound ='left')
+
+english.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
+english.entryconfig(1, image= logo_t14, compound ='left')
+english.entryconfig(2, image= logo_t14, compound ='left')
 # deutsch.entryconfig(3, image= logo_t15, compound ='left') # adding icon and position it
 # deutsch.entryconfig(2, image= logo_t13, compound ='left')
 # deutsch.entryconfig(3, image= logo_t13, compound ='left')

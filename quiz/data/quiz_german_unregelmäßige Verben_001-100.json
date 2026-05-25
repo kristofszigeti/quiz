@@ -102,118 +102,708 @@
     "Ich _____ am Wochenende den ganzen Tag _____ (schlafen - Perfekt)."
   ],
   "answer": [
-    2, 4, 1, 3, 1, 2, 4, 3, 2, 1, 
-    3, 4, 2, 1, 3, 4, 2, 1, 3, 4, 
-    2, 1, 3, 4, 2, 1, 3, 4, 2, 1, 
-    3, 4, 2, 1, 3, 4, 2, 1, 3, 4, 
-    2, 1, 3, 4, 2, 1, 3, 4, 2, 1, 
-    3, 4, 2, 1, 3, 4, 2, 1, 3, 4, 
-    2, 1, 3, 4, 2, 1, 3, 4, 2, 1, 
-    3, 4, 2, 1, 3, 4, 2, 1, 3, 4, 
-    2, 1, 3, 4, 2, 1, 3, 4, 2, 1, 
-    3, 4, 2, 1, 3, 4, 2, 1, 3, 4
+    2,
+    3,
+    1,
+    3,
+    1,
+    2,
+    4,
+    3,
+    2,
+    1,
+    3,
+    4,
+    2,
+    1,
+    3,
+    2,
+    2,
+    1,
+    3,
+    2,
+    1,
+    1,
+    3,
+    1,
+    2,
+    3,
+    3,
+    3,
+    2,
+    1,
+    3,
+    4,
+    3,
+    3,
+    3,
+    1,
+    3,
+    1,
+    3,
+    4,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    4,
+    2,
+    3,
+    2,
+    1,
+    3,
+    1,
+    2,
+    2,
+    3,
+    1,
+    3,
+    2,
+    3,
+    2,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    3,
+    3,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    1,
+    3,
+    2,
+    3,
+    3,
+    1,
+    1,
+    1,
+    3,
+    1
   ],
   "choices": [
-    ["hilft", "helfe", "helfst", "helfen"],
-    ["gibt", "gebe", "gaben", "gab"],
-    ["seid ... gefahren", "sind ... gefahren", "haben ... gefahren", "habt ... gefahren"],
-    ["ist", "wäre", "war", "sei"],
-    ["sprichst", "sprechen", "sprecht", "sprich"],
-    ["haben ... gelesen", "haben ... gelesen", "sind ... gelesen", "habt ... gelesen"],
-    ["trinken", "trankst", "getrunken", "trank"],
-    ["ist ... geschrieben", "habe ... schrieben", "habe ... geschrieben", "hast ... geschrieben"],
-    ["sehe", "seht", "siehst", "sieht"],
-    ["sind ... gegangen", "sind ... ging", "haben ... gegangen", "habt ... gegangen"],
-    ["habe", "hat", "hatte", "hättest"],
-    ["wissen", "weiß", "wusste", "weißt"],
-    ["kamen", "kamen", "kommt", "kam"],
-    ["haben ... genommen", "hast ... genommen", "sind ... genommen", "habt ... genommen"],
-    ["schlafe", "schläfst", "schläft", "schlafen"],
-    ["essen", "aßt", "aßen", "gegessen"],
-    ["hat ... verstand", "hat ... verstanden", "ist ... verstanden", "haben ... verstanden"],
-    ["blieben", "bliebt", "geblieben", "bleibt"],
-    ["tust", "tue", "tut", "tun"],
-    ["habe ... fand", "habe ... gefunden", "bin ... gefunden", "hast ... findet"],
-    ["wirft", "werfe", "werft", "wirfst"],
-    ["vergaß", "vergessen", "vergaßt", "vergiss"],
-    ["haben ... gesungen", "sind ... gesungen", "haben ... gesungen", "habt ... singen"],
-    ["springt", "springt", "springe", "springst"],
-    ["haben ... geflogen", "sind ... geflogen", "sind ... fliegen", "haben ... fliegen"],
-    ["liefen", "lauft", "laufe", "gelaufen"],
-    ["habe ... schlossen", "habe ... schließt", "habe ... geschlossen", "bin ... geschlossen"],
-    ["denkt", "dachte", "dachten", "denkst"],
-    ["singet", "singt", "singst", "singe"],
-    ["hat ... verlor", "haben ... verloren", "sind ... verloren", "habt ... verlierst"],
-    ["wascht", "wasche", "wäschst", "wäscht"],
-    ["trug", "trage", "trugen", "getragen"],
-    ["sind ... gesehen", "haben ... sah", "haben ... gesehen", "hast ... siehst"],
-    ["saßen", "sitzen", "saßt", "gesessen"],
-    ["werde", "werdet", "wird", "wirst"],
-    ["wollte", "wollen", "wollten", "gewollt"],
-    ["sind ... gemusst", "haben ... musste", "haben ... gemusst", "habt ... gemusst"],
-    ["können", "kann", "könnt", "kannst"],
-    ["sollen", "soll", "solltet", "sollte"],
-    ["sind ... gedurft", "habe ... durfte", "hat ... darf", "hat ... gedurft"],
-    ["mag", "mögt", "magst", "möge"],
-    ["biss", "beißt", "bissen", "gebissen"],
-    ["sind ... begonnen", "haben ... begann", "haben ... begonnen", "habt ... beginnst"],
-    ["bieten", "bietet", "bot", "geboten"],
-    ["habe ... gebunden", "bin ... gebunden", "habe ... band", "hast ... bindest"],
-    ["brach", "bricht", "brachen", "gebrochen"],
-    ["haben ... empfahl", "hat ... empfohlen", "bin ... empfohlen", "hast ... empfiehlst"],
-    ["empfangt", "empfange", "empfängst", "empfängt"],
-    ["erschrickt", "erschrak", "erschraken", "erschrocken"],
-    ["sind ... gewonnen", "haben ... gewann", "haben ... gewonnen", "habt ... gewinnst"],
-    ["haltet", "hält", "halte", "hältst"],
-    ["hieß", "heißt", "hießen", "geheißen"],
-    ["bin ... gehoben", "habe ... hob", "habe ... gehoben", "hast ... hebst"],
-    ["klang", "klangen", "klingt", "klingst"],
-    ["lasst", "lässt", "lasse", "lassen"],
-    ["haben ... gelaufen", "sind ... gelaufen", "sind ... laufen", "habt ... laufen"],
-    ["lügst", "log", "logen", "gelogen"],
-    ["hast ... gerochen", "bin ... gerochen", "hast ... roch", "hast ... riechst"],
-    ["ruft", "rufst", "rufe", "rief"],
-    ["scheint", "schien", "schienen", "geschienen"],
-    ["sind ... geschnitten", "haben ... schnitt", "haben ... geschnitten", "habt ... schneidest"],
-    ["schweigst", "schweigt", "schweige", "schwieg"],
-    ["schwamm", "schwimmt", "schwammen", "geschwommen"],
-    ["bin ... geschlossen", "habe ... schloss", "habe ... geschlossen", "hast ... schließt"],
-    ["sank", "sanken", "sanke", "gesunken"],
-    ["sitze", "sitzt", "saß", "gesessen"],
-    ["haben ... gestanden", "sind ... gestanden", "haben ... stand", "habt ... steht"],
-    ["stahlen", "stahl", "stiehlt", "gestohlen"],
-    ["steigt", "steige", "steigst", "stieg"],
-    ["hat ... gestorben", "ist ... gestorben", "ist ... starb", "haben ... starb"],
-    ["bin ... gestrichen", "habe ... strich", "habe ... gestrichen", "hast ... streichst"],
-    ["trafen", "treffen", "traft", "getroffen"],
-    ["vergleichst", "vergleicht", "vergleiche", "verglich"],
-    ["verlor", "verliert", "verloren", "verloren"],
-    ["sind ... versprochen", "haben ... versprach", "haben ... versprochen", "habt ... versprichst"],
-    ["wachst", "wachse", "wächst", "wuchs"],
-    ["bin ... gewaschen", "habe ... wusch", "habe ... gewaschen", "hast ... wäschst"],
-    ["zog", "zogen", "ziehen", "gezogen"],
-    ["behaltet", "behält", "behalte", "behältst"],
-    ["sind ... verloren", "habt ... verloren", "haben ... verlor", "habt ... verlierst"],
-    ["gelingt", "gelangen", "gelang", "gelungen"],
-    ["treibt", "treibst", "treibe", "treibt"],
-    ["sind ... gebrannt", "haben ... gebrannt", "haben ... brannte", "habt ... brennst"],
-    ["schob", "schiebt", "schoben", "schiebst"],
-    ["vermeide", "vermeidest", "vermeidet", "vermeidet"],
-    ["bin ... gebissen", "hat ... gebissen", "hat ... biss", "hast ... beißt"],
-    ["erwartete", "erwarteten", "erwartetest", "erwartest"],
-    ["schaffe", "schafft", "schaffst", "schuf"],
-    ["bin ... geworfen", "habe ... warf", "habe ... geworfen", "hast ... wirfst"],
-    ["lernten", "lernte", "lernte", "lernst"],
-    ["vergisst", "vergisst", "vergisse", "vergisst"],
-    ["sind ... hinterlassen", "haben ... hinterließ", "haben ... hinterlassen", "habt ... hinterlässt"],
-    ["versprach", "versprechen", "versprochen", "versprechen"],
-    ["verbringst", "verbringt", "verbringe", "verbrachte"],
-    ["sind ... verdient", "haben ... verdiente", "haben ... verdient", "habt ... verdienst"],
-    ["verstand", "verstandest", "verstehen", "verstehen"],
-    ["verlierst", "verliert", "verliere", "verliert"],
-    ["haben ... getroffen", "haben ... traf", "sind ... getroffen", "habt ... triffst"],
-    ["schnitt", "schneidet", "schnitte", "schnitten"],
-    ["habe ... geschlafen", "bin ... geschlafen", "habe ... schlief", "hast ... schläfst"]
+    [
+      "hilft",
+      "helfe",
+      "helfst",
+      "helfen"
+    ],
+    [
+      "gibt",
+      "gebe",
+      "gaben",
+      "gab"
+    ],
+    [
+      "seid ... gefahren",
+      "sind ... gefahren",
+      "haben ... gefahren",
+      "habt ... gefahren"
+    ],
+    [
+      "ist",
+      "wäre",
+      "war",
+      "sei"
+    ],
+    [
+      "sprichst",
+      "sprechen",
+      "sprecht",
+      "sprich"
+    ],
+    [
+      "haben ... gelesen",
+      "haben ... gelesen",
+      "sind ... gelesen",
+      "habt ... gelesen"
+    ],
+    [
+      "trinken",
+      "trankst",
+      "getrunken",
+      "trank"
+    ],
+    [
+      "ist ... geschrieben",
+      "habe ... schrieben",
+      "habe ... geschrieben",
+      "hast ... geschrieben"
+    ],
+    [
+      "sehe",
+      "seht",
+      "siehst",
+      "sieht"
+    ],
+    [
+      "sind ... gegangen",
+      "sind ... ging",
+      "haben ... gegangen",
+      "habt ... gegangen"
+    ],
+    [
+      "habe",
+      "hat",
+      "hatte",
+      "hättest"
+    ],
+    [
+      "wissen",
+      "weiß",
+      "wusste",
+      "weißt"
+    ],
+    [
+      "kamen",
+      "kamen",
+      "kommt",
+      "kam"
+    ],
+    [
+      "haben ... genommen",
+      "hast ... genommen",
+      "sind ... genommen",
+      "habt ... genommen"
+    ],
+    [
+      "schlafe",
+      "schläfst",
+      "schläft",
+      "schlafen"
+    ],
+    [
+      "essen",
+      "aßt",
+      "aßen",
+      "gegessen"
+    ],
+    [
+      "hat ... verstand",
+      "hat ... verstanden",
+      "ist ... verstanden",
+      "haben ... verstanden"
+    ],
+    [
+      "blieben",
+      "bliebt",
+      "geblieben",
+      "bleibt"
+    ],
+    [
+      "tust",
+      "tue",
+      "tut",
+      "tun"
+    ],
+    [
+      "habe ... fand",
+      "habe ... gefunden",
+      "bin ... gefunden",
+      "hast ... findet"
+    ],
+    [
+      "wirft",
+      "werfe",
+      "werft",
+      "wirfst"
+    ],
+    [
+      "vergaß",
+      "vergessen",
+      "vergaßt",
+      "vergiss"
+    ],
+    [
+      "haben ... gesungen",
+      "sind ... gesungen",
+      "haben ... gesungen",
+      "habt ... singen"
+    ],
+    [
+      "springt",
+      "springt",
+      "springe",
+      "springst"
+    ],
+    [
+      "haben ... geflogen",
+      "sind ... geflogen",
+      "sind ... fliegen",
+      "haben ... fliegen"
+    ],
+    [
+      "liefen",
+      "lauft",
+      "lieft",
+      "gelaufen"
+    ],
+    [
+      "habe ... schlossen",
+      "habe ... schließt",
+      "habe ... geschlossen",
+      "bin ... geschlossen"
+    ],
+    [
+      "denkt",
+      "dachte",
+      "dachten",
+      "denkst"
+    ],
+    [
+      "singet",
+      "singt",
+      "singst",
+      "singe"
+    ],
+    [
+      "hat ... verloren",
+      "haben ... verloren",
+      "sind ... verloren",
+      "habt ... verlierst"
+    ],
+    [
+      "wascht",
+      "wasche",
+      "wäschst",
+      "wäscht"
+    ],
+    [
+      "trug",
+      "trage",
+      "trugen",
+      "getragen"
+    ],
+    [
+      "sind ... gesehen",
+      "haben ... sah",
+      "haben ... gesehen",
+      "hast ... siehst"
+    ],
+    [
+      "saßen",
+      "sitzen",
+      "saßt",
+      "gesessen"
+    ],
+    [
+      "werde",
+      "werdet",
+      "wird",
+      "wirst"
+    ],
+    [
+      "wollte",
+      "wollen",
+      "wollten",
+      "gewollt"
+    ],
+    [
+      "sind ... gemusst",
+      "haben ... musste",
+      "haben ... gemusst",
+      "habt ... gemusst"
+    ],
+    [
+      "können",
+      "kann",
+      "könnt",
+      "kannst"
+    ],
+    [
+      "sollen",
+      "soll",
+      "solltet",
+      "sollte"
+    ],
+    [
+      "sind ... gedurft",
+      "habe ... durfte",
+      "hat ... darf",
+      "hat ... gedurft"
+    ],
+    [
+      "mag",
+      "mögt",
+      "magst",
+      "möge"
+    ],
+    [
+      "biss",
+      "beißt",
+      "bissen",
+      "gebissen"
+    ],
+    [
+      "sind ... begonnen",
+      "haben ... begann",
+      "haben ... begonnen",
+      "habt ... beginnst"
+    ],
+    [
+      "bieten",
+      "bietet",
+      "bot",
+      "geboten"
+    ],
+    [
+      "habe ... gebunden",
+      "bin ... gebunden",
+      "habe ... band",
+      "hast ... bindest"
+    ],
+    [
+      "brach",
+      "bricht",
+      "brachen",
+      "gebrochen"
+    ],
+    [
+      "haben ... empfahl",
+      "hat ... empfohlen",
+      "bin ... empfohlen",
+      "hast ... empfiehlst"
+    ],
+    [
+      "empfangt",
+      "empfange",
+      "empfängst",
+      "empfängt"
+    ],
+    [
+      "erschrickt",
+      "erschrak",
+      "erschraken",
+      "erschrocken"
+    ],
+    [
+      "sind ... gewonnen",
+      "haben ... gewann",
+      "haben ... gewonnen",
+      "habt ... gewinnst"
+    ],
+    [
+      "haltet",
+      "hält",
+      "halte",
+      "hältst"
+    ],
+    [
+      "hieß",
+      "heißt",
+      "hießen",
+      "geheißen"
+    ],
+    [
+      "bin ... gehoben",
+      "habe ... hob",
+      "habe ... gehoben",
+      "hast ... hebst"
+    ],
+    [
+      "klang",
+      "klangen",
+      "klingt",
+      "klingst"
+    ],
+    [
+      "lasst",
+      "lässt",
+      "lasse",
+      "lassen"
+    ],
+    [
+      "haben ... gelaufen",
+      "sind ... gelaufen",
+      "sind ... laufen",
+      "habt ... laufen"
+    ],
+    [
+      "lügst",
+      "log",
+      "logen",
+      "gelogen"
+    ],
+    [
+      "hast ... gerochen",
+      "bin ... gerochen",
+      "hast ... roch",
+      "hast ... riechst"
+    ],
+    [
+      "ruft",
+      "rufst",
+      "rufe",
+      "rief"
+    ],
+    [
+      "scheint",
+      "schien",
+      "schienen",
+      "geschienen"
+    ],
+    [
+      "sind ... geschnitten",
+      "haben ... schnitt",
+      "haben ... geschnitten",
+      "habt ... schneidest"
+    ],
+    [
+      "schweigst",
+      "schweigt",
+      "schweige",
+      "schwieg"
+    ],
+    [
+      "schwamm",
+      "schwimmt",
+      "schwammen",
+      "geschwommen"
+    ],
+    [
+      "bin ... geschlossen",
+      "habe ... schloss",
+      "habe ... geschlossen",
+      "hast ... schließt"
+    ],
+    [
+      "sank",
+      "sanken",
+      "sanke",
+      "gesunken"
+    ],
+    [
+      "sitze",
+      "sitzt",
+      "saß",
+      "gesessen"
+    ],
+    [
+      "haben ... gestanden",
+      "sind ... gestanden",
+      "haben ... stand",
+      "habt ... steht"
+    ],
+    [
+      "stahlen",
+      "stahl",
+      "stahlt",
+      "gestohlen"
+    ],
+    [
+      "steigt",
+      "steige",
+      "steigst",
+      "stieg"
+    ],
+    [
+      "hat ... gestorben",
+      "ist ... gestorben",
+      "ist ... starb",
+      "haben ... starb"
+    ],
+    [
+      "bin ... gestrichen",
+      "habe ... strich",
+      "habe ... gestrichen",
+      "hast ... streichst"
+    ],
+    [
+      "trafen",
+      "treffen",
+      "traft",
+      "getroffen"
+    ],
+    [
+      "vergleichst",
+      "vergleicht",
+      "vergleiche",
+      "verglich"
+    ],
+    [
+      "verlor",
+      "verliert",
+      "verloren",
+      "verloren"
+    ],
+    [
+      "sind ... versprochen",
+      "haben ... versprach",
+      "haben ... versprochen",
+      "habt ... versprichst"
+    ],
+    [
+      "wachst",
+      "wachse",
+      "wächst",
+      "wuchs"
+    ],
+    [
+      "bin ... gewaschen",
+      "habe ... wusch",
+      "habe ... gewaschen",
+      "hast ... wäschst"
+    ],
+    [
+      "zog",
+      "zogen",
+      "ziehen",
+      "gezogen"
+    ],
+    [
+      "behaltet",
+      "behält",
+      "behalte",
+      "behältst"
+    ],
+    [
+      "sind ... verloren",
+      "habt ... verloren",
+      "haben ... verlor",
+      "habt ... verlierst"
+    ],
+    [
+      "gelingt",
+      "gelangen",
+      "gelang",
+      "gelungen"
+    ],
+    [
+      "treibt",
+      "treibst",
+      "treibe",
+      "treibt"
+    ],
+    [
+      "sind ... gebrannt",
+      "haben ... gebrannt",
+      "haben ... brannte",
+      "habt ... brennst"
+    ],
+    [
+      "schob",
+      "schiebt",
+      "schoben",
+      "schiebst"
+    ],
+    [
+      "vermeide",
+      "vermeidest",
+      "vermeidet",
+      "vermeidet"
+    ],
+    [
+      "bin ... gebissen",
+      "hat ... gebissen",
+      "hat ... biss",
+      "hast ... beißt"
+    ],
+    [
+      "erwartete",
+      "erwarteten",
+      "erwartetest",
+      "erwartest"
+    ],
+    [
+      "schaffe",
+      "schafft",
+      "schaffst",
+      "schuf"
+    ],
+    [
+      "bin ... geworfen",
+      "habe ... warf",
+      "habe ... geworfen",
+      "hast ... wirfst"
+    ],
+    [
+      "lernten",
+      "lernte",
+      "lernte",
+      "lernst"
+    ],
+    [
+      "vergisst",
+      "vergisst",
+      "vergisse",
+      "vergisst"
+    ],
+    [
+      "sind ... hinterlassen",
+      "haben ... hinterließ",
+      "haben ... hinterlassen",
+      "habt ... hinterlässt"
+    ],
+    [
+      "versprach",
+      "verspracht",
+      "versprochen",
+      "versprechen"
+    ],
+    [
+      "verbringst",
+      "verbringt",
+      "verbringe",
+      "verbrachte"
+    ],
+    [
+      "sind ... verdient",
+      "haben ... verdiente",
+      "haben ... verdient",
+      "habt ... verdienst"
+    ],
+    [
+      "verstand",
+      "verstandest",
+      "verstehen",
+      "verstehen"
+    ],
+    [
+      "verlierst",
+      "verliert",
+      "verliere",
+      "verliert"
+    ],
+    [
+      "haben ... getroffen",
+      "haben ... traf",
+      "sind ... getroffen",
+      "habt ... triffst"
+    ],
+    [
+      "schnitt",
+      "schneidet",
+      "schnittet",
+      "schnitten"
+    ],
+    [
+      "habe ... geschlafen",
+      "bin ... geschlafen",
+      "habe ... schlief",
+      "hast ... schläfst"
+    ]
   ],
   "hints": [
     "Ige: helfen (tőhangváltás e->i)\n----------------------\nPräsens: ich helfe, du hilfst, er/sie/es hilft, wir helfen, ihr helft, sie/Sie helfen\nPräteritum: ich half\nPerfekt: h. geholfen",
