@@ -472,12 +472,12 @@ deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
 # deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 8,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-6.json'), 5), quiz.display_deutsch_label(5)))
 
-# DEUTSCH MENUBAR
+# ENGLISH MENUBAR
 choice = IntVar()
-english.add_radiobutton(label = 'English A1 Vocab', variable = choice, value = 1,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 0), quiz.display_deutsch_label(0)))
-english.add_radiobutton(label = 'English Irregular Verbs', variable = choice, value = 2,
-                       command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 1), quiz.display_deutsch_label(1)))
+# english.add_radiobutton(label = 'English A1 Vocab', variable = choice, value = 1,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 0), quiz.display_deutsch_label(0)))
+english.add_radiobutton(label = 'English Irregular Verbs', variable = choice, value = 1,
+                       command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 0), quiz.display_english_label(0)))
 # english.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 3,
 #                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 2), quiz.display_deutsch_label(2)))
 # english.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 4,
@@ -507,6 +507,7 @@ logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsam
 # logo_t12 = PhotoImage(file = resource_path('./logo/logo_python.png')).subsample(7,7)
 logo_t13 = PhotoImage(file = resource_path('./logo/logo_deutschA1.png')).subsample(14,14)
 logo_t14 = PhotoImage(file = resource_path('./logo/logo_bimdeutschland.png')).subsample(5,5)
+logo_t15 = PhotoImage(file = resource_path('./logo/logo_english.png')).subsample(7,7)
 
 
 # customizing the menubar
@@ -532,9 +533,9 @@ deutsch.entryconfig(2, image= logo_t14, compound ='left')
 # deutsch.entryconfig(4, image= logo_t13, compound ='left')
 # deutsch.entryconfig(5, image= logo_t13, compound ='left')
 
-english.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
-english.entryconfig(1, image= logo_t14, compound ='left')
-english.entryconfig(2, image= logo_t14, compound ='left')
+english.entryconfig(0, image= logo_t15, compound ='left') # adding icon and position it
+# english.entryconfig(1, image= logo_t14, compound ='left')
+# english.entryconfig(2, image= logo_t14, compound ='left')
 # deutsch.entryconfig(3, image= logo_t15, compound ='left') # adding icon and position it
 # deutsch.entryconfig(2, image= logo_t13, compound ='left')
 # deutsch.entryconfig(3, image= logo_t13, compound ='left')

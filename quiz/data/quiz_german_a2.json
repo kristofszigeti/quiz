@@ -1,0 +1,5410 @@
+{
+  "question": [
+    "r Termin (e Termine)",
+    "időpont (appointment)",
+    "s Meeting (s Meetings)",
+    "megbeszélés (meeting)",
+    "e Besprechung (e Besprechungen)",
+    "értekezlet (discussion/meeting)",
+    "e Aufgabe (e Aufgaben)",
+    "feladat (task)",
+    "s Ziel (e Ziele)",
+    "cél (goal)",
+    "r Plan (e Pläne)",
+    "terv (plan)",
+    "e Lösung (e Lösungen)",
+    "megoldás (solution)",
+    "s Problem (e Probleme)",
+    "probléma (problem)",
+    "r Fehler (e Fehler)",
+    "hiba (mistake)",
+    "e Verbesserung (e Verbesserungen)",
+    "fejlesztés (improvement)",
+    "e Entscheidung (e Entscheidungen)",
+    "döntés (decision)",
+    "e Möglichkeit (e Möglichkeiten)",
+    "lehetőség (possibility)",
+    "r Vorschlag (e Vorschläge)",
+    "javaslat (suggestion)",
+    "e Meinung (e Meinungen)",
+    "vélemény (opinion)",
+    "e Erfahrung (e Erfahrungen)",
+    "tapasztalat (experience)",
+    "r Unterschied (e Unterschiede)",
+    "különbség (difference)",
+    "e Abteilung (e Abteilungen)",
+    "osztály / részleg (department)",
+    "r Kollege (e Kollegen)",
+    "kolléga (colleague)",
+    "r Chef (e Chefs)",
+    "főnök (boss)",
+    "e Firma (e Firmen)",
+    "cég (company)",
+    "r Vertrag (e Verträge)",
+    "szerződés (contract)",
+    "e Rechnung (e Rechnungen)",
+    "számla (invoice/bill)",
+    "e Quittung (e Quittungen)",
+    "nyugta (receipt)",
+    "r Bericht (e Berichte)",
+    "jelentés (report)",
+    "e Präsentation (e Präsentationen)",
+    "prezentáció (presentation)",
+    "e Datei (e Dateien)",
+    "fájl (file)",
+    "r Ordner (r Ordner)",
+    "mappa (folder)",
+    "r Drucker (r Drucker)",
+    "nyomtató (printer)",
+    "e Tastatur (e Tastaturen)",
+    "billentyűzet (keyboard)",
+    "r Bildschirm (e Bildschirme)",
+    "képernyő (screen)",
+    "r Passwort (e Passwörter)",
+    "jelszó (password)",
+    "r Benutzername (r Benutzernamen)",
+    "felhasználónév (username)",
+    "e Anmeldung (e Anmeldungen)",
+    "bejelentkezés (login/registration)",
+    "e Nachricht (e Nachrichten)",
+    "üzenet (message)",
+    "r Anruf (e Anrufe)",
+    "hívás (call)",
+    "e Nummer (e Nummern)",
+    "szám (number)",
+    "e Pause (e Pausen)",
+    "szünet (break)",
+    "e Schicht (e Schichten)",
+    "műszak (shift)",
+    "e Überstunde (e Überstunden)",
+    "túlóra (overtime)",
+    "r Kalender (r Kalender)",
+    "naptár (calendar)",
+    "e Einladung (e Einladungen)",
+    "meghívó (invitation)",
+    "r Kurs (e Kurse)",
+    "tanfolyam (course)",
+    "e Prüfung (e Prüfungen)",
+    "vizsga (exam)",
+    "e Note (e Noten)",
+    "jegy / osztályzat (grade)",
+    "e Hausaufgabe (e Hausaufgaben)",
+    "házi feladat (homework)",
+    "r Lebenslauf (e Lebensläufe)",
+    "önéletrajz (CV)",
+    "e Bewerbung (e Bewerbungen)",
+    "jelentkezés (application)",
+    "r Feierabend",
+    "munka vége (end of work)",
+    "r Arbeitsplatz (e Arbeitsplätze)",
+    "munkahely (workplace)",
+    "e Arbeitszeit (e Arbeitszeiten)",
+    "munkaidő (working hours)",
+    "e Bescheinigung (e Bescheinigungen)",
+    "igazolás (certificate)",
+    "r Antrag (e Anträge)",
+    "kérelem (application/request)",
+    "s Formular (e Formulare)",
+    "űrlap (form)",
+    "unterschreiben",
+    "aláírni (to sign)",
+    "ausfüllen",
+    "kitölteni (to fill out)",
+    "abschicken",
+    "elküldeni (to send)",
+    "bestätigen",
+    "megerősíteni (to confirm)",
+    "r Fahrplan (e Fahrpläne)",
+    "menetrend (timetable)",
+    "e Verspätung (e Verspätungen)",
+    "késés (delay)",
+    "e Verbindung (e Verbindungen)",
+    "csatlakozás / kapcsolat (connection)",
+    "umsteigen",
+    "átszállni (to transfer)",
+    "einsteigen",
+    "beszállni (to get in)",
+    "aussteigen",
+    "kiszállni (to get out)",
+    "r Bahnsteig (e Bahnsteige)",
+    "peron (platform)",
+    "e Haltestelle (e Haltestellen)",
+    "megálló (stop)",
+    "r Flughafen (e Flughäfen)",
+    "repülőtér (airport)",
+    "r Reisepass (e Reisepässe)",
+    "útlevél (passport)",
+    "e Kontrolle (e Kontrollen)",
+    "ellenőrzés (control)",
+    "e Reservierung (e Reservierungen)",
+    "foglalás (reservation)",
+    "die Rezeption (die Rezeptionen)",
+    "recepció (reception)",
+    "einchecken",
+    "becsekkolni (to check in)",
+    "auschecken",
+    "kijelentkezni (to check out)",
+    "die Unterkunft (die Unterkünfte)",
+    "szállás (accommodation)",
+    "die Sehenswürdigkeit (die Sehenswürdigkeiten)",
+    "látnivaló (sight)",
+    "die Führung (die Führungen)",
+    "idegenvezetés (guided tour)",
+    "der Stadtplan (die Stadtpläne)",
+    "várostérkép (city map)",
+    "die Kreuzung (die Kreuzungen)",
+    "kereszteződés (crossing)",
+    "abbiegen",
+    "befordulni (to turn)",
+    "geradeaus",
+    "egyenesen (straight ahead)",
+    "der Eintritt (die Eintritte)",
+    "belépő (admission ticket)",
+    "die Öffnungszeiten (Plural)",
+    "nyitvatartás (opening hours)",
+    "geöffnet",
+    "nyitva (open)",
+    "geschlossen",
+    "zárva (closed)",
+    "die Information (die Informationen)",
+    "információ (information)",
+    "die Polizei",
+    "rendőrség (police)",
+    "die Notrufnummer (die Notrufnummern)",
+    "segélyhívó szám (emergency number)",
+    "der Notfall (die Notfälle)",
+    "vészhelyzet (emergency)",
+    "die Apotheke (die Apotheken)",
+    "gyógyszertár (pharmacy)",
+    "die Bank (die Banken)",
+    "bank (bank)",
+    "der Geldautomat (die Geldautomaten)",
+    "ATM / bankautomata",
+    "das Wechselgeld",
+    "visszajáró (change)",
+    "die Münze (die Münzen)",
+    "érme (coin)",
+    "der Schein (die Scheine)",
+    "bankjegy (banknote)",
+    "die Adresse (die Adressen)",
+    "cím (address)",
+    "die Postleitzahl (die Postleitzahlen)",
+    "irányítószám (postcode)",
+    "die Straße (die Straßen)",
+    "utca (street)",
+    "die Ecke (die Ecken)",
+    "sarok (corner)",
+    "der Parkplatz (die Parkplätze)",
+    "parkolóhely (parking spot)",
+    "parken",
+    "parkolni (to park)",
+    "die Reiseversicherung (die Reiseversicherungen)",
+    "utasbiztosítás (travel insurance)",
+    "der Kofferraum (die Kofferräume)",
+    "csomagtartó (trunk)",
+    "der Verkehr",
+    "forgalom (traffic)",
+    "der Stau (die Staus)",
+    "dugó (traffic jam)",
+    "das Ticket (die Tickets)",
+    "jegy (ticket)",
+    "die Fahrkarte (die Fahrkarten)",
+    "menetjegy (ticket)",
+    "die Rückfahrt (die Rückfahrten)",
+    "visszaút (return trip)",
+    "die Hinfahrt (die Hinfahrten)",
+    "odautazás (outbound trip)",
+    "der Umweg (die Umwege)",
+    "kitérő (detour)",
+    "die Umgebung (die Umgebungen)",
+    "környék (area)",
+    "die Miete (die Mieten)",
+    "bérleti díj (rent)",
+    "der Vermieter (die Vermieter)",
+    "bérbeadó (landlord)",
+    "der Nachbar (die Nachbarn)",
+    "szomszéd (neighbor)",
+    "der Lärm",
+    "zaj (noise)",
+    "die Reparatur (die Reparaturen)",
+    "javítás (repair)",
+    "reparieren",
+    "megjavítani (to repair)",
+    "kaputt",
+    "elromlott (broken)",
+    "funktionieren",
+    "működni (to function)",
+    "die Rechnung (die Rechnungen)",
+    "számla (bill)",
+    "bezahlen",
+    "fizetni (to pay)",
+    "der Strom",
+    "áram (electricity)",
+    "das Gas",
+    "gáz (gas)",
+    "das Wasser",
+    "víz (water)",
+    "die Heizung (die Heizungen)",
+    "fűtés (heating)",
+    "heizen",
+    "fűteni (to heat)",
+    "die Dusche (die Duschen)",
+    "zuhany (shower)",
+    "der Kühlschrank (die Kühlschränke)",
+    "hűtőszekrény (fridge)",
+    "die Spülmaschine (die Spülmaschinen)",
+    "mosogatógép (dishwasher)",
+    "das Geschirr",
+    "edények (dishes)",
+    "spülen",
+    "mosogatni (to wash dishes)",
+    "die Mülltonne (die Mülltonnen)",
+    "szemetes (trash bin)",
+    "der Müll",
+    "szemét (trash)",
+    "wegwerfen",
+    "kidobni (to throw away)",
+    "die Reinigung (die Reinigungen)",
+    "takarítás (cleaning)",
+    "sauber machen",
+    "kitakarítani (to clean)",
+    "der Schlüssel (die Schlüssel)",
+    "kulcs (key)",
+    "abschließen",
+    "bezárni / lezárni (to lock)",
+    "die Treppe (die Treppen)",
+    "lépcső (stairs)",
+    "der Aufzug (die Aufzüge)",
+    "lift (elevator)",
+    "umziehen",
+    "költözni (to move house)",
+    "die Umzugskiste (die Umzugskisten)",
+    "költözős doboz (moving box)",
+    "das Werkzeug",
+    "szerszámok (tools)",
+    "der Hammer (die Hämmer)",
+    "kalapács (hammer)",
+    "der Schraubenzieher (die Schraubenzieher)",
+    "csavarhúzó (screwdriver)",
+    "die Lampe (die Lampen)",
+    "lámpa (lamp)",
+    "die Glühbirne (die Glühbirnen)",
+    "izzó (light bulb)",
+    "wechseln",
+    "kicserélni (to change/replace)",
+    "die Wohnungssuche",
+    "lakáskeresés (flat search)",
+    "die Anzeige (die Anzeigen)",
+    "hirdetés (ad)",
+    "mieten",
+    "bérelni (to rent)",
+    "vermieten",
+    "kiadni (to rent out)",
+    "die Nachbarschaft",
+    "szomszédság (neighborhood)",
+    "ruhig",
+    "nyugodt / csendes (quiet)",
+    "laut",
+    "hangos (loud)",
+    "die Versicherung (die Versicherungen)",
+    "biztosítás (insurance)",
+    "die Krankenkasse (die Krankenkassen)",
+    "egészségbiztosító (health insurance)",
+    "das Rezept (die Rezepte)",
+    "recept (prescription)",
+    "das Medikament (die Medikamente)",
+    "gyógyszer (medicine)",
+    "die Tablette (die Tabletten)",
+    "tabletta (pill)",
+    "die Salbe (die Salben)",
+    "kenőcs (ointment)",
+    "die Behandlung (die Behandlungen)",
+    "kezelés (treatment)",
+    "der Patient (die Patienten)",
+    "beteg (patient)",
+    "die Praxis (die Praxen)",
+    "rendelő (doctor's office)",
+    "der Notfall (die Notfälle)",
+    "vészhelyzet (emergency)",
+    "die Verletzung (die Verletzungen)",
+    "sérülés (injury)",
+    "die Wunde (die Wunden)",
+    "seb (wound)",
+    "das Pflaster (die Pflaster)",
+    "tapasz (bandage/plaster)",
+    "der Verband (die Verbände)",
+    "kötés (bandage)",
+    "die Allergie (die Allergien)",
+    "allergia (allergy)",
+    "die Grippe",
+    "influenza (flu)",
+    "die Erkältung (die Erkältungen)",
+    "megfázás (cold)",
+    "der Schnupfen",
+    "nátha (runny nose)",
+    "der Husten",
+    "köhögés (cough)",
+    "das Fieber",
+    "láz (fever)",
+    "die Temperatur",
+    "hőmérséklet (temperature)",
+    "messen",
+    "mérni (to measure)",
+    "die Schmerzen (Plural)",
+    "fájdalom (pain)",
+    "weh tun",
+    "fájni (to hurt)",
+    "sich verletzen",
+    "megsérülni (to injure oneself)",
+    "sich ausruhen",
+    "pihenni (to rest)",
+    "die Sprechstunde (die Sprechstunden)",
+    "rendelési idő (office hours)",
+    "e Überweisung (e Überweisungen)",
+    "beutaló (referral)",
+    "der Spezialist (die Spezialisten)",
+    "szakorvos (specialist)",
+    "die Untersuchung (die Untersuchungen)",
+    "vizsgálat (examination)",
+    "untersuchen",
+    "megvizsgálni (to examine)",
+    "impfen",
+    "beoltani (to vaccinate)",
+    "die Impfung (die Impfungen)",
+    "oltás (vaccination)",
+    "die Gesundheit",
+    "egészség (health)",
+    "gesund",
+    "egészséges (healthy)",
+    "krank",
+    "beteg (ill)",
+    "die Diät (die Diäten)",
+    "diéta (diet)",
+    "vegetarisch",
+    "vegetáriánus (vegetarian)",
+    "der Stress",
+    "stressz (stress)",
+    "das Angebot (die Angebote)",
+    "akció (offer)",
+    "der Rabatt (die Rabatte)",
+    "kedvezmény (discount)",
+    "günstig",
+    "kedvező (good value)",
+    "teuer",
+    "drágа (expensive)",
+    "die Größe (die Größen)",
+    "méret (size)",
+    "passen",
+    "passzolni / jó a méret (to fit)",
+    "umtauschen",
+    "kicserélni (to exchange)",
+    "zurückgeben",
+    "visszavinni (to return)",
+    "die Garantie (die Garantien)",
+    "garancia (warranty)",
+    "die Werbung",
+    "reklám (advertising)",
+    "die Bestellung (die Bestellungen)",
+    "rendelés (order)",
+    "bestellen",
+    "rendelni (to order)",
+    "liefern",
+    "szállítani (to deliver)",
+    "die Lieferung (die Lieferungen)",
+    "szállítás (delivery)",
+    "das Paket (die Pakete)",
+    "csomag (package)",
+    "der Verkäufer (die Verkäufer)",
+    "eladó (salesperson)",
+    "die Kundin (die Kundinnen)",
+    "vevő (female customer)",
+    "der Kunde (die Kunden)",
+    "vevő (customer)",
+    "bar bezahlen",
+    "készpénzzel fizetni (pay cash)",
+    "mit Karte bezahlen",
+    "kártyával fizetni (pay by card)",
+    "die Kreditkarte (die Kreditkarten)",
+    "hitelkártya (credit card)",
+    "die Speisekarte (die Speisekarten)",
+    "étlap (menu)",
+    "die Vorspeise (die Vorspeisen)",
+    "előétel (starter)",
+    "das Hauptgericht (die Hauptgerichte)",
+    "főétel (main course)",
+    "die Nachspeise (die Nachspeisen)",
+    "desszert (dessert)",
+    "das Getränk (die Getränke)",
+    "ital (drink)",
+    "still",
+    "szénsavmentes (still water)",
+    "sprudelnd",
+    "szénsavas (sparkling)",
+    "die Rechnung, bitte!",
+    "A számlát, kérem! (bill please)",
+    "Trinkgeld",
+    "borravaló (tip)",
+    "reservieren",
+    "lefoglalni (to reserve)",
+    "die Feier (die Feiern)",
+    "ünnepség (celebration)",
+    "das Geschenk (die Geschenke)",
+    "ajándék (gift)",
+    "einladen",
+    "meghívni (to invite)",
+    "mitbringen",
+    "hozni (to bring)",
+    "die Freizeit",
+    "szabadidő (free time)",
+    "sich treffen",
+    "találkozni (to meet)",
+    "spazieren gehen",
+    "sétálni (to go for a walk)",
+    "wandern",
+    "túrázni (to hike)",
+    "der Ausflug (die Ausflüge)",
+    "kirándulás (excursion)",
+    "das Hobby (die Hobbys)",
+    "hobbi (hobby)",
+    "die Einladung (die Einladungen)",
+    "meghívó (invitation)",
+    "pünktlich",
+    "pontos (punctual)",
+    "zu spät",
+    "túl későn (too late)",
+    "früh",
+    "korán (early)",
+    "spät",
+    "későn (late)",
+    "zuerst",
+    "először (first)",
+    "danach",
+    "utána (afterwards)",
+    "plötzlich",
+    "hirtelen (suddenly)",
+    "trotzdem",
+    "mégis (nevertheless)",
+    "deshalb",
+    "ezért (therefore)",
+    "eigentlich",
+    "igazából (actually)",
+    "aufstehen",
+    "felkelni (to get up)",
+    "anrufen",
+    "felhívni (to call)",
+    "zurückrufen",
+    "visszahívni (to call back)",
+    "einkaufen",
+    "bevásárolni (to shop)",
+    "aufmachen",
+    "kinyitni (to open)",
+    "zumachen",
+    "becsukni (to close)",
+    "ausmachen",
+    "kikapcsolni (to switch off)",
+    "anmachen",
+    "bekapcsolni (to switch on)",
+    "mitkommen",
+    "vele jönni (to come along)",
+    "abholen",
+    "elmenni érte (to pick up)",
+    "vorbeikommen",
+    "beugrani (to drop by)",
+    "weitergehen",
+    "továbbmenni (to continue)",
+    "zurückgehen",
+    "visszamenni (to go back)",
+    "sich beeilen",
+    "sietni (to hurry)",
+    "warten",
+    "várni (to wait)",
+    "vergessen",
+    "elfelejteni (to forget)",
+    "sich erinnern",
+    "emlékezni (to remember)",
+    "erklären",
+    "elmagyarázni (to explain)",
+    "verstehen",
+    "megérteni (to understand)",
+    "vereinbaren",
+    "megbeszélni (to arrange)",
+    "ablehnen",
+    "elutasítani (to refuse)",
+    "zustimmen",
+    "egyetérteni (to agree)",
+    "empfehlen",
+    "ajánlani (to recommend)",
+    "brauchen",
+    "szüksége van (to need)",
+    "dauern",
+    "tartani (to last)",
+    "erreichen",
+    "elérni (to reach)",
+    "besuchen",
+    "meglátogatni (to visit)",
+    "überlegen",
+    "átgondolni (to think about)",
+    "ausprobieren",
+    "kipróbálni (to try out)",
+    "sich entscheiden",
+    "dönteni (to decide)",
+    "sich anmelden",
+    "jelentkezni (to register)",
+    "sich abmelden",
+    "kijelentkezni (to log out/unregister)",
+    "sich treffen",
+    "találkozni (to meet)",
+    "sich fühlen",
+    "érezni magát (to feel)",
+    "glücklich",
+    "boldog (happy)",
+    "traurig",
+    "szomorú (sad)",
+    "wütend",
+    "mérges (angry)",
+    "müde",
+    "fáradt (tired)",
+    "nervös",
+    "ideges (nervous)",
+    "zufrieden",
+    "elégedett (satisfied)",
+    "unzufrieden",
+    "elégedetlen (unsatisfied)",
+    "freundlich",
+    "barátságos (friendly)",
+    "unfreundlich",
+    "barátságtalan (unfriendly)",
+    "höflich",
+    "udvarias (polite)",
+    "unhöflich",
+    "udvariatlan (impolite)",
+    "bequem",
+    "kényelmes (comfortable)",
+    "unbequem",
+    "kényelmetlen (uncomfortable)",
+    "nötig",
+    "szükséges (necessary)",
+    "möglich",
+    "lehetséges (possible)",
+    "unmöglich",
+    "lehetetlen (impossible)",
+    "verschieden",
+    "különböző (different)",
+    "ähnlich",
+    "hasonló (similar)",
+    "gemeinsam",
+    "közös (together/shared)",
+    "allein",
+    "egyedül (alone)",
+    "regelmäßig",
+    "rendszeresen (regularly)",
+    "selten",
+    "ritkán (rarely)"
+  ],
+  "answer": [
+    1,
+    4,
+    2,
+    4,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    4,
+    4,
+    4,
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    2,
+    4,
+    4,
+    2,
+    3,
+    2,
+    2,
+    1,
+    4,
+    2,
+    4,
+    2,
+    3,
+    4,
+    1,
+    4,
+    1,
+    1,
+    3,
+    2,
+    1,
+    4,
+    2,
+    1,
+    1,
+    1,
+    3,
+    1,
+    3,
+    1,
+    4,
+    2,
+    1,
+    1,
+    3,
+    3,
+    4,
+    1,
+    1,
+    2,
+    2,
+    4,
+    1,
+    3,
+    1,
+    2,
+    4,
+    4,
+    4,
+    4,
+    2,
+    1,
+    4,
+    1,
+    2,
+    2,
+    2,
+    4,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    2,
+    4,
+    4,
+    2,
+    4,
+    3,
+    4,
+    2,
+    1,
+    4,
+    1,
+    2,
+    4,
+    3,
+    4,
+    1,
+    4,
+    3,
+    2,
+    4,
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    3,
+    1,
+    1,
+    2,
+    3,
+    3,
+    1,
+    2,
+    1,
+    2,
+    4,
+    4,
+    3,
+    1,
+    4,
+    3,
+    3,
+    1,
+    3,
+    1,
+    4,
+    2,
+    3,
+    4,
+    4,
+    3,
+    2,
+    2,
+    3,
+    3,
+    3,
+    1,
+    4,
+    2,
+    3,
+    2,
+    3,
+    4,
+    4,
+    4,
+    4,
+    1,
+    2,
+    4,
+    4,
+    2,
+    2,
+    3,
+    1,
+    1,
+    4,
+    4,
+    2,
+    2,
+    3,
+    3,
+    2,
+    2,
+    1,
+    2,
+    2,
+    3,
+    4,
+    1,
+    1,
+    2,
+    3,
+    4,
+    4,
+    4,
+    4,
+    1,
+    1,
+    4,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2,
+    4,
+    4,
+    2,
+    2,
+    2,
+    4,
+    4,
+    1,
+    2,
+    1,
+    4,
+    2,
+    1,
+    3,
+    3,
+    2,
+    2,
+    1,
+    3,
+    2,
+    2,
+    3,
+    3,
+    2,
+    1,
+    2,
+    4,
+    4,
+    4,
+    2,
+    1,
+    1,
+    1,
+    2,
+    4,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2,
+    1,
+    3,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    4,
+    2,
+    1,
+    4,
+    1,
+    3,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    1,
+    1,
+    3,
+    4,
+    3,
+    4,
+    3,
+    4,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    4,
+    1,
+    2,
+    3,
+    1,
+    1,
+    2,
+    4,
+    1,
+    3,
+    2,
+    2,
+    4,
+    3,
+    3,
+    3,
+    1,
+    4,
+    1,
+    1,
+    1,
+    3,
+    4,
+    4,
+    3,
+    2,
+    1,
+    2,
+    1,
+    3,
+    2,
+    3,
+    1,
+    4,
+    3,
+    3,
+    1,
+    1,
+    3,
+    4,
+    4,
+    2,
+    3,
+    3,
+    4,
+    1,
+    2,
+    2,
+    3,
+    4,
+    4,
+    4,
+    3,
+    1,
+    1,
+    4,
+    2,
+    4,
+    2,
+    3,
+    3,
+    4,
+    3,
+    4,
+    4,
+    3,
+    4,
+    2,
+    1,
+    3,
+    3,
+    1,
+    3,
+    4,
+    1,
+    4,
+    1,
+    1,
+    1,
+    4,
+    3,
+    1,
+    4,
+    1,
+    3,
+    4,
+    4,
+    2,
+    3,
+    4,
+    4,
+    1,
+    3,
+    3,
+    2,
+    4,
+    3,
+    3,
+    4,
+    2,
+    1,
+    3,
+    1,
+    3,
+    3,
+    2,
+    3,
+    4,
+    4,
+    1,
+    3,
+    1,
+    1,
+    3,
+    1,
+    4,
+    2,
+    4,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    4,
+    2,
+    4,
+    3,
+    4,
+    2,
+    1,
+    3,
+    4,
+    1,
+    3,
+    3,
+    3,
+    2,
+    4,
+    2,
+    3,
+    4,
+    4,
+    3,
+    1,
+    4,
+    3,
+    4,
+    1,
+    4,
+    2,
+    2,
+    4,
+    1,
+    3,
+    4,
+    1,
+    4,
+    2,
+    1,
+    3,
+    2,
+    4,
+    4,
+    3,
+    4,
+    2,
+    4,
+    1,
+    2,
+    4,
+    1,
+    3,
+    1,
+    4,
+    4,
+    2,
+    2,
+    4,
+    4,
+    4,
+    2,
+    3,
+    2,
+    1,
+    3,
+    4,
+    4,
+    1,
+    1,
+    4,
+    3,
+    4,
+    1,
+    2,
+    1,
+    3,
+    3,
+    3,
+    1,
+    3,
+    1,
+    3,
+    1,
+    4,
+    2,
+    1,
+    4,
+    1,
+    2,
+    3,
+    4,
+    3,
+    4,
+    1,
+    1,
+    2,
+    3,
+    2,
+    2,
+    3,
+    2,
+    4,
+    1,
+    4,
+    3,
+    4,
+    4,
+    2,
+    4,
+    3,
+    2,
+    3,
+    1,
+    1,
+    3,
+    1,
+    3,
+    3,
+    1,
+    4,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1,
+    3,
+    2,
+    4,
+    2,
+    2,
+    2,
+    2,
+    1,
+    3,
+    1,
+    4,
+    3,
+    1,
+    1,
+    2,
+    3,
+    1,
+    2,
+    3,
+    4,
+    4,
+    1,
+    4,
+    4,
+    1,
+    3,
+    2,
+    4,
+    1,
+    2,
+    2,
+    1,
+    3,
+    2,
+    3,
+    1,
+    1,
+    2,
+    2,
+    3,
+    4,
+    2,
+    1,
+    2,
+    2,
+    4,
+    4,
+    4,
+    2,
+    1,
+    4,
+    1,
+    4,
+    3,
+    2,
+    3,
+    2,
+    2,
+    4,
+    4,
+    3,
+    3,
+    4,
+    3,
+    2,
+    1,
+    1,
+    1,
+    4,
+    1,
+    3,
+    4,
+    4,
+    2,
+    2,
+    2,
+    4,
+    4,
+    2,
+    3
+  ],
+  "choices": [
+    [
+      "időpont (appointment)",
+      "kalapács (hammer)",
+      "késés (delay)",
+      "vélemény (opinion)"
+    ],
+    [
+      "wütend",
+      "r Lebenslauf (e Lebensläufe)",
+      "unterschreiben",
+      "r Termin (e Termine)"
+    ],
+    [
+      "zaj (noise)",
+      "megbeszélés (meeting)",
+      "gáz (gas)",
+      "munkahely (workplace)"
+    ],
+    [
+      "wütend",
+      "das Hauptgericht (die Hauptgerichte)",
+      "die Reparatur (die Reparaturen)",
+      "s Meeting (s Meetings)"
+    ],
+    [
+      "értekezlet (discussion/meeting)",
+      "cél (goal)",
+      "zárva (closed)",
+      "ital (drink)"
+    ],
+    [
+      "unterschreiben",
+      "e Besprechung (e Besprechungen)",
+      "die Temperatur",
+      "der Nachbar (die Nachbarn)"
+    ],
+    [
+      "feladat (task)",
+      "megsérülni (to injure oneself)",
+      "lépcső (stairs)",
+      "beoltani (to vaccinate)"
+    ],
+    [
+      "e Aufgabe (e Aufgaben)",
+      "e Haltestelle (e Haltestellen)",
+      "günstig",
+      "sich abmelden"
+    ],
+    [
+      "közös (together/shared)",
+      "utasbiztosítás (travel insurance)",
+      "cél (goal)",
+      "egészség (health)"
+    ],
+    [
+      "s Ziel (e Ziele)",
+      "das Gas",
+      "r Kurs (e Kurse)",
+      "vermieten"
+    ],
+    [
+      "terv (plan)",
+      "meghívó (invitation)",
+      "egészséges (healthy)",
+      "rendőrség (police)"
+    ],
+    [
+      "die Bank (die Banken)",
+      "r Plan (e Pläne)",
+      "der Aufzug (die Aufzüge)",
+      "e Schicht (e Schichten)"
+    ],
+    [
+      "drágа (expensive)",
+      "megoldás (solution)",
+      "barátságtalan (unfriendly)",
+      "költözős doboz (moving box)"
+    ],
+    [
+      "r Bildschirm (e Bildschirme)",
+      "e Lösung (e Lösungen)",
+      "bezahlen",
+      "r Kollege (e Kollegen)"
+    ],
+    [
+      "probléma (problem)",
+      "bérleti díj (rent)",
+      "hívás (call)",
+      "szükséges (necessary)"
+    ],
+    [
+      "zu spät",
+      "s Problem (e Probleme)",
+      "bestellen",
+      "die Führung (die Führungen)"
+    ],
+    [
+      "udvariatlan (impolite)",
+      "találkozni (to meet)",
+      "bezárni / lezárni (to lock)",
+      "hiba (mistake)"
+    ],
+    [
+      "die Reparatur (die Reparaturen)",
+      "auschecken",
+      "die Gesundheit",
+      "r Fehler (e Fehler)"
+    ],
+    [
+      "belépő (admission ticket)",
+      "menetrend (timetable)",
+      "zárva (closed)",
+      "fejlesztés (improvement)"
+    ],
+    [
+      "die Größe (die Größen)",
+      "umtauschen",
+      "e Verbesserung (e Verbesserungen)",
+      "plötzlich"
+    ],
+    [
+      "döntés (decision)",
+      "kijelentkezni (to log out/unregister)",
+      "csatlakozás / kapcsolat (connection)",
+      "lift (elevator)"
+    ],
+    [
+      "e Entscheidung (e Entscheidungen)",
+      "geöffnet",
+      "die Einladung (die Einladungen)",
+      "die Feier (die Feiern)"
+    ],
+    [
+      "lehetőség (possibility)",
+      "bankjegy (banknote)",
+      "emlékezni (to remember)",
+      "sietni (to hurry)"
+    ],
+    [
+      "der Stau (die Staus)",
+      "e Möglichkeit (e Möglichkeiten)",
+      "sich erinnern",
+      "der Eintritt (die Eintritte)"
+    ],
+    [
+      "javaslat (suggestion)",
+      "fejlesztés (improvement)",
+      "bekapcsolni (to switch on)",
+      "kötés (bandage)"
+    ],
+    [
+      "die Dusche (die Duschen)",
+      "r Passwort (e Passwörter)",
+      "r Vorschlag (e Vorschläge)",
+      "heizen"
+    ],
+    [
+      "szünet (break)",
+      "vélemény (opinion)",
+      "repülőtér (airport)",
+      "dönteni (to decide)"
+    ],
+    [
+      "die Notrufnummer (die Notrufnummern)",
+      "die Treppe (die Treppen)",
+      "nervös",
+      "e Meinung (e Meinungen)"
+    ],
+    [
+      "beteg (patient)",
+      "szállítás (delivery)",
+      "akció (offer)",
+      "tapasztalat (experience)"
+    ],
+    [
+      "funktionieren",
+      "e Erfahrung (e Erfahrungen)",
+      "das Geschirr",
+      "aussteigen"
+    ],
+    [
+      "fizetni (to pay)",
+      "javítás (repair)",
+      "különbség (difference)",
+      "elégedetlen (unsatisfied)"
+    ],
+    [
+      "e Nummer (e Nummern)",
+      "r Unterschied (e Unterschiede)",
+      "bezahlen",
+      "r Kollege (e Kollegen)"
+    ],
+    [
+      "lámpa (lamp)",
+      "osztály / részleg (department)",
+      "bérbeadó (landlord)",
+      "becsukni (to close)"
+    ],
+    [
+      "e Abteilung (e Abteilungen)",
+      "der Kunde (die Kunden)",
+      "der Kühlschrank (die Kühlschränke)",
+      "eigentlich"
+    ],
+    [
+      "ital (drink)",
+      "borravaló (tip)",
+      "vizsgálat (examination)",
+      "kolléga (colleague)"
+    ],
+    [
+      "e Anmeldung (e Anmeldungen)",
+      "r Kollege (e Kollegen)",
+      "r Antrag (e Anträge)",
+      "der Verkäufer (die Verkäufer)"
+    ],
+    [
+      "kijelentkezni (to log out/unregister)",
+      "parkolni (to park)",
+      "utasbiztosítás (travel insurance)",
+      "főnök (boss)"
+    ],
+    [
+      "spät",
+      "r Chef (e Chefs)",
+      "die Postleitzahl (die Postleitzahlen)",
+      "die Lampe (die Lampen)"
+    ],
+    [
+      "kérelem (application/request)",
+      "mappa (folder)",
+      "cég (company)",
+      "ideges (nervous)"
+    ],
+    [
+      "zumachen",
+      "der Kunde (die Kunden)",
+      "der Notfall (die Notfälle)",
+      "e Firma (e Firmen)"
+    ],
+    [
+      "szerződés (contract)",
+      "drágа (expensive)",
+      "segélyhívó szám (emergency number)",
+      "felhasználónév (username)"
+    ],
+    [
+      "die Anzeige (die Anzeigen)",
+      "das Getränk (die Getränke)",
+      "die Einladung (die Einladungen)",
+      "r Vertrag (e Verträge)"
+    ],
+    [
+      "számla (invoice/bill)",
+      "zaj (noise)",
+      "jelszó (password)",
+      "hangos (loud)"
+    ],
+    [
+      "e Rechnung (e Rechnungen)",
+      "anrufen",
+      "r Passwort (e Passwörter)",
+      "r Ordner (r Ordner)"
+    ],
+    [
+      "szám (number)",
+      "sarok (corner)",
+      "nyugta (receipt)",
+      "szünet (break)"
+    ],
+    [
+      "das Geschirr",
+      "e Quittung (e Quittungen)",
+      "allein",
+      "möglich"
+    ],
+    [
+      "jelentés (report)",
+      "főétel (main course)",
+      "ritkán (rarely)",
+      "kényelmetlen (uncomfortable)"
+    ],
+    [
+      "die Treppe (die Treppen)",
+      "heizen",
+      "die Praxis (die Praxen)",
+      "r Bericht (e Berichte)"
+    ],
+    [
+      "túlóra (overtime)",
+      "prezentáció (presentation)",
+      "vészhelyzet (emergency)",
+      "túl későn (too late)"
+    ],
+    [
+      "e Präsentation (e Präsentationen)",
+      "sich treffen",
+      "e Überstunde (e Überstunden)",
+      "der Vermieter (die Vermieter)"
+    ],
+    [
+      "fájl (file)",
+      "mosogatógép (dishwasher)",
+      "szünet (break)",
+      "vegetáriánus (vegetarian)"
+    ],
+    [
+      "e Datei (e Dateien)",
+      "das Rezept (die Rezepte)",
+      "überlegen",
+      "traurig"
+    ],
+    [
+      "recepció (reception)",
+      "lépcső (stairs)",
+      "mappa (folder)",
+      "kitölteni (to fill out)"
+    ],
+    [
+      "r Ordner (r Ordner)",
+      "wechseln",
+      "das Werkzeug",
+      "die Umgebung (die Umgebungen)"
+    ],
+    [
+      "szemetes (trash bin)",
+      "bekapcsolni (to switch on)",
+      "nyomtató (printer)",
+      "elfelejteni (to forget)"
+    ],
+    [
+      "r Drucker (r Drucker)",
+      "e Quittung (e Quittungen)",
+      "der Schraubenzieher (die Schraubenzieher)",
+      "s Meeting (s Meetings)"
+    ],
+    [
+      "szabadidő (free time)",
+      "információ (information)",
+      "elégedett (satisfied)",
+      "billentyűzet (keyboard)"
+    ],
+    [
+      "abbiegen",
+      "e Tastatur (e Tastaturen)",
+      "r Kalender (r Kalender)",
+      "e Verspätung (e Verspätungen)"
+    ],
+    [
+      "képernyő (screen)",
+      "borravaló (tip)",
+      "útlevél (passport)",
+      "számla (invoice/bill)"
+    ],
+    [
+      "r Bildschirm (e Bildschirme)",
+      "spülen",
+      "die Umgebung (die Umgebungen)",
+      "impfen"
+    ],
+    [
+      "rendőrség (police)",
+      "nyitvatartás (opening hours)",
+      "jelszó (password)",
+      "fűtés (heating)"
+    ],
+    [
+      "mit Karte bezahlen",
+      "der Schein (die Scheine)",
+      "r Passwort (e Passwörter)",
+      "der Husten"
+    ],
+    [
+      "méret (size)",
+      "cég (company)",
+      "megerősíteni (to confirm)",
+      "felhasználónév (username)"
+    ],
+    [
+      "r Benutzername (r Benutzernamen)",
+      "die Tablette (die Tabletten)",
+      "früh",
+      "e Überweisung (e Überweisungen)"
+    ],
+    [
+      "bejelentkezés (login/registration)",
+      "szállítás (delivery)",
+      "utasbiztosítás (travel insurance)",
+      "megfázás (cold)"
+    ],
+    [
+      "erklären",
+      "e Anmeldung (e Anmeldungen)",
+      "e Überweisung (e Überweisungen)",
+      "die Lieferung (die Lieferungen)"
+    ],
+    [
+      "bankjegy (banknote)",
+      "üzenet (message)",
+      "kulcs (key)",
+      "rendszeresen (regularly)"
+    ],
+    [
+      "sich verletzen",
+      "die Feier (die Feiern)",
+      "die Praxis (die Praxen)",
+      "e Nachricht (e Nachrichten)"
+    ],
+    [
+      "hívás (call)",
+      "közös (together/shared)",
+      "kicserélni (to exchange)",
+      "parkolni (to park)"
+    ],
+    [
+      "r Termin (e Termine)",
+      "sich treffen",
+      "r Anruf (e Anrufe)",
+      "brauchen"
+    ],
+    [
+      "szám (number)",
+      "nátha (runny nose)",
+      "rendelő (doctor's office)",
+      "szünet (break)"
+    ],
+    [
+      "sich erinnern",
+      "e Nummer (e Nummern)",
+      "die Behandlung (die Behandlungen)",
+      "bar bezahlen"
+    ],
+    [
+      "elégedetlen (unsatisfied)",
+      "útlevél (passport)",
+      "utasbiztosítás (travel insurance)",
+      "szünet (break)"
+    ],
+    [
+      "möglich",
+      "das Wechselgeld",
+      "das Rezept (die Rezepte)",
+      "e Pause (e Pausen)"
+    ],
+    [
+      "gyógyszer (medicine)",
+      "hirdetés (ad)",
+      "környék (area)",
+      "műszak (shift)"
+    ],
+    [
+      "die Freizeit",
+      "danach",
+      "der Vermieter (die Vermieter)",
+      "e Schicht (e Schichten)"
+    ],
+    [
+      "lakáskeresés (flat search)",
+      "túlóra (overtime)",
+      "házi feladat (homework)",
+      "elutasítani (to refuse)"
+    ],
+    [
+      "e Überstunde (e Überstunden)",
+      "der Stau (die Staus)",
+      "die Behandlung (die Behandlungen)",
+      "funktionieren"
+    ],
+    [
+      "műszak (shift)",
+      "mosogatógép (dishwasher)",
+      "felkelni (to get up)",
+      "naptár (calendar)"
+    ],
+    [
+      "r Kalender (r Kalender)",
+      "die Lieferung (die Lieferungen)",
+      "passen",
+      "vorbeikommen"
+    ],
+    [
+      "elküldeni (to send)",
+      "meghívó (invitation)",
+      "javítás (repair)",
+      "szénsavmentes (still water)"
+    ],
+    [
+      "spülen",
+      "e Einladung (e Einladungen)",
+      "unfreundlich",
+      "e Datei (e Dateien)"
+    ],
+    [
+      "először (first)",
+      "tanfolyam (course)",
+      "kipróbálni (to try out)",
+      "udvarias (polite)"
+    ],
+    [
+      "müde",
+      "geschlossen",
+      "spazieren gehen",
+      "r Kurs (e Kurse)"
+    ],
+    [
+      "csavarhúzó (screwdriver)",
+      "edények (dishes)",
+      "szüksége van (to need)",
+      "vizsga (exam)"
+    ],
+    [
+      "e Prüfung (e Prüfungen)",
+      "mitbringen",
+      "der Hammer (die Hämmer)",
+      "r Kalender (r Kalender)"
+    ],
+    [
+      "seb (wound)",
+      "érezni magát (to feel)",
+      "jegy / osztályzat (grade)",
+      "láz (fever)"
+    ],
+    [
+      "der Eintritt (die Eintritte)",
+      "e Note (e Noten)",
+      "der Strom",
+      "passen"
+    ],
+    [
+      "boldog (happy)",
+      "vevő (customer)",
+      "nátha (runny nose)",
+      "házi feladat (homework)"
+    ],
+    [
+      "e Hausaufgabe (e Hausaufgaben)",
+      "die Nachspeise (die Nachspeisen)",
+      "die Garantie (die Garantien)",
+      "die Hinfahrt (die Hinfahrten)"
+    ],
+    [
+      "felhívni (to call)",
+      "önéletrajz (CV)",
+      "feladat (task)",
+      "szakorvos (specialist)"
+    ],
+    [
+      "die Reparatur (die Reparaturen)",
+      "wütend",
+      "sich treffen",
+      "r Lebenslauf (e Lebensläufe)"
+    ],
+    [
+      "ajándék (gift)",
+      "tapasztalat (experience)",
+      "becsukni (to close)",
+      "jelentkezés (application)"
+    ],
+    [
+      "r Reisepass (e Reisepässe)",
+      "e Bewerbung (e Bewerbungen)",
+      "plötzlich",
+      "die Notrufnummer (die Notrufnummern)"
+    ],
+    [
+      "A számlát, kérem! (bill please)",
+      "becsekkolni (to check in)",
+      "vizsga (exam)",
+      "munka vége (end of work)"
+    ],
+    [
+      "der Schlüssel (die Schlüssel)",
+      "die Grippe",
+      "r Feierabend",
+      "teuer"
+    ],
+    [
+      "lámpa (lamp)",
+      "hőmérséklet (temperature)",
+      "drágа (expensive)",
+      "munkahely (workplace)"
+    ],
+    [
+      "sich fühlen",
+      "r Arbeitsplatz (e Arbeitsplätze)",
+      "e Verbesserung (e Verbesserungen)",
+      "trotzdem"
+    ],
+    [
+      "munkaidő (working hours)",
+      "különbség (difference)",
+      "szám (number)",
+      "szerződés (contract)"
+    ],
+    [
+      "heizen",
+      "der Eintritt (die Eintritte)",
+      "r Flughafen (e Flughäfen)",
+      "e Arbeitszeit (e Arbeitszeiten)"
+    ],
+    [
+      "igazolás (certificate)",
+      "kényelmes (comfortable)",
+      "zaj (noise)",
+      "utána (afterwards)"
+    ],
+    [
+      "die Polizei",
+      "e Bescheinigung (e Bescheinigungen)",
+      "der Patient (die Patienten)",
+      "e Verbindung (e Verbindungen)"
+    ],
+    [
+      "hasonló (similar)",
+      "beteg (patient)",
+      "kedvezmény (discount)",
+      "kérelem (application/request)"
+    ],
+    [
+      "der Kühlschrank (die Kühlschränke)",
+      "e Überstunde (e Überstunden)",
+      "r Antrag (e Anträge)",
+      "unterschreiben"
+    ],
+    [
+      "kényelmetlen (uncomfortable)",
+      "számla (invoice/bill)",
+      "pihenni (to rest)",
+      "űrlap (form)"
+    ],
+    [
+      "s Formular (e Formulare)",
+      "die Schmerzen (Plural)",
+      "sich erinnern",
+      "e Nummer (e Nummern)"
+    ],
+    [
+      "lefoglalni (to reserve)",
+      "elküldeni (to send)",
+      "egészség (health)",
+      "aláírni (to sign)"
+    ],
+    [
+      "die Feier (die Feiern)",
+      "die Münze (die Münzen)",
+      "unterschreiben",
+      "dauern"
+    ],
+    [
+      "ajándék (gift)",
+      "kitölteni (to fill out)",
+      "utána (afterwards)",
+      "költözni (to move house)"
+    ],
+    [
+      "die Lampe (die Lampen)",
+      "der Ausflug (die Ausflüge)",
+      "der Kühlschrank (die Kühlschränke)",
+      "ausfüllen"
+    ],
+    [
+      "elküldeni (to send)",
+      "tapasztalat (experience)",
+      "hőmérséklet (temperature)",
+      "beugrani (to drop by)"
+    ],
+    [
+      "die Miete (die Mieten)",
+      "abschicken",
+      "die Untersuchung (die Untersuchungen)",
+      "sauber machen"
+    ],
+    [
+      "megerősíteni (to confirm)",
+      "egyetérteni (to agree)",
+      "barátságos (friendly)",
+      "terv (plan)"
+    ],
+    [
+      "der Kunde (die Kunden)",
+      "bestätigen",
+      "freundlich",
+      "anmachen"
+    ],
+    [
+      "hiba (mistake)",
+      "menetrend (timetable)",
+      "túrázni (to hike)",
+      "vele jönni (to come along)"
+    ],
+    [
+      "die Kundin (die Kundinnen)",
+      "r Fahrplan (e Fahrpläne)",
+      "der Kühlschrank (die Kühlschränke)",
+      "die Tablette (die Tabletten)"
+    ],
+    [
+      "szénsavmentes (still water)",
+      "ideges (nervous)",
+      "késés (delay)",
+      "nátha (runny nose)"
+    ],
+    [
+      "e Verspätung (e Verspätungen)",
+      "die Mülltonne (die Mülltonnen)",
+      "die Umzugskiste (die Umzugskisten)",
+      "die Tablette (die Tabletten)"
+    ],
+    [
+      "csatlakozás / kapcsolat (connection)",
+      "kijelentkezni (to log out/unregister)",
+      "vészhelyzet (emergency)",
+      "kiszállni (to get out)"
+    ],
+    [
+      "der Schraubenzieher (die Schraubenzieher)",
+      "e Verbindung (e Verbindungen)",
+      "aufmachen",
+      "erreichen"
+    ],
+    [
+      "oltás (vaccination)",
+      "hangos (loud)",
+      "átszállni (to transfer)",
+      "számla (bill)"
+    ],
+    [
+      "der Hammer (die Hämmer)",
+      "r Flughafen (e Flughäfen)",
+      "umsteigen",
+      "sich anmelden"
+    ],
+    [
+      "beszállni (to get in)",
+      "vele jönni (to come along)",
+      "űrlap (form)",
+      "repülőtér (airport)"
+    ],
+    [
+      "zurückrufen",
+      "einsteigen",
+      "trotzdem",
+      "mitbringen"
+    ],
+    [
+      "kiszállni (to get out)",
+      "késés (delay)",
+      "felhívni (to call)",
+      "szemét (trash)"
+    ],
+    [
+      "r Drucker (r Drucker)",
+      "aussteigen",
+      "e Schicht (e Schichten)",
+      "gemeinsam"
+    ],
+    [
+      "mosogatni (to wash dishes)",
+      "jegy / osztályzat (grade)",
+      "átszállni (to transfer)",
+      "peron (platform)"
+    ],
+    [
+      "dauern",
+      "der Ausflug (die Ausflüge)",
+      "teuer",
+      "r Bahnsteig (e Bahnsteige)"
+    ],
+    [
+      "lehetséges (possible)",
+      "jelszó (password)",
+      "megálló (stop)",
+      "tabletta (pill)"
+    ],
+    [
+      "e Haltestelle (e Haltestellen)",
+      "geöffnet",
+      "die Treppe (die Treppen)",
+      "r Kurs (e Kurse)"
+    ],
+    [
+      "nyitva (open)",
+      "megbeszélés (meeting)",
+      "készpénzzel fizetni (pay cash)",
+      "repülőtér (airport)"
+    ],
+    [
+      "die Nachbarschaft",
+      "e Abteilung (e Abteilungen)",
+      "r Flughafen (e Flughäfen)",
+      "der Strom"
+    ],
+    [
+      "szünet (break)",
+      "meghívó (invitation)",
+      "útlevél (passport)",
+      "gáz (gas)"
+    ],
+    [
+      "r Reisepass (e Reisepässe)",
+      "still",
+      "traurig",
+      "e Verspätung (e Verspätungen)"
+    ],
+    [
+      "szünet (break)",
+      "látnivaló (sight)",
+      "ellenőrzés (control)",
+      "lift (elevator)"
+    ],
+    [
+      "e Kontrolle (e Kontrollen)",
+      "einladen",
+      "mieten",
+      "möglich"
+    ],
+    [
+      "sietni (to hurry)",
+      "eladó (salesperson)",
+      "szerszámok (tools)",
+      "foglalás (reservation)"
+    ],
+    [
+      "reservieren",
+      "e Reservierung (e Reservierungen)",
+      "r Vertrag (e Verträge)",
+      "der Verband (die Verbände)"
+    ],
+    [
+      "hasonló (similar)",
+      "fizetni (to pay)",
+      "recepció (reception)",
+      "döntés (decision)"
+    ],
+    [
+      "empfehlen",
+      "das Wechselgeld",
+      "trotzdem",
+      "die Rezeption (die Rezeptionen)"
+    ],
+    [
+      "ajándék (gift)",
+      "jelentkezés (application)",
+      "vele jönni (to come along)",
+      "becsekkolni (to check in)"
+    ],
+    [
+      "der Husten",
+      "unterschreiben",
+      "einchecken",
+      "das Pflaster (die Pflaster)"
+    ],
+    [
+      "csomag (package)",
+      "kijelentkezni (to check out)",
+      "bérelni (to rent)",
+      "beugrani (to drop by)"
+    ],
+    [
+      "der Verband (die Verbände)",
+      "auschecken",
+      "der Müll",
+      "der Notfall (die Notfälle)"
+    ],
+    [
+      "hitelkártya (credit card)",
+      "későn (late)",
+      "szállás (accommodation)",
+      "boldog (happy)"
+    ],
+    [
+      "r Ordner (r Ordner)",
+      "zurückgehen",
+      "die Unterkunft (die Unterkünfte)",
+      "die Freizeit"
+    ],
+    [
+      "meghívni (to invite)",
+      "becsukni (to close)",
+      "látnivaló (sight)",
+      "bérelni (to rent)"
+    ],
+    [
+      "die Sehenswürdigkeit (die Sehenswürdigkeiten)",
+      "der Patient (die Patienten)",
+      "zufrieden",
+      "geschlossen"
+    ],
+    [
+      "működni (to function)",
+      "késés (delay)",
+      "munka vége (end of work)",
+      "idegenvezetés (guided tour)"
+    ],
+    [
+      "zurückgehen",
+      "die Führung (die Führungen)",
+      "die Nachbarschaft",
+      "erklären"
+    ],
+    [
+      "pontos (punctual)",
+      "ezért (therefore)",
+      "várostérkép (city map)",
+      "hűtőszekrény (fridge)"
+    ],
+    [
+      "erklären",
+      "der Stadtplan (die Stadtpläne)",
+      "die Rezeption (die Rezeptionen)",
+      "e Nummer (e Nummern)"
+    ],
+    [
+      "emlékezni (to remember)",
+      "lift (elevator)",
+      "kereszteződés (crossing)",
+      "megbeszélés (meeting)"
+    ],
+    [
+      "allein",
+      "anmachen",
+      "abbiegen",
+      "die Kreuzung (die Kreuzungen)"
+    ],
+    [
+      "megsérülni (to injure oneself)",
+      "elégedett (satisfied)",
+      "köhögés (cough)",
+      "befordulni (to turn)"
+    ],
+    [
+      "unmöglich",
+      "heizen",
+      "der Parkplatz (die Parkplätze)",
+      "abbiegen"
+    ],
+    [
+      "igazából (actually)",
+      "nyugta (receipt)",
+      "sérülés (injury)",
+      "egyenesen (straight ahead)"
+    ],
+    [
+      "geradeaus",
+      "r Chef (e Chefs)",
+      "vorbeikommen",
+      "e Haltestelle (e Haltestellen)"
+    ],
+    [
+      "meglátogatni (to visit)",
+      "belépő (admission ticket)",
+      "pontos (punctual)",
+      "kérelem (application/request)"
+    ],
+    [
+      "bar bezahlen",
+      "e Überstunde (e Überstunden)",
+      "die Öffnungszeiten (Plural)",
+      "der Eintritt (die Eintritte)"
+    ],
+    [
+      "szállítani (to deliver)",
+      "megfázás (cold)",
+      "tanfolyam (course)",
+      "nyitvatartás (opening hours)"
+    ],
+    [
+      "glücklich",
+      "die Öffnungszeiten (Plural)",
+      "e Nummer (e Nummern)",
+      "r Chef (e Chefs)"
+    ],
+    [
+      "jelentkezés (application)",
+      "nyitva (open)",
+      "ünnepség (celebration)",
+      "számla (bill)"
+    ],
+    [
+      "die Krankenkasse (die Krankenkassen)",
+      "der Notfall (die Notfälle)",
+      "geöffnet",
+      "sich treffen"
+    ],
+    [
+      "zárva (closed)",
+      "billentyűzet (keyboard)",
+      "nyugodt / csendes (quiet)",
+      "beoltani (to vaccinate)"
+    ],
+    [
+      "geschlossen",
+      "mit Karte bezahlen",
+      "die Spülmaschine (die Spülmaschinen)",
+      "ausprobieren"
+    ],
+    [
+      "méret (size)",
+      "meghívó (invitation)",
+      "zuhany (shower)",
+      "információ (information)"
+    ],
+    [
+      "wegwerfen",
+      "der Strom",
+      "spät",
+      "die Information (die Informationen)"
+    ],
+    [
+      "mérges (angry)",
+      "rendőrség (police)",
+      "utána (afterwards)",
+      "bérelni (to rent)"
+    ],
+    [
+      "sich verletzen",
+      "die Polizei",
+      "die Krankenkasse (die Krankenkassen)",
+      "still"
+    ],
+    [
+      "kinyitni (to open)",
+      "passzolni / jó a méret (to fit)",
+      "segélyhívó szám (emergency number)",
+      "dugó (traffic jam)"
+    ],
+    [
+      "unmöglich",
+      "impfen",
+      "die Notrufnummer (die Notrufnummern)",
+      "ähnlich"
+    ],
+    [
+      "szállítani (to deliver)",
+      "vészhelyzet (emergency)",
+      "kalapács (hammer)",
+      "lehetőség (possibility)"
+    ],
+    [
+      "die Anzeige (die Anzeigen)",
+      "der Notfall (die Notfälle)",
+      "zurückgehen",
+      "bezahlen"
+    ],
+    [
+      "gyógyszertár (pharmacy)",
+      "munkaidő (working hours)",
+      "becsekkolni (to check in)",
+      "szemetes (trash bin)"
+    ],
+    [
+      "gesund",
+      "die Apotheke (die Apotheken)",
+      "r Kollege (e Kollegen)",
+      "allein"
+    ],
+    [
+      "visszajáró (change)",
+      "bank (bank)",
+      "influenza (flu)",
+      "étlap (menu)"
+    ],
+    [
+      "ausprobieren",
+      "das Werkzeug",
+      "die Bank (die Banken)",
+      "sich beeilen"
+    ],
+    [
+      "mérni (to measure)",
+      "késés (delay)",
+      "hangos (loud)",
+      "ATM / bankautomata"
+    ],
+    [
+      "der Geldautomat (die Geldautomaten)",
+      "liefern",
+      "funktionieren",
+      "unfreundlich"
+    ],
+    [
+      "visszajáró (change)",
+      "kijelentkezni (to log out/unregister)",
+      "lépcső (stairs)",
+      "probléma (problem)"
+    ],
+    [
+      "die Größe (die Größen)",
+      "das Wechselgeld",
+      "der Stress",
+      "abschließen"
+    ],
+    [
+      "javaslat (suggestion)",
+      "ezért (therefore)",
+      "érme (coin)",
+      "udvariatlan (impolite)"
+    ],
+    [
+      "zuerst",
+      "das Rezept (die Rezepte)",
+      "e Anmeldung (e Anmeldungen)",
+      "die Münze (die Münzen)"
+    ],
+    [
+      "cég (company)",
+      "gyógyszer (medicine)",
+      "jelentés (report)",
+      "bankjegy (banknote)"
+    ],
+    [
+      "das Wasser",
+      "die Rezeption (die Rezeptionen)",
+      "sich treffen",
+      "der Schein (die Scheine)"
+    ],
+    [
+      "főétel (main course)",
+      "érezni magát (to feel)",
+      "belépő (admission ticket)",
+      "cím (address)"
+    ],
+    [
+      "die Adresse (die Adressen)",
+      "der Kunde (die Kunden)",
+      "die Glühbirne (die Glühbirnen)",
+      "anmachen"
+    ],
+    [
+      "irányítószám (postcode)",
+      "találkozni (to meet)",
+      "zaj (noise)",
+      "víz (water)"
+    ],
+    [
+      "r Benutzername (r Benutzernamen)",
+      "traurig",
+      "impfen",
+      "die Postleitzahl (die Postleitzahlen)"
+    ],
+    [
+      "utca (street)",
+      "kiszállni (to get out)",
+      "jelentkezés (application)",
+      "meghívó (invitation)"
+    ],
+    [
+      "die Straße (die Straßen)",
+      "e Datei (e Dateien)",
+      "der Kühlschrank (die Kühlschränke)",
+      "der Husten"
+    ],
+    [
+      "kitérő (detour)",
+      "sarok (corner)",
+      "szám (number)",
+      "elégedetlen (unsatisfied)"
+    ],
+    [
+      "der Schraubenzieher (die Schraubenzieher)",
+      "die Ecke (die Ecken)",
+      "der Stadtplan (die Stadtpläne)",
+      "s Meeting (s Meetings)"
+    ],
+    [
+      "vélemény (opinion)",
+      "parkolóhely (parking spot)",
+      "ATM / bankautomata",
+      "megerősíteni (to confirm)"
+    ],
+    [
+      "r Fehler (e Fehler)",
+      "die Heizung (die Heizungen)",
+      "der Parkplatz (die Parkplätze)",
+      "der Verband (die Verbände)"
+    ],
+    [
+      "desszert (dessert)",
+      "parkolni (to park)",
+      "meglátogatni (to visit)",
+      "megálló (stop)"
+    ],
+    [
+      "die Gesundheit",
+      "parken",
+      "wandern",
+      "aufstehen"
+    ],
+    [
+      "szüksége van (to need)",
+      "nyugta (receipt)",
+      "recept (prescription)",
+      "utasbiztosítás (travel insurance)"
+    ],
+    [
+      "zurückrufen",
+      "r Benutzername (r Benutzernamen)",
+      "das Paket (die Pakete)",
+      "die Reiseversicherung (die Reiseversicherungen)"
+    ],
+    [
+      "műszak (shift)",
+      "csomagtartó (trunk)",
+      "találkozni (to meet)",
+      "vele jönni (to come along)"
+    ],
+    [
+      "e Nachricht (e Nachrichten)",
+      "der Kofferraum (die Kofferräume)",
+      "e Haltestelle (e Haltestellen)",
+      "der Hammer (die Hämmer)"
+    ],
+    [
+      "elfelejteni (to forget)",
+      "forgalom (traffic)",
+      "borravaló (tip)",
+      "meghívó (invitation)"
+    ],
+    [
+      "Trinkgeld",
+      "der Nachbar (die Nachbarn)",
+      "zufrieden",
+      "der Verkehr"
+    ],
+    [
+      "meghívó (invitation)",
+      "mérni (to measure)",
+      "szállítás (delivery)",
+      "dugó (traffic jam)"
+    ],
+    [
+      "der Stau (die Staus)",
+      "sprudelnd",
+      "die Praxis (die Praxen)",
+      "wegwerfen"
+    ],
+    [
+      "jegy / osztályzat (grade)",
+      "jegy (ticket)",
+      "jelentkezés (application)",
+      "hívás (call)"
+    ],
+    [
+      "das Ticket (die Tickets)",
+      "r Reisepass (e Reisepässe)",
+      "freundlich",
+      "der Stress"
+    ],
+    [
+      "kártyával fizetni (pay by card)",
+      "kiszállni (to get out)",
+      "vizsgálat (examination)",
+      "menetjegy (ticket)"
+    ],
+    [
+      "der Patient (die Patienten)",
+      "die Fahrkarte (die Fahrkarten)",
+      "der Spezialist (die Spezialisten)",
+      "mieten"
+    ],
+    [
+      "visszaút (return trip)",
+      "elromlott (broken)",
+      "bevásárolni (to shop)",
+      "belépő (admission ticket)"
+    ],
+    [
+      "verschieden",
+      "e Verspätung (e Verspätungen)",
+      "die Rückfahrt (die Rückfahrten)",
+      "die Lampe (die Lampen)"
+    ],
+    [
+      "lift (elevator)",
+      "tapasztalat (experience)",
+      "odautazás (outbound trip)",
+      "bankjegy (banknote)"
+    ],
+    [
+      "e Aufgabe (e Aufgaben)",
+      "die Hinfahrt (die Hinfahrten)",
+      "messen",
+      "e Überweisung (e Überweisungen)"
+    ],
+    [
+      "szállás (accommodation)",
+      "kitérő (detour)",
+      "különbség (difference)",
+      "szám (number)"
+    ],
+    [
+      "der Umweg (die Umwege)",
+      "das Hauptgericht (die Hauptgerichte)",
+      "der Rabatt (die Rabatte)",
+      "die Einladung (die Einladungen)"
+    ],
+    [
+      "allergia (allergy)",
+      "szükséges (necessary)",
+      "környék (area)",
+      "beteg (patient)"
+    ],
+    [
+      "die Öffnungszeiten (Plural)",
+      "die Umgebung (die Umgebungen)",
+      "e Datei (e Dateien)",
+      "r Kurs (e Kurse)"
+    ],
+    [
+      "szabadidő (free time)",
+      "bérleti díj (rent)",
+      "becsukni (to close)",
+      "étlap (menu)"
+    ],
+    [
+      "sich verletzen",
+      "Trinkgeld",
+      "die Miete (die Mieten)",
+      "bestätigen"
+    ],
+    [
+      "jelentés (report)",
+      "meglátogatni (to visit)",
+      "bérbeadó (landlord)",
+      "kenőcs (ointment)"
+    ],
+    [
+      "das Rezept (die Rezepte)",
+      "der Vermieter (die Vermieter)",
+      "e Aufgabe (e Aufgaben)",
+      "die Fahrkarte (die Fahrkarten)"
+    ],
+    [
+      "szomszéd (neighbor)",
+      "beszállni (to get in)",
+      "influenza (flu)",
+      "kiadni (to rent out)"
+    ],
+    [
+      "der Geldautomat (die Geldautomaten)",
+      "der Nachbar (die Nachbarn)",
+      "teuer",
+      "r Reisepass (e Reisepässe)"
+    ],
+    [
+      "számla (invoice/bill)",
+      "szállítani (to deliver)",
+      "szünet (break)",
+      "zaj (noise)"
+    ],
+    [
+      "r Kalender (r Kalender)",
+      "die Praxis (die Praxen)",
+      "ähnlich",
+      "der Lärm"
+    ],
+    [
+      "késés (delay)",
+      "kiadni (to rent out)",
+      "előétel (starter)",
+      "javítás (repair)"
+    ],
+    [
+      "die Gesundheit",
+      "die Reparatur (die Reparaturen)",
+      "früh",
+      "die Apotheke (die Apotheken)"
+    ],
+    [
+      "megjavítani (to repair)",
+      "csomag (package)",
+      "ajándék (gift)",
+      "hűtőszekrény (fridge)"
+    ],
+    [
+      "reparieren",
+      "der Husten",
+      "messen",
+      "die Reparatur (die Reparaturen)"
+    ],
+    [
+      "elromlott (broken)",
+      "kipróbálni (to try out)",
+      "megérteni (to understand)",
+      "utasbiztosítás (travel insurance)"
+    ],
+    [
+      "s Formular (e Formulare)",
+      "kaputt",
+      "das Wasser",
+      "die Führung (die Führungen)"
+    ],
+    [
+      "egyenesen (straight ahead)",
+      "visszajáró (change)",
+      "túlóra (overtime)",
+      "működni (to function)"
+    ],
+    [
+      "der Notfall (die Notfälle)",
+      "unbequem",
+      "funktionieren",
+      "der Verband (die Verbände)"
+    ],
+    [
+      "szabadidő (free time)",
+      "mégis (nevertheless)",
+      "számla (bill)",
+      "gyógyszer (medicine)"
+    ],
+    [
+      "der Spezialist (die Spezialisten)",
+      "die Rechnung (die Rechnungen)",
+      "sich erinnern",
+      "e Schicht (e Schichten)"
+    ],
+    [
+      "képernyő (screen)",
+      "fizetni (to pay)",
+      "cég (company)",
+      "diéta (diet)"
+    ],
+    [
+      "spät",
+      "bezahlen",
+      "passen",
+      "sich erinnern"
+    ],
+    [
+      "sietni (to hurry)",
+      "áram (electricity)",
+      "tapasz (bandage/plaster)",
+      "felkelni (to get up)"
+    ],
+    [
+      "der Strom",
+      "e Note (e Noten)",
+      "s Formular (e Formulare)",
+      "weh tun"
+    ],
+    [
+      "meghívni (to invite)",
+      "tartani (to last)",
+      "gáz (gas)",
+      "elérni (to reach)"
+    ],
+    [
+      "zurückgeben",
+      "wechseln",
+      "das Gas",
+      "bar bezahlen"
+    ],
+    [
+      "víz (water)",
+      "üzenet (message)",
+      "megfázás (cold)",
+      "láz (fever)"
+    ],
+    [
+      "der Müll",
+      "das Wasser",
+      "die Wohnungssuche",
+      "die Kreuzung (die Kreuzungen)"
+    ],
+    [
+      "fűtés (heating)",
+      "beutaló (referral)",
+      "reklám (advertising)",
+      "kezelés (treatment)"
+    ],
+    [
+      "höflich",
+      "die Heizung (die Heizungen)",
+      "die Behandlung (die Behandlungen)",
+      "der Rabatt (die Rabatte)"
+    ],
+    [
+      "fűteni (to heat)",
+      "egészség (health)",
+      "elmagyarázni (to explain)",
+      "ital (drink)"
+    ],
+    [
+      "die Miete (die Mieten)",
+      "die Schmerzen (Plural)",
+      "der Schein (die Scheine)",
+      "heizen"
+    ],
+    [
+      "belépő (admission ticket)",
+      "zuhany (shower)",
+      "becsekkolni (to check in)",
+      "naptár (calendar)"
+    ],
+    [
+      "die Dusche (die Duschen)",
+      "der Rabatt (die Rabatte)",
+      "die Temperatur",
+      "e Kontrolle (e Kontrollen)"
+    ],
+    [
+      "nyugta (receipt)",
+      "rendőrség (police)",
+      "meghívni (to invite)",
+      "hűtőszekrény (fridge)"
+    ],
+    [
+      "der Kühlschrank (die Kühlschränke)",
+      "sich treffen",
+      "wandern",
+      "die Wohnungssuche"
+    ],
+    [
+      "kezelés (treatment)",
+      "mégis (nevertheless)",
+      "mosogatógép (dishwasher)",
+      "utasbiztosítás (travel insurance)"
+    ],
+    [
+      "wechseln",
+      "die Größe (die Größen)",
+      "spät",
+      "die Spülmaschine (die Spülmaschinen)"
+    ],
+    [
+      "mappa (folder)",
+      "becsekkolni (to check in)",
+      "szemetes (trash bin)",
+      "edények (dishes)"
+    ],
+    [
+      "die Wohnungssuche",
+      "r Bahnsteig (e Bahnsteige)",
+      "das Geschirr",
+      "zustimmen"
+    ],
+    [
+      "megbeszélni (to arrange)",
+      "várostérkép (city map)",
+      "kirándulás (excursion)",
+      "mosogatni (to wash dishes)"
+    ],
+    [
+      "e Meinung (e Meinungen)",
+      "die Sprechstunde (die Sprechstunden)",
+      "der Ausflug (die Ausflüge)",
+      "spülen"
+    ],
+    [
+      "gáz (gas)",
+      "akció (offer)",
+      "várni (to wait)",
+      "szemetes (trash bin)"
+    ],
+    [
+      "die Mülltonne (die Mülltonnen)",
+      "e Erfahrung (e Erfahrungen)",
+      "die Wunde (die Wunden)",
+      "reparieren"
+    ],
+    [
+      "szemét (trash)",
+      "idegenvezetés (guided tour)",
+      "becsekkolni (to check in)",
+      "cég (company)"
+    ],
+    [
+      "e Besprechung (e Besprechungen)",
+      "wandern",
+      "der Müll",
+      "trotzdem"
+    ],
+    [
+      "fáradt (tired)",
+      "kereszteződés (crossing)",
+      "bérbeadó (landlord)",
+      "kidobni (to throw away)"
+    ],
+    [
+      "aussteigen",
+      "das Rezept (die Rezepte)",
+      "wegwerfen",
+      "das Wasser"
+    ],
+    [
+      "bejelentkezés (login/registration)",
+      "túl későn (too late)",
+      "megerősíteni (to confirm)",
+      "takarítás (cleaning)"
+    ],
+    [
+      "ablehnen",
+      "heizen",
+      "die Reinigung (die Reinigungen)",
+      "ähnlich"
+    ],
+    [
+      "szakorvos (specialist)",
+      "fűteni (to heat)",
+      "időpont (appointment)",
+      "kitakarítani (to clean)"
+    ],
+    [
+      "sauber machen",
+      "r Anruf (e Anrufe)",
+      "die Impfung (die Impfungen)",
+      "erreichen"
+    ],
+    [
+      "visszavinni (to return)",
+      "nyugta (receipt)",
+      "kulcs (key)",
+      "akció (offer)"
+    ],
+    [
+      "der Schlüssel (die Schlüssel)",
+      "untersuchen",
+      "sich verletzen",
+      "r Anruf (e Anrufe)"
+    ],
+    [
+      "bezárni / lezárni (to lock)",
+      "foglalás (reservation)",
+      "köhögés (cough)",
+      "rendszeresen (regularly)"
+    ],
+    [
+      "abschließen",
+      "zurückrufen",
+      "der Geldautomat (die Geldautomaten)",
+      "zuerst"
+    ],
+    [
+      "lépcső (stairs)",
+      "nyugodt / csendes (quiet)",
+      "túl későn (too late)",
+      "főnök (boss)"
+    ],
+    [
+      "e Rechnung (e Rechnungen)",
+      "der Notfall (die Notfälle)",
+      "die Behandlung (die Behandlungen)",
+      "die Treppe (die Treppen)"
+    ],
+    [
+      "lift (elevator)",
+      "szemetes (trash bin)",
+      "főnök (boss)",
+      "parkolóhely (parking spot)"
+    ],
+    [
+      "der Schnupfen",
+      "der Aufzug (die Aufzüge)",
+      "das Werkzeug",
+      "r Bahnsteig (e Bahnsteige)"
+    ],
+    [
+      "hozni (to bring)",
+      "mérni (to measure)",
+      "költözni (to move house)",
+      "kicserélni (to exchange)"
+    ],
+    [
+      "umziehen",
+      "empfehlen",
+      "die Treppe (die Treppen)",
+      "die Diät (die Diäten)"
+    ],
+    [
+      "költözős doboz (moving box)",
+      "meghívó (invitation)",
+      "borravaló (tip)",
+      "bankjegy (banknote)"
+    ],
+    [
+      "e Einladung (e Einladungen)",
+      "die Umzugskiste (die Umzugskisten)",
+      "die Grippe",
+      "laut"
+    ],
+    [
+      "beutaló (referral)",
+      "találkozni (to meet)",
+      "segélyhívó szám (emergency number)",
+      "szerszámok (tools)"
+    ],
+    [
+      "das Werkzeug",
+      "der Hammer (die Hämmer)",
+      "r Bildschirm (e Bildschirme)",
+      "die Feier (die Feiern)"
+    ],
+    [
+      "nyitva (open)",
+      "megbeszélni (to arrange)",
+      "kalapács (hammer)",
+      "egészséges (healthy)"
+    ],
+    [
+      "r Kollege (e Kollegen)",
+      "der Hammer (die Hämmer)",
+      "r Anruf (e Anrufe)",
+      "e Haltestelle (e Haltestellen)"
+    ],
+    [
+      "passzolni / jó a méret (to fit)",
+      "csavarhúzó (screwdriver)",
+      "szükséges (necessary)",
+      "egészség (health)"
+    ],
+    [
+      "vegetarisch",
+      "der Stress",
+      "der Ausflug (die Ausflüge)",
+      "der Schraubenzieher (die Schraubenzieher)"
+    ],
+    [
+      "kipróbálni (to try out)",
+      "beteg (ill)",
+      "lámpa (lamp)",
+      "szállítani (to deliver)"
+    ],
+    [
+      "das Geschirr",
+      "e Meinung (e Meinungen)",
+      "die Lampe (die Lampen)",
+      "e Verspätung (e Verspätungen)"
+    ],
+    [
+      "udvariatlan (impolite)",
+      "átszállni (to transfer)",
+      "izzó (light bulb)",
+      "kulcs (key)"
+    ],
+    [
+      "die Glühbirne (die Glühbirnen)",
+      "mitkommen",
+      "die Miete (die Mieten)",
+      "die Anzeige (die Anzeigen)"
+    ],
+    [
+      "bank (bank)",
+      "hobbi (hobby)",
+      "műszak (shift)",
+      "kicserélni (to change/replace)"
+    ],
+    [
+      "wechseln",
+      "sich ausruhen",
+      "e Nachricht (e Nachrichten)",
+      "nervös"
+    ],
+    [
+      "lakáskeresés (flat search)",
+      "elmagyarázni (to explain)",
+      "ATM / bankautomata",
+      "egészség (health)"
+    ],
+    [
+      "die Wohnungssuche",
+      "abholen",
+      "das Wasser",
+      "auschecken"
+    ],
+    [
+      "útlevél (passport)",
+      "elégedett (satisfied)",
+      "hirdetés (ad)",
+      "hirtelen (suddenly)"
+    ],
+    [
+      "besuchen",
+      "liefern",
+      "zurückrufen",
+      "die Anzeige (die Anzeigen)"
+    ],
+    [
+      "megálló (stop)",
+      "műszak (shift)",
+      "sérülés (injury)",
+      "bérelni (to rent)"
+    ],
+    [
+      "die Adresse (die Adressen)",
+      "r Flughafen (e Flughäfen)",
+      "mieten",
+      "zufrieden"
+    ],
+    [
+      "ajánlani (to recommend)",
+      "kiadni (to rent out)",
+      "peron (platform)",
+      "egyenesen (straight ahead)"
+    ],
+    [
+      "vermieten",
+      "kaputt",
+      "der Verband (die Verbände)",
+      "sich ausruhen"
+    ],
+    [
+      "csomagtartó (trunk)",
+      "szomszédság (neighborhood)",
+      "szerszámok (tools)",
+      "elégedett (satisfied)"
+    ],
+    [
+      "die Nachbarschaft",
+      "sich anmelden",
+      "warten",
+      "r Feierabend"
+    ],
+    [
+      "hőmérséklet (temperature)",
+      "kényelmes (comfortable)",
+      "nyugodt / csendes (quiet)",
+      "gyógyszertár (pharmacy)"
+    ],
+    [
+      "r Bericht (e Berichte)",
+      "ruhig",
+      "abschließen",
+      "gemeinsam"
+    ],
+    [
+      "különbség (difference)",
+      "továbbmenni (to continue)",
+      "hangos (loud)",
+      "mérges (angry)"
+    ],
+    [
+      "laut",
+      "aufmachen",
+      "der Kühlschrank (die Kühlschränke)",
+      "die Kundin (die Kundinnen)"
+    ],
+    [
+      "jelszó (password)",
+      "hozni (to bring)",
+      "nyitvatartás (opening hours)",
+      "biztosítás (insurance)"
+    ],
+    [
+      "die Fahrkarte (die Fahrkarten)",
+      "die Schmerzen (Plural)",
+      "die Versicherung (die Versicherungen)",
+      "die Sehenswürdigkeit (die Sehenswürdigkeiten)"
+    ],
+    [
+      "szállítás (delivery)",
+      "megsérülni (to injure oneself)",
+      "egészségbiztosító (health insurance)",
+      "útlevél (passport)"
+    ],
+    [
+      "die Krankenkasse (die Krankenkassen)",
+      "danach",
+      "heizen",
+      "die Wunde (die Wunden)"
+    ],
+    [
+      "recept (prescription)",
+      "munkaidő (working hours)",
+      "szállás (accommodation)",
+      "mosogatógép (dishwasher)"
+    ],
+    [
+      "das Hauptgericht (die Hauptgerichte)",
+      "das Geschirr",
+      "das Rezept (die Rezepte)",
+      "geöffnet"
+    ],
+    [
+      "parkolóhely (parking spot)",
+      "visszamenni (to go back)",
+      "nyitva (open)",
+      "gyógyszer (medicine)"
+    ],
+    [
+      "weitergehen",
+      "e Möglichkeit (e Möglichkeiten)",
+      "e Bewerbung (e Bewerbungen)",
+      "das Medikament (die Medikamente)"
+    ],
+    [
+      "bérbeadó (landlord)",
+      "tabletta (pill)",
+      "fűteni (to heat)",
+      "ritkán (rarely)"
+    ],
+    [
+      "vorbeikommen",
+      "die Glühbirne (die Glühbirnen)",
+      "die Tablette (die Tabletten)",
+      "trotzdem"
+    ],
+    [
+      "elküldeni (to send)",
+      "borravaló (tip)",
+      "kenőcs (ointment)",
+      "foglalás (reservation)"
+    ],
+    [
+      "krank",
+      "r Bericht (e Berichte)",
+      "der Verkäufer (die Verkäufer)",
+      "die Salbe (die Salben)"
+    ],
+    [
+      "kezelés (treatment)",
+      "hirdetés (ad)",
+      "elégedetlen (unsatisfied)",
+      "egészség (health)"
+    ],
+    [
+      "umsteigen",
+      "die Behandlung (die Behandlungen)",
+      "nervös",
+      "die Lampe (die Lampen)"
+    ],
+    [
+      "mérni (to measure)",
+      "beteg (patient)",
+      "akció (offer)",
+      "barátságtalan (unfriendly)"
+    ],
+    [
+      "das Paket (die Pakete)",
+      "sich beeilen",
+      "der Patient (die Patienten)",
+      "erklären"
+    ],
+    [
+      "köhögés (cough)",
+      "igazából (actually)",
+      "becsekkolni (to check in)",
+      "rendelő (doctor's office)"
+    ],
+    [
+      "die Grippe",
+      "die Wunde (die Wunden)",
+      "die Information (die Informationen)",
+      "die Praxis (die Praxen)"
+    ],
+    [
+      "mérni (to measure)",
+      "elmagyarázni (to explain)",
+      "megérteni (to understand)",
+      "vészhelyzet (emergency)"
+    ],
+    [
+      "r Fehler (e Fehler)",
+      "anrufen",
+      "der Notfall (die Notfälle)",
+      "vegetarisch"
+    ],
+    [
+      "sérülés (injury)",
+      "ritkán (rarely)",
+      "tabletta (pill)",
+      "előétel (starter)"
+    ],
+    [
+      "die Verletzung (die Verletzungen)",
+      "abschließen",
+      "gemeinsam",
+      "allein"
+    ],
+    [
+      "visszahívni (to call back)",
+      "gyógyszertár (pharmacy)",
+      "ritkán (rarely)",
+      "seb (wound)"
+    ],
+    [
+      "bestätigen",
+      "die Wunde (die Wunden)",
+      "e Abteilung (e Abteilungen)",
+      "verschieden"
+    ],
+    [
+      "főétel (main course)",
+      "beteg (patient)",
+      "befordulni (to turn)",
+      "tapasz (bandage/plaster)"
+    ],
+    [
+      "sich beeilen",
+      "das Pflaster (die Pflaster)",
+      "deshalb",
+      "mit Karte bezahlen"
+    ],
+    [
+      "ajánlani (to recommend)",
+      "odautazás (outbound trip)",
+      "kötés (bandage)",
+      "udvariatlan (impolite)"
+    ],
+    [
+      "besuchen",
+      "der Patient (die Patienten)",
+      "der Verband (die Verbände)",
+      "der Rabatt (die Rabatte)"
+    ],
+    [
+      "vizsgálat (examination)",
+      "bezárni / lezárni (to lock)",
+      "mérges (angry)",
+      "allergia (allergy)"
+    ],
+    [
+      "der Schraubenzieher (die Schraubenzieher)",
+      "laut",
+      "die Allergie (die Allergien)",
+      "unfreundlich"
+    ],
+    [
+      "odautazás (outbound trip)",
+      "vészhelyzet (emergency)",
+      "bekapcsolni (to switch on)",
+      "influenza (flu)"
+    ],
+    [
+      "die Anzeige (die Anzeigen)",
+      "verschieden",
+      "aussteigen",
+      "die Grippe"
+    ],
+    [
+      "bérelni (to rent)",
+      "idegenvezetés (guided tour)",
+      "megfázás (cold)",
+      "számla (invoice/bill)"
+    ],
+    [
+      "die Freizeit",
+      "wegwerfen",
+      "sich ausruhen",
+      "die Erkältung (die Erkältungen)"
+    ],
+    [
+      "költözni (to move house)",
+      "nátha (runny nose)",
+      "találkozni (to meet)",
+      "udvariatlan (impolite)"
+    ],
+    [
+      "der Schnupfen",
+      "die Heizung (die Heizungen)",
+      "e Datei (e Dateien)",
+      "die Dusche (die Duschen)"
+    ],
+    [
+      "mappa (folder)",
+      "kérelem (application/request)",
+      "köhögés (cough)",
+      "hitelkártya (credit card)"
+    ],
+    [
+      "r Antrag (e Anträge)",
+      "e Besprechung (e Besprechungen)",
+      "der Husten",
+      "einchecken"
+    ],
+    [
+      "láz (fever)",
+      "felhívni (to call)",
+      "dugó (traffic jam)",
+      "hirdetés (ad)"
+    ],
+    [
+      "bezahlen",
+      "verschieden",
+      "das Fieber",
+      "r Lebenslauf (e Lebensläufe)"
+    ],
+    [
+      "szállítani (to deliver)",
+      "főnök (boss)",
+      "visszajáró (change)",
+      "hőmérséklet (temperature)"
+    ],
+    [
+      "die Temperatur",
+      "laut",
+      "s Ziel (e Ziele)",
+      "e Firma (e Firmen)"
+    ],
+    [
+      "elérni (to reach)",
+      "szomorú (sad)",
+      "meghívó (invitation)",
+      "mérni (to measure)"
+    ],
+    [
+      "messen",
+      "parken",
+      "die Umzugskiste (die Umzugskisten)",
+      "r Fahrplan (e Fahrpläne)"
+    ],
+    [
+      "fájdalom (pain)",
+      "kidobni (to throw away)",
+      "utca (street)",
+      "probléma (problem)"
+    ],
+    [
+      "die Schmerzen (Plural)",
+      "die Kundin (die Kundinnen)",
+      "der Geldautomat (die Geldautomaten)",
+      "sprudelnd"
+    ],
+    [
+      "kijelentkezni (to check out)",
+      "munkahely (workplace)",
+      "irányítószám (postcode)",
+      "fájni (to hurt)"
+    ],
+    [
+      "e Aufgabe (e Aufgaben)",
+      "passen",
+      "weh tun",
+      "sauber machen"
+    ],
+    [
+      "megsérülni (to injure oneself)",
+      "ritkán (rarely)",
+      "egészségbiztosító (health insurance)",
+      "influenza (flu)"
+    ],
+    [
+      "umsteigen",
+      "das Gas",
+      "r Benutzername (r Benutzernamen)",
+      "sich verletzen"
+    ],
+    [
+      "pihenni (to rest)",
+      "várni (to wait)",
+      "kezelés (treatment)",
+      "vevő (female customer)"
+    ],
+    [
+      "der Lärm",
+      "die Diät (die Diäten)",
+      "sich ausruhen",
+      "die Reparatur (die Reparaturen)"
+    ],
+    [
+      "akció (offer)",
+      "meghívó (invitation)",
+      "étlap (menu)",
+      "rendelési idő (office hours)"
+    ],
+    [
+      "die Spülmaschine (die Spülmaschinen)",
+      "r Kurs (e Kurse)",
+      "besuchen",
+      "die Sprechstunde (die Sprechstunden)"
+    ],
+    [
+      "kényelmes (comfortable)",
+      "beutaló (referral)",
+      "menetrend (timetable)",
+      "naptár (calendar)"
+    ],
+    [
+      "verschieden",
+      "die Kreuzung (die Kreuzungen)",
+      "e Überweisung (e Überweisungen)",
+      "sich abmelden"
+    ],
+    [
+      "ritkán (rarely)",
+      "visszaút (return trip)",
+      "csatlakozás / kapcsolat (connection)",
+      "szakorvos (specialist)"
+    ],
+    [
+      "e Kontrolle (e Kontrollen)",
+      "e Tastatur (e Tastaturen)",
+      "die Einladung (die Einladungen)",
+      "der Spezialist (die Spezialisten)"
+    ],
+    [
+      "vizsgálat (examination)",
+      "tabletta (pill)",
+      "későn (late)",
+      "udvarias (polite)"
+    ],
+    [
+      "allein",
+      "der Nachbar (die Nachbarn)",
+      "die Untersuchung (die Untersuchungen)",
+      "s Meeting (s Meetings)"
+    ],
+    [
+      "boldog (happy)",
+      "bejelentkezés (login/registration)",
+      "megvizsgálni (to examine)",
+      "fájni (to hurt)"
+    ],
+    [
+      "bar bezahlen",
+      "untersuchen",
+      "e Abteilung (e Abteilungen)",
+      "die Wohnungssuche"
+    ],
+    [
+      "túrázni (to hike)",
+      "akció (offer)",
+      "méret (size)",
+      "beoltani (to vaccinate)"
+    ],
+    [
+      "sich ausruhen",
+      "e Reservierung (e Reservierungen)",
+      "impfen",
+      "sich fühlen"
+    ],
+    [
+      "megjavítani (to repair)",
+      "repülőtér (airport)",
+      "oltás (vaccination)",
+      "átgondolni (to think about)"
+    ],
+    [
+      "traurig",
+      "still",
+      "zuerst",
+      "die Impfung (die Impfungen)"
+    ],
+    [
+      "megsérülni (to injure oneself)",
+      "egészség (health)",
+      "korán (early)",
+      "belépő (admission ticket)"
+    ],
+    [
+      "die Gesundheit",
+      "r Fehler (e Fehler)",
+      "e Abteilung (e Abteilungen)",
+      "das Hauptgericht (die Hauptgerichte)"
+    ],
+    [
+      "kolléga (colleague)",
+      "sétálni (to go for a walk)",
+      "egészséges (healthy)",
+      "kérelem (application/request)"
+    ],
+    [
+      "gesund",
+      "der Strom",
+      "das Paket (die Pakete)",
+      "einladen"
+    ],
+    [
+      "várni (to wait)",
+      "bérelni (to rent)",
+      "beteg (ill)",
+      "áram (electricity)"
+    ],
+    [
+      "das Wasser",
+      "die Sehenswürdigkeit (die Sehenswürdigkeiten)",
+      "krank",
+      "die Krankenkasse (die Krankenkassen)"
+    ],
+    [
+      "szerszámok (tools)",
+      "diéta (diet)",
+      "barátságtalan (unfriendly)",
+      "felhasználónév (username)"
+    ],
+    [
+      "freundlich",
+      "vorbeikommen",
+      "die Diät (die Diäten)",
+      "e Präsentation (e Präsentationen)"
+    ],
+    [
+      "előétel (starter)",
+      "sérülés (injury)",
+      "elérni (to reach)",
+      "vegetáriánus (vegetarian)"
+    ],
+    [
+      "die Postleitzahl (die Postleitzahlen)",
+      "sich treffen",
+      "der Rabatt (die Rabatte)",
+      "vegetarisch"
+    ],
+    [
+      "stressz (stress)",
+      "látnivaló (sight)",
+      "először (first)",
+      "biztosítás (insurance)"
+    ],
+    [
+      "ausprobieren",
+      "die Vorspeise (die Vorspeisen)",
+      "der Stress",
+      "unfreundlich"
+    ],
+    [
+      "akció (offer)",
+      "megfázás (cold)",
+      "menetjegy (ticket)",
+      "szemét (trash)"
+    ],
+    [
+      "das Angebot (die Angebote)",
+      "der Parkplatz (die Parkplätze)",
+      "sich abmelden",
+      "r Feierabend"
+    ],
+    [
+      "sarok (corner)",
+      "szerződés (contract)",
+      "kedvezmény (discount)",
+      "műszak (shift)"
+    ],
+    [
+      "der Rabatt (die Rabatte)",
+      "s Problem (e Probleme)",
+      "der Schnupfen",
+      "das Rezept (die Rezepte)"
+    ],
+    [
+      "menetjegy (ticket)",
+      "zuhany (shower)",
+      "visszahívni (to call back)",
+      "kedvező (good value)"
+    ],
+    [
+      "die Glühbirne (die Glühbirnen)",
+      "günstig",
+      "teuer",
+      "danach"
+    ],
+    [
+      "továbbmenni (to continue)",
+      "megbeszélni (to arrange)",
+      "beoltani (to vaccinate)",
+      "drágа (expensive)"
+    ],
+    [
+      "teuer",
+      "die Verletzung (die Verletzungen)",
+      "die Fahrkarte (die Fahrkarten)",
+      "die Diät (die Diäten)"
+    ],
+    [
+      "méret (size)",
+      "idegenvezetés (guided tour)",
+      "javítás (repair)",
+      "kényelmes (comfortable)"
+    ],
+    [
+      "die Größe (die Größen)",
+      "geradeaus",
+      "ruhig",
+      "der Kofferraum (die Kofferräume)"
+    ],
+    [
+      "lehetséges (possible)",
+      "passzolni / jó a méret (to fit)",
+      "hűtőszekrény (fridge)",
+      "visszamenni (to go back)"
+    ],
+    [
+      "früh",
+      "passen",
+      "mitkommen",
+      "der Notfall (die Notfälle)"
+    ],
+    [
+      "bekapcsolni (to switch on)",
+      "kicserélni (to exchange)",
+      "irányítószám (postcode)",
+      "mérges (angry)"
+    ],
+    [
+      "e Präsentation (e Präsentationen)",
+      "e Aufgabe (e Aufgaben)",
+      "e Überstunde (e Überstunden)",
+      "umtauschen"
+    ],
+    [
+      "hívás (call)",
+      "visszavinni (to return)",
+      "cél (goal)",
+      "befordulni (to turn)"
+    ],
+    [
+      "r Passwort (e Passwörter)",
+      "aufmachen",
+      "der Stress",
+      "zurückgeben"
+    ],
+    [
+      "kártyával fizetni (pay by card)",
+      "elégedett (satisfied)",
+      "garancia (warranty)",
+      "dönteni (to decide)"
+    ],
+    [
+      "die Wohnungssuche",
+      "r Fehler (e Fehler)",
+      "sich abmelden",
+      "die Garantie (die Garantien)"
+    ],
+    [
+      "kereszteződés (crossing)",
+      "reklám (advertising)",
+      "munkaidő (working hours)",
+      "elérni (to reach)"
+    ],
+    [
+      "die Werbung",
+      "liefern",
+      "die Treppe (die Treppen)",
+      "der Spezialist (die Spezialisten)"
+    ],
+    [
+      "zuhany (shower)",
+      "korán (early)",
+      "rendelés (order)",
+      "kényelmetlen (uncomfortable)"
+    ],
+    [
+      "e Abteilung (e Abteilungen)",
+      "die Kundin (die Kundinnen)",
+      "r Feierabend",
+      "die Bestellung (die Bestellungen)"
+    ],
+    [
+      "rendelni (to order)",
+      "gyógyszertár (pharmacy)",
+      "cél (goal)",
+      "billentyűzet (keyboard)"
+    ],
+    [
+      "unbequem",
+      "r Arbeitsplatz (e Arbeitsplätze)",
+      "bestellen",
+      "die Erkältung (die Erkältungen)"
+    ],
+    [
+      "költözni (to move house)",
+      "felkelni (to get up)",
+      "szállítani (to deliver)",
+      "szükséges (necessary)"
+    ],
+    [
+      "e Abteilung (e Abteilungen)",
+      "traurig",
+      "liefern",
+      "bequem"
+    ],
+    [
+      "rendelni (to order)",
+      "szállítás (delivery)",
+      "látnivaló (sight)",
+      "odautazás (outbound trip)"
+    ],
+    [
+      "bequem",
+      "heizen",
+      "nötig",
+      "die Lieferung (die Lieferungen)"
+    ],
+    [
+      "kijelentkezni (to check out)",
+      "csomag (package)",
+      "méret (size)",
+      "meghívó (invitation)"
+    ],
+    [
+      "das Geschenk (die Geschenke)",
+      "bezahlen",
+      "das Paket (die Pakete)",
+      "e Überstunde (e Überstunden)"
+    ],
+    [
+      "költözős doboz (moving box)",
+      "allergia (allergy)",
+      "különbség (difference)",
+      "eladó (salesperson)"
+    ],
+    [
+      "das Angebot (die Angebote)",
+      "unzufrieden",
+      "die Untersuchung (die Untersuchungen)",
+      "der Verkäufer (die Verkäufer)"
+    ],
+    [
+      "mosogatógép (dishwasher)",
+      "nyugodt / csendes (quiet)",
+      "vevő (female customer)",
+      "jegy / osztályzat (grade)"
+    ],
+    [
+      "die Kundin (die Kundinnen)",
+      "geradeaus",
+      "günstig",
+      "zurückgeben"
+    ],
+    [
+      "jelentkezés (application)",
+      "tabletta (pill)",
+      "értekezlet (discussion/meeting)",
+      "vevő (customer)"
+    ],
+    [
+      "s Formular (e Formulare)",
+      "e Hausaufgabe (e Hausaufgaben)",
+      "der Kunde (die Kunden)",
+      "e Kontrolle (e Kontrollen)"
+    ],
+    [
+      "barátságos (friendly)",
+      "megbeszélni (to arrange)",
+      "barátságtalan (unfriendly)",
+      "készpénzzel fizetni (pay cash)"
+    ],
+    [
+      "bar bezahlen",
+      "der Spezialist (die Spezialisten)",
+      "unzufrieden",
+      "r Lebenslauf (e Lebensläufe)"
+    ],
+    [
+      "kiadni (to rent out)",
+      "passzolni / jó a méret (to fit)",
+      "megoldás (solution)",
+      "kártyával fizetni (pay by card)"
+    ],
+    [
+      "höflich",
+      "mit Karte bezahlen",
+      "unmöglich",
+      "die Dusche (die Duschen)"
+    ],
+    [
+      "vészhelyzet (emergency)",
+      "hitelkártya (credit card)",
+      "kijelentkezni (to check out)",
+      "lift (elevator)"
+    ],
+    [
+      "die Führung (die Führungen)",
+      "die Notrufnummer (die Notrufnummern)",
+      "e Anmeldung (e Anmeldungen)",
+      "die Kreditkarte (die Kreditkarten)"
+    ],
+    [
+      "étlap (menu)",
+      "biztosítás (insurance)",
+      "kinyitni (to open)",
+      "naptár (calendar)"
+    ],
+    [
+      "zu spät",
+      "der Kofferraum (die Kofferräume)",
+      "die Speisekarte (die Speisekarten)",
+      "vorbeikommen"
+    ],
+    [
+      "feladat (task)",
+      "nátha (runny nose)",
+      "rendelés (order)",
+      "előétel (starter)"
+    ],
+    [
+      "die Vorspeise (die Vorspeisen)",
+      "der Husten",
+      "Trinkgeld",
+      "die Rezeption (die Rezeptionen)"
+    ],
+    [
+      "visszahívni (to call back)",
+      "visszajáró (change)",
+      "beteg (patient)",
+      "főétel (main course)"
+    ],
+    [
+      "mitkommen",
+      "das Hauptgericht (die Hauptgerichte)",
+      "ähnlich",
+      "die Dusche (die Duschen)"
+    ],
+    [
+      "desszert (dessert)",
+      "reklám (advertising)",
+      "késés (delay)",
+      "egészség (health)"
+    ],
+    [
+      "nervös",
+      "spät",
+      "die Nachspeise (die Nachspeisen)",
+      "e Meinung (e Meinungen)"
+    ],
+    [
+      "szám (number)",
+      "ital (drink)",
+      "visszamenni (to go back)",
+      "vevő (customer)"
+    ],
+    [
+      "geradeaus",
+      "heizen",
+      "die Mülltonne (die Mülltonnen)",
+      "das Getränk (die Getränke)"
+    ],
+    [
+      "túrázni (to hike)",
+      "visszahívni (to call back)",
+      "ritkán (rarely)",
+      "szénsavmentes (still water)"
+    ],
+    [
+      "r Chef (e Chefs)",
+      "impfen",
+      "still",
+      "traurig"
+    ],
+    [
+      "szakorvos (specialist)",
+      "nyugta (receipt)",
+      "segélyhívó szám (emergency number)",
+      "szénsavas (sparkling)"
+    ],
+    [
+      "r Plan (e Pläne)",
+      "sprudelnd",
+      "ausfüllen",
+      "e Bescheinigung (e Bescheinigungen)"
+    ],
+    [
+      "stressz (stress)",
+      "sétálni (to go for a walk)",
+      "garancia (warranty)",
+      "A számlát, kérem! (bill please)"
+    ],
+    [
+      "die Rechnung, bitte!",
+      "aufmachen",
+      "r Vorschlag (e Vorschläge)",
+      "weh tun"
+    ],
+    [
+      "jegy / osztályzat (grade)",
+      "borravaló (tip)",
+      "csatlakozás / kapcsolat (connection)",
+      "szállás (accommodation)"
+    ],
+    [
+      "pünktlich",
+      "brauchen",
+      "die Rückfahrt (die Rückfahrten)",
+      "Trinkgeld"
+    ],
+    [
+      "lefoglalni (to reserve)",
+      "meghívni (to invite)",
+      "munkaidő (working hours)",
+      "hobbi (hobby)"
+    ],
+    [
+      "e Verspätung (e Verspätungen)",
+      "e Quittung (e Quittungen)",
+      "reservieren",
+      "e Möglichkeit (e Möglichkeiten)"
+    ],
+    [
+      "ünnepség (celebration)",
+      "rendőrség (police)",
+      "egyetérteni (to agree)",
+      "zuhany (shower)"
+    ],
+    [
+      "still",
+      "höflich",
+      "die Erkältung (die Erkältungen)",
+      "die Feier (die Feiern)"
+    ],
+    [
+      "utca (street)",
+      "borravaló (tip)",
+      "irányítószám (postcode)",
+      "ajándék (gift)"
+    ],
+    [
+      "sprudelnd",
+      "das Geschenk (die Geschenke)",
+      "zurückgeben",
+      "der Ausflug (die Ausflüge)"
+    ],
+    [
+      "csavarhúzó (screwdriver)",
+      "meghívni (to invite)",
+      "bejelentkezés (login/registration)",
+      "visszaút (return trip)"
+    ],
+    [
+      "der Kofferraum (die Kofferräume)",
+      "der Verband (die Verbände)",
+      "gesund",
+      "einladen"
+    ],
+    [
+      "bekapcsolni (to switch on)",
+      "átgondolni (to think about)",
+      "beteg (patient)",
+      "hozni (to bring)"
+    ],
+    [
+      "sich ausruhen",
+      "e Verspätung (e Verspätungen)",
+      "e Überweisung (e Überweisungen)",
+      "mitbringen"
+    ],
+    [
+      "jegy / osztályzat (grade)",
+      "szabadidő (free time)",
+      "hangos (loud)",
+      "foglalás (reservation)"
+    ],
+    [
+      "e Verbindung (e Verbindungen)",
+      "das Medikament (die Medikamente)",
+      "die Freizeit",
+      "die Adresse (die Adressen)"
+    ],
+    [
+      "megérteni (to understand)",
+      "találkozni (to meet)",
+      "előétel (starter)",
+      "kicserélni (to exchange)"
+    ],
+    [
+      "sich treffen",
+      "die Nachspeise (die Nachspeisen)",
+      "ausmachen",
+      "die Straße (die Straßen)"
+    ],
+    [
+      "bekapcsolni (to switch on)",
+      "kijelentkezni (to check out)",
+      "sétálni (to go for a walk)",
+      "hirdetés (ad)"
+    ],
+    [
+      "untersuchen",
+      "s Ziel (e Ziele)",
+      "r Drucker (r Drucker)",
+      "spazieren gehen"
+    ],
+    [
+      "méret (size)",
+      "elfelejteni (to forget)",
+      "udvariatlan (impolite)",
+      "túrázni (to hike)"
+    ],
+    [
+      "wandern",
+      "anmachen",
+      "die Kreditkarte (die Kreditkarten)",
+      "die Freizeit"
+    ],
+    [
+      "kirándulás (excursion)",
+      "kiadni (to rent out)",
+      "zaj (noise)",
+      "osztály / részleg (department)"
+    ],
+    [
+      "zu spät",
+      "der Notfall (die Notfälle)",
+      "unbequem",
+      "der Ausflug (die Ausflüge)"
+    ],
+    [
+      "késés (delay)",
+      "különböző (different)",
+      "hobbi (hobby)",
+      "lift (elevator)"
+    ],
+    [
+      "wütend",
+      "der Nachbar (die Nachbarn)",
+      "einladen",
+      "das Hobby (die Hobbys)"
+    ],
+    [
+      "meghívó (invitation)",
+      "biztosítás (insurance)",
+      "osztály / részleg (department)",
+      "kirándulás (excursion)"
+    ],
+    [
+      "das Geschenk (die Geschenke)",
+      "die Einladung (die Einladungen)",
+      "das Wasser",
+      "umsteigen"
+    ],
+    [
+      "pontos (punctual)",
+      "kijelentkezni (to check out)",
+      "szénsavas (sparkling)",
+      "rendőrség (police)"
+    ],
+    [
+      "die Sprechstunde (die Sprechstunden)",
+      "möglich",
+      "pünktlich",
+      "sich entscheiden"
+    ],
+    [
+      "kiadni (to rent out)",
+      "tapasz (bandage/plaster)",
+      "túl későn (too late)",
+      "bérelni (to rent)"
+    ],
+    [
+      "bar bezahlen",
+      "die Rezeption (die Rezeptionen)",
+      "zu spät",
+      "r Passwort (e Passwörter)"
+    ],
+    [
+      "korán (early)",
+      "edények (dishes)",
+      "ellenőrzés (control)",
+      "idegenvezetés (guided tour)"
+    ],
+    [
+      "anmachen",
+      "die Unterkunft (die Unterkünfte)",
+      "früh",
+      "gemeinsam"
+    ],
+    [
+      "későn (late)",
+      "túlóra (overtime)",
+      "kirándulás (excursion)",
+      "akció (offer)"
+    ],
+    [
+      "das Hobby (die Hobbys)",
+      "krank",
+      "spät",
+      "ausmachen"
+    ],
+    [
+      "először (first)",
+      "pontos (punctual)",
+      "megvizsgálni (to examine)",
+      "munka vége (end of work)"
+    ],
+    [
+      "der Nachbar (die Nachbarn)",
+      "die Umgebung (die Umgebungen)",
+      "sprudelnd",
+      "zuerst"
+    ],
+    [
+      "kicserélni (to change/replace)",
+      "utána (afterwards)",
+      "fáradt (tired)",
+      "láz (fever)"
+    ],
+    [
+      "danach",
+      "e Präsentation (e Präsentationen)",
+      "r Bericht (e Berichte)",
+      "die Schmerzen (Plural)"
+    ],
+    [
+      "nyitvatartás (opening hours)",
+      "hiba (mistake)",
+      "peron (platform)",
+      "hirtelen (suddenly)"
+    ],
+    [
+      "plötzlich",
+      "das Ticket (die Tickets)",
+      "sprudelnd",
+      "e Kontrolle (e Kontrollen)"
+    ],
+    [
+      "mosogatni (to wash dishes)",
+      "mégis (nevertheless)",
+      "beoltani (to vaccinate)",
+      "munka vége (end of work)"
+    ],
+    [
+      "das Medikament (die Medikamente)",
+      "r Ordner (r Ordner)",
+      "trotzdem",
+      "die Bestellung (die Bestellungen)"
+    ],
+    [
+      "időpont (appointment)",
+      "bérleti díj (rent)",
+      "munkahely (workplace)",
+      "ezért (therefore)"
+    ],
+    [
+      "die Freizeit",
+      "empfehlen",
+      "deshalb",
+      "kaputt"
+    ],
+    [
+      "desszert (dessert)",
+      "ellenőrzés (control)",
+      "beszállni (to get in)",
+      "igazából (actually)"
+    ],
+    [
+      "eigentlich",
+      "s Formular (e Formulare)",
+      "r Lebenslauf (e Lebensläufe)",
+      "die Größe (die Größen)"
+    ],
+    [
+      "felkelni (to get up)",
+      "biztosítás (insurance)",
+      "drágа (expensive)",
+      "becsekkolni (to check in)"
+    ],
+    [
+      "ausprobieren",
+      "aufstehen",
+      "bequem",
+      "e Nummer (e Nummern)"
+    ],
+    [
+      "meghívni (to invite)",
+      "bérleti díj (rent)",
+      "felhívni (to call)",
+      "rendelési idő (office hours)"
+    ],
+    [
+      "r Antrag (e Anträge)",
+      "anrufen",
+      "der Nachbar (die Nachbarn)",
+      "e Hausaufgabe (e Hausaufgaben)"
+    ],
+    [
+      "rendelő (doctor's office)",
+      "visszahívni (to call back)",
+      "rendelési idő (office hours)",
+      "szénsavas (sparkling)"
+    ],
+    [
+      "das Geschirr",
+      "e Note (e Noten)",
+      "zurückrufen",
+      "unzufrieden"
+    ],
+    [
+      "egészségbiztosító (health insurance)",
+      "bevásárolni (to shop)",
+      "ajánlani (to recommend)",
+      "visszaút (return trip)"
+    ],
+    [
+      "die Heizung (die Heizungen)",
+      "ruhig",
+      "r Drucker (r Drucker)",
+      "einkaufen"
+    ],
+    [
+      "kinyitni (to open)",
+      "szünet (break)",
+      "visszamenni (to go back)",
+      "fűteni (to heat)"
+    ],
+    [
+      "möglich",
+      "e Kontrolle (e Kontrollen)",
+      "umtauschen",
+      "aufmachen"
+    ],
+    [
+      "hiba (mistake)",
+      "műszak (shift)",
+      "becsukni (to close)",
+      "mégis (nevertheless)"
+    ],
+    [
+      "der Vermieter (die Vermieter)",
+      "r Vertrag (e Verträge)",
+      "r Passwort (e Passwörter)",
+      "zumachen"
+    ],
+    [
+      "hitelkártya (credit card)",
+      "desszert (dessert)",
+      "sietni (to hurry)",
+      "kikapcsolni (to switch off)"
+    ],
+    [
+      "e Prüfung (e Prüfungen)",
+      "ausmachen",
+      "die Salbe (die Salben)",
+      "der Schraubenzieher (die Schraubenzieher)"
+    ],
+    [
+      "kijelentkezni (to log out/unregister)",
+      "belépő (admission ticket)",
+      "allergia (allergy)",
+      "bekapcsolni (to switch on)"
+    ],
+    [
+      "die Feier (die Feiern)",
+      "die Heizung (die Heizungen)",
+      "anmachen",
+      "die Salbe (die Salben)"
+    ],
+    [
+      "hobbi (hobby)",
+      "vele jönni (to come along)",
+      "csatlakozás / kapcsolat (connection)",
+      "lefoglalni (to reserve)"
+    ],
+    [
+      "einchecken",
+      "e Lösung (e Lösungen)",
+      "mitkommen",
+      "einsteigen"
+    ],
+    [
+      "elmenni érte (to pick up)",
+      "tartani (to last)",
+      "megsérülni (to injure oneself)",
+      "egyetérteni (to agree)"
+    ],
+    [
+      "abholen",
+      "umsteigen",
+      "der Aufzug (die Aufzüge)",
+      "e Haltestelle (e Haltestellen)"
+    ],
+    [
+      "elérni (to reach)",
+      "költözős doboz (moving box)",
+      "beugrani (to drop by)",
+      "bejelentkezés (login/registration)"
+    ],
+    [
+      "vorbeikommen",
+      "die Einladung (die Einladungen)",
+      "weitergehen",
+      "verstehen"
+    ],
+    [
+      "beteg (ill)",
+      "szükséges (necessary)",
+      "továbbmenni (to continue)",
+      "segélyhívó szám (emergency number)"
+    ],
+    [
+      "e Verbindung (e Verbindungen)",
+      "funktionieren",
+      "weitergehen",
+      "verschieden"
+    ],
+    [
+      "visszamenni (to go back)",
+      "hűtőszekrény (fridge)",
+      "jelentés (report)",
+      "mégis (nevertheless)"
+    ],
+    [
+      "unzufrieden",
+      "r Chef (e Chefs)",
+      "die Münze (die Münzen)",
+      "zurückgehen"
+    ],
+    [
+      "sietni (to hurry)",
+      "étlap (menu)",
+      "edények (dishes)",
+      "sérülés (injury)"
+    ],
+    [
+      "sich beeilen",
+      "r Ordner (r Ordner)",
+      "einsteigen",
+      "warten"
+    ],
+    [
+      "szállítás (delivery)",
+      "várni (to wait)",
+      "szám (number)",
+      "először (first)"
+    ],
+    [
+      "die Einladung (die Einladungen)",
+      "warten",
+      "unzufrieden",
+      "e Hausaufgabe (e Hausaufgaben)"
+    ],
+    [
+      "kiadni (to rent out)",
+      "recept (prescription)",
+      "elfelejteni (to forget)",
+      "kényelmes (comfortable)"
+    ],
+    [
+      "vergessen",
+      "wütend",
+      "mitkommen",
+      "der Kofferraum (die Kofferräume)"
+    ],
+    [
+      "javaslat (suggestion)",
+      "vevő (customer)",
+      "emlékezni (to remember)",
+      "áram (electricity)"
+    ],
+    [
+      "r Termin (e Termine)",
+      "sich erinnern",
+      "der Husten",
+      "das Angebot (die Angebote)"
+    ],
+    [
+      "víz (water)",
+      "előétel (starter)",
+      "kipróbálni (to try out)",
+      "elmagyarázni (to explain)"
+    ],
+    [
+      "die Lampe (die Lampen)",
+      "erklären",
+      "e Quittung (e Quittungen)",
+      "r Feierabend"
+    ],
+    [
+      "pontos (punctual)",
+      "megérteni (to understand)",
+      "jegy / osztályzat (grade)",
+      "vegetáriánus (vegetarian)"
+    ],
+    [
+      "nötig",
+      "verstehen",
+      "e Überstunde (e Überstunden)",
+      "die Werbung"
+    ],
+    [
+      "víz (water)",
+      "megbeszélni (to arrange)",
+      "kiadni (to rent out)",
+      "kitakarítani (to clean)"
+    ],
+    [
+      "vereinbaren",
+      "die Umzugskiste (die Umzugskisten)",
+      "der Notfall (die Notfälle)",
+      "der Ausflug (die Ausflüge)"
+    ],
+    [
+      "belépő (admission ticket)",
+      "elküldeni (to send)",
+      "elutasítani (to refuse)",
+      "recepció (reception)"
+    ],
+    [
+      "ablehnen",
+      "der Patient (die Patienten)",
+      "die Kundin (die Kundinnen)",
+      "zuerst"
+    ],
+    [
+      "tabletta (pill)",
+      "odautazás (outbound trip)",
+      "kirándulás (excursion)",
+      "egyetérteni (to agree)"
+    ],
+    [
+      "das Rezept (die Rezepte)",
+      "die Öffnungszeiten (Plural)",
+      "zustimmen",
+      "e Bewerbung (e Bewerbungen)"
+    ],
+    [
+      "ajánlani (to recommend)",
+      "várostérkép (city map)",
+      "jelentkezés (application)",
+      "edények (dishes)"
+    ],
+    [
+      "empfehlen",
+      "der Geldautomat (die Geldautomaten)",
+      "sauber machen",
+      "die Versicherung (die Versicherungen)"
+    ],
+    [
+      "edények (dishes)",
+      "szüksége van (to need)",
+      "ideges (nervous)",
+      "barátságos (friendly)"
+    ],
+    [
+      "aussteigen",
+      "e Lösung (e Lösungen)",
+      "brauchen",
+      "auschecken"
+    ],
+    [
+      "tartani (to last)",
+      "szállítás (delivery)",
+      "vegetáriánus (vegetarian)",
+      "forgalom (traffic)"
+    ],
+    [
+      "e Überstunde (e Überstunden)",
+      "dauern",
+      "e Nachricht (e Nachrichten)",
+      "e Möglichkeit (e Möglichkeiten)"
+    ],
+    [
+      "megfázás (cold)",
+      "munka vége (end of work)",
+      "elérni (to reach)",
+      "repülőtér (airport)"
+    ],
+    [
+      "e Datei (e Dateien)",
+      "der Notfall (die Notfälle)",
+      "verschieden",
+      "erreichen"
+    ],
+    [
+      "drágа (expensive)",
+      "különbség (difference)",
+      "beugrani (to drop by)",
+      "meglátogatni (to visit)"
+    ],
+    [
+      "besuchen",
+      "die Miete (die Mieten)",
+      "die Straße (die Straßen)",
+      "das Werkzeug"
+    ],
+    [
+      "kolléga (colleague)",
+      "nyugodt / csendes (quiet)",
+      "hűtőszekrény (fridge)",
+      "átgondolni (to think about)"
+    ],
+    [
+      "die Lampe (die Lampen)",
+      "e Hausaufgabe (e Hausaufgaben)",
+      "r Benutzername (r Benutzernamen)",
+      "überlegen"
+    ],
+    [
+      "kipróbálni (to try out)",
+      "edények (dishes)",
+      "elérni (to reach)",
+      "dugó (traffic jam)"
+    ],
+    [
+      "anrufen",
+      "traurig",
+      "ausprobieren",
+      "aufmachen"
+    ],
+    [
+      "bankjegy (banknote)",
+      "dönteni (to decide)",
+      "költözni (to move house)",
+      "kicserélni (to exchange)"
+    ],
+    [
+      "r Unterschied (e Unterschiede)",
+      "die Lampe (die Lampen)",
+      "r Bildschirm (e Bildschirme)",
+      "sich entscheiden"
+    ],
+    [
+      "jelentkezni (to register)",
+      "áram (electricity)",
+      "kérelem (application/request)",
+      "nyitva (open)"
+    ],
+    [
+      "die Treppe (die Treppen)",
+      "sich anmelden",
+      "e Tastatur (e Tastaturen)",
+      "sich entscheiden"
+    ],
+    [
+      "szakorvos (specialist)",
+      "kijelentkezni (to log out/unregister)",
+      "visszajáró (change)",
+      "bank (bank)"
+    ],
+    [
+      "sich abmelden",
+      "untersuchen",
+      "e Überweisung (e Überweisungen)",
+      "e Erfahrung (e Erfahrungen)"
+    ],
+    [
+      "kenőcs (ointment)",
+      "elmenni érte (to pick up)",
+      "találkozni (to meet)",
+      "szomorú (sad)"
+    ],
+    [
+      "der Strom",
+      "sich treffen",
+      "e Bewerbung (e Bewerbungen)",
+      "e Tastatur (e Tastaturen)"
+    ],
+    [
+      "jegy (ticket)",
+      "időpont (appointment)",
+      "érezni magát (to feel)",
+      "megfázás (cold)"
+    ],
+    [
+      "sich fühlen",
+      "das Pflaster (die Pflaster)",
+      "e Möglichkeit (e Möglichkeiten)",
+      "r Passwort (e Passwörter)"
+    ],
+    [
+      "boldog (happy)",
+      "egészség (health)",
+      "elérni (to reach)",
+      "megerősíteni (to confirm)"
+    ],
+    [
+      "das Fieber",
+      "glücklich",
+      "r Antrag (e Anträge)",
+      "die Krankenkasse (die Krankenkassen)"
+    ],
+    [
+      "ünnepség (celebration)",
+      "szomorú (sad)",
+      "vészhelyzet (emergency)",
+      "becsukni (to close)"
+    ],
+    [
+      "reparieren",
+      "der Geldautomat (die Geldautomaten)",
+      "traurig",
+      "der Rabatt (die Rabatte)"
+    ],
+    [
+      "visszajáró (change)",
+      "repülőtér (airport)",
+      "időpont (appointment)",
+      "mérges (angry)"
+    ],
+    [
+      "die Reparatur (die Reparaturen)",
+      "wütend",
+      "der Notfall (die Notfälle)",
+      "die Adresse (die Adressen)"
+    ],
+    [
+      "fáradt (tired)",
+      "megfázás (cold)",
+      "naptár (calendar)",
+      "víz (water)"
+    ],
+    [
+      "sich treffen",
+      "müde",
+      "der Husten",
+      "r Lebenslauf (e Lebensläufe)"
+    ],
+    [
+      "hívás (call)",
+      "ideges (nervous)",
+      "edények (dishes)",
+      "rendelési idő (office hours)"
+    ],
+    [
+      "das Geschenk (die Geschenke)",
+      "passen",
+      "e Präsentation (e Präsentationen)",
+      "nervös"
+    ],
+    [
+      "rendelési idő (office hours)",
+      "kedvezmény (discount)",
+      "vele jönni (to come along)",
+      "elégedett (satisfied)"
+    ],
+    [
+      "kaputt",
+      "die Information (die Informationen)",
+      "gemeinsam",
+      "zufrieden"
+    ],
+    [
+      "döntés (decision)",
+      "elégedetlen (unsatisfied)",
+      "szomszédság (neighborhood)",
+      "sérülés (injury)"
+    ],
+    [
+      "unzufrieden",
+      "die Schmerzen (Plural)",
+      "das Angebot (die Angebote)",
+      "die Apotheke (die Apotheken)"
+    ],
+    [
+      "munka vége (end of work)",
+      "mérges (angry)",
+      "hőmérséklet (temperature)",
+      "barátságos (friendly)"
+    ],
+    [
+      "freundlich",
+      "reservieren",
+      "die Rechnung, bitte!",
+      "die Polizei"
+    ],
+    [
+      "megfázás (cold)",
+      "visszaút (return trip)",
+      "parkolóhely (parking spot)",
+      "barátságtalan (unfriendly)"
+    ],
+    [
+      "das Wasser",
+      "laut",
+      "unfreundlich",
+      "die Glühbirne (die Glühbirnen)"
+    ],
+    [
+      "bekapcsolni (to switch on)",
+      "udvarias (polite)",
+      "lehetetlen (impossible)",
+      "fáradt (tired)"
+    ],
+    [
+      "s Meeting (s Meetings)",
+      "still",
+      "höflich",
+      "e Hausaufgabe (e Hausaufgaben)"
+    ],
+    [
+      "vélemény (opinion)",
+      "udvariatlan (impolite)",
+      "dugó (traffic jam)",
+      "munkaidő (working hours)"
+    ],
+    [
+      "r Kurs (e Kurse)",
+      "unhöflich",
+      "deshalb",
+      "e Verbindung (e Verbindungen)"
+    ],
+    [
+      "jelentkezés (application)",
+      "bezárni / lezárni (to lock)",
+      "kikapcsolni (to switch off)",
+      "kényelmes (comfortable)"
+    ],
+    [
+      "die Straße (die Straßen)",
+      "die Diät (die Diäten)",
+      "teuer",
+      "bequem"
+    ],
+    [
+      "kulcs (key)",
+      "meghívni (to invite)",
+      "kényelmetlen (uncomfortable)",
+      "először (first)"
+    ],
+    [
+      "abbiegen",
+      "e Arbeitszeit (e Arbeitszeiten)",
+      "unbequem",
+      "e Note (e Noten)"
+    ],
+    [
+      "működni (to function)",
+      "elégedett (satisfied)",
+      "felhasználónév (username)",
+      "szükséges (necessary)"
+    ],
+    [
+      "sich anmelden",
+      "verschieden",
+      "nötig",
+      "eigentlich"
+    ],
+    [
+      "kolléga (colleague)",
+      "lehetséges (possible)",
+      "meghívó (invitation)",
+      "rendelés (order)"
+    ],
+    [
+      "möglich",
+      "die Umgebung (die Umgebungen)",
+      "die Bank (die Banken)",
+      "die Notrufnummer (die Notrufnummern)"
+    ],
+    [
+      "lehetetlen (impossible)",
+      "desszert (dessert)",
+      "lefoglalni (to reserve)",
+      "meghívó (invitation)"
+    ],
+    [
+      "unmöglich",
+      "r Anruf (e Anrufe)",
+      "die Verletzung (die Verletzungen)",
+      "die Reinigung (die Reinigungen)"
+    ],
+    [
+      "kalapács (hammer)",
+      "kötés (bandage)",
+      "ideges (nervous)",
+      "különböző (different)"
+    ],
+    [
+      "verschieden",
+      "r Fahrplan (e Fahrpläne)",
+      "die Kreuzung (die Kreuzungen)",
+      "die Kreditkarte (die Kreditkarten)"
+    ],
+    [
+      "kitölteni (to fill out)",
+      "udvariatlan (impolite)",
+      "hasonló (similar)",
+      "kérelem (application/request)"
+    ],
+    [
+      "bar bezahlen",
+      "abschließen",
+      "die Größe (die Größen)",
+      "ähnlich"
+    ],
+    [
+      "kalapács (hammer)",
+      "bank (bank)",
+      "cég (company)",
+      "közös (together/shared)"
+    ],
+    [
+      "die Erkältung (die Erkältungen)",
+      "gemeinsam",
+      "e Firma (e Firmen)",
+      "die Bestellung (die Bestellungen)"
+    ],
+    [
+      "lift (elevator)",
+      "egyedül (alone)",
+      "vegetáriánus (vegetarian)",
+      "döntés (decision)"
+    ],
+    [
+      "e Bescheinigung (e Bescheinigungen)",
+      "allein",
+      "die Lampe (die Lampen)",
+      "anmachen"
+    ],
+    [
+      "seb (wound)",
+      "hozni (to bring)",
+      "lift (elevator)",
+      "rendszeresen (regularly)"
+    ],
+    [
+      "die Ecke (die Ecken)",
+      "mitbringen",
+      "die Umgebung (die Umgebungen)",
+      "regelmäßig"
+    ],
+    [
+      "billentyűzet (keyboard)",
+      "ritkán (rarely)",
+      "elutasítani (to refuse)",
+      "stressz (stress)"
+    ],
+    [
+      "das Paket (die Pakete)",
+      "die Rezeption (die Rezeptionen)",
+      "selten",
+      "vergessen"
+    ]
+  ],
+  "hints": [
+    "Eine vereinbarte Zeit, z. B. beim Arzt oder im Büro.",
+    "Eine vereinbarte Zeit, z. B. beim Arzt oder im Büro.",
+    "Ein Treffen, oft für die Arbeit.",
+    "Ein Treffen, oft für die Arbeit.",
+    "Ein Gespräch in der Gruppe über ein Thema.",
+    "Ein Gespräch in der Gruppe über ein Thema.",
+    "Etwas, das man machen muss.",
+    "Etwas, das man machen muss.",
+    "Etwas, das man erreichen möchte.",
+    "Etwas, das man erreichen möchte.",
+    "Eine Idee, was man tun will.",
+    "Eine Idee, was man tun will.",
+    "Eine Antwort auf ein Problem.",
+    "Eine Antwort auf ein Problem.",
+    "Eine schwierige Situation.",
+    "Eine schwierige Situation.",
+    "Etwas ist nicht richtig gemacht.",
+    "Etwas ist nicht richtig gemacht.",
+    "Etwas wird besser gemacht.",
+    "Etwas wird besser gemacht.",
+    "Man wählt eine Möglichkeit.",
+    "Man wählt eine Möglichkeit.",
+    "Eine Option; etwas ist machbar.",
+    "Eine Option; etwas ist machbar.",
+    "Eine Idee als Empfehlung.",
+    "Eine Idee als Empfehlung.",
+    "Was jemand denkt.",
+    "Was jemand denkt.",
+    "Was man erlebt und gelernt hat.",
+    "Was man erlebt und gelernt hat.",
+    "Wenn zwei Dinge nicht gleich sind.",
+    "Wenn zwei Dinge nicht gleich sind.",
+    "Ein Teil einer Firma.",
+    "Ein Teil einer Firma.",
+    "Eine Person, mit der man arbeitet.",
+    "Eine Person, mit der man arbeitet.",
+    "Die Person, die entscheidet.",
+    "Die Person, die entscheidet.",
+    "Eine Organisation, die arbeitet und verkauft.",
+    "Eine Organisation, die arbeitet und verkauft.",
+    "Ein offizielles Dokument mit Regeln.",
+    "Ein offizielles Dokument mit Regeln.",
+    "Papier, auf dem steht, was man bezahlen muss.",
+    "Papier, auf dem steht, was man bezahlen muss.",
+    "Beweis, dass man bezahlt hat.",
+    "Beweis, dass man bezahlt hat.",
+    "Text mit Informationen über Ergebnisse.",
+    "Text mit Informationen über Ergebnisse.",
+    "Man zeigt Informationen, oft mit Folien.",
+    "Man zeigt Informationen, oft mit Folien.",
+    "Ein Dokument am Computer.",
+    "Ein Dokument am Computer.",
+    "Darin sammelt man Dateien.",
+    "Darin sammelt man Dateien.",
+    "Gerät, das auf Papier druckt.",
+    "Gerät, das auf Papier druckt.",
+    "Damit schreibt man am Computer.",
+    "Damit schreibt man am Computer.",
+    "Darauf sieht man Text und Bilder.",
+    "Darauf sieht man Text und Bilder.",
+    "Geheimes Wort zum Einloggen.",
+    "Geheimes Wort zum Einloggen.",
+    "Name, mit dem man sich anmeldet.",
+    "Name, mit dem man sich anmeldet.",
+    "Wenn man sich in ein System einloggt.",
+    "Wenn man sich in ein System einloggt.",
+    "Ein kurzer Text an jemanden.",
+    "Ein kurzer Text an jemanden.",
+    "Telefonieren mit jemandem.",
+    "Telefonieren mit jemandem.",
+    "Ziffernfolge, z. B. Telefonnummer.",
+    "Ziffernfolge, z. B. Telefonnummer.",
+    "Kurze Zeit ohne Arbeit.",
+    "Kurze Zeit ohne Arbeit.",
+    "Arbeitszeit in einem bestimmten Zeitraum.",
+    "Arbeitszeit in einem bestimmten Zeitraum.",
+    "Arbeit länger als normal.",
+    "Arbeit länger als normal.",
+    "Darin stehen Termine und Tage.",
+    "Darin stehen Termine und Tage.",
+    "Man bittet jemanden zu kommen.",
+    "Man bittet jemanden zu kommen.",
+    "Unterricht zu einem Thema.",
+    "Unterricht zu einem Thema.",
+    "Test in der Schule oder im Kurs.",
+    "Test in der Schule oder im Kurs.",
+    "Bewertung nach einer Prüfung.",
+    "Bewertung nach einer Prüfung.",
+    "Aufgabe für zu Hause.",
+    "Aufgabe für zu Hause.",
+    "Dokument mit Ausbildung und Erfahrung.",
+    "Dokument mit Ausbildung und Erfahrung.",
+    "Wenn man sich um einen Job bewirbt.",
+    "Wenn man sich um einen Job bewirbt.",
+    "Zeit nach der Arbeit.",
+    "Zeit nach der Arbeit.",
+    "Ort, an dem man arbeitet.",
+    "Ort, an dem man arbeitet.",
+    "Zeit, in der man arbeitet.",
+    "Zeit, in der man arbeitet.",
+    "Offizielles Papier als Nachweis.",
+    "Offizielles Papier als Nachweis.",
+    "Offizielles Formular, das man ausfüllt.",
+    "Offizielles Formular, das man ausfüllt.",
+    "Papier/Online-Form mit Feldern.",
+    "Papier/Online-Form mit Feldern.",
+    "Den Namen auf ein Dokument schreiben.",
+    "Den Namen auf ein Dokument schreiben.",
+    "Ein Formular komplett schreiben.",
+    "Ein Formular komplett schreiben.",
+    "Etwas senden, z. B. eine E-Mail.",
+    "Etwas senden, z. B. eine E-Mail.",
+    "Sagen: Ja, das stimmt.",
+    "Sagen: Ja, das stimmt.",
+    "Plan mit Abfahrts- und Ankunftszeiten.",
+    "Plan mit Abfahrts- und Ankunftszeiten.",
+    "Wenn etwas später kommt.",
+    "Wenn etwas später kommt.",
+    "Wie man von A nach B fährt, oft mit Umstieg.",
+    "Wie man von A nach B fährt, oft mit Umstieg.",
+    "Von einem Verkehrsmittel ins andere wechseln.",
+    "Von einem Verkehrsmittel ins andere wechseln.",
+    "In Bus/Zug gehen.",
+    "In Bus/Zug gehen.",
+    "Bus/Zug verlassen.",
+    "Bus/Zug verlassen.",
+    "Ort am Bahnhof, wo man wartet.",
+    "Ort am Bahnhof, wo man wartet.",
+    "Ort, wo Bus/Tram hält.",
+    "Ort, wo Bus/Tram hält.",
+    "Ort, von dem Flugzeuge starten.",
+    "Ort, von dem Flugzeuge starten.",
+    "Offizielles Dokument fürs Reisen.",
+    "Offizielles Dokument fürs Reisen.",
+    "Wenn man prüft, ob alles stimmt.",
+    "Wenn man prüft, ob alles stimmt.",
+    "Man hält etwas im Voraus frei.",
+    "Man hält etwas im Voraus frei.",
+    "Ort im Hotel, wo man eincheckt.",
+    "Ort im Hotel, wo man eincheckt.",
+    "Im Hotel/Flughafen anmelden.",
+    "Im Hotel/Flughafen anmelden.",
+    "Im Hotel gehen und bezahlen.",
+    "Im Hotel gehen und bezahlen.",
+    "Ort, wo man übernachtet.",
+    "Ort, wo man übernachtet.",
+    "Etwas Interessantes für Touristen.",
+    "Etwas Interessantes für Touristen.",
+    "Tour mit Erklärung.",
+    "Tour mit Erklärung.",
+    "Karte von einer Stadt.",
+    "Karte von einer Stadt.",
+    "Ort, wo Straßen sich treffen.",
+    "Ort, wo Straßen sich treffen.",
+    "Die Richtung ändern (links/rechts).",
+    "Die Richtung ändern (links/rechts).",
+    "Ohne zu drehen.",
+    "Ohne zu drehen.",
+    "Geld, das man für den Zugang bezahlt.",
+    "Geld, das man für den Zugang bezahlt.",
+    "Wann ein Geschäft offen ist.",
+    "Wann ein Geschäft offen ist.",
+    "Nicht geschlossen.",
+    "Nicht geschlossen.",
+    "Nicht offen.",
+    "Nicht offen.",
+    "Wissen/Details über etwas.",
+    "Wissen/Details über etwas.",
+    "Behörde für Sicherheit.",
+    "Behörde für Sicherheit.",
+    "Nummer für den Notfall.",
+    "Nummer für den Notfall.",
+    "Wenn sofort Hilfe nötig ist.",
+    "Wenn sofort Hilfe nötig ist.",
+    "Dort kauft man Medikamente.",
+    "Dort kauft man Medikamente.",
+    "Dort regelt man Geld.",
+    "Dort regelt man Geld.",
+    "Maschine, die Geld ausgibt.",
+    "Maschine, die Geld ausgibt.",
+    "Geld, das man zurückbekommt.",
+    "Geld, das man zurückbekommt.",
+    "Kleines Geld aus Metall.",
+    "Kleines Geld aus Metall.",
+    "Papiergeld.",
+    "Papiergeld.",
+    "Wo jemand wohnt.",
+    "Wo jemand wohnt.",
+    "Zahlen für eine Region.",
+    "Zahlen für eine Region.",
+    "Weg in der Stadt.",
+    "Weg in der Stadt.",
+    "Ort, wo zwei Straßen zusammentreffen.",
+    "Ort, wo zwei Straßen zusammentreffen.",
+    "Platz für ein Auto.",
+    "Platz für ein Auto.",
+    "Das Auto stehen lassen.",
+    "Das Auto stehen lassen.",
+    "Versicherung fürs Reisen.",
+    "Versicherung fürs Reisen.",
+    "Platz im Auto für Gepäck.",
+    "Platz im Auto für Gepäck.",
+    "Autos und Menschen auf der Straße.",
+    "Autos und Menschen auf der Straße.",
+    "Wenn viele Autos stehen.",
+    "Wenn viele Autos stehen.",
+    "Beleg fürs Fahren/Eintritt.",
+    "Beleg fürs Fahren/Eintritt.",
+    "Ticket für Bus/Zug.",
+    "Ticket für Bus/Zug.",
+    "Fahrt zurück.",
+    "Fahrt zurück.",
+    "Fahrt hin.",
+    "Fahrt hin.",
+    "Längerer Weg als normal.",
+    "Längerer Weg als normal.",
+    "Das Gebiet in der Nähe.",
+    "Das Gebiet in der Nähe.",
+    "Geld, das man für eine Wohnung zahlt.",
+    "Geld, das man für eine Wohnung zahlt.",
+    "Person, die eine Wohnung vermietet.",
+    "Person, die eine Wohnung vermietet.",
+    "Person, die nebenan wohnt.",
+    "Person, die nebenan wohnt.",
+    "Wenn es laut und störend ist.",
+    "Wenn es laut und störend ist.",
+    "Wenn man etwas kaputt wieder gut macht.",
+    "Wenn man etwas kaputt wieder gut macht.",
+    "Etwas wieder in Ordnung bringen.",
+    "Etwas wieder in Ordnung bringen.",
+    "Nicht mehr funktionierend.",
+    "Nicht mehr funktionierend.",
+    "Wie geplant arbeiten.",
+    "Wie geplant arbeiten.",
+    "Papier, das man bezahlen muss.",
+    "Papier, das man bezahlen muss.",
+    "Geld geben für eine Sache.",
+    "Geld geben für eine Sache.",
+    "Energie aus der Steckdose.",
+    "Energie aus der Steckdose.",
+    "Energie zum Heizen/Kochen.",
+    "Energie zum Heizen/Kochen.",
+    "Flüssigkeit zum Trinken/Waschen.",
+    "Flüssigkeit zum Trinken/Waschen.",
+    "Damit wird es warm.",
+    "Damit wird es warm.",
+    "Wärme machen.",
+    "Wärme machen.",
+    "Dort wäscht man sich mit Wasser.",
+    "Dort wäscht man sich mit Wasser.",
+    "Gerät zum Kühlen von Essen.",
+    "Gerät zum Kühlen von Essen.",
+    "Maschine zum Geschirrwaschen.",
+    "Maschine zum Geschirrwaschen.",
+    "Teller, Tassen, Besteck.",
+    "Teller, Tassen, Besteck.",
+    "Geschirr sauber machen.",
+    "Geschirr sauber machen.",
+    "Behälter für Müll.",
+    "Behälter für Müll.",
+    "Abfall.",
+    "Abfall.",
+    "In den Müll tun.",
+    "In den Müll tun.",
+    "Saubermachen.",
+    "Saubermachen.",
+    "Etwas reinigen.",
+    "Etwas reinigen.",
+    "Damit öffnet man eine Tür.",
+    "Damit öffnet man eine Tür.",
+    "Mit einem Schlüssel schließen.",
+    "Mit einem Schlüssel schließen.",
+    "Man geht hoch oder runter.",
+    "Man geht hoch oder runter.",
+    "Damit fährt man nach oben/unten.",
+    "Damit fährt man nach oben/unten.",
+    "In eine andere Wohnung ziehen.",
+    "In eine andere Wohnung ziehen.",
+    "Kiste für den Umzug.",
+    "Kiste für den Umzug.",
+    "Hammer, Schraubenzieher usw.",
+    "Hammer, Schraubenzieher usw.",
+    "Werkzeug zum Schlagen.",
+    "Werkzeug zum Schlagen.",
+    "Werkzeug für Schrauben.",
+    "Werkzeug für Schrauben.",
+    "Gibt Licht.",
+    "Gibt Licht.",
+    "In der Lampe, macht Licht.",
+    "In der Lampe, macht Licht.",
+    "Etwas durch etwas anderes ersetzen.",
+    "Etwas durch etwas anderes ersetzen.",
+    "Wenn man eine Wohnung sucht.",
+    "Wenn man eine Wohnung sucht.",
+    "Text, der etwas anbietet.",
+    "Text, der etwas anbietet.",
+    "Für eine Zeit benutzen und bezahlen.",
+    "Für eine Zeit benutzen und bezahlen.",
+    "Eine Wohnung anderen geben gegen Geld.",
+    "Eine Wohnung anderen geben gegen Geld.",
+    "Menschen/Ort rund um die Wohnung.",
+    "Menschen/Ort rund um die Wohnung.",
+    "Nicht laut.",
+    "Nicht laut.",
+    "Mit viel Geräusch.",
+    "Mit viel Geräusch.",
+    "Schutz: Man zahlt, und bekommt Hilfe bei Problemen.",
+    "Schutz: Man zahlt, und bekommt Hilfe bei Problemen.",
+    "Versicherung für Arzt und Behandlung.",
+    "Versicherung für Arzt und Behandlung.",
+    "Papier vom Arzt für Medikamente.",
+    "Papier vom Arzt für Medikamente.",
+    "Etwas, das bei Krankheit hilft.",
+    "Etwas, das bei Krankheit hilft.",
+    "Kleines Medikament zum Schlucken.",
+    "Kleines Medikament zum Schlucken.",
+    "Creme für die Haut.",
+    "Creme für die Haut.",
+    "Was der Arzt macht, um zu helfen.",
+    "Was der Arzt macht, um zu helfen.",
+    "Person beim Arzt.",
+    "Person beim Arzt.",
+    "Ort, wo ein Arzt arbeitet.",
+    "Ort, wo ein Arzt arbeitet.",
+    "Situation, in der man schnell Hilfe braucht.",
+    "Situation, in der man schnell Hilfe braucht.",
+    "Wenn der Körper verletzt ist.",
+    "Wenn der Körper verletzt ist.",
+    "Verletzte Stelle am Körper.",
+    "Verletzte Stelle am Körper.",
+    "Klebestreifen für eine Wunde.",
+    "Klebestreifen für eine Wunde.",
+    "Stoff um eine Wunde.",
+    "Stoff um eine Wunde.",
+    "Reaktion auf etwas, z. B. Pollen.",
+    "Reaktion auf etwas, z. B. Pollen.",
+    "Starke Erkältung mit Fieber.",
+    "Starke Erkältung mit Fieber.",
+    "Wenn man Schnupfen/Husten hat.",
+    "Wenn man Schnupfen/Husten hat.",
+    "Nase läuft; Erkältung.",
+    "Nase läuft; Erkältung.",
+    "Luft stark aus dem Hals.",
+    "Luft stark aus dem Hals.",
+    "Hohe Körpertemperatur.",
+    "Hohe Körpertemperatur.",
+    "Wie warm der Körper ist.",
+    "Wie warm der Körper ist.",
+    "Zahl feststellen, z. B. Temperatur.",
+    "Zahl feststellen, z. B. Temperatur.",
+    "Wenn etwas weh tut.",
+    "Wenn etwas weh tut.",
+    "Schmerzen haben.",
+    "Schmerzen haben.",
+    "Eine Verletzung bekommen.",
+    "Eine Verletzung bekommen.",
+    "Keine Anstrengung; entspannen.",
+    "Keine Anstrengung; entspannen.",
+    "Zeit, in der der Arzt Patienten sieht.",
+    "Zeit, in der der Arzt Patienten sieht.",
+    "Papier vom Arzt für einen Spezialisten.",
+    "Papier vom Arzt für einen Spezialisten.",
+    "Arzt für ein bestimmtes Gebiet.",
+    "Arzt für ein bestimmtes Gebiet.",
+    "Der Arzt prüft den Körper.",
+    "Der Arzt prüft den Körper.",
+    "Ärztlich prüfen.",
+    "Ärztlich prüfen.",
+    "Schutzimpfung geben.",
+    "Schutzimpfung geben.",
+    "Medizinischer Schutz gegen Krankheit.",
+    "Medizinischer Schutz gegen Krankheit.",
+    "Zustand: nicht krank.",
+    "Zustand: nicht krank.",
+    "Nicht krank.",
+    "Nicht krank.",
+    "Nicht gesund.",
+    "Nicht gesund.",
+    "Bestimmte Art zu essen.",
+    "Bestimmte Art zu essen.",
+    "Ohne Fleisch.",
+    "Ohne Fleisch.",
+    "Wenn man sich sehr belastet fühlt.",
+    "Wenn man sich sehr belastet fühlt.",
+    "Etwas ist billiger oder besonders.",
+    "Etwas ist billiger oder besonders.",
+    "Man bezahlt weniger.",
+    "Man bezahlt weniger.",
+    "Nicht teuer; gutes Preis-Leistungs-Verhältnis.",
+    "Nicht teuer; gutes Preis-Leistungs-Verhältnis.",
+    "Kostet viel Geld.",
+    "Kostet viel Geld.",
+    "S/M/L oder Zahl.",
+    "S/M/L oder Zahl.",
+    "Die Größe ist richtig.",
+    "Die Größe ist richtig.",
+    "Im Laden zurückgeben und etwas anderes nehmen.",
+    "Im Laden zurückgeben und etwas anderes nehmen.",
+    "Im Geschäft zurückbringen.",
+    "Im Geschäft zurückbringen.",
+    "Versprechen: es wird repariert/ersetzt.",
+    "Versprechen: es wird repariert/ersetzt.",
+    "Information, die etwas verkaufen will.",
+    "Information, die etwas verkaufen will.",
+    "Wenn man etwas kauft und liefern lässt.",
+    "Wenn man etwas kauft und liefern lässt.",
+    "Etwas im Restaurant oder online wählen.",
+    "Etwas im Restaurant oder online wählen.",
+    "Bringen zu einem Ort.",
+    "Bringen zu einem Ort.",
+    "Wenn etwas geliefert wird.",
+    "Wenn etwas geliefert wird.",
+    "Sendung mit Dingen.",
+    "Sendung mit Dingen.",
+    "Person, die im Laden verkauft.",
+    "Person, die im Laden verkauft.",
+    "Person, die kauft (weiblich).",
+    "Person, die kauft (weiblich).",
+    "Person, die kauft.",
+    "Person, die kauft.",
+    "Mit Münzen und Scheinen zahlen.",
+    "Mit Münzen und Scheinen zahlen.",
+    "Mit Bankkarte zahlen.",
+    "Mit Bankkarte zahlen.",
+    "Karte zum Bezahlen.",
+    "Karte zum Bezahlen.",
+    "Liste mit Essen und Preisen.",
+    "Liste mit Essen und Preisen.",
+    "Essen vor dem Hauptgericht.",
+    "Essen vor dem Hauptgericht.",
+    "Wichtigster Teil des Essens.",
+    "Wichtigster Teil des Essens.",
+    "Süßes am Ende.",
+    "Süßes am Ende.",
+    "Was man trinkt.",
+    "Was man trinkt.",
+    "Ohne Kohlensäure (Wasser).",
+    "Ohne Kohlensäure (Wasser).",
+    "Mit Kohlensäure.",
+    "Mit Kohlensäure.",
+    "Man bittet im Restaurant um die Rechnung.",
+    "Man bittet im Restaurant um die Rechnung.",
+    "Kleines Extra-Geld im Restaurant.",
+    "Kleines Extra-Geld im Restaurant.",
+    "Vorher einen Platz sichern.",
+    "Vorher einen Platz sichern.",
+    "Fest oder Party.",
+    "Fest oder Party.",
+    "Etwas, das man schenkt.",
+    "Etwas, das man schenkt.",
+    "Jemanden bitten zu kommen.",
+    "Jemanden bitten zu kommen.",
+    "Etwas zu einer Feier nehmen.",
+    "Etwas zu einer Feier nehmen.",
+    "Zeit ohne Arbeit/Schule.",
+    "Zeit ohne Arbeit/Schule.",
+    "Mit jemandem zusammenkommen.",
+    "Mit jemandem zusammenkommen.",
+    "Langsam zu Fuß gehen.",
+    "Langsam zu Fuß gehen.",
+    "Länger zu Fuß in der Natur gehen.",
+    "Länger zu Fuß in der Natur gehen.",
+    "Kurze Reise für einen Tag.",
+    "Kurze Reise für einen Tag.",
+    "Aktivität in der Freizeit.",
+    "Aktivität in der Freizeit.",
+    "Nachricht, dass man kommen soll.",
+    "Nachricht, dass man kommen soll.",
+    "Nicht zu spät.",
+    "Nicht zu spät.",
+    "Nach der vereinbarten Zeit.",
+    "Nach der vereinbarten Zeit.",
+    "Vor der normalen Zeit.",
+    "Vor der normalen Zeit.",
+    "Nach der normalen Zeit.",
+    "Nach der normalen Zeit.",
+    "Am Anfang.",
+    "Am Anfang.",
+    "Später, nach dem ersten.",
+    "Später, nach dem ersten.",
+    "Ohne Vorwarnung.",
+    "Ohne Vorwarnung.",
+    "Obwohl es ein Problem gibt.",
+    "Obwohl es ein Problem gibt.",
+    "Aus diesem Grund.",
+    "Aus diesem Grund.",
+    "In Wirklichkeit.",
+    "In Wirklichkeit.",
+    "Aus dem Bett kommen.",
+    "Aus dem Bett kommen.",
+    "Telefonieren.",
+    "Telefonieren.",
+    "Noch einmal anrufen.",
+    "Noch einmal anrufen.",
+    "Im Laden Dinge kaufen.",
+    "Im Laden Dinge kaufen.",
+    "Etwas öffnen (Tür/Fenster).",
+    "Etwas öffnen (Tür/Fenster).",
+    "Etwas schließen.",
+    "Etwas schließen.",
+    "Gerät stoppen (Licht/TV).",
+    "Gerät stoppen (Licht/TV).",
+    "Gerät starten (Licht/TV).",
+    "Gerät starten (Licht/TV).",
+    "Zusammen kommen.",
+    "Zusammen kommen.",
+    "Jemanden/etwas holen.",
+    "Jemanden/etwas holen.",
+    "Kurz zu Besuch kommen.",
+    "Kurz zu Besuch kommen.",
+    "Nicht stoppen; weiter laufen.",
+    "Nicht stoppen; weiter laufen.",
+    "In die Richtung zurück.",
+    "In die Richtung zurück.",
+    "Schneller machen.",
+    "Schneller machen.",
+    "Zeit verbringen, bis etwas passiert.",
+    "Zeit verbringen, bis etwas passiert.",
+    "Nicht mehr daran denken.",
+    "Nicht mehr daran denken.",
+    "Etwas wieder im Kopf haben.",
+    "Etwas wieder im Kopf haben.",
+    "Etwas verständlich machen.",
+    "Etwas verständlich machen.",
+    "Den Sinn erkennen.",
+    "Den Sinn erkennen.",
+    "Einen Termin abmachen.",
+    "Einen Termin abmachen.",
+    "Nein sagen.",
+    "Nein sagen.",
+    "Ja sagen; einverstanden sein.",
+    "Ja sagen; einverstanden sein.",
+    "Etwas als gut sagen.",
+    "Etwas als gut sagen.",
+    "Etwas nötig haben.",
+    "Etwas nötig haben.",
+    "Wie lange etwas ist.",
+    "Wie lange etwas ist.",
+    "Ankommen oder Ziel schaffen.",
+    "Ankommen oder Ziel schaffen.",
+    "Zu jemandem/Ort gehen.",
+    "Zu jemandem/Ort gehen.",
+    "Nachdenken.",
+    "Nachdenken.",
+    "Testen, ob es klappt.",
+    "Testen, ob es klappt.",
+    "Eine Wahl treffen.",
+    "Eine Wahl treffen.",
+    "Offiziell registrieren.",
+    "Offiziell registrieren.",
+    "Sich wieder entfernen.",
+    "Sich wieder entfernen.",
+    "Mit jemandem zusammen sein.",
+    "Mit jemandem zusammen sein.",
+    "Wie es einem geht.",
+    "Wie es einem geht.",
+    "Man fühlt sich gut.",
+    "Man fühlt sich gut.",
+    "Man fühlt sich nicht gut.",
+    "Man fühlt sich nicht gut.",
+    "Sehr verärgert.",
+    "Sehr verärgert.",
+    "Man braucht Schlaf.",
+    "Man braucht Schlaf.",
+    "Unsicher und angespannt.",
+    "Unsicher und angespannt.",
+    "Man ist ok mit dem Ergebnis.",
+    "Man ist ok mit dem Ergebnis.",
+    "Man ist nicht zufrieden.",
+    "Man ist nicht zufrieden.",
+    "Nett zu anderen.",
+    "Nett zu anderen.",
+    "Nicht nett.",
+    "Nicht nett.",
+    "Mit guten Manieren.",
+    "Mit guten Manieren.",
+    "Ohne gute Manieren.",
+    "Ohne gute Manieren.",
+    "Angenehm, nicht unbequem.",
+    "Angenehm, nicht unbequem.",
+    "Nicht angenehm.",
+    "Nicht angenehm.",
+    "Man braucht es.",
+    "Man braucht es.",
+    "Es kann passieren.",
+    "Es kann passieren.",
+    "Es kann nicht passieren.",
+    "Es kann nicht passieren.",
+    "Nicht gleich.",
+    "Nicht gleich.",
+    "Fast gleich.",
+    "Fast gleich.",
+    "Mit anderen zusammen.",
+    "Mit anderen zusammen.",
+    "Ohne andere.",
+    "Ohne andere.",
+    "Immer wieder in gleichen Abständen.",
+    "Immer wieder in gleichen Abständen.",
+    "Nicht oft.",
+    "Nicht oft."
+  ]
+}
