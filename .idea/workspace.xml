@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="topics adjusted:&#10;- contracted A1">
-      <change afterPath="$PROJECT_DIR$/quiz/data/irregularverbs_EN_100.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_english_irregularverbs_200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/raw/quiz_german_a1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/quiz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_german_a1.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_german_unregelmäßige Verben_001-100.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_unregelmäßige Verben_001-100.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_python.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/raw/quiz_python.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_python_with_hints.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/raw/quiz_python_with_hints.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz/my_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/my_quiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,15 +33,74 @@
     &quot;assignee&quot;: &quot;kristofszigeti&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/kristofszigeti/quiz.git&quot;,
-    &quot;accountId&quot;: &quot;b62d7f6f-8e9d-4a42-9b9f-8215c2654279&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kristofszigeti/quiz.git",
+    "accountId": "a5beaff4-ac39-42c3-867a-1125044b5a69"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000008065313" />
+      <entry key="S10" value="1.0000339768383752" />
+      <entry key="S30" value="1.091865340683342" />
+      <entry key="S60" value="1.8906126152649072" />
+      <entry key="M2" value="4.244489619131202" />
+      <entry key="M5" value="8.83829283872148" />
+      <entry key="M10" value="11.771658703887487" />
+      <entry key="M15" value="13.010710590529387" />
+      <entry key="M30" value="14.412282184922407" />
+      <entry key="H1" value="15.181258950009424" />
+      <entry key="H2" value="15.584194182343877" />
+      <entry key="H4" value="15.79046056271901" />
+      <entry key="D1" value="15.96484707211142" />
+      <entry key="W1" value="15.9949724966559" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.1611818231377365E-14" />
+      <entry key="MS500" value="0.0021078676494227086" />
+      <entry key="S2" value="0.21426973605702496" />
+      <entry key="S5" value="0.5399882799177398" />
+      <entry key="S10" value="0.7348400878383184" />
+      <entry key="S30" value="0.9128415475471867" />
+      <entry key="S60" value="1.0521466601574243" />
+      <entry key="M2" value="1.2943406271359073" />
+      <entry key="M5" value="1.6234932967068934" />
+      <entry key="M10" value="1.7909376858479549" />
+      <entry key="M15" value="1.855524238219195" />
+      <entry key="M30" value="1.9250808859073292" />
+      <entry key="H1" value="1.9618444285502101" />
+      <entry key="H2" value="1.9807448895211865" />
+      <entry key="H4" value="1.9903276914910772" />
+      <entry key="D1" value="1.9983816966979404" />
+      <entry key="W1" value="1.9997686602329905" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8888426811665702" />
+      <entry key="MS500" value="0.9767149356050875" />
+      <entry key="S2" value="1.0444359548953757" />
+      <entry key="S5" value="1.3001026652398107" />
+      <entry key="S10" value="1.548817748300763" />
+      <entry key="S30" value="1.9205869417145705" />
+      <entry key="S60" value="2.8945735553590177" />
+      <entry key="M2" value="5.510223742730302" />
+      <entry key="M5" value="10.447811771008835" />
+      <entry key="M10" value="13.55492631968393" />
+      <entry key="M15" value="14.860940562650768" />
+      <entry key="M30" value="16.334616832345457" />
+      <entry key="H1" value="17.141703706532745" />
+      <entry key="H2" value="17.564232361113568" />
+      <entry key="H4" value="17.78043314962268" />
+      <entry key="D1" value="17.96316933912838" />
+      <entry key="W1" value="17.994732660885486" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -108,8 +162,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (PyCharmMiscProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
@@ -133,8 +188,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340" />
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -175,6 +229,7 @@
       <workItem from="1779135889374" duration="1704000" />
       <workItem from="1779480383033" duration="1294000" />
       <workItem from="1779620217100" duration="25050000" />
+      <workItem from="1779820977789" duration="701000" />
     </task>
     <task id="LOCAL-00001" summary="v03">
       <option name="closed" value="true" />
@@ -230,6 +285,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="topics adjusted:&#10;- contracted A1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/quiz$my_quiz.coverage" NAME="my_quiz Coverage Results" MODIFIED="1779721283951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz" />
+    <SUITE FILE_PATH="coverage/quiz$my_quiz.coverage" NAME="my_quiz Coverage Results" MODIFIED="1779821791434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz" />
   </component>
 </project>

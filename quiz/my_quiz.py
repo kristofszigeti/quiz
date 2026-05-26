@@ -228,7 +228,7 @@ class Quiz:
                 fontcolor = "#daa520" # goldenrod
             else:
                 prefix = ""
-                fontcolor = "black"
+                fontcolor = "white"
 
             # assemble the option again
             option = prefix + option
@@ -237,6 +237,7 @@ class Quiz:
             # self.options[val]['fg'] = fontcolor
             self.options[val].config(text=option,
                                      fg=fontcolor,
+
                                      )
             val += 1 # it must be increased to go through the choices and show them
 
