@@ -59,7 +59,7 @@ class Quiz:
         # self.display_options()
         # self.buttons()
 
-        # self.data_size = 0 # (korábbi állapot)
+        # self.data_size = 0 # (korábbi állapot)k
         self.data_size = len(self.question) # number of questions from json
         # print(self.data_size)
         # print(len(self.question))
