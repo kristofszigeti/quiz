@@ -478,7 +478,7 @@ choice = IntVar()
 # english.add_radiobutton(label = 'English A1 Vocab', variable = choice, value = 1,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 0), quiz.display_deutsch_label(0)))
 english.add_radiobutton(label = 'English Irregular Verbs', variable = choice, value = 1,
-                       command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 0), quiz.display_english_label(0)))
+                       command= lambda: (quiz.call_topic(resource_path('data/irregularverbs_EN_100.json'), 0), quiz.display_english_label(0)))
 # english.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 3,
 #                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 2), quiz.display_deutsch_label(2)))
 # english.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 4,
