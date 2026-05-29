@@ -1,0 +1,1810 @@
+{
+  "question": [
+    "e Gesundheit",
+    "Köhögés (Cough)",
+    "s Fieber",
+    "Gyógyszer (Medicine)",
+    "r Mantel (e Mäntel)",
+    "Ing (Shirt)",
+    "s Kleid (e Kleider)",
+    "Szoknya (Skirt)",
+    "anziehen",
+    "levenni (to take off)",
+    "passen",
+    "Méret (Size)",
+    "r Saft (e Säfte)",
+    "Kolbász / Virsli (Sausage)",
+    "r Fisch (e Fische)",
+    "Csirke (Chicken)",
+    "s Brötchen (e Brötchen)",
+    "Leves (Soup)",
+    "e Nudel (e Nudeln)",
+    "Rizs (Rice)",
+    "r Apfel (e Äpfel)",
+    "Citrom (Lemon)",
+    "e Erdbeere (e Erdbeeren)",
+    "savanyú (sour)",
+    "scharf",
+    "Ég / Égbolt (Sky)",
+    "e Wolke (e Wolken)",
+    "Csillag (Star)",
+    "s Tier (e Tiere)",
+    "Madár (Bird)",
+    "e Maus (e Mäuse)",
+    "Ló (Horse)",
+    "e Kuh (e Kühe)",
+    "Disznó / Sertés (Pig)",
+    "windig",
+    "esni [eső] (to rain)",
+    "schneien",
+    "Levél (Letter)",
+    "e Postkarte (e Postkarten)",
+    "Csomag (Package)",
+    "e Briefmarke (e Briefmarken)",
+    "Hívás (Call)",
+    "anrufen",
+    "Megálló (Stop)",
+    "e U-Bahn (e U-Bahnen)",
+    "HÉV / Elővárosi vonat (Suburban train)",
+    "s Gleis (e Gleise)",
+    "Menetrend (Timetable)",
+    "s Gepäck",
+    "megállni / tartani (to stop / to hold)",
+    "bringen",
+    "elhozni / érte menni (to fetch)",
+    "öffnen",
+    "bezárni (to close)",
+    "aufmachen",
+    "bezárni [informális] (to close)",
+    "lang",
+    "rövid (short)",
+    "stark",
+    "gyenge (weak)",
+    "r Fehler (e Fehler)",
+    "Vizsga (Exam)",
+    "s Formular (e Formulare)",
+    "kitölteni (to fill out)",
+    "r Ausweis (e Ausweise)",
+    "Útlevél (Passport)",
+    "s Geburtsdatum",
+    "Születési hely (Place of birth)",
+    "männlich",
+    "nő / női (female)",
+    "ledig",
+    "házas (married)",
+    "geschieden",
+    "Cím (Address)",
+    "e Hausnummer (e Hausnummern)",
+    "Bejárat (Entrance)",
+    "r Ausgang (e Ausgänge)",
+    "tilos (forbidden)",
+    "erlaubt",
+    "dohányozni (to smoke)",
+    "r Spaß",
+    "Játék (Game)",
+    "gewinnen",
+    "veszíteni (to lose)",
+    "r Verein (e Vereine)",
+    "Tag (Member)",
+    "r Ausflug (e Ausflüge)",
+    "Cél (Goal / Destination)",
+    "e Grenze (e Grenzen)",
+    "Sziget (Island)",
+    "r Einwohner (e Einwohner)",
+    "Külföldi [személy] (Foreigner)",
+    "s Ausland",
+    "Repülőtér (Airport)",
+    "r Flug (e Flüge)",
+    "Utazás (Journey)",
+    "r Koffer (e Koffer)",
+    "Szabadság (Vacation)",
+    "feiern",
+    "Ünnep (Festival)",
+    "ich",
+    "te (you)",
+    "er",
+    "ő [nőnem] (she)",
+    "es",
+    "mi (we)",
+    "ihr",
+    "ők (they)",
+    "Sie",
+    "az én ...-m (my)",
+    "dein",
+    "az ő ...-ja [hímnem] (his)",
+    "unser",
+    "a ti ...-tok (your [plural])",
+    "wer?",
+    "mi? (what?)",
+    "wo?",
+    "honnan? (where from?)",
+    "wohin?",
+    "mikor? (when?)",
+    "warum?",
+    "hogyan? (how?)",
+    "wie viel?",
+    "Hétfő (Monday)",
+    "r Dienstag (e Dienstage)",
+    "Szerda (Wednesday)",
+    "r Donnerstag (e Donnerstage)",
+    "Péntek (Friday)",
+    "r Samstag (e Samstage)",
+    "Vasárnap (Sunday)",
+    "r Januar (e Januare)",
+    "Február (February)",
+    "r März (e Märze)",
+    "Április (April)",
+    "r Mai (e Maie)",
+    "Június (June)",
+    "r Juli (e Julis)",
+    "Augusztus (August)",
+    "r September (e September)",
+    "Október (October)",
+    "r November (e November)",
+    "December (December)",
+    "in",
+    "on / en / ön / ra / re [függőleges] (on / at)",
+    "auf",
+    "alatt / alá (under)",
+    "über",
+    "előtt / elé (in front of / before)",
+    "hinter",
+    "mellett / mellé (next to)",
+    "zwischen",
+    "-val / -vel (with)",
+    "ohne",
+    "-nak / -nek / számára (for)",
+    "gegen",
+    "-ból / -ből (from / out of)",
+    "bei",
+    "után / felé (after / to)",
+    "von",
+    "-hoz / -hez / -höz (to)",
+    "und",
+    "vagy (or)",
+    "aber",
+    "mert [kötőszó] (because)",
+    "weil",
+    "hogy (that)",
+    "wenn",
+    "nagyon (very)",
+    "auch",
+    "nem [tagadás] (not)",
+    "kein",
+    "első (first)",
+    "zweite",
+    "harmadik (third)",
+    "vierte",
+    "tizenkettedik (twelfth)",
+    "s Viertel (e Viertel)",
+    "Harmad (Third [fraction])",
+    "s Achtel (e Achtel)",
+    "fél (half)",
+    "einmal",
+    "kétszer (twice)",
+    "achtmal",
+    "dupla / kétszeres (double)",
+    "s Prozent (e Prozente)",
+    "Jó reggelt! (Good morning!)",
+    "Guten Tag!",
+    "Jó estét! (Good evening!)",
+    "Gute Nacht!",
+    "Viszontlátásra! (Goodbye!)",
+    "Tschüss!",
+    "Szia! [köszönés] (Hello!)",
+    "Bitte!",
+    "Köszönöm! (Thank you!)",
+    "Entschuldigung!",
+    "Sajnálom. (I",
+    "Wie geht es dir?",
+    "Engem ...-nak hívnak (My name is...)",
+    "ja",
+    "nem (no)"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4
+  ],
+  "choices": [
+    [
+      "Egészség (Health)",
+      "Betegség (Illness)",
+      "Láz (Fever)",
+      "Orvos (Doctor)"
+    ],
+    [
+      "r Schnupfen",
+      "r Husten",
+      "r Kopf (e Köpfe)",
+      "r Schmerz (e Schmerzen)"
+    ],
+    [
+      "Fájdalom (Pain)",
+      "Nátha (Cold)",
+      "Láz (Fever)",
+      "Köhögés (Cough)"
+    ],
+    [
+      "s Rezept (e Rezepte)",
+      "e Apotheke (e Apotheken)",
+      "s Pflaster (e Pflaster)",
+      "s Medikament (e Medikamente)"
+    ],
+    [
+      "Kabát / Köpeny (Coat)",
+      "Nadrág (Pants)",
+      "Cipő (Shoe)",
+      "Ing (Shirt)"
+    ],
+    [
+      "e Jacke (e Jacken)",
+      "s Hemd (e Hemden)",
+      "s Kleid (e Kleider)",
+      "r Pullover (e Pullover)"
+    ],
+    [
+      "Szoknya (Skirt)",
+      "Zokni (Sock)",
+      "Női ruha (Dress)",
+      "Póló (T-shirt)"
+    ],
+    [
+      "s Hemd (e Hemden)",
+      "e Hose (e Hosen)",
+      "r Schuh (e Schuhe)",
+      "r Rock (e Röcke)"
+    ],
+    [
+      "felöltözni / felvenni (to put on)",
+      "mosni (to wash)",
+      "vasalni (to iron)",
+      "levenni (to take off)"
+    ],
+    [
+      "anziehen",
+      "ausziehen",
+      "passen",
+      "waschen"
+    ],
+    [
+      "venni (to buy)",
+      "keresni (to search)",
+      "illeni / jó a méret (to fit)",
+      "felvenni (to put on)"
+    ],
+    [
+      "r Preis (e Preise)",
+      "e Farbe (e Farben)",
+      "e Form (e Formen)",
+      "e Größe (e Größen)"
+    ],
+    [
+      "Gyümölcslé (Juice)",
+      "Víz (Water)",
+      "Sör (Beer)",
+      "Tej (Milk)"
+    ],
+    [
+      "s Fleisch",
+      "e Wurst (e Würste)",
+      "r Käse",
+      "s Hähnchen (e Hähnchen)"
+    ],
+    [
+      "Csirke (Chicken)",
+      "Sajt (Cheese)",
+      "Hal (Fish)",
+      "Hús (Meat)"
+    ],
+    [
+      "r Fisch (e Fische)",
+      "s Ei (e Eier)",
+      "s Schwein (e Schweine)",
+      "s Hähnchen (e Hähnchen)"
+    ],
+    [
+      "Zsemle (Bread roll)",
+      "Kenyér (Bread)",
+      "Sütemény (Cake)",
+      "Tészta (Noodle)"
+    ],
+    [
+      "r Salat (e Salate)",
+      "e Suppe (e Suppen)",
+      "s Fleisch",
+      "s Gemüse"
+    ],
+    [
+      "Krumpli (Potato)",
+      "Paradicsom (Tomato)",
+      "Tészta (Noodle)",
+      "Rizs (Rice)"
+    ],
+    [
+      "e Nudel (e Nudeln)",
+      "r Salat (e Salate)",
+      "e Kartoffel (e Kartoffeln)",
+      "r Reis"
+    ],
+    [
+      "Alma (Apple)",
+      "Körte (Pear)",
+      "Narancs (Orange)",
+      "Banán (Banana)"
+    ],
+    [
+      "r Apfel (e Äpfel)",
+      "e Zitrone (e Zitronen)",
+      "e Orange (e Orangen)",
+      "e Erdbeere (e Erdbeeren)"
+    ],
+    [
+      "Citrom (Lemon)",
+      "Alma (Apple)",
+      "Eper (Strawberry)",
+      "Körte (Pear)"
+    ],
+    [
+      "süß",
+      "scharf",
+      "salzig",
+      "sauer"
+    ],
+    [
+      "csípős (spicy)",
+      "édes (sweet)",
+      "sós (salty)",
+      "savanyú (sour)"
+    ],
+    [
+      "e Sonne (e Sonnen)",
+      "r Himmel",
+      "r Mond (e Monde)",
+      "e Wolke (e Wolken)"
+    ],
+    [
+      "Csillag (Star)",
+      "Hold (Moon)",
+      "Felhő (Cloud)",
+      "Nap (Sun)"
+    ],
+    [
+      "r Himmel",
+      "e Wolke (e Wolken)",
+      "r Baum (e Bäume)",
+      "r Stern (e Sterne)"
+    ],
+    [
+      "Állat (Animal)",
+      "Madár (Bird)",
+      "Kutya (Dog)",
+      "Növény (Plant)"
+    ],
+    [
+      "r Hund (e Hunde)",
+      "r Vogel (e Vögel)",
+      "s Pferd (e Pferde)",
+      "e Katze (e Katzen)"
+    ],
+    [
+      "Tehén (Cow)",
+      "Madár (Bird)",
+      "Egér (Mouse)",
+      "Ló (Horse)"
+    ],
+    [
+      "e Maus (e Mäuse)",
+      "e Kuh (e Kühe)",
+      "s Schwein (e Schweine)",
+      "s Pferd (e Pferde)"
+    ],
+    [
+      "Tehén (Cow)",
+      "Disznó (Pig)",
+      "Kutya (Dog)",
+      "Ló (Horse)"
+    ],
+    [
+      "r Hund (e Hunde)",
+      "s Schwein (e Schweine)",
+      "s Tier (e Tiere)",
+      "s Pferd (e Pferde)"
+    ],
+    [
+      "meleg (warm)",
+      "hideg (cold)",
+      "szeles (windy)",
+      "napos (sunny)"
+    ],
+    [
+      "schneien",
+      "scheinen",
+      "wehen",
+      "regnen"
+    ],
+    [
+      "havazni (to snow)",
+      "esni [eső] (to rain)",
+      "fújni (to blow)",
+      "sütni [nap] (to shine)"
+    ],
+    [
+      "s Paket (e Pakete)",
+      "r Brief (e Briefe)",
+      "e E-Mail (e E-Mails)",
+      "e Postkarte (e Postkarten)"
+    ],
+    [
+      "Csomag (Package)",
+      "Levél (Letter)",
+      "Képeslap (Postcard)",
+      "Bélyeg (Stamp)"
+    ],
+    [
+      "r Brief (e Briefe)",
+      "e Postkarte (e Postkarten)",
+      "r Umschlag (e Umschläge)",
+      "s Paket (e Pakete)"
+    ],
+    [
+      "Bélyeg (Stamp)",
+      "Levél (Letter)",
+      "Csomag (Package)",
+      "Cím (Address)"
+    ],
+    [
+      "e Nummer (e Nummern)",
+      "r Anruf (e Anrufe)",
+      "s Telefon (e Telefone)",
+      "s Handy (e Handys)"
+    ],
+    [
+      "beszélni (to speak)",
+      "mondani (to say)",
+      "felhívni (to call)",
+      "írni (to write)"
+    ],
+    [
+      "r Bahnhof (e Bahnhöfe)",
+      "r Flughafen (e Flughäfen)",
+      "s Gleis (e Gleise)",
+      "e Haltestelle (e Haltestellen)"
+    ],
+    [
+      "Metró (Subway)",
+      "Villamos (Tram)",
+      "Busz (Bus)",
+      "Vonat (Train)"
+    ],
+    [
+      "e U-Bahn (e U-Bahnen)",
+      "e S-Bahn (e S-Bahnen)",
+      "e Straßenbahn (e Straßenbahnen)",
+      "r Zug (e Züge)"
+    ],
+    [
+      "Menetrend (Timetable)",
+      "Késés (Delay)",
+      "Vágány (Track)",
+      "Jegypénztár (Ticket office)"
+    ],
+    [
+      "s Ticket (e Tickets)",
+      "s Gleis (e Gleise)",
+      "r Zug (e Züge)",
+      "r Fahrplan (e Fahrpläne)"
+    ],
+    [
+      "Poggyász (Luggage)",
+      "Bőrönd (Suitcase)",
+      "Táska (Bag)",
+      "Jegy (Ticket)"
+    ],
+    [
+      "warten",
+      "halten",
+      "bleiben",
+      "fahren"
+    ],
+    [
+      "vinni (to take)",
+      "adni (to give)",
+      "hozni (to bring)",
+      "keresni (to search)"
+    ],
+    [
+      "bringen",
+      "geben",
+      "suchen",
+      "holen"
+    ],
+    [
+      "kinyitni (to open)",
+      "találni (to find)",
+      "keresni (to search)",
+      "bezárni (to close)"
+    ],
+    [
+      "öffnen",
+      "schließen",
+      "enden",
+      "aufmachen"
+    ],
+    [
+      "megérteni (to understand)",
+      "magyarázni (to explain)",
+      "kinyitni [informális] (to open)",
+      "bezárni (to close)"
+    ],
+    [
+      "aufmachen",
+      "öffnen",
+      "beginnen",
+      "zumachen"
+    ],
+    [
+      "hosszú (long)",
+      "magas (tall)",
+      "kicsi (small)",
+      "rövid (short)"
+    ],
+    [
+      "lang",
+      "kurz",
+      "groß",
+      "hoch"
+    ],
+    [
+      "beteg (sick)",
+      "egészséges (healthy)",
+      "erős (strong)",
+      "gyenge (weak)"
+    ],
+    [
+      "stark",
+      "krank",
+      "müde",
+      "schwach"
+    ],
+    [
+      "Hiba (Mistake)",
+      "Válasz (Answer)",
+      "Kérdés (Question)",
+      "Probléma (Problem)"
+    ],
+    [
+      "r Kurs (e Kurse)",
+      "e Prüfung (e Prüfungen)",
+      "e Hausaufgabe (e Hausaufgaben)",
+      "e Klasse (e Klassen)"
+    ],
+    [
+      "Levél (Letter)",
+      "Csomag (Package)",
+      "Nyomtatvány (Form)",
+      "Papír (Paper)"
+    ],
+    [
+      "schreiben",
+      "lesen",
+      "schließen",
+      "ausfüllen"
+    ],
+    [
+      "Igazolvány (ID card)",
+      "Név (Name)",
+      "Cím (Address)",
+      "Útlevél (Passport)"
+    ],
+    [
+      "r Ausweis (e Ausweise)",
+      "r Pass (e Pässe)",
+      "s Formular (e Formulare)",
+      "s Ticket (e Tickets)"
+    ],
+    [
+      "Születési hely (Place of birth)",
+      "Név (Name)",
+      "Születési idő (Date of birth)",
+      "Életkor (Age)"
+    ],
+    [
+      "s Geburtsdatum",
+      "s Alter",
+      "e Adresse (e Adressen)",
+      "r Geburtsort"
+    ],
+    [
+      "férfi (male)",
+      "gyerek (child)",
+      "ember (human)",
+      "nő (female)"
+    ],
+    [
+      "männlich",
+      "weiblich",
+      "verheiratet",
+      "ledig"
+    ],
+    [
+      "házas (married)",
+      "elvált (divorced)",
+      "egyedülálló (single)",
+      "férfi (male)"
+    ],
+    [
+      "ledig",
+      "geschieden",
+      "weiblich",
+      "verheiratet"
+    ],
+    [
+      "elvált (divorced)",
+      "házas (married)",
+      "nő (female)",
+      "egyedülálló (single)"
+    ],
+    [
+      "r Ort (e Orte)",
+      "e Adresse (e Adressen)",
+      "e Stadt (e Städte)",
+      "r Name (e Namen)"
+    ],
+    [
+      "Utca (Street)",
+      "Város (City)",
+      "Házszám (House number)",
+      "Lakás (Apartment)"
+    ],
+    [
+      "r Ausgang (e Ausgänge)",
+      "e Tür (e Türen)",
+      "s Fenster (e Fenster)",
+      "r Eingang (e Eingänge)"
+    ],
+    [
+      "Kijárat (Exit)",
+      "Ablak (Window)",
+      "Ajtó (Door)",
+      "Bejárat (Entrance)"
+    ],
+    [
+      "erlaubt",
+      "verboten",
+      "geschlossen",
+      "frei"
+    ],
+    [
+      "tilos (forbidden)",
+      "zárva (closed)",
+      "megengedett (allowed)",
+      "nyitva (open)"
+    ],
+    [
+      "trinken",
+      "essen",
+      "kaufen",
+      "rauchen"
+    ],
+    [
+      "Szórakozás / Vicc (Fun)",
+      "Probléma (Problem)",
+      "Munka (Work)",
+      "Idő (Time)"
+    ],
+    [
+      "r Sport",
+      "s Spiel (e Spiele)",
+      "s Kino (e Kinos)",
+      "s Hobby (e Hobbys)"
+    ],
+    [
+      "játszani (to play)",
+      "futni (to run)",
+      "nyerni (to win)",
+      "veszíteni (to lose)"
+    ],
+    [
+      "gewinnen",
+      "spielen",
+      "suchen",
+      "verlieren"
+    ],
+    [
+      "Egyesület (Club)",
+      "Csapat (Team)",
+      "Sport (Sport)",
+      "Iskola (School)"
+    ],
+    [
+      "r Chef (e Chefs)",
+      "s Mitglied (e Mitglieder)",
+      "r Freund (e Freunde)",
+      "r Kollege (e Kollegen)"
+    ],
+    [
+      "Utazás (Journey)",
+      "Szabadság (Vacation)",
+      "Kirándulás (Excursion)",
+      "Séta (Walk)"
+    ],
+    [
+      "r Weg (e Wege)",
+      "r Plan (e Pläne)",
+      "e Karte (e Karten)",
+      "s Ziel (e Ziele)"
+    ],
+    [
+      "Határ (Border)",
+      "Város (City)",
+      "Ország (Country)",
+      "Térkép (Map)"
+    ],
+    [
+      "s Meer (e Meere)",
+      "e Insel (e Inseln)",
+      "r Berg (e Berge)",
+      "r Fluss (e Flüsse)"
+    ],
+    [
+      "Külföldi (Foreigner)",
+      "Turista (Tourist)",
+      "Lakos (Inhabitant)",
+      "Ember (Person)"
+    ],
+    [
+      "r Einwohner (e Einwohner)",
+      "r Tourist (e Touristen)",
+      "r Mensch (e Menschen)",
+      "r Ausländer (e Ausländer)"
+    ],
+    [
+      "Külföld (Abroad)",
+      "Belföld (Domestic)",
+      "Ország (Country)",
+      "Város (City)"
+    ],
+    [
+      "r Bahnhof (e Bahnhöfe)",
+      "r Flughafen (e Flughäfen)",
+      "r Hafen (e Häfen)",
+      "e Haltestelle (e Haltestellen)"
+    ],
+    [
+      "Vonat (Train)",
+      "Hajó (Ship)",
+      "Repülés / Járat (Flight)",
+      "Autó (Car)"
+    ],
+    [
+      "r Urlaub (e Urlaube)",
+      "r Ausflug (e Ausflüge)",
+      "r Weg (e Wege)",
+      "e Reise (e Reisen)"
+    ],
+    [
+      "Bőrönd (Suitcase)",
+      "Táska (Bag)",
+      "Hátizsák (Backpack)",
+      "Jegy (Ticket)"
+    ],
+    [
+      "e Reise (e Reisen)",
+      "r Urlaub (e Urlaube)",
+      "r Feiertag (e Feiertage)",
+      "r Ausflug (e Ausflüge)"
+    ],
+    [
+      "dolgozni (to work)",
+      "tanulni (to learn)",
+      "ünnepelni (to celebrate)",
+      "utazni (to travel)"
+    ],
+    [
+      "e Party (e Partys)",
+      "s Geschenk (e Geschenke)",
+      "r Geburtstag (e Geburtstage)",
+      "s Fest (e Feste)"
+    ],
+    [
+      "én (I)",
+      "te (you)",
+      "ő (he/she)",
+      "mi (we)"
+    ],
+    [
+      "ich",
+      "du",
+      "wir",
+      "ihr"
+    ],
+    [
+      "te (you)",
+      "én (I)",
+      "ő [hímnem] (he)",
+      "ők (they)"
+    ],
+    [
+      "er",
+      "es",
+      "ihr",
+      "sie"
+    ],
+    [
+      "az (it)",
+      "ő [hímnem] (he)",
+      "mi (we)",
+      "ők (they)"
+    ],
+    [
+      "ich",
+      "wir",
+      "ihr",
+      "sie"
+    ],
+    [
+      "én (I)",
+      "mi (we)",
+      "ti (you [plural])",
+      "ők (they)"
+    ],
+    [
+      "ihr",
+      "wir",
+      "es",
+      "sie"
+    ],
+    [
+      "Ön / Önök (you [formal])",
+      "én (I)",
+      "ő (he/she)",
+      "ti (you [plural])"
+    ],
+    [
+      "dein",
+      "mein",
+      "sein",
+      "unser"
+    ],
+    [
+      "az én ...-m (my)",
+      "az ő ...-ja (his/her)",
+      "a te ...-d (your)",
+      "a mi ...-nk (our)"
+    ],
+    [
+      "ihr",
+      "mein",
+      "dein",
+      "sein"
+    ],
+    [
+      "a mi ...-nk (our)",
+      "a te ...-d (your)",
+      "az ő ...-ja (his/her)",
+      "az én ...-m (my)"
+    ],
+    [
+      "unser",
+      "euer",
+      "ihr",
+      "sein"
+    ],
+    [
+      "hol? (where?)",
+      "mi? (what?)",
+      "ki? (who?)",
+      "hogyan? (how?)"
+    ],
+    [
+      "wie?",
+      "wann?",
+      "wer?",
+      "was?"
+    ],
+    [
+      "hol? (where?)",
+      "hova? (where to?)",
+      "honnan? (where from?)",
+      "mikor? (when?)"
+    ],
+    [
+      "wohin?",
+      "woher?",
+      "wo?",
+      "wie?"
+    ],
+    [
+      "hol? (where?)",
+      "honnan? (where from?)",
+      "hova? (where to?)",
+      "miért? (why?)"
+    ],
+    [
+      "warum?",
+      "wie?",
+      "wo?",
+      "wann?"
+    ],
+    [
+      "miért? (why?)",
+      "hogyan? (how?)",
+      "mikor? (when?)",
+      "mi? (what?)"
+    ],
+    [
+      "warum?",
+      "wie?",
+      "wann?",
+      "wer?"
+    ],
+    [
+      "hol? (where?)",
+      "mikor? (when?)",
+      "mennyi? (how much?)",
+      "hogyan? (how?)"
+    ],
+    [
+      "r Dienstag (e Dienstage)",
+      "r Mittwoch (e Mittwoche)",
+      "r Freitag (e Freitage)",
+      "r Montag (e Montage)"
+    ],
+    [
+      "Kedd (Tuesday)",
+      "Szerda (Wednesday)",
+      "Hétfő (Monday)",
+      "Péntek (Friday)"
+    ],
+    [
+      "r Donnerstag (e Donnerstage)",
+      "r Mittwoch (e Mittwoche)",
+      "r Samstag (e Samstage)",
+      "r Sonntag (e Sonntage)"
+    ],
+    [
+      "Kedd (Tuesday)",
+      "Szerda (Wednesday)",
+      "Csütörtök (Thursday)",
+      "Péntek (Friday)"
+    ],
+    [
+      "r Dienstag (e Dienstage)",
+      "r Mittwoch (e Mittwoche)",
+      "r Samstag (e Samstage)",
+      "r Freitag (e Freitage)"
+    ],
+    [
+      "Szombat (Saturday)",
+      "Vasárnap (Sunday)",
+      "Hétfő (Monday)",
+      "Szerda (Wednesday)"
+    ],
+    [
+      "r Montag (e Montage)",
+      "r Sonntag (e Sonntage)",
+      "r Freitag (e Freitage)",
+      "r Samstag (e Samstage)"
+    ],
+    [
+      "Március (March)",
+      "Február (February)",
+      "Január (January)",
+      "Április (April)"
+    ],
+    [
+      "r Januar (e Januare)",
+      "r März (e Märze)",
+      "r April (e Aprile)",
+      "r Februar (e Februare)"
+    ],
+    [
+      "Március (March)",
+      "Május (May)",
+      "Június (June)",
+      "Július (July)"
+    ],
+    [
+      "r Mai (e Maie)",
+      "r April (e Aprile)",
+      "r März (e Märze)",
+      "r Juni (e Junis)"
+    ],
+    [
+      "Április (April)",
+      "Június (June)",
+      "Május (May)",
+      "Július (July)"
+    ],
+    [
+      "r Mai (e Maie)",
+      "r Juli (e Julis)",
+      "r August (e Auguste)",
+      "r Juni (e Junis)"
+    ],
+    [
+      "Július (July)",
+      "Június (June)",
+      "Május (May)",
+      "Augusztus (August)"
+    ],
+    [
+      "r Juli (e Julis)",
+      "r August (e Auguste)",
+      "r September (e September)",
+      "r Oktober (e Oktober)"
+    ],
+    [
+      "Október (October)",
+      "November (November)",
+      "Szeptember (September)",
+      "December (December)"
+    ],
+    [
+      "r September (e September)",
+      "r November (e November)",
+      "r Dezember (e Dezember)",
+      "r Oktober (e Oktober)"
+    ],
+    [
+      "November (November)",
+      "Október (October)",
+      "Szeptember (September)",
+      "December (December)"
+    ],
+    [
+      "r Oktober (e Oktober)",
+      "r Dezember (e Dezember)",
+      "r November (e November)",
+      "r Januar (e Januare)"
+    ],
+    [
+      "ban / ben / ba / be (in / into)",
+      "on / en / ön / ra / re (on / onto)",
+      "alatt / alá (under)",
+      "előtt / elé (in front of)"
+    ],
+    [
+      "in",
+      "auf",
+      "unter",
+      "an"
+    ],
+    [
+      "on / en / ön / ra / re [vízszintes] (on / onto)",
+      "mellett / mellé (next to)",
+      "fölött / fölé (over / above)",
+      "mögött / mögé (behind)"
+    ],
+    [
+      "über",
+      "unter",
+      "neben",
+      "vor"
+    ],
+    [
+      "mögött / mögé (behind)",
+      "között / közé (between)",
+      "fölött / fölé (over / above)",
+      "alatt / alá (under)"
+    ],
+    [
+      "hinter",
+      "neben",
+      "über",
+      "vor"
+    ],
+    [
+      "mögött / mögé (behind)",
+      "előtt / elé (in front of / before)",
+      "mellett / mellé (next to)",
+      "között / közé (between)"
+    ],
+    [
+      "an",
+      "neben",
+      "in",
+      "auf"
+    ],
+    [
+      "mellett / mellé (next to)",
+      "mögött / mögé (behind)",
+      "között / közé (between)",
+      "alatt / alá (under)"
+    ],
+    [
+      "ohne",
+      "für",
+      "gegen",
+      "mit"
+    ],
+    [
+      "nélkül (without)",
+      "ellen / neki (against)",
+      "val / vel (with)",
+      "ból / ből (from / out of)"
+    ],
+    [
+      "mit",
+      "für",
+      "zu",
+      "von"
+    ],
+    [
+      "ból / ből (from)",
+      "val / vel (with)",
+      "ellen / neki (against)",
+      "nál / nél (at / near)"
+    ],
+    [
+      "von",
+      "zu",
+      "bei",
+      "aus"
+    ],
+    [
+      "nál / nél (at / near)",
+      "hoz / hez / höz (to)",
+      "után / felé (after / to)",
+      "ból / ből (from)"
+    ],
+    [
+      "vor",
+      "nach",
+      "bei",
+      "aus"
+    ],
+    [
+      "val / vel (with)",
+      "hoz / hez / höz (to)",
+      "tól / től / -nak a... (from / of)",
+      "után / felé (after)"
+    ],
+    [
+      "von",
+      "nach",
+      "bei",
+      "zu"
+    ],
+    [
+      "és (and)",
+      "vagy (or)",
+      "de (but)",
+      "mert (because)"
+    ],
+    [
+      "und",
+      "oder",
+      "aber",
+      "denn"
+    ],
+    [
+      "vagy (or)",
+      "és (and)",
+      "de (but)",
+      "hogy (that)"
+    ],
+    [
+      "weil",
+      "dass",
+      "wenn",
+      "denn"
+    ],
+    [
+      "mert [mellékmondati] (because)",
+      "ha / amikor (if / when)",
+      "de (but)",
+      "és (and)"
+    ],
+    [
+      "weil",
+      "dass",
+      "wenn",
+      "oder"
+    ],
+    [
+      "mert (because)",
+      "vagy (or)",
+      "ha / amikor (if / when)",
+      "hogy (that)"
+    ],
+    [
+      "auch",
+      "nicht",
+      "kein",
+      "sehr"
+    ],
+    [
+      "is (also / too)",
+      "nem (not)",
+      "egy sem (no / not any)",
+      "nagyon (very)"
+    ],
+    [
+      "auch",
+      "nicht",
+      "kein",
+      "sehr"
+    ],
+    [
+      "egy sem / egyáltalán nem (no / not any)",
+      "nem (not)",
+      "is (also / too)",
+      "nagyon (very)"
+    ],
+    [
+      "zweite",
+      "dritte",
+      "vierte",
+      "erste"
+    ],
+    [
+      "második (second)",
+      "első (first)",
+      "harmadik (third)",
+      "negyedik (fourth)"
+    ],
+    [
+      "vierte",
+      "dritte",
+      "zweite",
+      "erste"
+    ],
+    [
+      "első (first)",
+      "második (second)",
+      "negyedik (fourth)",
+      "harmadik (third)"
+    ],
+    [
+      "achte",
+      "zehnte",
+      "dritte",
+      "zwölfte"
+    ],
+    [
+      "Negyed (Quarter)",
+      "Harmad (Third)",
+      "Fél (Half)",
+      "Nyolcad (Eighth)"
+    ],
+    [
+      "s Viertel (e Viertel)",
+      "s Drittel (e Drittel)",
+      "s Achtel (e Achtel)",
+      "s Halbe (e Halben)"
+    ],
+    [
+      "Nyolcad (Eighth)",
+      "Harmad (Third)",
+      "Negyed (Quarter)",
+      "Fél (Half)"
+    ],
+    [
+      "einmal",
+      "zweimal",
+      "doppelt",
+      "halb"
+    ],
+    [
+      "egyszer (once)",
+      "kétszer (twice)",
+      "dupla (double)",
+      "fél (half)"
+    ],
+    [
+      "einmal",
+      "zweimal",
+      "dreimal",
+      "achtmal"
+    ],
+    [
+      "egyszer (once)",
+      "kétszer (twice)",
+      "nyolcszor (eight times)",
+      "dupla (double)"
+    ],
+    [
+      "halb",
+      "einmal",
+      "zweimal",
+      "doppelt"
+    ],
+    [
+      "Százalék (Percent)",
+      "Harmad (Third)",
+      "Negyed (Quarter)",
+      "Nyolcad (Eighth)"
+    ],
+    [
+      "Guten Tag!",
+      "Guten Morgen!",
+      "Guten Abend!",
+      "Gute Nacht!"
+    ],
+    [
+      "Jó reggelt! (Good morning!)",
+      "Jó estét! (Good evening!)",
+      "Jó napot! (Good day!)",
+      "Jó éjszakát! (Good night!)"
+    ],
+    [
+      "Guten Tag!",
+      "Guten Morgen!",
+      "Gute Nacht!",
+      "Guten Abend!"
+    ],
+    [
+      "Jó éjszakát! (Good night!)",
+      "Jó reggelt! (Good morning!)",
+      "Jó napot! (Good day!)",
+      "Jó estét! (Good evening!)"
+    ],
+    [
+      "Hallo!",
+      "Auf Wiedersehen!",
+      "Tschüss!",
+      "Bitte!"
+    ],
+    [
+      "Kérem! (Please!)",
+      "Köszönöm! (Thank you!)",
+      "Szia! [elköszönés] (Bye!)",
+      "Szia! [köszönés] (Hello!)"
+    ],
+    [
+      "Tschüss!",
+      "Auf Wiedersehen!",
+      "Bitte!",
+      "Hallo!"
+    ],
+    [
+      "Kérem! / Szívesen! (Please! / You're welcome!)",
+      "Köszönöm! (Thank you!)",
+      "Elnézést! (Excuse me!)",
+      "Sajnálom. (I'm sorry.)"
+    ],
+    [
+      "Bitte!",
+      "Danke!",
+      "Entschuldigung!",
+      "Hallo!"
+    ],
+    [
+      "Kérem! (Please!)",
+      "Köszönöm! (Thank you!)",
+      "Elnézést! (Excuse me! / Sorry!)",
+      "Sajnálom. (I'm sorry.)"
+    ],
+    [
+      "Bitte!",
+      "Danke!",
+      "Entschuldigung!",
+      "Es tut mir leid."
+    ],
+    [
+      "Hogy vagy? (How are you?)",
+      "Mi a neved? (What is your name?)",
+      "Mennyibe kerül? (How much does it cost?)",
+      "Hol van? (Where is it?)"
+    ],
+    [
+      "Wie geht es dir?",
+      "Ich heiße...",
+      "Woher kommst du?",
+      "Was ist das?"
+    ],
+    [
+      "nem (no)",
+      "talán (maybe)",
+      "igen (yes)",
+      "is (also)"
+    ],
+    [
+      "ja",
+      "vielleicht",
+      "auch",
+      "nein"
+    ]
+  ],
+  "hints": [
+    "Wenn man nicht krank ist, hat man eine gute...",
+    "Das macht man, wenn man krank ist und der Hals kratzt.",
+    "Wenn der Körper zu warm ist; oft bei Krankheit.",
+    "Das kauft man in der Apotheke, wenn man krank ist.",
+    "Ein langes Kleidungsstück, das man im Winter draußen trägt.",
+    "Ein elegantes Kleidungsstück für Männer mit Knöpfen.",
+    "Ein einteiliges Kleidungsstück für Frauen.",
+    "Ein Kleidungsstück für Frauen, das man mit einer Bluse trägt.",
+    "Kleidung auf den Körper tun.",
+    "Kleidung vom Körper entfernen.",
+    "Wenn die Kleidung die richtige Größe hat.",
+    "S, M, L oder XL bei Kleidung.",
+    "Ein Getränk aus Früchten, z. B. Orange oder Apfel.",
+    "Ein langes, oft fleischiges Nahrungsmittel.",
+    "Ein Tier, das im Wasser schwimmt; man kann es essen.",
+    "Ein Vogel, den man oft isst; gibt auch Eier.",
+    "Ein kleines Brot.",
+    "Eine warme, flüssige Speise; man isst sie mit dem Löffel.",
+    "Ein Gericht aus Teig, z. B. Spaghetti.",
+    "Kleine weiße Körner, die man kocht; oft in Asien.",
+    "Ein rundes, gesundes Obst; rot oder grün.",
+    "Ein sehr saures, gelbes Obst.",
+    "Ein kleines, rotes, sehr süßes Obst im Sommer.",
+    "Der Geschmack von einer Zitrone.",
+    "Der Geschmack von Pfeffer oder Chili.",
+    "Er ist oft blau und hat Wolken.",
+    "Sie ist weiß oder grau am Himmel; bringt oft Regen.",
+    "Er leuchtet nachts am Himmel.",
+    "Ein Lebewesen, das kein Mensch oder Pflanze ist.",
+    "Ein Tier, das fliegen kann.",
+    "Ein sehr kleines Tier, das Katzen gerne fangen.",
+    "Ein großes Tier, auf dem man reiten kann.",
+    "Ein Tier, das Milch gibt.",
+    "Ein rosafarbenes Tier; man macht oft Wurst daraus.",
+    "Wenn die Luft sich schnell bewegt.",
+    "Wenn Wasser vom Himmel fällt.",
+    "Wenn weiße Flocken vom Himmel fallen.",
+    "Eine Nachricht auf Papier in einem Umschlag.",
+    "Eine Karte mit einem Bild, die man aus dem Urlaub schickt.",
+    "Ein großer Karton, den man mit der Post schickt.",
+    "Man klebt sie auf einen Brief, bevor man ihn schickt.",
+    "Wenn das Telefon klingelt.",
+    "Eine Nummer wählen und mit jemandem telefonieren.",
+    "Dort wartet man auf den Bus oder die Straßenbahn.",
+    "Ein Zug in der Stadt, der unter der Erde fährt.",
+    "Ein Zug für die Stadt und die Umgebung; meistens oberirdisch.",
+    "Der Ort am Bahnhof, wo der Zug abfährt.",
+    "Ein Plan, der zeigt, wann die Züge fahren.",
+    "Alle Koffer und Taschen, die man auf Reisen mitnimmt.",
+    "Nicht weiterfahren; an einer Stelle bleiben.",
+    "Etwas zu einer Person hintragen.",
+    "Irgendwohin gehen und etwas mitbringen.",
+    "Eine Tür oder ein Fenster aufmachen.",
+    "Eine Tür oder ein Fenster zumachen.",
+    "Das informelle Wort für 'öffnen'.",
+    "Das informelle Wort für 'schließen'.",
+    "Das Gegenteil von 'kurz'.",
+    "Das Gegenteil von 'lang'.",
+    "Mit viel Kraft.",
+    "Ohne Kraft; das Gegenteil von 'stark'.",
+    "Wenn man etwas falsch macht.",
+    "Ein wichtiger Test am Ende eines Kurses.",
+    "Ein offizielles Papier, das man ausfüllen muss.",
+    "Informationen in ein Formular schreiben.",
+    "Ein offizielles Dokument mit Foto zur Identifikation.",
+    "Ein Dokument für Reisen in andere Länder.",
+    "Der Tag, an dem man geboren wurde.",
+    "Die Stadt, in der man geboren wurde.",
+    "Das Geschlecht eines Mannes.",
+    "Das Geschlecht einer Frau.",
+    "Wenn man nicht verheiratet ist.",
+    "Wenn man einen Ehemann oder eine Ehefrau hat.",
+    "Wenn man verheiratet war, aber jetzt nicht mehr.",
+    "Straße, Hausnummer, Postleitzahl und Stadt.",
+    "Die Ziffer an einem Gebäude.",
+    "Hier geht man in ein Gebäude hinein.",
+    "Hier geht man aus einem Gebäude heraus.",
+    "Man darf es nicht tun.",
+    "Man darf es tun; es ist nicht verboten.",
+    "Eine Zigarette konsumieren.",
+    "Etwas, das Freude macht.",
+    "Etwas, das man zum Spaß macht, z. B. Karten oder Fußball.",
+    "Der Erste sein; das Gegenteil von 'verlieren'.",
+    "Nicht gewinnen.",
+    "Eine offizielle Gruppe von Menschen mit dem gleichen Hobby.",
+    "Eine Person, die in einem Verein ist.",
+    "Eine kurze Reise für einen Tag.",
+    "Der Ort, an den man reisen möchte.",
+    "Die Linie zwischen zwei Ländern.",
+    "Land, das komplett von Wasser umgeben ist.",
+    "Eine Person, die in einer Stadt oder einem Land lebt.",
+    "Eine Person aus einem anderen Land.",
+    "Alle anderen Länder.",
+    "Der Ort, wo Flugzeuge starten und landen.",
+    "Die Reise mit einem Flugzeug.",
+    "Wenn man von einem Ort zum anderen fährt.",
+    "Ein großes, hartes Gepäckstück für Kleidung.",
+    "Die Zeit ohne Arbeit, um sich zu erholen.",
+    "Eine Party machen, weil etwas Besonderes ist.",
+    "Eine große Feier mit vielen Menschen.",
+    "Das Personalpronomen für die eigene Person (1. Person Singular).",
+    "Das Personalpronomen für eine andere Person (2. Person Singular).",
+    "Das Personalpronomen für eine männliche Person (3. Person Singular).",
+    "Das Personalpronomen für eine weibliche Person (3. Person Singular).",
+    "Das Personalpronomen für ein sächliches Nomen (3. Person Singular).",
+    "Das Personalpronomen für sich selbst und andere (1. Person Plural).",
+    "Das Personalpronomen für mehrere andere Personen (2. Person Plural).",
+    "Das Personalpronomen für mehrere Personen oder Dinge (3. Person Plural).",
+    "Das formelle Personalpronomen für Respektspersonen.",
+    "Das Possessivpronomen für 'ich'.",
+    "Das Possessivpronomen für 'du'.",
+    "Das Possessivpronomen für 'er' oder 'es'.",
+    "Das Possessivpronomen für 'wir'.",
+    "Das Possessivpronomen für 'ihr'.",
+    "Frage nach einer Person (Nominativ).",
+    "Frage nach einer Sache.",
+    "Frage nach einem Ort.",
+    "Frage nach der Herkunft.",
+    "Frage nach dem Ziel.",
+    "Frage nach der Zeit.",
+    "Frage nach dem Grund.",
+    "Frage nach der Art und Weise.",
+    "Frage nach der Menge.",
+    "Der erste Tag der Woche.",
+    "Der Tag nach Montag.",
+    "Die Mitte der Arbeitswoche.",
+    "Der Tag vor Freitag.",
+    "Der letzte Tag der Arbeitswoche.",
+    "Der erste Tag vom Wochenende.",
+    "Der letzte Tag der Woche.",
+    "Der erste Monat im Jahr.",
+    "Der zweite Monat im Jahr.",
+    "Der dritte Monat im Jahr.",
+    "Der vierte Monat im Jahr.",
+    "Der fünfte Monat im Jahr.",
+    "Der sechste Monat im Jahr.",
+    "Der siebte Monat im Jahr.",
+    "Der achte Monat im Jahr.",
+    "Der neunte Monat im Jahr.",
+    "Der zehnte Monat im Jahr.",
+    "Der elfte Monat im Jahr.",
+    "Der letzte Monat im Jahr.",
+    "Präposition: Zeigt an, dass etwas drinnen ist.",
+    "Präposition: Zeigt Kontakt an einer vertikalen Fläche (z.B. an der Wand).",
+    "Präposition: Zeigt Kontakt auf einer horizontalen Fläche (z.B. auf dem Tisch).",
+    "Präposition: Das Gegenteil von 'über'.",
+    "Präposition: Höher als etwas anderes, ohne direkten Kontakt.",
+    "Präposition: Das Gegenteil von 'hinter'.",
+    "Präposition: Das Gegenteil von 'vor'.",
+    "Präposition: Direkt an der Seite von etwas.",
+    "Präposition: In der Mitte von zwei Dingen.",
+    "Präposition: Zusammen mit einer Person oder Sache.",
+    "Präposition: Das Gegenteil von 'mit'.",
+    "Präposition: Zeigt den Empfänger oder Zweck an.",
+    "Präposition: Das Gegenteil von 'für' (in Konflikten) oder Richtung auf etwas zu.",
+    "Präposition: Herkunft aus einem Raum oder Land.",
+    "Präposition: In der Nähe von oder an der Arbeitsstelle/Wohnort einer Person.",
+    "Präposition: Zeitlich später oder Richtung in eine Stadt/ein Land.",
+    "Präposition: Zeigt Herkunft oder Besitz an.",
+    "Präposition: Richtung zu einer Person oder einem Ort (lokal).",
+    "Konjunktion: Verbindet zwei Wörter oder Sätze.",
+    "Konjunktion: Bietet eine Alternative.",
+    "Konjunktion: Zeigt einen Gegensatz an.",
+    "Konjunktion: Nennt den Grund (Hauptsatz-Wortstellung).",
+    "Konjunktion: Nennt den Grund (Nebensatz-Wortstellung).",
+    "Konjunktion: Leitet einen Nebensatz ein (z.B. Ich weiß, ...).",
+    "Konjunktion: Konditional oder temporal für die Zukunft/Gegenwart.",
+    "Adverb: Verstärkt ein Adjektiv (z.B. ... gut).",
+    "Adverb: Zeigt Übereinstimmung (z.B. Ich ...).",
+    "Adverb: Macht einen Satz negativ.",
+    "Artikel: Verdrängt den unbestimmten Artikel bei der Verneinung.",
+    "Die Ordnungszahl für 1.",
+    "Die Ordnungszahl für 2.",
+    "Die Ordnungszahl für 3.",
+    "Die Ordnungszahl für 4.",
+    "Die Ordnungszahl für 12.",
+    "1/4 als Nomen.",
+    "1/3 als Nomen.",
+    "1/8 als Nomen.",
+    "1/2 als Adjektiv.",
+    "1 x als Wort.",
+    "2 x als Wort.",
+    "8 x als Wort.",
+    "200% oder x 2.",
+    "Ein Teil von Hundert (%).",
+    "Begrüßung am Beginn des Tages.",
+    "Allgemeine Begrüßung tagsüber.",
+    "Begrüßung in der Dämmerung oder am Abend.",
+    "Verabschiedung vor dem Schlafen.",
+    "Formelle Verabschiedung.",
+    "Informelle Verabschiedung.",
+    "Informelle Begrüßung.",
+    "Antwort auf 'Danke' oder eine höfliche Aufforderung.",
+    "Wort der Dankbarkeit.",
+    "Wenn man einen Fehler gemacht hat oder etwas fragen möchte.",
+    "Wenn man Bedauern ausdrückt.",
+    "Frage nach dem Befinden.",
+    "Eigene Vorstellung mit Namen.",
+    "Zustimmung.",
+    "Ablehnung."
+  ]
+}
