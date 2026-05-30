@@ -228,7 +228,7 @@ class Quiz:
                 fontcolor = "#daa520" # goldenrod
             else:
                 prefix = ""
-                fontcolor = "white"
+                fontcolor = "black"
 
             # assemble the option again
             option = prefix + option
@@ -237,7 +237,6 @@ class Quiz:
             # self.options[val]['fg'] = fontcolor
             self.options[val].config(text=option,
                                      fg=fontcolor,
-
                                      )
             val += 1 # it must be increased to go through the choices and show them
 
@@ -291,13 +290,13 @@ class Quiz:
             # print(len(q_list))
             q_list.append(radio_btn) # adding the button to the end of the list one by one
 
-            radio_btn.place(x=(guitop_width // 2) - 65 , y=y_pos) # placing the button
+            radio_btn.place(x=(guitop_width // 2) - 80 , y=y_pos) # placing the button
             y_pos += 40  # increasing the y-axis position by +45 (downwards)
 
         # return the list of radio buttons
         return q_list # important!
 
-    def call_topic(self, topic_datafile, index, topic_length=100):
+    def call_topic(self, topic_datafile, index, topic_length=20):
         # load topics # https://pynative.com/python-json-exercise/#h-exercise-8-check-whether-following-json-is-valid-or-invalid-if-invalid-correct-it
         with open(topic_datafile, 'r', encoding='utf-8') as datafile:
             data_dict = json.load(datafile)
@@ -404,6 +403,7 @@ frame.pack(fill= NONE, expand= True) # https://www.geeksforgeeks.org/difference-
 frame.config(height = guitop_height, width = guitop_width)
 frame.config(relief = 'flat')
 
+
 # sets the menubar
 guitop.option_add('*tearOff', False) # https://www.geeksforgeeks.org/what-does-the-tearoff-attribute-do-in-a-tkinter-menu/
 menubar = Menu(guitop) # https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?resume=false
@@ -457,15 +457,15 @@ topics.add_radiobutton(label = 'Python', variable = choice, value = 12,
 # DEUTSCH MENUBAR
 choice = IntVar()
 deutsch.add_radiobutton(label = 'Deutsch A1', variable = choice, value = 1,
-                        command= lambda: (quiz.call_topic(resource_path('data/raw/quiz_german_a1.json'), 0), quiz.display_deutsch_label(0)))
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1.json'), 0), quiz.display_deutsch_label(0)))
 deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 2,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 1), quiz.display_deutsch_label(1)))
 deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 3,
                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 2), quiz.display_deutsch_label(2)))
 deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 4,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 3), quiz.display_deutsch_label(3)))
-deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 4), quiz.display_deutsch_label(4)))
+# deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 4), quiz.display_deutsch_label(4)))
 # deutsch.add_radiobutton(label = '(X) Deutsch A1.4', variable = choice, value = 6,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-4.json'), 3), quiz.display_deutsch_label(3)))
 # deutsch.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 7,

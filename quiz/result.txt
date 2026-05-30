@@ -423,3 +423,13 @@ Deutsch A1.4
 Player name: Type your name 
 Your score: 92%
 ---------------------------------
+2026-05-26, 23:17:25
+Deutsch BIM         
+Player name: Type your name 
+Your score: 80%
+---------------------------------
+2026-05-26, 23:30:29
+Deutsch A1          
+Player name: Type your name 
+Your score: 85%
+---------------------------------
