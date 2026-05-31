@@ -463,3 +463,33 @@ Deutsch A1
 Player name: német gyak     
 Your score: 96%
 ---------------------------------
+2026-05-31, 19:58:50
+Deutsch A1          
+Player name: myname         
+Your score: 98%
+---------------------------------
+2026-05-31, 20:34:16
+Deutsch A1          
+Player name: myname         
+Your score: 97%
+---------------------------------
+2026-05-31, 20:51:47
+Deutsch A1          
+Player name: myname         
+Your score: 94%
+---------------------------------
+2026-05-31, 21:03:36
+Deutsch A1          
+Player name: myname         
+Your score: 100%
+---------------------------------
+2026-05-31, 21:20:04
+Deutsch A1.6        
+Player name: myname         
+Your score: 90%
+---------------------------------
+2026-05-31, 21:34:19
+Deutsch A1.6        
+Player name: Type your name 
+Your score: 95%
+---------------------------------

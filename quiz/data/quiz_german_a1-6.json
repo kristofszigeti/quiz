@@ -1,219 +1,809 @@
 {
   "question": [
-    "Was bedeutet das Pronomen 'ich'?",
-    "Was ist das deutsche Wort für 'te (you)'?",
-    "Was bedeutet das Pronomen 'er'?",
-    "Was ist das deutsche Wort für 'ő [nőnem] (she)'?",
-    "Was bedeutet das Pronomen 'es'?",
-    "Was ist das deutsche Wort für 'mi (we)'?",
-    "Was bedeutet das Pronomen 'ihr'?",
-    "Was ist das deutsche Wort für 'ők (they)'?",
-    "Was bedeutet das Pronomen 'Sie'?",
-    "Was ist das deutsche Wort für 'az én ...-m (my)'?",
-    "Was bedeutet das Pronomen 'dein'?",
-    "Was ist das deutsche Wort für 'az ő ...-ja [hímnem] (his)'?",
-    "Was bedeutet das Pronomen 'unser'?",
-    "Was ist das deutsche Wort für 'a ti ...-tok (your [plural])'?",
-    "Was bedeutet das Fragewort 'wer?'?",
-    "Was ist das deutsche Wort für 'mi? (what?)'?",
-    "Was bedeutet das Fragewort 'wo?'?",
-    "Was ist das deutsche Wort für 'honnan? (where from?)'?",
-    "Was bedeutet das Fragewort 'wohin?'?",
-    "Was ist das deutsche Wort für 'mikor? (when?)'?",
-    "Was bedeutet das Fragewort 'warum?'?",
-    "Was ist das deutsche Wort für 'hogyan? (how?)'?",
-    "Was bedeutet das Fragewort 'wie viel?'?",
-    "Was ist das deutsche Wort für 'Hétfő (Monday)'?",
-    "Was bedeutet das Wort 'r Dienstag (e Dienstage)'?",
-    "Was ist das deutsche Wort für 'Szerda (Wednesday)'?",
-    "Was bedeutet das Wort 'r Donnerstag (e Donnerstage)'?",
-    "Was ist das deutsche Wort für 'Péntek (Friday)'?",
-    "Was bedeutet das Wort 'r Samstag (e Samstage)'?",
-    "Was ist das deutsche Wort für 'Vasárnap (Sunday)'?",
-    "Was bedeutet das Wort 'r Januar (e Januare)'?",
-    "Was ist das deutsche Wort für 'Február (February)'?",
-    "Was bedeutet das Wort 'r März (e Märze)'?",
-    "Was ist das deutsche Wort für 'Április (April)'?",
-    "Was bedeutet das Wort 'r Mai (e Maie)'?",
-    "Was ist das deutsche Wort für 'Június (June)'?",
-    "Was bedeutet das Wort 'r Juli (e Julis)'?",
-    "Was ist das deutsche Wort für 'Augusztus (August)'?",
-    "Was bedeutet das Wort 'r September (e September)'?",
-    "Was ist das deutsche Wort für 'Október (October)'?",
-    "Was bedeutet das Wort 'r November (e November)'?",
-    "Was ist das deutsche Wort für 'December (December)'?",
-    "Was bedeutet die Präposition 'in'?",
-    "Was ist das deutsche Wort für 'on / en / ön / ra / re [függőleges] (on / at)'?",
-    "Was bedeutet die Präposition 'auf'?",
-    "Was ist das deutsche Wort für 'alatt / alá (under)'?",
-    "Was bedeutet die Präposition 'über'?",
-    "Was ist das deutsche Wort für 'előtt / elé (in front of / before)'?",
-    "Was bedeutet die Präposition 'hinter'?",
-    "Was ist das deutsche Wort für 'mellett / mellé (next to)'?",
-    "Was bedeutet die Präposition 'zwischen'?",
-    "Was ist das deutsche Wort für '-val / -vel (with)'?",
-    "Was bedeutet die Präposition 'ohne'?",
-    "Was ist das deutsche Wort für '-nak / -nek / számára (for)'?",
-    "Was bedeutet die Präposition 'gegen'?",
-    "Was ist das deutsche Wort für '-ból / -ből (from / out of)'?",
-    "Was bedeutet die Präposition 'bei'?",
-    "Was ist das deutsche Wort für 'után / felé (after / to)'?",
-    "Was bedeutet die Präposition 'von'?",
-    "Was ist das deutsche Wort für '-hoz / -hez / -höz (to)'?",
-    "Was bedeutet das Wort 'und'?",
-    "Was ist das deutsche Wort für 'vagy (or)'?",
-    "Was bedeutet das Wort 'aber'?",
-    "Was ist das deutsche Wort für 'mert [kötőszó] (because)'?",
-    "Was bedeutet das Wort 'weil'?",
-    "Was ist das deutsche Wort für 'hogy (that)'?",
-    "Was bedeutet das Wort 'wenn'?",
-    "Was ist das deutsche Wort für 'nagyon (very)'?",
-    "Was bedeutet das Wort 'auch'?",
-    "Was ist das deutsche Wort für 'nem [tagadás] (not)'?",
-    "Was bedeutet das Wort 'kein'?",
-    "Was ist das deutsche Wort für 'első (first)'?",
-    "Was bedeutet das Wort 'zweite'?",
-    "Was ist das deutsche Wort für 'harmadik (third)'?",
-    "Was bedeutet das Wort 'vierte'?",
-    "Was ist das deutsche Wort für 'tizenkettedik (twelfth)'?",
-    "Was bedeutet das Wort 's Viertel (e Viertel)'?",
-    "Was ist das deutsche Wort für 'Harmad (Third [fraction])'?",
-    "Was bedeutet das Wort 's Achtel (e Achtel)'?",
-    "Was ist das deutsche Wort für 'fél (half)'?",
-    "Was bedeutet das Wort 'einmal'?",
-    "Was ist das deutsche Wort für 'kétszer (twice)'?",
-    "Was bedeutet das Wort 'achtmal'?",
-    "Was ist das deutsche Wort für 'dupla / kétszeres (double)'?",
-    "Was bedeutet das Wort 's Prozent (e Prozente)'?",
-    "Was ist der deutsche Ausdruck für 'Jó reggelt! (Good morning!)'?",
-    "Was bedeutet der Ausdruck 'Guten Tag!'?",
-    "Was ist der deutsche Ausdruck für 'Jó estét! (Good evening!)'?",
-    "Was bedeutet der Ausdruck 'Gute Nacht!'?",
-    "Was ist der deutsche Ausdruck für 'Viszontlátásra! (Goodbye!)'?",
-    "Was bedeutet das Wort 'Tschüss!'?",
-    "Was ist das deutsche Wort für 'Szia! [köszönés] (Hello!)'?",
-    "Was bedeutet das Wort 'Bitte!'?",
-    "Was ist das deutsche Wort für 'Köszönöm! (Thank you!)'?",
-    "Was bedeutet das Wort 'Entschuldigung!'?",
-    "Was ist der deutsche Ausdruck für 'Sajnálom. (I'm sorry.)'?",
-    "Was bedeutet die Frage 'Wie geht es dir?'?",
-    "Was ist der deutsche Ausdruck für 'Engem ...-nak hívnak (My name is...)'?",
-    "Was bedeutet das Wort 'ja'?",
-    "Was ist das deutsche Wort für 'nem (no)'?"
+    "ich",
+    "te (you)",
+    "er",
+    "ő [nőnem] (she)",
+    "es",
+    "mi (we)",
+    "ihr",
+    "ők (they)",
+    "Sie",
+    "az én ...-m (my)",
+    "dein",
+    "az ő ...-ja [hímnem] (his)",
+    "unser",
+    "a ti ...-tok (your [plural])",
+    "wer?",
+    "mi? (what?)",
+    "wo?",
+    "honnan? (where from?)",
+    "wohin?",
+    "mikor? (when?)",
+    "warum?",
+    "hogyan? (how?)",
+    "wie viel?",
+    "Hétfő (Monday)",
+    "r Dienstag (e Dienstage)",
+    "Szerda (Wednesday)",
+    "r Donnerstag (e Donnerstage)",
+    "Péntek (Friday)",
+    "r Samstag (e Samstage)",
+    "Vasárnap (Sunday)",
+    "r Januar (e Januare)",
+    "Február (February)",
+    "r März (e Märze)",
+    "Április (April)",
+    "r Mai (e Maie)",
+    "Június (June)",
+    "r Juli (e Julis)",
+    "Augusztus (August)",
+    "r September (e September)",
+    "Október (October)",
+    "r November (e November)",
+    "December (December)",
+    "in",
+    "on / en / ön / ra / re [függőleges] (on / at)",
+    "auf",
+    "alatt / alá (under)",
+    "über",
+    "előtt / elé (in front of / before)",
+    "hinter",
+    "mellett / mellé (next to)",
+    "zwischen",
+    "-val / -vel (with)",
+    "ohne",
+    "-nak / -nek / számára (for)",
+    "gegen",
+    "-ból / -ből (from / out of)",
+    "bei",
+    "után / felé (after / to)",
+    "von",
+    "-hoz / -hez / -höz (to)",
+    "und",
+    "vagy (or)",
+    "aber",
+    "mert [kötőszó] (because)",
+    "weil",
+    "hogy (that)",
+    "wenn",
+    "nagyon (very)",
+    "auch",
+    "nem [tagadás] (not)",
+    "kein",
+    "első (first)",
+    "zweite",
+    "harmadik (third)",
+    "vierte",
+    "tizenkettedik (twelfth)",
+    "s Viertel (e Viertel)",
+    "Harmad (Third [fraction])",
+    "s Achtel (e Achtel)",
+    "fél (half)",
+    "einmal",
+    "kétszer (twice)",
+    "achtmal",
+    "dupla / kétszeres (double)",
+    "s Prozent (e Prozente)",
+    "Jó reggelt! (Good morning!)",
+    "Guten Tag!",
+    "Jó estét! (Good evening!)",
+    "Gute Nacht!",
+    "Viszontlátásra! (Goodbye!)",
+    "Tschüss!",
+    "Szia! [köszönés] (Hello!)",
+    "Bitte!",
+    "Köszönöm! (Thank you!)",
+    "Entschuldigung!",
+    "Sajnálom. (I'm sorry.)",
+    "Wie geht es dir?",
+    "Engem ...-nak hívnak (My name is...)",
+    "ja",
+    "nem (no)"
   ],
   "answer": [
-    1, 2, 3, 4, 1, 2, 3, 4, 1, 2,
-    3, 4, 1, 2, 3, 4, 1, 2, 3, 4,
-    1, 2, 3, 4, 1, 2, 3, 4, 1, 2,
-    3, 4, 1, 2, 3, 4, 1, 2, 3, 4,
-    1, 2, 3, 4, 1, 2, 3, 4, 1, 2,
-    3, 4, 1, 2, 3, 4, 1, 2, 3, 4,
-    1, 2, 3, 4, 1, 2, 3, 4, 1, 2,
-    3, 4, 1, 2, 3, 4, 1, 2, 3, 4,
-    1, 2, 3, 4, 1, 2, 3, 4, 1, 2,
-    3, 4, 1, 2, 3, 4, 1, 2, 3, 4
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4
   ],
   "choices": [
-    ["én (I)", "te (you)", "ő (he/she)", "mi (we)"],
-    ["ich", "du", "wir", "ihr"],
-    ["te (you)", "én (I)", "ő [hímnem] (he)", "ők (they)"],
-    ["er", "es", "ihr", "sie"],
-    ["az (it)", "ő [hímnem] (he)", "mi (we)", "ők (they)"],
-    ["ich", "wir", "ihr", "sie"],
-    ["én (I)", "mi (we)", "ti (you [plural])", "ők (they)"],
-    ["ihr", "wir", "es", "sie"],
-    ["Ön / Önök (you [formal])", "én (I)", "ő (he/she)", "ti (you [plural])"],
-    ["dein", "mein", "sein", "unser"],
-    ["az én ...-m (my)", "az ő ...-ja (his/her)", "a te ...-d (your)", "a mi ...-nk (our)"],
-    ["ihr", "mein", "dein", "sein"],
-    ["a mi ...-nk (our)", "a te ...-d (your)", "az ő ...-ja (his/her)", "az én ...-m (my)"],
-    ["unser", "euer", "ihr", "sein"],
-    ["hol? (where?)", "mi? (what?)", "ki? (who?)", "hogyan? (how?)"],
-    ["wie?", "wann?", "wer?", "was?"],
-    ["hol? (where?)", "hova? (where to?)", "honnan? (where from?)", "mikor? (when?)"],
-    ["wohin?", "woher?", "wo?", "wie?"],
-    ["hol? (where?)", "honnan? (where from?)", "hova? (where to?)", "miért? (why?)"],
-    ["warum?", "wie?", "wo?", "wann?"],
-    ["miért? (why?)", "hogyan? (how?)", "mikor? (when?)", "mi? (what?)"],
-    ["warum?", "wie?", "wann?", "wer?"],
-    ["hol? (where?)", "mikor? (when?)", "mennyi? (how much?)", "hogyan? (how?)"],
-    ["r Dienstag (e Dienstage)", "r Mittwoch (e Mittwoche)", "r Freitag (e Freitage)", "r Montag (e Montage)"],
-    ["Kedd (Tuesday)", "Szerda (Wednesday)", "Hétfő (Monday)", "Péntek (Friday)"],
-    ["r Donnerstag (e Donnerstage)", "r Mittwoch (e Mittwoche)", "r Samstag (e Samstage)", "r Sonntag (e Sonntage)"],
-    ["Kedd (Tuesday)", "Szerda (Wednesday)", "Csütörtök (Thursday)", "Péntek (Friday)"],
-    ["r Dienstag (e Dienstage)", "r Mittwoch (e Mittwoche)", "r Samstag (e Samstage)", "r Freitag (e Freitage)"],
-    ["Szombat (Saturday)", "Vasárnap (Sunday)", "Hétfő (Monday)", "Szerda (Wednesday)"],
-    ["r Montag (e Montage)", "r Sonntag (e Sonntage)", "r Freitag (e Freitage)", "r Samstag (e Samstage)"],
-    ["Március (March)", "Február (February)", "Január (January)", "Április (April)"],
-    ["r Januar (e Januare)", "r März (e Märze)", "r April (e Aprile)", "r Februar (e Februare)"],
-    ["Március (March)", "Május (May)", "Június (June)", "Július (July)"],
-    ["r Mai (e Maie)", "r April (e Aprile)", "r März (e Märze)", "r Juni (e Junis)"],
-    ["Április (April)", "Június (June)", "Május (May)", "Július (July)"],
-    ["r Mai (e Maie)", "r Juli (e Julis)", "r August (e Auguste)", "r Juni (e Junis)"],
-    ["Július (July)", "Június (June)", "Május (May)", "Augusztus (August)"],
-    ["r Juli (e Julis)", "r August (e Auguste)", "r September (e September)", "r Oktober (e Oktober)"],
-    ["Október (October)", "November (November)", "Szeptember (September)", "December (December)"],
-    ["r September (e September)", "r November (e November)", "r Dezember (e Dezember)", "r Oktober (e Oktober)"],
-    ["November (November)", "Október (October)", "Szeptember (September)", "December (December)"],
-    ["r Oktober (e Oktober)", "r Dezember (e Dezember)", "r November (e November)", "r Januar (e Januare)"],
-    ["ban / ben / ba / be (in / into)", "on / en / ön / ra / re (on / onto)", "alatt / alá (under)", "előtt / elé (in front of)"],
-    ["in", "auf", "unter", "an"],
-    ["on / en / ön / ra / re [vízszintes] (on / onto)", "mellett / mellé (next to)", "fölött / fölé (over / above)", "mögött / mögé (behind)"],
-    ["über", "unter", "neben", "vor"],
-    ["mögött / mögé (behind)", "között / közé (between)", "fölött / fölé (over / above)", "alatt / alá (under)"],
-    ["hinter", "neben", "über", "vor"],
-    ["mögött / mögé (behind)", "előtt / elé (in front of / before)", "mellett / mellé (next to)", "között / közé (between)"],
-    ["an", "neben", "in", "auf"],
-    ["mellett / mellé (next to)", "mögött / mögé (behind)", "között / közé (between)", "alatt / alá (under)"],
-    ["ohne", "für", "gegen", "mit"],
-    ["nélkül (without)", "ellen / neki (against)", "val / vel (with)", "ból / ből (from / out of)"],
-    ["mit", "für", "zu", "von"],
-    ["ból / ből (from)", "val / vel (with)", "ellen / neki (against)", "nál / nél (at / near)"],
-    ["von", "zu", "bei", "aus"],
-    ["nál / nél (at / near)", "hoz / hez / höz (to)", "után / felé (after / to)", "ból / ből (from)"],
-    ["vor", "nach", "bei", "aus"],
-    ["val / vel (with)", "hoz / hez / höz (to)", "tól / től / -nak a... (from / of)", "után / felé (after)"],
-    ["von", "nach", "bei", "zu"],
-    ["és (and)", "vagy (or)", "de (but)", "mert (because)"],
-    ["und", "oder", "aber", "denn"],
-    ["vagy (or)", "és (and)", "de (but)", "hogy (that)"],
-    ["weil", "dass", "wenn", "denn"],
-    ["mert [mellékmondati] (because)", "ha / amikor (if / when)", "de (but)", "és (and)"],
-    ["weil", "dass", "wenn", "oder"],
-    ["mert (because)", "vagy (or)", "ha / amikor (if / when)", "hogy (that)"],
-    ["auch", "nicht", "kein", "sehr"],
-    ["is (also / too)", "nem (not)", "egy sem (no / not any)", "nagyon (very)"],
-    ["auch", "nicht", "kein", "sehr"],
-    ["egy sem / egyáltalán nem (no / not any)", "nem (not)", "is (also / too)", "nagyon (very)"],
-    ["zweite", "dritte", "vierte", "erste"],
-    ["második (second)", "első (first)", "harmadik (third)", "negyedik (fourth)"],
-    ["vierte", "dritte", "zweite", "erste"],
-    ["első (first)", "második (second)", "negyedik (fourth)", "harmadik (third)"],
-    ["achte", "zehnte", "dritte", "zwölfte"],
-    ["Negyed (Quarter)", "Harmad (Third)", "Fél (Half)", "Nyolcad (Eighth)"],
-    ["s Viertel (e Viertel)", "s Drittel (e Drittel)", "s Achtel (e Achtel)", "s Halbe (e Halben)"],
-    ["Nyolcad (Eighth)", "Harmad (Third)", "Negyed (Quarter)", "Fél (Half)"],
-    ["einmal", "zweimal", "doppelt", "halb"],
-    ["egyszer (once)", "kétszer (twice)", "dupla (double)", "fél (half)"],
-    ["einmal", "zweimal", "dreimal", "achtmal"],
-    ["egyszer (once)", "kétszer (twice)", "nyolcszor (eight times)", "dupla (double)"],
-    ["halb", "einmal", "zweimal", "doppelt"],
-    ["Százalék (Percent)", "Harmad (Third)", "Negyed (Quarter)", "Nyolcad (Eighth)"],
-    ["Guten Tag!", "Guten Morgen!", "Guten Abend!", "Gute Nacht!"],
-    ["Jó reggelt! (Good morning!)", "Jó estét! (Good evening!)", "Jó napot! (Good day!)", "Jó éjszakát! (Good night!)"],
-    ["Guten Tag!", "Guten Morgen!", "Gute Nacht!", "Guten Abend!"],
-    ["Jó éjszakát! (Good night!)", "Jó reggelt! (Good morning!)", "Jó napot! (Good day!)", "Jó estét! (Good evening!)"],
-    ["Hallo!", "Auf Wiedersehen!", "Tschüss!", "Bitte!"],
-    ["Kérem! (Please!)", "Köszönöm! (Thank you!)", "Szia! [elköszönés] (Bye!)", "Szia! [köszönés] (Hello!)"],
-    ["Tschüss!", "Auf Wiedersehen!", "Bitte!", "Hallo!"],
-    ["Kérem! / Szívesen! (Please! / You're welcome!)", "Köszönöm! (Thank you!)", "Elnézést! (Excuse me!)", "Sajnálom. (I'm sorry.)"],
-    ["Bitte!", "Danke!", "Entschuldigung!", "Hallo!"],
-    ["Kérem! (Please!)", "Köszönöm! (Thank you!)", "Elnézést! (Excuse me! / Sorry!)", "Sajnálom. (I'm sorry.)"],
-    ["Bitte!", "Danke!", "Entschuldigung!", "Es tut mir leid."],
-    ["Hogy vagy? (How are you?)", "Mi a neved? (What is your name?)", "Mennyibe kerül? (How much does it cost?)", "Hol van? (Where is it?)"],
-    ["Wie geht es dir?", "Ich heiße...", "Woher kommst du?", "Was ist das?"],
-    ["nem (no)", "talán (maybe)", "igen (yes)", "is (also)"],
-    ["ja", "vielleicht", "auch", "nein"]
+    [
+      "én (I)",
+      "te (you)",
+      "ő (he/she)",
+      "mi (we)"
+    ],
+    [
+      "ich",
+      "du",
+      "wir",
+      "ihr"
+    ],
+    [
+      "te (you)",
+      "én (I)",
+      "ő [hímnem] (he)",
+      "ők (they)"
+    ],
+    [
+      "er",
+      "es",
+      "ihr",
+      "sie"
+    ],
+    [
+      "az (it)",
+      "ő [hímnem] (he)",
+      "mi (we)",
+      "ők (they)"
+    ],
+    [
+      "ich",
+      "wir",
+      "ihr",
+      "sie"
+    ],
+    [
+      "én (I)",
+      "mi (we)",
+      "ti (you [plural])",
+      "ők (they)"
+    ],
+    [
+      "ihr",
+      "wir",
+      "es",
+      "sie"
+    ],
+    [
+      "Ön / Önök (you [formal])",
+      "én (I)",
+      "ő (he/she)",
+      "ti (you [plural])"
+    ],
+    [
+      "dein",
+      "mein",
+      "sein",
+      "unser"
+    ],
+    [
+      "az én ...-m (my)",
+      "az ő ...-ja (his/her)",
+      "a te ...-d (your)",
+      "a mi ...-nk (our)"
+    ],
+    [
+      "ihr",
+      "mein",
+      "dein",
+      "sein"
+    ],
+    [
+      "a mi ...-nk (our)",
+      "a te ...-d (your)",
+      "az ő ...-ja (his/her)",
+      "az én ...-m (my)"
+    ],
+    [
+      "unser",
+      "euer",
+      "ihr",
+      "sein"
+    ],
+    [
+      "hol? (where?)",
+      "mi? (what?)",
+      "ki? (who?)",
+      "hogyan? (how?)"
+    ],
+    [
+      "wie?",
+      "wann?",
+      "wer?",
+      "was?"
+    ],
+    [
+      "hol? (where?)",
+      "hova? (where to?)",
+      "honnan? (where from?)",
+      "mikor? (when?)"
+    ],
+    [
+      "wohin?",
+      "woher?",
+      "wo?",
+      "wie?"
+    ],
+    [
+      "hol? (where?)",
+      "honnan? (where from?)",
+      "hova? (where to?)",
+      "miért? (why?)"
+    ],
+    [
+      "warum?",
+      "wie?",
+      "wo?",
+      "wann?"
+    ],
+    [
+      "miért? (why?)",
+      "hogyan? (how?)",
+      "mikor? (when?)",
+      "mi? (what?)"
+    ],
+    [
+      "warum?",
+      "wie?",
+      "wann?",
+      "wer?"
+    ],
+    [
+      "hol? (where?)",
+      "mikor? (when?)",
+      "mennyi? (how much?)",
+      "hogyan? (how?)"
+    ],
+    [
+      "r Dienstag (e Dienstage)",
+      "r Mittwoch (e Mittwoche)",
+      "r Freitag (e Freitage)",
+      "r Montag (e Montage)"
+    ],
+    [
+      "Kedd (Tuesday)",
+      "Szerda (Wednesday)",
+      "Hétfő (Monday)",
+      "Péntek (Friday)"
+    ],
+    [
+      "r Donnerstag (e Donnerstage)",
+      "r Mittwoch (e Mittwoche)",
+      "r Samstag (e Samstage)",
+      "r Sonntag (e Sonntage)"
+    ],
+    [
+      "Kedd (Tuesday)",
+      "Szerda (Wednesday)",
+      "Csütörtök (Thursday)",
+      "Péntek (Friday)"
+    ],
+    [
+      "r Dienstag (e Dienstage)",
+      "r Mittwoch (e Mittwoche)",
+      "r Samstag (e Samstage)",
+      "r Freitag (e Freitage)"
+    ],
+    [
+      "Szombat (Saturday)",
+      "Vasárnap (Sunday)",
+      "Hétfő (Monday)",
+      "Szerda (Wednesday)"
+    ],
+    [
+      "r Montag (e Montage)",
+      "r Sonntag (e Sonntage)",
+      "r Freitag (e Freitage)",
+      "r Samstag (e Samstage)"
+    ],
+    [
+      "Március (March)",
+      "Február (February)",
+      "Január (January)",
+      "Április (April)"
+    ],
+    [
+      "r Januar (e Januare)",
+      "r März (e Märze)",
+      "r April (e Aprile)",
+      "r Februar (e Februare)"
+    ],
+    [
+      "Március (March)",
+      "Május (May)",
+      "Június (June)",
+      "Július (July)"
+    ],
+    [
+      "r Mai (e Maie)",
+      "r April (e Aprile)",
+      "r März (e Märze)",
+      "r Juni (e Junis)"
+    ],
+    [
+      "Április (April)",
+      "Június (June)",
+      "Május (May)",
+      "Július (July)"
+    ],
+    [
+      "r Mai (e Maie)",
+      "r Juli (e Julis)",
+      "r August (e Auguste)",
+      "r Juni (e Junis)"
+    ],
+    [
+      "Július (July)",
+      "Június (June)",
+      "Május (May)",
+      "Augusztus (August)"
+    ],
+    [
+      "r Juli (e Julis)",
+      "r August (e Auguste)",
+      "r September (e September)",
+      "r Oktober (e Oktober)"
+    ],
+    [
+      "Október (October)",
+      "November (November)",
+      "Szeptember (September)",
+      "December (December)"
+    ],
+    [
+      "r September (e September)",
+      "r November (e November)",
+      "r Dezember (e Dezember)",
+      "r Oktober (e Oktober)"
+    ],
+    [
+      "November (November)",
+      "Október (October)",
+      "Szeptember (September)",
+      "December (December)"
+    ],
+    [
+      "r Oktober (e Oktober)",
+      "r Dezember (e Dezember)",
+      "r November (e November)",
+      "r Januar (e Januare)"
+    ],
+    [
+      "ban / ben / ba / be (in / into)",
+      "on / en / ön / ra / re (on / onto)",
+      "alatt / alá (under)",
+      "előtt / elé (in front of)"
+    ],
+    [
+      "in",
+      "auf",
+      "unter",
+      "an"
+    ],
+    [
+      "on / en / ön / ra / re [vízszintes] (on / onto)",
+      "mellett / mellé (next to)",
+      "fölött / fölé (over / above)",
+      "mögött / mögé (behind)"
+    ],
+    [
+      "über",
+      "unter",
+      "neben",
+      "vor"
+    ],
+    [
+      "mögött / mögé (behind)",
+      "között / közé (between)",
+      "fölött / fölé (over / above)",
+      "alatt / alá (under)"
+    ],
+    [
+      "hinter",
+      "neben",
+      "über",
+      "vor"
+    ],
+    [
+      "mögött / mögé (behind)",
+      "előtt / elé (in front of / before)",
+      "mellett / mellé (next to)",
+      "között / közé (between)"
+    ],
+    [
+      "an",
+      "neben",
+      "in",
+      "auf"
+    ],
+    [
+      "mellett / mellé (next to)",
+      "mögött / mögé (behind)",
+      "között / közé (between)",
+      "alatt / alá (under)"
+    ],
+    [
+      "ohne",
+      "für",
+      "gegen",
+      "mit"
+    ],
+    [
+      "nélkül (without)",
+      "ellen / neki (against)",
+      "val / vel (with)",
+      "ból / ből (from / out of)"
+    ],
+    [
+      "mit",
+      "für",
+      "zu",
+      "von"
+    ],
+    [
+      "ból / ből (from)",
+      "val / vel (with)",
+      "ellen / neki (against)",
+      "nál / nél (at / near)"
+    ],
+    [
+      "von",
+      "zu",
+      "bei",
+      "aus"
+    ],
+    [
+      "nál / nél (at / near)",
+      "hoz / hez / höz (to)",
+      "után / felé (after / to)",
+      "ból / ből (from)"
+    ],
+    [
+      "vor",
+      "nach",
+      "bei",
+      "aus"
+    ],
+    [
+      "val / vel (with)",
+      "hoz / hez / höz (to)",
+      "tól / től / -nak a... (from / of)",
+      "után / felé (after)"
+    ],
+    [
+      "von",
+      "nach",
+      "bei",
+      "zu"
+    ],
+    [
+      "és (and)",
+      "vagy (or)",
+      "de (but)",
+      "mert (because)"
+    ],
+    [
+      "und",
+      "oder",
+      "aber",
+      "denn"
+    ],
+    [
+      "vagy (or)",
+      "és (and)",
+      "de (but)",
+      "hogy (that)"
+    ],
+    [
+      "weil",
+      "dass",
+      "wenn",
+      "denn"
+    ],
+    [
+      "mert [mellékmondati] (because)",
+      "ha / amikor (if / when)",
+      "de (but)",
+      "és (and)"
+    ],
+    [
+      "weil",
+      "dass",
+      "wenn",
+      "oder"
+    ],
+    [
+      "mert (because)",
+      "vagy (or)",
+      "ha / amikor (if / when)",
+      "hogy (that)"
+    ],
+    [
+      "auch",
+      "nicht",
+      "kein",
+      "sehr"
+    ],
+    [
+      "is (also / too)",
+      "nem (not)",
+      "egy sem (no / not any)",
+      "nagyon (very)"
+    ],
+    [
+      "auch",
+      "nicht",
+      "kein",
+      "sehr"
+    ],
+    [
+      "egy sem / egyáltalán nem (no / not any)",
+      "nem (not)",
+      "is (also / too)",
+      "nagyon (very)"
+    ],
+    [
+      "zweite",
+      "dritte",
+      "vierte",
+      "erste"
+    ],
+    [
+      "második (second)",
+      "első (first)",
+      "harmadik (third)",
+      "negyedik (fourth)"
+    ],
+    [
+      "vierte",
+      "dritte",
+      "zweite",
+      "erste"
+    ],
+    [
+      "első (first)",
+      "második (second)",
+      "negyedik (fourth)",
+      "harmadik (third)"
+    ],
+    [
+      "achte",
+      "zehnte",
+      "dritte",
+      "zwölfte"
+    ],
+    [
+      "Negyed (Quarter)",
+      "Harmad (Third)",
+      "Fél (Half)",
+      "Nyolcad (Eighth)"
+    ],
+    [
+      "s Viertel (e Viertel)",
+      "s Drittel (e Drittel)",
+      "s Achtel (e Achtel)",
+      "s Halbe (e Halben)"
+    ],
+    [
+      "Nyolcad (Eighth)",
+      "Harmad (Third)",
+      "Negyed (Quarter)",
+      "Fél (Half)"
+    ],
+    [
+      "einmal",
+      "zweimal",
+      "doppelt",
+      "halb"
+    ],
+    [
+      "egyszer (once)",
+      "kétszer (twice)",
+      "dupla (double)",
+      "fél (half)"
+    ],
+    [
+      "einmal",
+      "zweimal",
+      "dreimal",
+      "achtmal"
+    ],
+    [
+      "egyszer (once)",
+      "kétszer (twice)",
+      "nyolcszor (eight times)",
+      "dupla (double)"
+    ],
+    [
+      "halb",
+      "einmal",
+      "zweimal",
+      "doppelt"
+    ],
+    [
+      "Százalék (Percent)",
+      "Harmad (Third)",
+      "Negyed (Quarter)",
+      "Nyolcad (Eighth)"
+    ],
+    [
+      "Guten Tag!",
+      "Guten Morgen!",
+      "Guten Abend!",
+      "Gute Nacht!"
+    ],
+    [
+      "Jó reggelt! (Good morning!)",
+      "Jó estét! (Good evening!)",
+      "Jó napot! (Good day!)",
+      "Jó éjszakát! (Good night!)"
+    ],
+    [
+      "Guten Tag!",
+      "Guten Morgen!",
+      "Gute Nacht!",
+      "Guten Abend!"
+    ],
+    [
+      "Jó éjszakát! (Good night!)",
+      "Jó reggelt! (Good morning!)",
+      "Jó napot! (Good day!)",
+      "Jó estét! (Good evening!)"
+    ],
+    [
+      "Hallo!",
+      "Auf Wiedersehen!",
+      "Tschüss!",
+      "Bitte!"
+    ],
+    [
+      "Kérem! (Please!)",
+      "Köszönöm! (Thank you!)",
+      "Szia! [elköszönés] (Bye!)",
+      "Szia! [köszönés] (Hello!)"
+    ],
+    [
+      "Tschüss!",
+      "Auf Wiedersehen!",
+      "Bitte!",
+      "Hallo!"
+    ],
+    [
+      "Kérem! / Szívesen! (Please! / You're welcome!)",
+      "Köszönöm! (Thank you!)",
+      "Elnézést! (Excuse me!)",
+      "Sajnálom. (I'm sorry.)"
+    ],
+    [
+      "Bitte!",
+      "Danke!",
+      "Entschuldigung!",
+      "Hallo!"
+    ],
+    [
+      "Kérem! (Please!)",
+      "Köszönöm! (Thank you!)",
+      "Elnézést! (Excuse me! / Sorry!)",
+      "Sajnálom. (I'm sorry.)"
+    ],
+    [
+      "Bitte!",
+      "Danke!",
+      "Entschuldigung!",
+      "Es tut mir leid."
+    ],
+    [
+      "Hogy vagy? (How are you?)",
+      "Mi a neved? (What is your name?)",
+      "Mennyibe kerül? (How much does it cost?)",
+      "Hol van? (Where is it?)"
+    ],
+    [
+      "Wie geht es dir?",
+      "Ich heiße...",
+      "Woher kommst du?",
+      "Was ist das?"
+    ],
+    [
+      "nem (no)",
+      "talán (maybe)",
+      "igen (yes)",
+      "is (also)"
+    ],
+    [
+      "ja",
+      "vielleicht",
+      "auch",
+      "nein"
+    ]
   ],
   "hints": [
     "Das Personalpronomen für die eigene Person (1. Person Singular).",
