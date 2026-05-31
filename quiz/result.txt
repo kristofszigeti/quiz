@@ -493,3 +493,8 @@ Deutsch A1.6
 Player name: Type your name 
 Your score: 95%
 ---------------------------------
+2026-05-31, 23:11:11
+Deutsch A2          
+Player name: Type your name 
+Your score: 96%
+---------------------------------
