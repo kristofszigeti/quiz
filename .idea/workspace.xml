@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="topics adjusted:&#10;- contracted A1">
-      <change afterPath="$PROJECT_DIR$/quiz/data/irregularverbs_EN_100.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/quiz_english_irregularverbs_200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/data/raw/quiz_german_a1.json" afterDir="false" />
+    <list default="true" id="974dcc10-fa73-40b3-8791-7763dc00bf82" name="Changes" comment="english irregular verbs json changed">
+      <change afterPath="$PROJECT_DIR$/quiz/data/irregularverbs_EN_100_javitott_hints_vel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/data/irregularverbs_EN_100_javitott_vegleges.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2026__05__22__22_07_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2026__05__22__22_07__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_german_a1.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_german_unregelmäßige Verben_001-100.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_unregelmäßige Verben_001-100.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_python.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/raw/quiz_python.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/data/quiz_python_with_hints.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/raw/quiz_python_with_hints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/data/raw/quiz_german_a1-6.json" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/data/quiz_german_a1-6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/logo/logo_deutschB1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz/my_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/my_quiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
     </option>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="88" />
+    <option name="cachedIndexableFilesCount" value="97" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -95,6 +94,7 @@
       <recent name="C:\Users\kristof\PycharmProjects\quiz\quiz\data\raw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kristof\PycharmProjects\quiz\quiz\data" />
       <recent name="C:\Users\kristof\PycharmProjects\quiz\quiz\data\raw" />
     </key>
   </component>
@@ -175,6 +175,8 @@
       <workItem from="1779135889374" duration="1704000" />
       <workItem from="1779480383033" duration="1294000" />
       <workItem from="1779620217100" duration="25050000" />
+      <workItem from="1780236128630" duration="1320000" />
+      <workItem from="1780237495537" duration="1824000" />
     </task>
     <task id="LOCAL-00001" summary="v03">
       <option name="closed" value="true" />
@@ -216,7 +218,23 @@
       <option name="project" value="LOCAL" />
       <updated>1779699202497</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="english irregular verbs json changed">
+      <option name="closed" value="true" />
+      <created>1780084990783</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780084990783</updated>
+    </task>
+    <task id="LOCAL-00007" summary="english irregular verbs json changed">
+      <option name="closed" value="true" />
+      <created>1780085007545</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780085007545</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,9 +245,10 @@
     <MESSAGE value="topic fixed:&#10;- Deutsch A1.1-A1.6 - logo" />
     <MESSAGE value="topics added:&#10;- Deutsch BIM, BIM Packung 2 + logo" />
     <MESSAGE value="topics adjusted:&#10;- contracted A1" />
-    <option name="LAST_COMMIT_MESSAGE" value="topics adjusted:&#10;- contracted A1" />
+    <MESSAGE value="english irregular verbs json changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="english irregular verbs json changed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/quiz$my_quiz.coverage" NAME="my_quiz Coverage Results" MODIFIED="1779721283951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz" />
+    <SUITE FILE_PATH="coverage/quiz$my_quiz.coverage" NAME="my_quiz Coverage Results" MODIFIED="1780238928860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz" />
   </component>
 </project>

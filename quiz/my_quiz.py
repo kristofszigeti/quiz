@@ -458,20 +458,20 @@ topics.add_radiobutton(label = 'Python', variable = choice, value = 12,
 choice = IntVar()
 deutsch.add_radiobutton(label = 'Deutsch A1', variable = choice, value = 1,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1.json'), 0), quiz.display_deutsch_label(0)))
-deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 2,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 1), quiz.display_deutsch_label(1)))
-deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 3,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 2), quiz.display_deutsch_label(2)))
-deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 4,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 3), quiz.display_deutsch_label(3)))
-# deutsch.add_radiobutton(label = 'Deutsch A1.3', variable = choice, value = 5,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_english_irregularverbs_200.json'), 4), quiz.display_deutsch_label(4)))
-# deutsch.add_radiobutton(label = '(X) Deutsch A1.4', variable = choice, value = 6,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-4.json'), 3), quiz.display_deutsch_label(3)))
-# deutsch.add_radiobutton(label = 'Deutsch A1.5', variable = choice, value = 7,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-5.json'), 4), quiz.display_deutsch_label(4)))
-# deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 8,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-6.json'), 5), quiz.display_deutsch_label(5)))
+deutsch.add_radiobutton(label = 'Deutsch A1.6', variable = choice, value = 2,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a1-6.json'), 1), quiz.display_deutsch_label(1)))
+deutsch.add_radiobutton(label = 'Deutsch A2', variable = choice, value = 3,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_germam_a2.json'), 2), quiz.display_deutsch_label(2)))
+deutsch.add_radiobutton(label = 'Deutsch B1', variable = choice, value = 4,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_b1.json'), 3), quiz.display_deutsch_label(3)))
+deutsch.add_radiobutton(label = 'Deutsch Gemischung 001', variable = choice, value = 5,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt001.json'), 4), quiz.display_deutsch_label(4)))
+deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 6,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 5), quiz.display_deutsch_label(5)))
+deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 7,
+                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 6), quiz.display_deutsch_label(6)))
+deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 8,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 7), quiz.display_deutsch_label(7)))
 
 # ENGLISH MENUBAR
 choice = IntVar()
@@ -506,9 +506,11 @@ logo_t09 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_bu
 logo_t10 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_buildings.png')).subsample(14,14)
 logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsample(7,7)
 # logo_t12 = PhotoImage(file = resource_path('./logo/logo_python.png')).subsample(7,7)
-logo_t13 = PhotoImage(file = resource_path('./logo/logo_deutschA1.png')).subsample(14,14)
-logo_t14 = PhotoImage(file = resource_path('./logo/logo_bimdeutschland.png')).subsample(5,5)
-logo_t15 = PhotoImage(file = resource_path('./logo/logo_english.png')).subsample(7,7)
+logo_deutsch_a1 = PhotoImage(file = resource_path('./logo/logo_deutschA1.png')).subsample(14,14)
+logo_bimdeutschland = PhotoImage(file = resource_path('./logo/logo_bimdeutschland.png')).subsample(5,5)
+logo_deutsch_a2 = PhotoImage(file = resource_path('./logo/logo_deutschA2.png')).subsample(14,14)
+logo_deutsch_b1 = PhotoImage(file = resource_path('./logo/logo_deutschB1.png')).subsample(14, 14)
+logo_english = PhotoImage(file = resource_path('./logo/logo_english.png')).subsample(7,7)
 
 
 # customizing the menubar
@@ -525,16 +527,16 @@ topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical syst
 topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
 # topics.entryconfig(11, image=logo_t12, compound= 'left') # bme - hvac basics
 
-deutsch.entryconfig(0, image= logo_t13, compound ='left') # adding icon and position it
-deutsch.entryconfig(1, image= logo_t14, compound ='left')
-deutsch.entryconfig(2, image= logo_t14, compound ='left')
-# deutsch.entryconfig(3, image= logo_t15, compound ='left') # adding icon and position it
-# deutsch.entryconfig(2, image= logo_t13, compound ='left')
-# deutsch.entryconfig(3, image= logo_t13, compound ='left')
+deutsch.entryconfig(0, image= logo_deutsch_a1, compound ='left') # adding icon and position it
+deutsch.entryconfig(1, image= logo_deutsch_a1, compound ='left')
+deutsch.entryconfig(2, image= logo_deutsch_a2, compound ='left')
+deutsch.entryconfig(3, image= logo_deutsch_b1, compound ='left') # adding icon and position it
 # deutsch.entryconfig(4, image= logo_t13, compound ='left')
+deutsch.entryconfig(5, image= logo_bimdeutschland, compound ='left')
+deutsch.entryconfig(6, image= logo_bimdeutschland, compound ='left')
 # deutsch.entryconfig(5, image= logo_t13, compound ='left')
 
-english.entryconfig(0, image= logo_t15, compound ='left') # adding icon and position it
+english.entryconfig(0, image= logo_english, compound ='left') # adding icon and position it
 # english.entryconfig(1, image= logo_t14, compound ='left')
 # english.entryconfig(2, image= logo_t14, compound ='left')
 # deutsch.entryconfig(3, image= logo_t15, compound ='left') # adding icon and position it
