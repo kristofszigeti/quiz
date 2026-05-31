@@ -433,3 +433,33 @@ Deutsch A1
 Player name: Type your name 
 Your score: 85%
 ---------------------------------
+2026-05-31, 17:10:49
+Deutsch A1          
+Player name: kristóf        
+Your score: 95%
+---------------------------------
+2026-05-31, 17:15:09
+Deutsch A1          
+Player name: kristóf        
+Your score: 92%
+---------------------------------
+2026-05-31, 17:44:31
+Deutsch A1          
+Player name: Type your name 
+Your score: 95%
+---------------------------------
+2026-05-31, 18:12:42
+Deutsch A1          
+Player name: Type your name 
+Your score: 87%
+---------------------------------
+2026-05-31, 19:01:00
+Deutsch A1          
+Player name: Type your name 
+Your score: 97%
+---------------------------------
+2026-05-31, 19:33:10
+Deutsch A1          
+Player name: német gyak     
+Your score: 96%
+---------------------------------

@@ -595,7 +595,7 @@
     "Bitte!",
     "Köszönöm! (Thank you!)",
     "Entschuldigung!",
-    "Sajnálom. (I",
+    "Sajnálom. (I am sorry.)",
     "Wie geht es dir?",
     "Engem ...-nak hívnak (My name is...)",
     "ja",
@@ -4459,7 +4459,7 @@
     [
       "nál / nél (at / near)",
       "fölött / fölé (over / above)",
-      "alatt / alá (under)",
+      "ban / ben / ba / be (in / into)",
       "mögött / mögé (behind)"
     ],
     [
@@ -4627,7 +4627,7 @@
     [
       "tiszta (clean)",
       "egyszerű (simple)",
-      "is (also / too)",
+      "nem / egy sem (not any / no)",
       "világos (bright)"
     ],
     [
@@ -4673,7 +4673,7 @@
       "s Land"
     ],
     [
-      "Negyed (Quarter)",
+      "Nyolcad (Eighth)",
       "Szeptember (September)",
       "Fa (Tree)",
       "Szünet (Break)"

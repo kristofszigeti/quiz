@@ -246,14 +246,37 @@ class Quiz:
         # showing questions inside a Label widget
         # https://www.geeksforgeeks.org/python-tkinter-label/?ref=lbp
         if self.q_no < len(self.question):
+            current_question = self.question[self.q_no]
+
+            # COLOURING for better Visual Recognition and Learning
+            if current_question.startswith(("r ", "der ")):
+                prefix = "● "  # BLUE dot for masculine (männlich mit Artikel 'der') words
+                fontcolor = "blue"
+            elif current_question.startswith(("e ", "die ")):
+                prefix = "● "  # RED dot for feminin (weiblich mit Artikel 'der') words
+                fontcolor = "red"
+            elif current_question.startswith(("s ", "das ")):
+                prefix = "● "  # YELLOW dot for masculine (neutral mit Artikel 'der') words
+                fontcolor = "#daa520"  # goldenrod
+            else:
+                prefix = ""
+                fontcolor = "black"
+
+            # assemble the option again
+            current_question = prefix + current_question
+
+            # self.options[val]['text'] = option
+            # self.options[val]['fg'] = fontcolor
+
             if self.question_label is None:
-                self.question_label = Label(frame, text=self.question[self.q_no], wraplength=600, # index
+                self.question_label = Label(frame, text=current_question, wraplength=600, # index
                                             font=('Calibri', 16, 'bold'), anchor='center', # https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/labelanchor.png
-                                            justify='center',
+                                            justify='center', fg=fontcolor,
                                             height=2)
                 self.question_label.place(x=0, y=85, relwidth=1.0)
             else:
-                self.question_label.config(text=self.question[self.q_no])
+                self.question_label.config(text=current_question, fg=fontcolor)
+
 
     # this method shows a title label in the parent window
     def display_title(self):
@@ -296,7 +319,7 @@ class Quiz:
         # return the list of radio buttons
         return q_list # important!
 
-    def call_topic(self, topic_datafile, index, topic_length=20):
+    def call_topic(self, topic_datafile, index, topic_length=50):
         # load topics # https://pynative.com/python-json-exercise/#h-exercise-8-check-whether-following-json-is-valid-or-invalid-if-invalid-correct-it
         with open(topic_datafile, 'r', encoding='utf-8') as datafile:
             data_dict = json.load(datafile)
@@ -399,7 +422,7 @@ guitop.configure(bg='dark gray')
 # sets the title of the Window
 guitop.title("Quiz Game")
 frame = ttk.Frame(guitop)
-frame.pack(fill= NONE, expand= True) # https://www.geeksforgeeks.org/difference-between-fill-and-expand-options-for-tkinter-pack-method/
+frame.pack(fill= 'none', expand= True) # https://www.geeksforgeeks.org/difference-between-fill-and-expand-options-for-tkinter-pack-method/
 frame.config(height = guitop_height, width = guitop_width)
 frame.config(relief = 'flat')
 
