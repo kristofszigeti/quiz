@@ -453,29 +453,29 @@ menubar.add_cascade(menu = english, label ='English')
 # TOPICS MENUBAR
 choice = IntVar()
 topics.add_radiobutton(label = 'Topic One - Sport', variable = choice, value = 1,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_sport.json'), 0), quiz.display_topic_label(0)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_sport.json'), 0), quiz.display_topic_label(0)))
 topics.add_radiobutton(label = 'Topic Two - Movies', variable = choice, value = 2,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_movie.json'), 1), quiz.display_topic_label(1)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_movie.json'), 1), quiz.display_topic_label(1)))
 topics.add_radiobutton(label = 'Topic Three - Geography', variable = choice, value = 3,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_geography.json'), 2), quiz.display_topic_label(2)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_geography.json'), 2), quiz.display_topic_label(2)))
 topics.add_radiobutton(label = 'Topic Four - Football', variable = choice, value = 4,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_football.json'), 3), quiz.display_topic_label(3)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_football.json'), 3), quiz.display_topic_label(3)))
 topics.add_radiobutton(label = 'Topic Five - Darts', variable = choice, value = 5,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_darts.json'), 4), quiz.display_topic_label(4)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_darts.json'), 4), quiz.display_topic_label(4)))
 topics.add_radiobutton(label = 'Topic BONUS', variable = choice, value = 6,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_boardgames.json'), 5), quiz.display_topic_label(5)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_boardgames.json'), 5), quiz.display_topic_label(5)))
 topics.add_radiobutton(label = 'T, T-É és SZÉS1', variable = choice, value = 7,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_structural_engineering_numbered.json'), 6), quiz.display_topic_label(6)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_structural_engineering_numbered.json'), 6), quiz.display_topic_label(6)))
 topics.add_radiobutton(label = 'Electrical Systems - General', variable = choice, value = 8,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_Systems_in_buildings_p01_gen.json'), 7), quiz.display_topic_label(7)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_Systems_in_buildings_p01_gen.json'), 7), quiz.display_topic_label(7)))
 topics.add_radiobutton(label = 'Electrical Systems - Earthing', variable = choice, value = 9,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p02_earthing.json'), 8), quiz.display_topic_label(8)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_systems_in_buildings_p02_earthing.json'), 8), quiz.display_topic_label(8)))
 topics.add_radiobutton(label = 'Electrical Systems - General p02', variable = choice, value = 10,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_electrical_systems_in_buildings_p03_gen.json'), 9), quiz.display_topic_label(9)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_systems_in_buildings_p03_gen.json'), 9), quiz.display_topic_label(9)))
 topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 11,
-                       command= lambda: (quiz.call_topic(resource_path('./data/quiz_hvac_basics_preparationstest_mixed.json'), 10), quiz.display_topic_label(10)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_hvac_basics_preparationstest_mixed.json'), 10), quiz.display_topic_label(10)))
 topics.add_radiobutton(label = 'Python', variable = choice, value = 12,
-                       command= lambda: (quiz.call_topic(resource_path('data/raw/quiz_python_with_hints.json'), 11), quiz.display_topic_label(11)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_python_with_hints.json'), 11), quiz.display_topic_label(11)))
 
 # DEUTSCH MENUBAR
 choice = IntVar()
@@ -490,9 +490,9 @@ deutsch.add_radiobutton(label = 'Deutsch B1', variable = choice, value = 4,
 deutsch.add_radiobutton(label = 'Deutsch Gemischung 001', variable = choice, value = 5,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt001.json'), 4), quiz.display_deutsch_label(4)))
 deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 6,
-                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim.json'), 5), quiz.display_deutsch_label(5)))
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_bim.json'), 5), quiz.display_deutsch_label(5)))
 deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 7,
-                        command= lambda: (quiz.call_topic(resource_path('./data/quiz_german_bim02.json'), 6), quiz.display_deutsch_label(6)))
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_bim02.json'), 6), quiz.display_deutsch_label(6)))
 deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 8,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 7), quiz.display_deutsch_label(7)))
 
