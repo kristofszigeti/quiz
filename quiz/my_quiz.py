@@ -41,7 +41,7 @@ class Quiz:
         self.question = []
         self.choices = []
         self.answer = []
-        self.hint = []
+        self.hints = []
 
         self.display_title() # display title label
         # self.display_question() # display question (korábbi állapot, már nem mutat semmit, mert nincs miből)
@@ -167,7 +167,7 @@ class Quiz:
 
         self.correct -= 0.5 # each time pushing the hint button earns -0.5 points
         # Shows a message box to display the result
-        mb.showinfo("Result", f"You asked me for a hint.\n\nHere it is:\n\n{self.hint[self.q_no]}") # fetching info accordingly
+        mb.showinfo("Result", f"You asked me for a hint.\n\nHere it is:\n\n{self.hints[self.q_no]}") # fetching info accordingly
 
     # X open results
     # def open_rankings(self):
@@ -320,20 +320,31 @@ class Quiz:
         return q_list # important!
 
     def call_topic(self, topic_datafile, index, topic_length=50):
-        # load topics # https://pynative.com/python-json-exercise/#h-exercise-8-check-whether-following-json-is-valid-or-invalid-if-invalid-correct-it
+        # 1. Load topics: The JSON is now a list of dictionaries; load topics # https://pynative.com/python-json-exercise/#h-exercise-8-check-whether-following-json-is-valid-or-invalid-if-invalid-correct-it
         with open(topic_datafile, 'r', encoding='utf-8') as datafile:
-            data_dict = json.load(datafile)
+            data_list = json.load(datafile)
 
-        # combine data into a list https://www.w3schools.com/python/ref_func_zip.asp
-        data_list = list(zip(data_dict['question'], data_dict['choices'], data_dict['answer'], data_dict['hints'])) # https://discovery.cs.illinois.edu/guides/Python-Fundamentals/brackets/ # https://www.geeksforgeeks.org/parentheses-square-brackets-and-curly-braces-in-python/
-        # random.shuffle(data_list) # https://www.geeksforgeeks.org/python-random-sample-function/
+        # 2. Get a random sample directly from the list of dictionaries
         sample_size = min(topic_length, len(data_list))
         data_sample_list = random.sample(data_list, k=sample_size)
+
+        # 3. Extract the data into the separate class lists
+        # We iterate through the sampled dictionaries and pull out specific keys to create the separate lists for questions, choices, answers, and hints.
+        self.question = [item['question'] for item in data_sample_list]
+        self.choices = [item['choices'] for item in data_sample_list]
+        self.answer = [item['answer'] for item in data_sample_list]
+        self.hints = [item['hint'] for item in data_sample_list]
+
+        # # combine data into a list https://www.w3schools.com/python/ref_func_zip.asp
+        # data_list = list(zip(data_dict['question'], data_dict['choices'], data_dict['answer'], data_dict['hints'])) # https://discovery.cs.illinois.edu/guides/Python-Fundamentals/brackets/ # https://www.geeksforgeeks.org/parentheses-square-brackets-and-curly-braces-in-python/
+        # # random.shuffle(data_list) # https://www.geeksforgeeks.org/python-random-sample-function/
+        # sample_size = min(topic_length, len(data_list))
+        # data_sample_list = random.sample(data_list, k=sample_size)
 
         # unpack the shuffled data back into separate lists
         # global question, choices, answer, hint
         # https://geekflare.com/dev/python-unpacking-operators/
-        self.question, self.choices, self.answer, self.hint = zip(*data_sample_list) # https://www.w3schools.com/python/ref_func_zip.asp # https://stackoverflow.com/questions/50950690/python-unpacking-operator
+        # self.question, self.choices, self.answer, self.hint = zip(*data_sample_list) # https://www.w3schools.com/python/ref_func_zip.asp # https://stackoverflow.com/questions/50950690/python-unpacking-operator
 
         # restore the initial status, it must happen if we have already played one
         self.q_no = 0

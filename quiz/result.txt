@@ -498,3 +498,53 @@ Deutsch A2
 Player name: Type your name 
 Your score: 96%
 ---------------------------------
+2026-06-06, 10:27:43
+Deutsch A1.6        
+Player name: Type your name 
+Your score: 88%
+---------------------------------
+2026-06-06, 10:45:10
+Deutsch A1.6        
+Player name: Type your name 
+Your score: 95%
+---------------------------------
+2026-06-06, 10:55:09
+Deutsch A1          
+Player name: Type your name 
+Your score: 98%
+---------------------------------
+2026-06-06, 11:25:15
+Deutsch A2          
+Player name: Type your name 
+Your score: 91%
+---------------------------------
+2026-06-06, 11:45:32
+Deutsch A2          
+Player name: Type your name 
+Your score: 93%
+---------------------------------
+2026-06-06, 11:57:09
+Deutsch A2          
+Player name: Type your name 
+Your score: 96%
+---------------------------------
+2026-06-06, 12:07:31
+Deutsch A2          
+Player name: Type your name 
+Your score: 96%
+---------------------------------
+2026-06-06, 12:29:55
+Deutsch A2          
+Player name: Type your name 
+Your score: 97%
+---------------------------------
+2026-06-06, 13:11:33
+Deutsch A2          
+Player name: Type your name 
+Your score: 98%
+---------------------------------
+2026-06-06, 13:46:17
+Deutsch A2          
+Player name: Type your name 
+Your score: 95%
+---------------------------------

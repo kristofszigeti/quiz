@@ -1,910 +1,1102 @@
-{
-  "question": [
-    "ich",
-    "te (you)",
-    "er",
-    "ő [nőnem] (she)",
-    "es",
-    "mi (we)",
-    "ihr",
-    "ők (they)",
-    "Sie",
-    "az én ...-m (my)",
-    "dein",
-    "az ő ...-ja [hímnem] (his)",
-    "unser",
-    "a ti ...-tok (your [plural])",
-    "wer?",
-    "mi? (what?)",
-    "wo?",
-    "honnan? (where from?)",
-    "wohin?",
-    "mikor? (when?)",
-    "warum?",
-    "hogyan? (how?)",
-    "wie viel?",
-    "Hétfő (Monday)",
-    "r Dienstag (e Dienstage)",
-    "Szerda (Wednesday)",
-    "r Donnerstag (e Donnerstage)",
-    "Péntek (Friday)",
-    "r Samstag (e Samstage)",
-    "Vasárnap (Sunday)",
-    "r Januar (e Januare)",
-    "Február (February)",
-    "r März (e Märze)",
-    "Április (April)",
-    "r Mai (e Maie)",
-    "Június (June)",
-    "r Juli (e Julis)",
-    "Augusztus (August)",
-    "r September (e September)",
-    "Október (October)",
-    "r November (e November)",
-    "December (December)",
-    "in",
-    "on / en / ön / ra / re [függőleges] (on / at)",
-    "auf",
-    "alatt / alá (under)",
-    "über",
-    "előtt / elé (in front of / before)",
-    "hinter",
-    "mellett / mellé (next to)",
-    "zwischen",
-    "-val / -vel (with)",
-    "ohne",
-    "-nak / -nek / számára (for)",
-    "gegen",
-    "-ból / -ből (from / out of)",
-    "bei",
-    "után / felé (after / to)",
-    "von",
-    "-hoz / -hez / -höz (to)",
-    "und",
-    "vagy (or)",
-    "aber",
-    "mert [kötőszó] (because)",
-    "weil",
-    "hogy (that)",
-    "wenn",
-    "nagyon (very)",
-    "auch",
-    "nem [tagadás] (not)",
-    "kein",
-    "első (first)",
-    "zweite",
-    "harmadik (third)",
-    "vierte",
-    "tizenkettedik (twelfth)",
-    "s Viertel (e Viertel)",
-    "Harmad (Third [fraction])",
-    "s Achtel (e Achtel)",
-    "fél (half)",
-    "einmal",
-    "kétszer (twice)",
-    "achtmal",
-    "dupla / kétszeres (double)",
-    "s Prozent (e Prozente)",
-    "Jó reggelt! (Good morning!)",
-    "Guten Tag!",
-    "Jó estét! (Good evening!)",
-    "Gute Nacht!",
-    "Viszontlátásra! (Goodbye!)",
-    "Tschüss!",
-    "Szia! [köszönés] (Hello!)",
-    "Bitte!",
-    "Köszönöm! (Thank you!)",
-    "Entschuldigung!",
-    "Sajnálom. (I'm sorry.)",
-    "Wie geht es dir?",
-    "Engem ...-nak hívnak (My name is...)",
-    "ja",
-    "nem (no)"
-  ],
-  "answer": [
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4,
-    1,
-    2,
-    3,
-    4
-  ],
-  "choices": [
-    [
+[
+  {
+    "question": "ich",
+    "choices": [
       "én (I)",
       "te (you)",
       "ő (he/she)",
       "mi (we)"
     ],
-    [
+    "answer": 1,
+    "hint": "Das Personalpronomen für die eigene Person (1. Person Singular)."
+  },
+  {
+    "question": "te (you)",
+    "choices": [
       "ich",
       "du",
       "wir",
       "ihr"
     ],
-    [
+    "answer": 2,
+    "hint": "Das Personalpronomen für eine andere Person (2. Person Singular)."
+  },
+  {
+    "question": "er",
+    "choices": [
       "te (you)",
       "én (I)",
       "ő [hímnem] (he)",
       "ők (they)"
     ],
-    [
+    "answer": 3,
+    "hint": "Das Personalpronomen für eine männliche Person (3. Person Singular)."
+  },
+  {
+    "question": "ő [nőnem] (she)",
+    "choices": [
       "er",
       "es",
       "ihr",
       "sie"
     ],
-    [
+    "answer": 4,
+    "hint": "Das Personalpronomen für eine weibliche Person (3. Person Singular)."
+  },
+  {
+    "question": "es",
+    "choices": [
       "az (it)",
       "ő [hímnem] (he)",
       "mi (we)",
       "ők (they)"
     ],
-    [
+    "answer": 1,
+    "hint": "Das Personalpronomen für ein sächliches Nomen (3. Person Singular)."
+  },
+  {
+    "question": "mi (we)",
+    "choices": [
       "ich",
       "wir",
       "ihr",
       "sie"
     ],
-    [
+    "answer": 2,
+    "hint": "Das Personalpronomen für sich selbst und andere (1. Person Plural)."
+  },
+  {
+    "question": "ihr",
+    "choices": [
       "én (I)",
       "mi (we)",
       "ti (you [plural])",
       "ők (they)"
     ],
-    [
+    "answer": 3,
+    "hint": "Das Personalpronomen für mehrere andere Personen (2. Person Plural)."
+  },
+  {
+    "question": "ők (they)",
+    "choices": [
       "ihr",
       "wir",
       "es",
       "sie"
     ],
-    [
+    "answer": 4,
+    "hint": "Das Personalpronomen für mehrere Personen oder Dinge (3. Person Plural)."
+  },
+  {
+    "question": "Sie",
+    "choices": [
       "Ön / Önök (you [formal])",
       "én (I)",
       "ő (he/she)",
       "ti (you [plural])"
     ],
-    [
+    "answer": 1,
+    "hint": "Das formelle Personalpronomen für Respektspersonen."
+  },
+  {
+    "question": "az én ...-m (my)",
+    "choices": [
       "dein",
       "mein",
       "sein",
       "unser"
     ],
-    [
+    "answer": 2,
+    "hint": "Das Possessivpronomen für 'ich'."
+  },
+  {
+    "question": "dein",
+    "choices": [
       "az én ...-m (my)",
       "az ő ...-ja (his/her)",
       "a te ...-d (your)",
       "a mi ...-nk (our)"
     ],
-    [
+    "answer": 3,
+    "hint": "Das Possessivpronomen für 'du'."
+  },
+  {
+    "question": "az ő ...-ja [hímnem] (his)",
+    "choices": [
       "ihr",
       "mein",
       "dein",
       "sein"
     ],
-    [
+    "answer": 4,
+    "hint": "Das Possessivpronomen für 'er' oder 'es'."
+  },
+  {
+    "question": "unser",
+    "choices": [
       "a mi ...-nk (our)",
       "a te ...-d (your)",
       "az ő ...-ja (his/her)",
       "az én ...-m (my)"
     ],
-    [
+    "answer": 1,
+    "hint": "Das Possessivpronomen für 'wir'."
+  },
+  {
+    "question": "a ti ...-tok (your [plural])",
+    "choices": [
       "unser",
       "euer",
       "ihr",
       "sein"
     ],
-    [
+    "answer": 2,
+    "hint": "Das Possessivpronomen für 'ihr'."
+  },
+  {
+    "question": "wer?",
+    "choices": [
       "hol? (where?)",
       "mi? (what?)",
       "ki? (who?)",
       "hogyan? (how?)"
     ],
-    [
+    "answer": 3,
+    "hint": "Frage nach einer Person (Nominativ)."
+  },
+  {
+    "question": "mi? (what?)",
+    "choices": [
       "wie?",
       "wann?",
       "wer?",
       "was?"
     ],
-    [
+    "answer": 4,
+    "hint": "Frage nach einer Sache."
+  },
+  {
+    "question": "wo?",
+    "choices": [
       "hol? (where?)",
       "hova? (where to?)",
       "honnan? (where from?)",
       "mikor? (when?)"
     ],
-    [
+    "answer": 1,
+    "hint": "Frage nach einem Ort."
+  },
+  {
+    "question": "honnan? (where from?)",
+    "choices": [
       "wohin?",
       "woher?",
       "wo?",
       "wie?"
     ],
-    [
+    "answer": 2,
+    "hint": "Frage nach der Herkunft."
+  },
+  {
+    "question": "wohin?",
+    "choices": [
       "hol? (where?)",
       "honnan? (where from?)",
       "hova? (where to?)",
       "miért? (why?)"
     ],
-    [
+    "answer": 3,
+    "hint": "Frage nach dem Ziel."
+  },
+  {
+    "question": "mikor? (when?)",
+    "choices": [
       "warum?",
       "wie?",
       "wo?",
       "wann?"
     ],
-    [
+    "answer": 4,
+    "hint": "Frage nach der Zeit."
+  },
+  {
+    "question": "warum?",
+    "choices": [
       "miért? (why?)",
       "hogyan? (how?)",
       "mikor? (when?)",
       "mi? (what?)"
     ],
-    [
+    "answer": 1,
+    "hint": "Frage nach dem Grund."
+  },
+  {
+    "question": "hogyan? (how?)",
+    "choices": [
       "warum?",
       "wie?",
       "wann?",
       "wer?"
     ],
-    [
+    "answer": 2,
+    "hint": "Frage nach der Art und Weise."
+  },
+  {
+    "question": "wie viel?",
+    "choices": [
       "hol? (where?)",
       "mikor? (when?)",
       "mennyi? (how much?)",
       "hogyan? (how?)"
     ],
-    [
+    "answer": 3,
+    "hint": "Frage nach der Menge."
+  },
+  {
+    "question": "Hétfő (Monday)",
+    "choices": [
       "r Dienstag (e Dienstage)",
       "r Mittwoch (e Mittwoche)",
       "r Freitag (e Freitage)",
       "r Montag (e Montage)"
     ],
-    [
+    "answer": 4,
+    "hint": "Der erste Tag der Woche."
+  },
+  {
+    "question": "r Dienstag (e Dienstage)",
+    "choices": [
       "Kedd (Tuesday)",
       "Szerda (Wednesday)",
       "Hétfő (Monday)",
       "Péntek (Friday)"
     ],
-    [
+    "answer": 1,
+    "hint": "Der Tag nach Montag."
+  },
+  {
+    "question": "Szerda (Wednesday)",
+    "choices": [
       "r Donnerstag (e Donnerstage)",
       "r Mittwoch (e Mittwoche)",
       "r Samstag (e Samstage)",
       "r Sonntag (e Sonntage)"
     ],
-    [
+    "answer": 2,
+    "hint": "Die Mitte der Arbeitswoche."
+  },
+  {
+    "question": "r Donnerstag (e Donnerstage)",
+    "choices": [
       "Kedd (Tuesday)",
       "Szerda (Wednesday)",
       "Csütörtök (Thursday)",
       "Péntek (Friday)"
     ],
-    [
+    "answer": 3,
+    "hint": "Der Tag vor Freitag."
+  },
+  {
+    "question": "Péntek (Friday)",
+    "choices": [
       "r Dienstag (e Dienstage)",
       "r Mittwoch (e Mittwoche)",
       "r Samstag (e Samstage)",
       "r Freitag (e Freitage)"
     ],
-    [
+    "answer": 4,
+    "hint": "Der letzte Tag der Arbeitswoche."
+  },
+  {
+    "question": "r Samstag (e Samstage)",
+    "choices": [
       "Szombat (Saturday)",
       "Vasárnap (Sunday)",
       "Hétfő (Monday)",
       "Szerda (Wednesday)"
     ],
-    [
+    "answer": 1,
+    "hint": "Der erste Tag vom Wochenende."
+  },
+  {
+    "question": "Vasárnap (Sunday)",
+    "choices": [
       "r Montag (e Montage)",
       "r Sonntag (e Sonntage)",
       "r Freitag (e Freitage)",
       "r Samstag (e Samstage)"
     ],
-    [
+    "answer": 2,
+    "hint": "Der letzte Tag der Woche."
+  },
+  {
+    "question": "r Januar (e Januare)",
+    "choices": [
       "Március (March)",
       "Február (February)",
       "Január (January)",
       "Április (April)"
     ],
-    [
+    "answer": 3,
+    "hint": "Der erste Monat im Jahr."
+  },
+  {
+    "question": "Február (February)",
+    "choices": [
       "r Januar (e Januare)",
       "r März (e Märze)",
       "r April (e Aprile)",
       "r Februar (e Februare)"
     ],
-    [
+    "answer": 4,
+    "hint": "Der zweite Monat im Jahr."
+  },
+  {
+    "question": "r März (e Märze)",
+    "choices": [
       "Március (March)",
       "Május (May)",
       "Június (June)",
       "Július (July)"
     ],
-    [
+    "answer": 1,
+    "hint": "Der dritte Monat im Jahr."
+  },
+  {
+    "question": "Április (April)",
+    "choices": [
       "r Mai (e Maie)",
       "r April (e Aprile)",
       "r März (e Märze)",
       "r Juni (e Junis)"
     ],
-    [
+    "answer": 2,
+    "hint": "Der vierte Monat im Jahr."
+  },
+  {
+    "question": "r Mai (e Maie)",
+    "choices": [
       "Április (April)",
       "Június (June)",
       "Május (May)",
       "Július (July)"
     ],
-    [
+    "answer": 3,
+    "hint": "Der fünfte Monat im Jahr."
+  },
+  {
+    "question": "Június (June)",
+    "choices": [
       "r Mai (e Maie)",
       "r Juli (e Julis)",
       "r August (e Auguste)",
       "r Juni (e Junis)"
     ],
-    [
+    "answer": 4,
+    "hint": "Der sechste Monat im Jahr."
+  },
+  {
+    "question": "r Juli (e Julis)",
+    "choices": [
       "Július (July)",
       "Június (June)",
       "Május (May)",
       "Augusztus (August)"
     ],
-    [
+    "answer": 1,
+    "hint": "Der siebte Monat im Jahr."
+  },
+  {
+    "question": "Augusztus (August)",
+    "choices": [
       "r Juli (e Julis)",
       "r August (e Auguste)",
       "r September (e September)",
       "r Oktober (e Oktober)"
     ],
-    [
+    "answer": 2,
+    "hint": "Der achte Monat im Jahr."
+  },
+  {
+    "question": "r September (e September)",
+    "choices": [
       "Október (October)",
       "November (November)",
       "Szeptember (September)",
       "December (December)"
     ],
-    [
+    "answer": 3,
+    "hint": "Der neunte Monat im Jahr."
+  },
+  {
+    "question": "Október (October)",
+    "choices": [
       "r September (e September)",
       "r November (e November)",
       "r Dezember (e Dezember)",
       "r Oktober (e Oktober)"
     ],
-    [
+    "answer": 4,
+    "hint": "Der zehnte Monat im Jahr."
+  },
+  {
+    "question": "r November (e November)",
+    "choices": [
       "November (November)",
       "Október (October)",
       "Szeptember (September)",
       "December (December)"
     ],
-    [
+    "answer": 1,
+    "hint": "Der elfte Monat im Jahr."
+  },
+  {
+    "question": "December (December)",
+    "choices": [
       "r Oktober (e Oktober)",
       "r Dezember (e Dezember)",
       "r November (e November)",
       "r Januar (e Januare)"
     ],
-    [
+    "answer": 2,
+    "hint": "Der letzte Monat im Jahr."
+  },
+  {
+    "question": "in",
+    "choices": [
       "ban / ben / ba / be (in / into)",
       "on / en / ön / ra / re (on / onto)",
       "alatt / alá (under)",
       "előtt / elé (in front of)"
     ],
-    [
+    "answer": 1,
+    "hint": "Präposition: Zeigt an, dass etwas drinnen ist."
+  },
+  {
+    "question": "on / en / ön / ra / re [függőleges] (on / at)",
+    "choices": [
       "in",
       "auf",
       "unter",
       "an"
     ],
-    [
+    "answer": 4,
+    "hint": "Präposition: Zeigt Kontakt an einer vertikalen Fläche (z.B. an der Wand)."
+  },
+  {
+    "question": "auf",
+    "choices": [
       "on / en / ön / ra / re [vízszintes] (on / onto)",
       "mellett / mellé (next to)",
       "fölött / fölé (over / above)",
       "mögött / mögé (behind)"
     ],
-    [
+    "answer": 1,
+    "hint": "Präposition: Zeigt Kontakt auf einer horizontalen Fläche (z.B. auf dem Tisch)."
+  },
+  {
+    "question": "alatt / alá (under)",
+    "choices": [
       "über",
       "unter",
       "neben",
       "vor"
     ],
-    [
+    "answer": 2,
+    "hint": "Präposition: Das Gegenteil von 'über'."
+  },
+  {
+    "question": "über",
+    "choices": [
       "mögött / mögé (behind)",
       "között / közé (between)",
       "fölött / fölé (over / above)",
       "alatt / alá (under)"
     ],
-    [
+    "answer": 3,
+    "hint": "Präposition: Höher als etwas anderes, ohne direkten Kontakt."
+  },
+  {
+    "question": "előtt / elé (in front of / before)",
+    "choices": [
       "hinter",
       "neben",
       "über",
       "vor"
     ],
-    [
+    "answer": 4,
+    "hint": "Präposition: Das Gegenteil von 'hinter'."
+  },
+  {
+    "question": "hinter",
+    "choices": [
       "mögött / mögé (behind)",
       "előtt / elé (in front of / before)",
       "mellett / mellé (next to)",
       "között / közé (between)"
     ],
-    [
+    "answer": 1,
+    "hint": "Präposition: Das Gegenteil von 'vor'."
+  },
+  {
+    "question": "mellett / mellé (next to)",
+    "choices": [
       "an",
       "neben",
       "in",
       "auf"
     ],
-    [
+    "answer": 2,
+    "hint": "Präposition: Direkt an der Seite von etwas."
+  },
+  {
+    "question": "zwischen",
+    "choices": [
       "mellett / mellé (next to)",
       "mögött / mögé (behind)",
       "között / közé (between)",
       "alatt / alá (under)"
     ],
-    [
+    "answer": 3,
+    "hint": "Präposition: In der Mitte von zwei Dingen."
+  },
+  {
+    "question": "-val / -vel (with)",
+    "choices": [
       "ohne",
       "für",
       "gegen",
       "mit"
     ],
-    [
+    "answer": 4,
+    "hint": "Präposition: Zusammen mit einer Person oder Sache."
+  },
+  {
+    "question": "ohne",
+    "choices": [
       "nélkül (without)",
       "ellen / neki (against)",
       "val / vel (with)",
       "ból / ből (from / out of)"
     ],
-    [
+    "answer": 1,
+    "hint": "Präposition: Das Gegenteil von 'mit'."
+  },
+  {
+    "question": "-nak / -nek / számára (for)",
+    "choices": [
       "mit",
       "für",
       "zu",
       "von"
     ],
-    [
+    "answer": 2,
+    "hint": "Präposition: Zeigt den Empfänger oder Zweck an."
+  },
+  {
+    "question": "gegen",
+    "choices": [
       "ból / ből (from)",
       "val / vel (with)",
       "ellen / neki (against)",
       "nál / nél (at / near)"
     ],
-    [
+    "answer": 3,
+    "hint": "Präposition: Das Gegenteil von 'für' (in Konflikten) oder Richtung auf etwas zu."
+  },
+  {
+    "question": "-ból / -ből (from / out of)",
+    "choices": [
       "von",
       "zu",
       "bei",
       "aus"
     ],
-    [
+    "answer": 4,
+    "hint": "Präposition: Herkunft aus einem Raum oder Land."
+  },
+  {
+    "question": "bei",
+    "choices": [
       "nál / nél (at / near)",
       "hoz / hez / höz (to)",
       "után / felé (after / to)",
       "ból / ből (from)"
     ],
-    [
+    "answer": 1,
+    "hint": "Präposition: In der Nähe von oder an der Arbeitsstelle/Wohnort einer Person."
+  },
+  {
+    "question": "után / felé (after / to)",
+    "choices": [
       "vor",
       "nach",
       "bei",
       "aus"
     ],
-    [
+    "answer": 2,
+    "hint": "Präposition: Zeitlich später oder Richtung in eine Stadt/ein Land."
+  },
+  {
+    "question": "von",
+    "choices": [
       "val / vel (with)",
       "hoz / hez / höz (to)",
       "tól / től / -nak a... (from / of)",
       "után / felé (after)"
     ],
-    [
+    "answer": 3,
+    "hint": "Präposition: Zeigt Herkunft oder Besitz an."
+  },
+  {
+    "question": "-hoz / -hez / -höz (to)",
+    "choices": [
       "von",
       "nach",
       "bei",
       "zu"
     ],
-    [
+    "answer": 4,
+    "hint": "Präposition: Richtung zu einer Person oder einem Ort (lokal)."
+  },
+  {
+    "question": "und",
+    "choices": [
       "és (and)",
       "vagy (or)",
       "de (but)",
       "mert (because)"
     ],
-    [
+    "answer": 1,
+    "hint": "Konjunktion: Verbindet zwei Wörter oder Sätze."
+  },
+  {
+    "question": "vagy (or)",
+    "choices": [
       "und",
       "oder",
       "aber",
       "denn"
     ],
-    [
+    "answer": 2,
+    "hint": "Konjunktion: Bietet eine Alternative."
+  },
+  {
+    "question": "aber",
+    "choices": [
       "vagy (or)",
       "és (and)",
       "de (but)",
       "hogy (that)"
     ],
-    [
+    "answer": 3,
+    "hint": "Konjunktion: Zeigt einen Gegensatz an."
+  },
+  {
+    "question": "mert [kötőszó] (because)",
+    "choices": [
       "weil",
       "dass",
       "wenn",
       "denn"
     ],
-    [
+    "answer": 4,
+    "hint": "Konjunktion: Nennt den Grund (Hauptsatz-Wortstellung)."
+  },
+  {
+    "question": "weil",
+    "choices": [
       "mert [mellékmondati] (because)",
       "ha / amikor (if / when)",
       "de (but)",
       "és (and)"
     ],
-    [
+    "answer": 1,
+    "hint": "Konjunktion: Nennt den Grund (Nebensatz-Wortstellung)."
+  },
+  {
+    "question": "hogy (that)",
+    "choices": [
       "weil",
       "dass",
       "wenn",
       "oder"
     ],
-    [
+    "answer": 2,
+    "hint": "Konjunktion: Leitet einen Nebensatz ein (z.B. Ich weiß, ...)."
+  },
+  {
+    "question": "wenn",
+    "choices": [
       "mert (because)",
       "vagy (or)",
       "ha / amikor (if / when)",
       "hogy (that)"
     ],
-    [
+    "answer": 3,
+    "hint": "Konjunktion: Konditional oder temporal für die Zukunft/Gegenwart."
+  },
+  {
+    "question": "nagyon (very)",
+    "choices": [
       "auch",
       "nicht",
       "kein",
       "sehr"
     ],
-    [
+    "answer": 4,
+    "hint": "Adverb: Verstärkt ein Adjektiv (z.B. ... gut)."
+  },
+  {
+    "question": "auch",
+    "choices": [
       "is (also / too)",
       "nem (not)",
       "egy sem (no / not any)",
       "nagyon (very)"
     ],
-    [
+    "answer": 1,
+    "hint": "Adverb: Zeigt Übereinstimmung (z.B. Ich ...)."
+  },
+  {
+    "question": "nem [tagadás] (not)",
+    "choices": [
       "auch",
       "nicht",
       "kein",
       "sehr"
     ],
-    [
+    "answer": 2,
+    "hint": "Adverb: Macht einen Satz negativ."
+  },
+  {
+    "question": "kein",
+    "choices": [
       "egy sem / egyáltalán nem (no / not any)",
       "nem (not)",
       "is (also / too)",
       "nagyon (very)"
     ],
-    [
+    "answer": 3,
+    "hint": "Artikel: Verdrängt den unbestimmten Artikel bei der Verneinung."
+  },
+  {
+    "question": "első (first)",
+    "choices": [
       "zweite",
       "dritte",
       "vierte",
       "erste"
     ],
-    [
+    "answer": 4,
+    "hint": "Die Ordnungszahl für 1."
+  },
+  {
+    "question": "zweite",
+    "choices": [
       "második (second)",
       "első (first)",
       "harmadik (third)",
       "negyedik (fourth)"
     ],
-    [
+    "answer": 1,
+    "hint": "Die Ordnungszahl für 2."
+  },
+  {
+    "question": "harmadik (third)",
+    "choices": [
       "vierte",
       "dritte",
       "zweite",
       "erste"
     ],
-    [
+    "answer": 2,
+    "hint": "Die Ordnungszahl für 3."
+  },
+  {
+    "question": "vierte",
+    "choices": [
       "első (first)",
       "második (second)",
       "negyedik (fourth)",
       "harmadik (third)"
     ],
-    [
+    "answer": 3,
+    "hint": "Die Ordnungszahl für 4."
+  },
+  {
+    "question": "tizenkettedik (twelfth)",
+    "choices": [
       "achte",
       "zehnte",
       "dritte",
       "zwölfte"
     ],
-    [
+    "answer": 4,
+    "hint": "Die Ordnungszahl für 12."
+  },
+  {
+    "question": "s Viertel (e Viertel)",
+    "choices": [
       "Negyed (Quarter)",
       "Harmad (Third)",
       "Fél (Half)",
       "Nyolcad (Eighth)"
     ],
-    [
+    "answer": 1,
+    "hint": "1/4 als Nomen."
+  },
+  {
+    "question": "Harmad (Third [fraction])",
+    "choices": [
       "s Viertel (e Viertel)",
       "s Drittel (e Drittel)",
       "s Achtel (e Achtel)",
       "s Halbe (e Halben)"
     ],
-    [
+    "answer": 2,
+    "hint": "1/3 als Nomen."
+  },
+  {
+    "question": "s Achtel (e Achtel)",
+    "choices": [
       "Nyolcad (Eighth)",
       "Harmad (Third)",
       "Negyed (Quarter)",
       "Fél (Half)"
     ],
-    [
+    "answer": 3,
+    "hint": "1/8 als Nomen."
+  },
+  {
+    "question": "fél (half)",
+    "choices": [
       "einmal",
       "zweimal",
       "doppelt",
       "halb"
     ],
-    [
+    "answer": 4,
+    "hint": "1/2 als Adjektiv."
+  },
+  {
+    "question": "einmal",
+    "choices": [
       "egyszer (once)",
       "kétszer (twice)",
       "dupla (double)",
       "fél (half)"
     ],
-    [
+    "answer": 1,
+    "hint": "1 x als Wort."
+  },
+  {
+    "question": "kétszer (twice)",
+    "choices": [
       "einmal",
       "zweimal",
       "dreimal",
       "achtmal"
     ],
-    [
+    "answer": 2,
+    "hint": "2 x als Wort."
+  },
+  {
+    "question": "achtmal",
+    "choices": [
       "egyszer (once)",
       "kétszer (twice)",
       "nyolcszor (eight times)",
       "dupla (double)"
     ],
-    [
+    "answer": 3,
+    "hint": "8 x als Wort."
+  },
+  {
+    "question": "dupla / kétszeres (double)",
+    "choices": [
       "halb",
       "einmal",
       "zweimal",
       "doppelt"
     ],
-    [
+    "answer": 4,
+    "hint": "200% oder x 2."
+  },
+  {
+    "question": "s Prozent (e Prozente)",
+    "choices": [
       "Százalék (Percent)",
       "Harmad (Third)",
       "Negyed (Quarter)",
       "Nyolcad (Eighth)"
     ],
-    [
+    "answer": 1,
+    "hint": "Ein Teil von Hundert (%)."
+  },
+  {
+    "question": "Jó reggelt! (Good morning!)",
+    "choices": [
       "Guten Tag!",
       "Guten Morgen!",
       "Guten Abend!",
       "Gute Nacht!"
     ],
-    [
+    "answer": 2,
+    "hint": "Begrüßung am Beginn des Tages."
+  },
+  {
+    "question": "Guten Tag!",
+    "choices": [
       "Jó reggelt! (Good morning!)",
       "Jó estét! (Good evening!)",
       "Jó napot! (Good day!)",
       "Jó éjszakát! (Good night!)"
     ],
-    [
+    "answer": 3,
+    "hint": "Allgemeine Begrüßung tagsüber."
+  },
+  {
+    "question": "Jó estét! (Good evening!)",
+    "choices": [
       "Guten Tag!",
       "Guten Morgen!",
       "Gute Nacht!",
       "Guten Abend!"
     ],
-    [
+    "answer": 4,
+    "hint": "Begrüßung in der Dämmerung oder am Abend."
+  },
+  {
+    "question": "Gute Nacht!",
+    "choices": [
       "Jó éjszakát! (Good night!)",
       "Jó reggelt! (Good morning!)",
       "Jó napot! (Good day!)",
       "Jó estét! (Good evening!)"
     ],
-    [
+    "answer": 1,
+    "hint": "Verabschiedung vor dem Schlafen."
+  },
+  {
+    "question": "Viszontlátásra! (Goodbye!)",
+    "choices": [
       "Hallo!",
       "Auf Wiedersehen!",
       "Tschüss!",
       "Bitte!"
     ],
-    [
+    "answer": 2,
+    "hint": "Formelle Verabschiedung."
+  },
+  {
+    "question": "Tschüss!",
+    "choices": [
       "Kérem! (Please!)",
       "Köszönöm! (Thank you!)",
       "Szia! [elköszönés] (Bye!)",
       "Szia! [köszönés] (Hello!)"
     ],
-    [
+    "answer": 3,
+    "hint": "Informelle Verabschiedung."
+  },
+  {
+    "question": "Szia! [köszönés] (Hello!)",
+    "choices": [
       "Tschüss!",
       "Auf Wiedersehen!",
       "Bitte!",
       "Hallo!"
     ],
-    [
+    "answer": 4,
+    "hint": "Informelle Begrüßung."
+  },
+  {
+    "question": "Bitte!",
+    "choices": [
       "Kérem! / Szívesen! (Please! / You're welcome!)",
       "Köszönöm! (Thank you!)",
       "Elnézést! (Excuse me!)",
       "Sajnálom. (I'm sorry.)"
     ],
-    [
+    "answer": 1,
+    "hint": "Antwort auf 'Danke' oder eine höfliche Aufforderung."
+  },
+  {
+    "question": "Köszönöm! (Thank you!)",
+    "choices": [
       "Bitte!",
       "Danke!",
       "Entschuldigung!",
       "Hallo!"
     ],
-    [
+    "answer": 2,
+    "hint": "Wort der Dankbarkeit."
+  },
+  {
+    "question": "Entschuldigung!",
+    "choices": [
       "Kérem! (Please!)",
       "Köszönöm! (Thank you!)",
       "Elnézést! (Excuse me! / Sorry!)",
       "Sajnálom. (I'm sorry.)"
     ],
-    [
+    "answer": 3,
+    "hint": "Wenn man einen Fehler gemacht hat oder etwas fragen möchte."
+  },
+  {
+    "question": "Sajnálom. (I'm sorry.)",
+    "choices": [
       "Bitte!",
       "Danke!",
       "Entschuldigung!",
       "Es tut mir leid."
     ],
-    [
+    "answer": 4,
+    "hint": "Wenn man Bedauern ausdrückt."
+  },
+  {
+    "question": "Wie geht es dir?",
+    "choices": [
       "Hogy vagy? (How are you?)",
       "Mi a neved? (What is your name?)",
       "Mennyibe kerül? (How much does it cost?)",
       "Hol van? (Where is it?)"
     ],
-    [
+    "answer": 1,
+    "hint": "Frage nach dem Befinden."
+  },
+  {
+    "question": "Engem ...-nak hívnak (My name is...)",
+    "choices": [
       "Wie geht es dir?",
       "Ich heiße...",
       "Woher kommst du?",
       "Was ist das?"
     ],
-    [
+    "answer": 2,
+    "hint": "Eigene Vorstellung mit Namen."
+  },
+  {
+    "question": "ja",
+    "choices": [
       "nem (no)",
       "talán (maybe)",
       "igen (yes)",
       "is (also)"
     ],
-    [
+    "answer": 3,
+    "hint": "Zustimmung."
+  },
+  {
+    "question": "nem (no)",
+    "choices": [
       "ja",
       "vielleicht",
       "auch",
       "nein"
-    ]
-  ],
-  "hints": [
-    "Das Personalpronomen für die eigene Person (1. Person Singular).",
-    "Das Personalpronomen für eine andere Person (2. Person Singular).",
-    "Das Personalpronomen für eine männliche Person (3. Person Singular).",
-    "Das Personalpronomen für eine weibliche Person (3. Person Singular).",
-    "Das Personalpronomen für ein sächliches Nomen (3. Person Singular).",
-    "Das Personalpronomen für sich selbst und andere (1. Person Plural).",
-    "Das Personalpronomen für mehrere andere Personen (2. Person Plural).",
-    "Das Personalpronomen für mehrere Personen oder Dinge (3. Person Plural).",
-    "Das formelle Personalpronomen für Respektspersonen.",
-    "Das Possessivpronomen für 'ich'.",
-    "Das Possessivpronomen für 'du'.",
-    "Das Possessivpronomen für 'er' oder 'es'.",
-    "Das Possessivpronomen für 'wir'.",
-    "Das Possessivpronomen für 'ihr'.",
-    "Frage nach einer Person (Nominativ).",
-    "Frage nach einer Sache.",
-    "Frage nach einem Ort.",
-    "Frage nach der Herkunft.",
-    "Frage nach dem Ziel.",
-    "Frage nach der Zeit.",
-    "Frage nach dem Grund.",
-    "Frage nach der Art und Weise.",
-    "Frage nach der Menge.",
-    "Der erste Tag der Woche.",
-    "Der Tag nach Montag.",
-    "Die Mitte der Arbeitswoche.",
-    "Der Tag vor Freitag.",
-    "Der letzte Tag der Arbeitswoche.",
-    "Der erste Tag vom Wochenende.",
-    "Der letzte Tag der Woche.",
-    "Der erste Monat im Jahr.",
-    "Der zweite Monat im Jahr.",
-    "Der dritte Monat im Jahr.",
-    "Der vierte Monat im Jahr.",
-    "Der fünfte Monat im Jahr.",
-    "Der sechste Monat im Jahr.",
-    "Der siebte Monat im Jahr.",
-    "Der achte Monat im Jahr.",
-    "Der neunte Monat im Jahr.",
-    "Der zehnte Monat im Jahr.",
-    "Der elfte Monat im Jahr.",
-    "Der letzte Monat im Jahr.",
-    "Präposition: Zeigt an, dass etwas drinnen ist.",
-    "Präposition: Zeigt Kontakt an einer vertikalen Fläche (z.B. an der Wand).",
-    "Präposition: Zeigt Kontakt auf einer horizontalen Fläche (z.B. auf dem Tisch).",
-    "Präposition: Das Gegenteil von 'über'.",
-    "Präposition: Höher als etwas anderes, ohne direkten Kontakt.",
-    "Präposition: Das Gegenteil von 'hinter'.",
-    "Präposition: Das Gegenteil von 'vor'.",
-    "Präposition: Direkt an der Seite von etwas.",
-    "Präposition: In der Mitte von zwei Dingen.",
-    "Präposition: Zusammen mit einer Person oder Sache.",
-    "Präposition: Das Gegenteil von 'mit'.",
-    "Präposition: Zeigt den Empfänger oder Zweck an.",
-    "Präposition: Das Gegenteil von 'für' (in Konflikten) oder Richtung auf etwas zu.",
-    "Präposition: Herkunft aus einem Raum oder Land.",
-    "Präposition: In der Nähe von oder an der Arbeitsstelle/Wohnort einer Person.",
-    "Präposition: Zeitlich später oder Richtung in eine Stadt/ein Land.",
-    "Präposition: Zeigt Herkunft oder Besitz an.",
-    "Präposition: Richtung zu einer Person oder einem Ort (lokal).",
-    "Konjunktion: Verbindet zwei Wörter oder Sätze.",
-    "Konjunktion: Bietet eine Alternative.",
-    "Konjunktion: Zeigt einen Gegensatz an.",
-    "Konjunktion: Nennt den Grund (Hauptsatz-Wortstellung).",
-    "Konjunktion: Nennt den Grund (Nebensatz-Wortstellung).",
-    "Konjunktion: Leitet einen Nebensatz ein (z.B. Ich weiß, ...).",
-    "Konjunktion: Konditional oder temporal für die Zukunft/Gegenwart.",
-    "Adverb: Verstärkt ein Adjektiv (z.B. ... gut).",
-    "Adverb: Zeigt Übereinstimmung (z.B. Ich ...).",
-    "Adverb: Macht einen Satz negativ.",
-    "Artikel: Verdrängt den unbestimmten Artikel bei der Verneinung.",
-    "Die Ordnungszahl für 1.",
-    "Die Ordnungszahl für 2.",
-    "Die Ordnungszahl für 3.",
-    "Die Ordnungszahl für 4.",
-    "Die Ordnungszahl für 12.",
-    "1/4 als Nomen.",
-    "1/3 als Nomen.",
-    "1/8 als Nomen.",
-    "1/2 als Adjektiv.",
-    "1 x als Wort.",
-    "2 x als Wort.",
-    "8 x als Wort.",
-    "200% oder x 2.",
-    "Ein Teil von Hundert (%).",
-    "Begrüßung am Beginn des Tages.",
-    "Allgemeine Begrüßung tagsüber.",
-    "Begrüßung in der Dämmerung oder am Abend.",
-    "Verabschiedung vor dem Schlafen.",
-    "Formelle Verabschiedung.",
-    "Informelle Verabschiedung.",
-    "Informelle Begrüßung.",
-    "Antwort auf 'Danke' oder eine höfliche Aufforderung.",
-    "Wort der Dankbarkeit.",
-    "Wenn man einen Fehler gemacht hat oder etwas fragen möchte.",
-    "Wenn man Bedauern ausdrückt.",
-    "Frage nach dem Befinden.",
-    "Eigene Vorstellung mit Namen.",
-    "Zustimmung.",
-    "Ablehnung."
-  ]
-}
+    ],
+    "answer": 4,
+    "hint": "Ablehnung."
+  }
+]
