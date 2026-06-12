@@ -548,3 +548,38 @@ Deutsch A2
 Player name: Type your name 
 Your score: 95%
 ---------------------------------
+2026-06-10, 13:55:43
+Deutsch BIM         
+Player name: Type your name 
+Your score: 87%
+---------------------------------
+2026-06-10, 14:52:24
+Deutsch BIM         
+Player name: kristof        
+Your score: 93%
+---------------------------------
+2026-06-10, 15:24:45
+Deutsch BIM         
+Player name: kristof        
+Your score: 79%
+---------------------------------
+2026-06-10, 16:57:24
+Deutsch BIM         
+Player name: Type your name 
+Your score: 84%
+---------------------------------
+2026-06-10, 20:45:55
+Deutsch BIM         
+Player name: kristof        
+Your score: 86%
+---------------------------------
+2026-06-12, 14:28:59
+Deutsch BIM Packung 2
+Player name: Type your name 
+Your score: 97%
+---------------------------------
+2026-06-12, 17:52:32
+Deutsch Gemischung 001
+Player name: Type your name 
+Your score: 92%
+---------------------------------

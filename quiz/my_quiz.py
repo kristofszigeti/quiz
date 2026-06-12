@@ -498,14 +498,18 @@ deutsch.add_radiobutton(label = 'Deutsch A2', variable = choice, value = 3,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_a2.json'), 2), quiz.display_deutsch_label(2)))
 deutsch.add_radiobutton(label = 'Deutsch B1', variable = choice, value = 4,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_b1.json'), 3), quiz.display_deutsch_label(3)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 001', variable = choice, value = 5,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt001.json'), 4), quiz.display_deutsch_label(4)))
+deutsch.add_radiobutton(label = 'x Deutsch B2', variable = choice, value = 5,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_b2.json'), 4), quiz.display_deutsch_label(4)))
 deutsch.add_radiobutton(label = 'Deutsch BIM', variable = choice, value = 6,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_bim.json'), 5), quiz.display_deutsch_label(5)))
 deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, value = 7,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_bim02.json'), 6), quiz.display_deutsch_label(6)))
 deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 8,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 7), quiz.display_deutsch_label(7)))
+deutsch.add_radiobutton(label = 'Deutsch Gemischung 001', variable = choice, value = 9,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt001.json'), 8), quiz.display_deutsch_label(8)))
+deutsch.add_radiobutton(label = 'Deutsch Gemischung 002', variable = choice, value = 10,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt002.json'), 9), quiz.display_deutsch_label(9)))
 
 # ENGLISH MENUBAR
 choice = IntVar()
