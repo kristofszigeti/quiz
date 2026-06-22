@@ -1,0 +1,2136 @@
+[
+  {
+    "question": "e Blutspende, -n",
+    "choices": [
+      "holttest (corpse)",
+      "véradás (blood donation)",
+      "ismeretség (acquaintance)",
+      "meghívás (invitation)"
+    ],
+    "answer": 2,
+    "hint": "Eine Blutspende kann Leben retten. (B2 - Nomen)"
+  },
+  {
+    "question": "véradás (blood donation)",
+    "choices": [
+      "e Arznei, -en",
+      "e Umfrage, -n",
+      "e Blutspende, -n",
+      "e Belagerung, -en"
+    ],
+    "answer": 3,
+    "hint": "Eine Blutspende kann Leben retten. (B2 - Nomen)"
+  },
+  {
+    "question": "e Datenauswertung, -en",
+    "choices": [
+      "oszlop (column / pillar)",
+      "lépcsőfok / fokozat (step / level)",
+      "légy / csokornyakkendő (fly / bow tie)",
+      "adatelemzés (data analysis)"
+    ],
+    "answer": 4,
+    "hint": "Die Datenauswertung dauerte mehrere Stunden. (B2 - Nomen)"
+  },
+  {
+    "question": "adatelemzés (data analysis)",
+    "choices": [
+      "e Erfahrung, -en",
+      "e Gegenwart",
+      "e Datenauswertung, -en",
+      "e Ebene, -n"
+    ],
+    "answer": 3,
+    "hint": "Die Datenauswertung dauerte mehrere Stunden. (B2 - Nomen)"
+  },
+  {
+    "question": "e Demut",
+    "choices": [
+      "szint / sík (level / plane)",
+      "alázat (humility)",
+      "bank (bank)",
+      "felüljáró (overpass)"
+    ],
+    "answer": 2,
+    "hint": "Wahre Größe zeigt sich oft in Demut. (C1 - Nomen)"
+  },
+  {
+    "question": "alázat (humility)",
+    "choices": [
+      "e Entfernung, -en",
+      "e Demut",
+      "e Bekanntschaft, -en",
+      "e Abenteuerlust"
+    ],
+    "answer": 2,
+    "hint": "Wahre Größe zeigt sich oft in Demut. (C1 - Nomen)"
+  },
+  {
+    "question": "e Durchwahl, -en",
+    "choices": [
+      "mellék (telefonszám) (extension)",
+      "szám / mennyiség (number / quantity)",
+      "véradás (blood donation)",
+      "felüljáró (overpass)"
+    ],
+    "answer": 1,
+    "hint": "Wie lautet Ihre direkte Durchwahl? (B1 - Nomen)"
+  },
+  {
+    "question": "mellék (telefonszám) (extension)",
+    "choices": [
+      "e Durchwahl, -en",
+      "e Arznei, -en",
+      "e Rückmeldung, -en",
+      "e Leiche, -n"
+    ],
+    "answer": 1,
+    "hint": "Wie lautet Ihre direkte Durchwahl? (B1 - Nomen)"
+  },
+  {
+    "question": "e Eigenschaft, -en",
+    "choices": [
+      "felfedezés (discovery)",
+      "ostrom (siege)",
+      "tulajdonság (property / quality)",
+      "gyógyszer (medicine)"
+    ],
+    "answer": 3,
+    "hint": "Ehrlichkeit ist eine wichtige Eigenschaft. (B1 - Nomen)"
+  },
+  {
+    "question": "tulajdonság (property / quality)",
+    "choices": [
+      "e Eigenschaft, -en",
+      "e Ernte, -n",
+      "e Erfahrung, -en",
+      "e Weisheit, -en"
+    ],
+    "answer": 1,
+    "hint": "Ehrlichkeit ist eine wichtige Eigenschaft. (B1 - Nomen)"
+  },
+  {
+    "question": "e Einzelheit, -en",
+    "choices": [
+      "meghívás (invitation)",
+      "hirdetési újság (advertising magazine)",
+      "fegyver (weapon)",
+      "részlet (detail)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Einzelheiten noch besprechen. (B1 - Nomen)"
+  },
+  {
+    "question": "részlet (detail)",
+    "choices": [
+      "e Einzelheit, -en",
+      "e Ehe, -n",
+      "e Anzahl",
+      "e Aufmerksamkeit, -en"
+    ],
+    "answer": 1,
+    "hint": "Wir müssen die Einzelheiten noch besprechen. (B1 - Nomen)"
+  },
+  {
+    "question": "e Ermäßigung, -en",
+    "choices": [
+      "ügyvédnő (lawyer (female))",
+      "osztály / részleg (department)",
+      "kilincs (door handle)",
+      "kedvezmény (discount)"
+    ],
+    "answer": 4,
+    "hint": "Studenten erhalten eine Ermäßigung. (A2 - Nomen)"
+  },
+  {
+    "question": "kedvezmény (discount)",
+    "choices": [
+      "e Bodenheizung, -en",
+      "e Etage, -n / e Ebene, -n",
+      "e Fliege, -n",
+      "e Ermäßigung, -en"
+    ],
+    "answer": 4,
+    "hint": "Studenten erhalten eine Ermäßigung. (A2 - Nomen)"
+  },
+  {
+    "question": "e Feder, -n",
+    "choices": [
+      "emberiség (humanity)",
+      "méh (bee)",
+      "toll (feather / spring)",
+      "távolság (distance)"
+    ],
+    "answer": 3,
+    "hint": "Das Kissen ist mit Federn gefüllt. (A2 - Nomen)"
+  },
+  {
+    "question": "toll (feather / spring)",
+    "choices": [
+      "e Feder, -n",
+      "e Abenteuerlust",
+      "e Einzelheit, -en",
+      "e Ameise, -n"
+    ],
+    "answer": 1,
+    "hint": "Das Kissen ist mit Federn gefüllt. (A2 - Nomen)"
+  },
+  {
+    "question": "e Fliege, -n",
+    "choices": [
+      "bank (bank)",
+      "kiejtés (pronunciation)",
+      "figyelem (attention)",
+      "légy / csokornyakkendő (fly / bow tie)"
+    ],
+    "answer": 4,
+    "hint": "Eine Fliege sitzt auf dem Fenster. (A2 - Nomen)"
+  },
+  {
+    "question": "légy / csokornyakkendő (fly / bow tie)",
+    "choices": [
+      "e Ameise, -n",
+      "e Anzahl",
+      "e Beziehung, -en",
+      "e Fliege, -n"
+    ],
+    "answer": 4,
+    "hint": "Eine Fliege sitzt auf dem Fenster. (A2 - Nomen)"
+  },
+  {
+    "question": "e Frist, -en / r Termin, -e",
+    "choices": [
+      "fényszennyezés (light pollution)",
+      "határidő (deadline)",
+      "átlagos szín (average color)",
+      "meghívás (invitation)"
+    ],
+    "answer": 2,
+    "hint": "Die Frist läuft morgen ab. (B2 - Nomen)"
+  },
+  {
+    "question": "határidő (deadline)",
+    "choices": [
+      "e Erfahrung, -en",
+      "e Klaue, -n",
+      "e Etagenheizung, -en",
+      "e Frist, -en / r Termin, -e"
+    ],
+    "answer": 4,
+    "hint": "Die Frist läuft morgen ab. (B2 - Nomen)"
+  },
+  {
+    "question": "e Gefahr, -en",
+    "choices": [
+      "karom / mancs (claw)",
+      "padlófűtés (underfloor heating)",
+      "veszély (danger)",
+      "meghívás (invitation)"
+    ],
+    "answer": 3,
+    "hint": "Hier besteht Lebensgefahr. (A2 - Nomen)"
+  },
+  {
+    "question": "veszély (danger)",
+    "choices": [
+      "e Gefahr, -en",
+      "e Grundlage, -n",
+      "e Gewohnheit, -en",
+      "e Beule, -n"
+    ],
+    "answer": 1,
+    "hint": "Hier besteht Lebensgefahr. (A2 - Nomen)"
+  },
+  {
+    "question": "e Gegenleistung, -en",
+    "choices": [
+      "műszak / réteg (shift / layer)",
+      "ellenszolgáltatás (consideration / return)",
+      "többség (majority)",
+      "bölcsesség (wisdom)"
+    ],
+    "answer": 2,
+    "hint": "Er erwartet keine Gegenleistung für seine Hilfe. (B2 - Nomen)"
+  },
+  {
+    "question": "ellenszolgáltatás (consideration / return)",
+    "choices": [
+      "e Gegenleistung, -en",
+      "e Stufe, -n",
+      "e Ernte, -n",
+      "e Anlage, -n"
+    ],
+    "answer": 1,
+    "hint": "Er erwartet keine Gegenleistung für seine Hilfe. (B2 - Nomen)"
+  },
+  {
+    "question": "e Gegenwart",
+    "choices": [
+      "pad (bench)",
+      "jelen (present)",
+      "pénznem (currency)",
+      "műszak / réteg (shift / layer)"
+    ],
+    "answer": 2,
+    "hint": "Wir sollten in der Gegenwart leben. (B1 - Nomen)"
+  },
+  {
+    "question": "jelen (present)",
+    "choices": [
+      "e Blutspende, -n",
+      "e Ernte, -n",
+      "e Gegenwart",
+      "e Demut"
+    ],
+    "answer": 3,
+    "hint": "Wir sollten in der Gegenwart leben. (B1 - Nomen)"
+  },
+  {
+    "question": "e Gewohnheit, -en",
+    "choices": [
+      "hirdetési újság (advertising magazine)",
+      "szokás (habit)",
+      "lakosság (population)",
+      "ismeretség (acquaintance)"
+    ],
+    "answer": 2,
+    "hint": "Er hat die Gewohnheit, früh aufzustehen. (B1 - Nomen)"
+  },
+  {
+    "question": "szokás (habit)",
+    "choices": [
+      "e Bodenheizung, -en",
+      "e Aufmerksamkeit, -en",
+      "e Eigenschaft, -en",
+      "e Gewohnheit, -en"
+    ],
+    "answer": 4,
+    "hint": "Er hat die Gewohnheit, früh aufzustehen. (B1 - Nomen)"
+  },
+  {
+    "question": "e Grundlage, -n",
+    "choices": [
+      "ostrom (siege)",
+      "alap (basis / foundation)",
+      "vasút / pálya (train / track)",
+      "zabpehely (oat flakes)"
+    ],
+    "answer": 2,
+    "hint": "Das ist die Grundlage for unseren Erfolg. (B2 - Nomen)"
+  },
+  {
+    "question": "alap (basis / foundation)",
+    "choices": [
+      "e Einzelheit, -en",
+      "e Adresse, -n",
+      "e Grundlage, -n",
+      "e Anzeige, -n"
+    ],
+    "answer": 3,
+    "hint": "Das ist die Grundlage for unseren Erfolg. (B2 - Nomen)"
+  },
+  {
+    "question": "e Haferflocken (Pl.)",
+    "choices": [
+      "többség (majority)",
+      "pad (bench)",
+      "vasút / pálya (train / track)",
+      "zabpehely (oat flakes)"
+    ],
+    "answer": 4,
+    "hint": "Ich esse morgens gerne Haferflocken. (A2 - Nomen)"
+  },
+  {
+    "question": "zabpehely (oat flakes)",
+    "choices": [
+      "e Unterführung, -en",
+      "e Rückmeldung, -en",
+      "e Ehe, -n",
+      "e Haferflocken (Pl.)"
+    ],
+    "answer": 4,
+    "hint": "Ich esse morgens gerne Haferflocken. (A2 - Nomen)"
+  },
+  {
+    "question": "e Jacke, -n",
+    "choices": [
+      "dzseki / kabát (jacket)",
+      "kalandvágy (adventurousness)",
+      "visszajelzés (feedback)",
+      "alap (basis / foundation)"
+    ],
+    "answer": 1,
+    "hint": "Vergiss deine Jacke nicht, es ist kalt. (A1 - Nomen)"
+  },
+  {
+    "question": "dzseki / kabát (jacket)",
+    "choices": [
+      "e Jacke, -n",
+      "e Ehe, -n",
+      "e Angelrute, -n",
+      "e Eigenschaft, -en"
+    ],
+    "answer": 1,
+    "hint": "Vergiss deine Jacke nicht, es ist kalt. (A1 - Nomen)"
+  },
+  {
+    "question": "e Klaue, -n",
+    "choices": [
+      "karom / mancs (claw)",
+      "oszlop (column / pillar)",
+      "panasz (complaint)",
+      "berendezés / intézmény (facility / furnishing)"
+    ],
+    "answer": 1,
+    "hint": "Der Adler packte die Beute mit seinen Klauen. (B2 - Nomen)"
+  },
+  {
+    "question": "karom / mancs (claw)",
+    "choices": [
+      "e Beziehung, -en",
+      "e Anlage, -n",
+      "e Feder, -n",
+      "e Klaue, -n"
+    ],
+    "answer": 4,
+    "hint": "Der Adler packte die Beute mit seinen Klauen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Leiche, -n",
+    "choices": [
+      "hirdetési újság (advertising magazine)",
+      "holttest (corpse)",
+      "hirdetés / feljelentés (advertisement / report)",
+      "ostrom (siege)"
+    ],
+    "answer": 2,
+    "hint": "Die Polizei fand die Leiche im Wald. (B2 - Nomen)"
+  },
+  {
+    "question": "holttest (corpse)",
+    "choices": [
+      "e Leiche, -n",
+      "e Säule, -n",
+      "e Begeisterung, -en",
+      "e Entdeckung, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Polizei fand die Leiche im Wald. (B2 - Nomen)"
+  },
+  {
+    "question": "e Lichtverschmutzung, -en",
+    "choices": [
+      "pályázat / jelentkezés (application)",
+      "fényszennyezés (light pollution)",
+      "tulajdonság (property / quality)",
+      "pad (bench)"
+    ],
+    "answer": 2,
+    "hint": "Die Lichtverschmutzung stört die Astronomen. (C1 - Nomen)"
+  },
+  {
+    "question": "fényszennyezés (light pollution)",
+    "choices": [
+      "e Lichtverschmutzung, -en",
+      "e Aufmerksamkeit, -en",
+      "e Branche, -n",
+      "e Anschrift, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Lichtverschmutzung stört die Astronomen. (C1 - Nomen)"
+  },
+  {
+    "question": "e Mehrheit, -en",
+    "choices": [
+      "ügyvédnő (lawyer (female))",
+      "szokás (habit)",
+      "többség (majority)",
+      "sejtés (idea / inkling)"
+    ],
+    "answer": 3,
+    "hint": "Die Mehrheit stimmte for den Vorschlag. (B2 - Nomen)"
+  },
+  {
+    "question": "többség (majority)",
+    "choices": [
+      "e Anzahl",
+      "e Mehrheit, -en",
+      "e Angelrute, -n",
+      "e Arznei, -en"
+    ],
+    "answer": 2,
+    "hint": "Die Mehrheit stimmte for den Vorschlag. (B2 - Nomen)"
+  },
+  {
+    "question": "e Menschheit",
+    "choices": [
+      "többség (majority)",
+      "fegyelem / szakág (discipline)",
+      "hirdetés / feljelentés (advertisement / report)",
+      "emberiség (humanity)"
+    ],
+    "answer": 4,
+    "hint": "Die Geschichte der Menschheit ist faszinierend. (B1 - Nomen)"
+  },
+  {
+    "question": "emberiség (humanity)",
+    "choices": [
+      "e Klaue, -n",
+      "e Menschheit",
+      "e Einrichtung, -en",
+      "e Annonce-Zeitschrift, -en"
+    ],
+    "answer": 2,
+    "hint": "Die Geschichte der Menschheit ist faszinierend. (B1 - Nomen)"
+  },
+  {
+    "question": "e Rückmeldung, -en",
+    "choices": [
+      "tapasztalat (experience)",
+      "cím (address)",
+      "ellenszolgáltatás (consideration / return)",
+      "visszajelzés (feedback)"
+    ],
+    "answer": 4,
+    "hint": "Vielen Dank for Ihre schnelle Rückmeldung. (B1 - Nomen)"
+  },
+  {
+    "question": "visszajelzés (feedback)",
+    "choices": [
+      "e Einrichtung, -en",
+      "e Mehrheit, -en",
+      "e Rückmeldung, -en",
+      "e Ehe, -n"
+    ],
+    "answer": 3,
+    "hint": "Vielen Dank for Ihre schnelle Rückmeldung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Schicht, -en",
+    "choices": [
+      "ügyvédnő (lawyer (female))",
+      "ágazat (industry / branch)",
+      "műszak / réteg (shift / layer)",
+      "pihenés / felépülés (recovery / relaxation)"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet in der Nachtschicht. (B1 - Nomen)"
+  },
+  {
+    "question": "műszak / réteg (shift / layer)",
+    "choices": [
+      "e Rückmeldung, -en",
+      "e Einteilung, -en",
+      "e Schicht, -en",
+      "e Begeisterung, -en"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet in der Nachtschicht. (B1 - Nomen)"
+  },
+  {
+    "question": "e Schlacht, -en",
+    "choices": [
+      "oszlop (column / pillar)",
+      "sejtés (idea / inkling)",
+      "csata (battle)",
+      "távolság (distance)"
+    ],
+    "answer": 3,
+    "hint": "Die Schlacht dauerte den ganzen Tag. (B1 - Nomen)"
+  },
+  {
+    "question": "csata (battle)",
+    "choices": [
+      "e Frist, -en / r Termin, -e",
+      "e Einladung, -en",
+      "e Schlacht, -en",
+      "e Bekanntschaft, -en"
+    ],
+    "answer": 3,
+    "hint": "Die Schlacht dauerte den ganzen Tag. (B1 - Nomen)"
+  },
+  {
+    "question": "e Steckdose, -n",
+    "choices": [
+      "zabpehely (oat flakes)",
+      "lakosság (population)",
+      "megnyitó beszéd (opening speech)",
+      "konnektor (socket)"
+    ],
+    "answer": 4,
+    "hint": "Wo ist die nächste Steckdose? (A2 - Nomen)"
+  },
+  {
+    "question": "konnektor (socket)",
+    "choices": [
+      "e Einteilung, -en",
+      "e Steckdose, -n",
+      "e Beziehung, -en",
+      "e Bank, -¨e"
+    ],
+    "answer": 2,
+    "hint": "Wo ist die nächste Steckdose? (A2 - Nomen)"
+  },
+  {
+    "question": "e Stufe, -n",
+    "choices": [
+      "lépcsőfok / fokozat (step / level)",
+      "csata (battle)",
+      "közvélemény-kutatás (survey)",
+      "panasz (complaint)"
+    ],
+    "answer": 1,
+    "hint": "Vorsicht, die Stufe ist rutschig. (B1 - Nomen)"
+  },
+  {
+    "question": "lépcsőfok / fokozat (step / level)",
+    "choices": [
+      "e Annonce-Zeitschrift, -en",
+      "e Erfahrung, -en",
+      "e Anschrift, -en",
+      "e Stufe, -n"
+    ],
+    "answer": 4,
+    "hint": "Vorsicht, die Stufe ist rutschig. (B1 - Nomen)"
+  },
+  {
+    "question": "e Säule, -n",
+    "choices": [
+      "vasút / pálya (train / track)",
+      "könyvelés (accounting)",
+      "oszlop (column / pillar)",
+      "műszak / réteg (shift / layer)"
+    ],
+    "answer": 3,
+    "hint": "Das Dach wird von sechs Säulen getragen. (B1 - Nomen)"
+  },
+  {
+    "question": "oszlop (column / pillar)",
+    "choices": [
+      "e Auskunftspflicht, -en",
+      "e Weisheit, -en",
+      "e Säule, -n",
+      "e Klaue, -n"
+    ],
+    "answer": 3,
+    "hint": "Das Dach wird von sechs Säulen getragen. (B1 - Nomen)"
+  },
+  {
+    "question": "e Türklinke, -n",
+    "choices": [
+      "pad (bench)",
+      "meghívás (invitation)",
+      "kilincs (door handle)",
+      "cím (address)"
+    ],
+    "answer": 3,
+    "hint": "Er drückte die Türklinke nach unten. (A2 - Nomen)"
+  },
+  {
+    "question": "kilincs (door handle)",
+    "choices": [
+      "e Haferflocken (Pl.)",
+      "e Ahnung, -en",
+      "e Türklinke, -n",
+      "e Jacke, -n"
+    ],
+    "answer": 3,
+    "hint": "Er drückte die Türklinke nach unten. (A2 - Nomen)"
+  },
+  {
+    "question": "e Umfrage, -n",
+    "choices": [
+      "alap (basis / foundation)",
+      "találmány (invention)",
+      "többség (majority)",
+      "közvélemény-kutatás (survey)"
+    ],
+    "answer": 4,
+    "hint": "Die Umfrage zeigt ein klares Ergebnis. (B1 - Nomen)"
+  },
+  {
+    "question": "közvélemény-kutatás (survey)",
+    "choices": [
+      "e Ameise, -n",
+      "e Abenteuerlust",
+      "e Umfrage, -n",
+      "e Schlacht, -en"
+    ],
+    "answer": 3,
+    "hint": "Die Umfrage zeigt ein klares Ergebnis. (B1 - Nomen)"
+  },
+  {
+    "question": "e Unterführung, -en",
+    "choices": [
+      "adatelemzés (data analysis)",
+      "ismeretség (acquaintance)",
+      "aratás / termés (harvest)",
+      "aluljáró (underpass)"
+    ],
+    "answer": 4,
+    "hint": "Wir gehen durch die Unterführung. (A2 - Nomen)"
+  },
+  {
+    "question": "aluljáró (underpass)",
+    "choices": [
+      "e Entdeckung, -en",
+      "e Gefahr, -en",
+      "e Türklinke, -n",
+      "e Unterführung, -en"
+    ],
+    "answer": 4,
+    "hint": "Wir gehen durch die Unterführung. (A2 - Nomen)"
+  },
+  {
+    "question": "e Waffe, -n",
+    "choices": [
+      "kedvezmény (discount)",
+      "csata (battle)",
+      "hirdetés / feljelentés (advertisement / report)",
+      "fegyver (weapon)"
+    ],
+    "answer": 4,
+    "hint": "Der Polizist trug eine Waffe. (B1 - Nomen)"
+  },
+  {
+    "question": "fegyver (weapon)",
+    "choices": [
+      "e Weisheit, -en",
+      "e Datenauswertung, -en",
+      "e Eigenschaft, -en",
+      "e Waffe, -n"
+    ],
+    "answer": 4,
+    "hint": "Der Polizist trug eine Waffe. (B1 - Nomen)"
+  },
+  {
+    "question": "e Weisheit, -en",
+    "choices": [
+      "műszak / réteg (shift / layer)",
+      "bölcsesség (wisdom)",
+      "megnyitó beszéd (opening speech)",
+      "szám / mennyiség (number / quantity)"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine alte Weisheit. (B2 - Nomen)"
+  },
+  {
+    "question": "bölcsesség (wisdom)",
+    "choices": [
+      "e Weisheit, -en",
+      "e Durchwahl, -en",
+      "e Währung, -en",
+      "e Abteilung, -en"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine alte Weisheit. (B2 - Nomen)"
+  },
+  {
+    "question": "e Wespe, -n",
+    "choices": [
+      "szám / mennyiség (number / quantity)",
+      "tulajdonság (property / quality)",
+      "találmány (invention)",
+      "darázs (wasp)"
+    ],
+    "answer": 4,
+    "hint": "Eine Wespe hat mich gestochen. (A2 - Nomen)"
+  },
+  {
+    "question": "darázs (wasp)",
+    "choices": [
+      "e Währung, -en",
+      "e Entdeckung, -en",
+      "e Wespe, -n",
+      "e Gegenleistung, -en"
+    ],
+    "answer": 3,
+    "hint": "Eine Wespe hat mich gestochen. (A2 - Nomen)"
+  },
+  {
+    "question": "e Währung, -en",
+    "choices": [
+      "megnyitó beszéd (opening speech)",
+      "pénznem (currency)",
+      "műszak / réteg (shift / layer)",
+      "házasság (marriage)"
+    ],
+    "answer": 2,
+    "hint": "Der Euro ist eine starke Währung. (B2 - Nomen)"
+  },
+  {
+    "question": "pénznem (currency)",
+    "choices": [
+      "e Waffe, -n",
+      "e Währung, -en",
+      "e Einzelheit, -en",
+      "e Fee, -n"
+    ],
+    "answer": 2,
+    "hint": "Der Euro ist eine starke Währung. (B2 - Nomen)"
+  },
+  {
+    "question": "e Überführung, -en",
+    "choices": [
+      "cím (address)",
+      "osztály / részleg (department)",
+      "felüljáró (overpass)",
+      "zászló (flag)"
+    ],
+    "answer": 3,
+    "hint": "Das Auto fährt über die Überführung. (A2 - Nomen)"
+  },
+  {
+    "question": "felüljáró (overpass)",
+    "choices": [
+      "e Beschwerde, -n",
+      "e Überführung, -en",
+      "e Arznei, -en",
+      "e Blutspende, -n"
+    ],
+    "answer": 2,
+    "hint": "Das Auto fährt über die Überführung. (A2 - Nomen)"
+  },
+  {
+    "question": "dienen (+ D)",
+    "choices": [
+      "keresztülvisz / érvényesít (to enforce)",
+      "szolgál (to serve)",
+      "fenyeget (to threaten)",
+      "dörög (to thunder)"
+    ],
+    "answer": 2,
+    "hint": "Das Modell dient zur Visualisierung. (B1 - Verb)"
+  },
+  {
+    "question": "szolgál (to serve)",
+    "choices": [
+      "dolmetschen",
+      "drehen (+ A)",
+      "durch|setzen (+ A)",
+      "dienen (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Das Modell dient zur Visualisierung. (B1 - Verb)"
+  },
+  {
+    "question": "dolmetschen",
+    "choices": [
+      "szolgál (to serve)",
+      "fordít / forgat (to turn)",
+      "dörög (to thunder)",
+      "tolmácsol (to interpret)"
+    ],
+    "answer": 4,
+    "hint": "Sie kann fließend Deutsch dolmetschen. (B2 - Verb)"
+  },
+  {
+    "question": "tolmácsol (to interpret)",
+    "choices": [
+      "drehen (+ A)",
+      "dolmetschen",
+      "durch|setzen (+ A)",
+      "drohen (+ D) (mit + D)"
+    ],
+    "answer": 2,
+    "hint": "Sie kann fließend Deutsch dolmetschen. (B2 - Verb)"
+  },
+  {
+    "question": "donnern",
+    "choices": [
+      "fordít / forgat (to turn)",
+      "keresztülvisz / érvényesít (to enforce)",
+      "dörög (to thunder)",
+      "szolgál (to serve)"
+    ],
+    "answer": 3,
+    "hint": "Es fängt an zu donnern. (B1 - Verb)"
+  },
+  {
+    "question": "dörög (to thunder)",
+    "choices": [
+      "dolmetschen",
+      "drehen (+ A)",
+      "donnern",
+      "drohen (+ D) (mit + D)"
+    ],
+    "answer": 3,
+    "hint": "Es fängt an zu donnern. (B1 - Verb)"
+  },
+  {
+    "question": "dorthin",
+    "choices": [
+      "kedvezmény (discount)",
+      "oda (there)",
+      "emberiség (humanity)",
+      "tolmácsol (to interpret)"
+    ],
+    "answer": 2,
+    "hint": "Wir gehen dorthin. (A1 - Adverb)"
+  },
+  {
+    "question": "oda (there)",
+    "choices": [
+      "dolmetschen",
+      "dorthin",
+      "e Ermäßigung, -en",
+      "e Menschheit"
+    ],
+    "answer": 2,
+    "hint": "Wir gehen dorthin. (A1 - Adverb)"
+  },
+  {
+    "question": "drehen (+ A)",
+    "choices": [
+      "szolgál (to serve)",
+      "dörög (to thunder)",
+      "fenyeget (to threaten)",
+      "fordít / forgat (to turn)"
+    ],
+    "answer": 4,
+    "hint": "Bitte drehen Sie den Schlüssel. (A2 - Verb)"
+  },
+  {
+    "question": "fordít / forgat (to turn)",
+    "choices": [
+      "drohen (+ D) (mit + D)",
+      "donnern",
+      "drehen (+ A)",
+      "dolmetschen"
+    ],
+    "answer": 3,
+    "hint": "Bitte drehen Sie den Schlüssel. (A2 - Verb)"
+  },
+  {
+    "question": "drohen (+ D) (mit + D)",
+    "choices": [
+      "fenyeget (to threaten)",
+      "keresztülvisz / érvényesít (to enforce)",
+      "dörög (to thunder)",
+      "tolmácsol (to interpret)"
+    ],
+    "answer": 1,
+    "hint": "Er droht mir mit rechtlichen Schritten. (B2 - Verb)"
+  },
+  {
+    "question": "fenyeget (to threaten)",
+    "choices": [
+      "drohen (+ D) (mit + D)",
+      "durch|setzen (+ A)",
+      "dienen (+ D)",
+      "drehen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er droht mir mit rechtlichen Schritten. (B2 - Verb)"
+  },
+  {
+    "question": "durch|setzen (+ A)",
+    "choices": [
+      "tolmácsol (to interpret)",
+      "dörög (to thunder)",
+      "fenyeget (to threaten)",
+      "keresztülvisz / érvényesít (to enforce)"
+    ],
+    "answer": 4,
+    "hint": "Er konnte seine Meinung durchsetzen. (B2 - Verb)"
+  },
+  {
+    "question": "keresztülvisz / érvényesít (to enforce)",
+    "choices": [
+      "dolmetschen",
+      "donnern",
+      "durch|setzen (+ A)",
+      "drehen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er konnte seine Meinung durchsetzen. (B2 - Verb)"
+  },
+  {
+    "question": "durchsichtig",
+    "choices": [
+      "fegyver (weapon)",
+      "lakcím (address)",
+      "átlátszó (transparent)",
+      "dörög (to thunder)"
+    ],
+    "answer": 3,
+    "hint": "Das Glas ist ganz durchsichtig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "átlátszó (transparent)",
+    "choices": [
+      "donnern",
+      "e Anschrift, -en",
+      "durchsichtig",
+      "e Waffe, -n"
+    ],
+    "answer": 3,
+    "hint": "Das Glas ist ganz durchsichtig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "e Abenteuerlust",
+    "choices": [
+      "aluljáró (underpass)",
+      "fegyver (weapon)",
+      "kalandvágy (adventurousness)",
+      "berendezés / melléklet (system / attachment)"
+    ],
+    "answer": 3,
+    "hint": "Seine Abenteuerlust trieb ihn in die Ferne. (B2 - Nomen)"
+  },
+  {
+    "question": "kalandvágy (adventurousness)",
+    "choices": [
+      "e Etage, -n / e Ebene, -n",
+      "e Abenteuerlust",
+      "e Erfrischung, -en",
+      "e Ameise, -n"
+    ],
+    "answer": 2,
+    "hint": "Seine Abenteuerlust trieb ihn in die Ferne. (B2 - Nomen)"
+  },
+  {
+    "question": "e Abrechnung, -en",
+    "choices": [
+      "kilincs (door handle)",
+      "elszámolás (settlement / billing)",
+      "kalandvágy (adventurousness)",
+      "távolság (distance)"
+    ],
+    "answer": 2,
+    "hint": "Die Abrechnung erfolgt am Monatsende. (B2 - Nomen)"
+  },
+  {
+    "question": "elszámolás (settlement / billing)",
+    "choices": [
+      "e Datenauswertung, -en",
+      "e Entdeckung, -en",
+      "e Abrechnung, -en",
+      "e Angelrute, -n"
+    ],
+    "answer": 3,
+    "hint": "Die Abrechnung erfolgt am Monatsende. (B2 - Nomen)"
+  },
+  {
+    "question": "e Abteilung, -en",
+    "choices": [
+      "ellenszolgáltatás (consideration / return)",
+      "véradás (blood donation)",
+      "tapasztalat (experience)",
+      "osztály / részleg (department)"
+    ],
+    "answer": 4,
+    "hint": "Sie arbeitet in der Marketing-Abteilung. (B1 - Nomen)"
+  },
+  {
+    "question": "osztály / részleg (department)",
+    "choices": [
+      "e Leiche, -n",
+      "e Biene, -n",
+      "e Abrechnung, -en",
+      "e Abteilung, -en"
+    ],
+    "answer": 4,
+    "hint": "Sie arbeitet in der Marketing-Abteilung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Adresse, -n",
+    "choices": [
+      "meghívás (invitation)",
+      "pénznem (currency)",
+      "fényszennyezés (light pollution)",
+      "cím (address)"
+    ],
+    "answer": 4,
+    "hint": "Wie lautet deine neue Adresse? (A1 - Nomen)"
+  },
+  {
+    "question": "cím (address)",
+    "choices": [
+      "e Bevölkerung, -en",
+      "e Datenauswertung, -en",
+      "e Adresse, -n",
+      "e Disziplin, -en"
+    ],
+    "answer": 3,
+    "hint": "Wie lautet deine neue Adresse? (A1 - Nomen)"
+  },
+  {
+    "question": "e Ahnung, -en",
+    "choices": [
+      "hirdetési újság (advertising magazine)",
+      "sejtés (idea / inkling)",
+      "kalandvágy (adventurousness)",
+      "hirdetés / feljelentés (advertisement / report)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe keine Ahnung, wo er ist. (B1 - Nomen)"
+  },
+  {
+    "question": "sejtés (idea / inkling)",
+    "choices": [
+      "e Ahnung, -en",
+      "e Bodenheizung, -en",
+      "e Bekanntschaft, -en",
+      "e Buchhaltung, -en"
+    ],
+    "answer": 1,
+    "hint": "Ich habe keine Ahnung, wo er ist. (B1 - Nomen)"
+  },
+  {
+    "question": "e Ameise, -n",
+    "choices": [
+      "távolság (distance)",
+      "ostrom (siege)",
+      "panasz (complaint)",
+      "hangya (ant)"
+    ],
+    "answer": 4,
+    "hint": "Ameisen bauen riesige Haufen. (A2 - Nomen)"
+  },
+  {
+    "question": "hangya (ant)",
+    "choices": [
+      "e Gewohnheit, -en",
+      "e Anlage, -n",
+      "e Ameise, -n",
+      "e Datenauswertung, -en"
+    ],
+    "answer": 3,
+    "hint": "Ameisen bauen riesige Haufen. (A2 - Nomen)"
+  },
+  {
+    "question": "e Angelrute, -n",
+    "choices": [
+      "ismeretség (acquaintance)",
+      "találmány (invention)",
+      "aratás / termés (harvest)",
+      "horgászbot (fishing rod)"
+    ],
+    "answer": 4,
+    "hint": "Er kaufte sich eine neue Angelrute. (B1 - Nomen)"
+  },
+  {
+    "question": "horgászbot (fishing rod)",
+    "choices": [
+      "e Annonce-Zeitschrift, -en",
+      "e Anwältin, -nen",
+      "e Erholung, -en",
+      "e Angelrute, -n"
+    ],
+    "answer": 4,
+    "hint": "Er kaufte sich eine neue Angelrute. (B1 - Nomen)"
+  },
+  {
+    "question": "e Anlage, -n",
+    "choices": [
+      "alap (basis / foundation)",
+      "alázat (humility)",
+      "ágazat (industry / branch)",
+      "berendezés / melléklet (system / attachment)"
+    ],
+    "answer": 4,
+    "hint": "Die technische Anlage muss gewartet werden. (B2 - Nomen)"
+  },
+  {
+    "question": "berendezés / melléklet (system / attachment)",
+    "choices": [
+      "e Einladung, -en",
+      "e Anlage, -n",
+      "e Ameise, -n",
+      "e Grundlage, -n"
+    ],
+    "answer": 2,
+    "hint": "Die technische Anlage muss gewartet werden. (B2 - Nomen)"
+  },
+  {
+    "question": "e Annonce-Zeitschrift, -en",
+    "choices": [
+      "lakásfűtés (egyedi központi fűtés) (apartment heating)",
+      "veszély (danger)",
+      "hirdetési újság (advertising magazine)",
+      "fegyver (weapon)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe die Anzeige in einer Annonce-Zeitschrift gelesen. (B2 - Nomen)"
+  },
+  {
+    "question": "hirdetési újság (advertising magazine)",
+    "choices": [
+      "e Anlage, -n",
+      "e Währung, -en",
+      "e Schicht, -en",
+      "e Annonce-Zeitschrift, -en"
+    ],
+    "answer": 4,
+    "hint": "Ich habe die Anzeige in einer Annonce-Zeitschrift gelesen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Anschrift, -en",
+    "choices": [
+      "lakcím (address)",
+      "átlagos szín (average color)",
+      "hangya (ant)",
+      "szint / sík (level / plane)"
+    ],
+    "answer": 1,
+    "hint": "Bitte geben Sie Ihre Anschrift an. (B1 - Nomen)"
+  },
+  {
+    "question": "lakcím (address)",
+    "choices": [
+      "e Erholung, -en",
+      "e Anschrift, -en",
+      "e Annonce-Zeitschrift, -en",
+      "e Lichtverschmutzung, -en"
+    ],
+    "answer": 2,
+    "hint": "Bitte geben Sie Ihre Anschrift an. (B1 - Nomen)"
+  },
+  {
+    "question": "e Anwältin, -nen",
+    "choices": [
+      "aratás / termés (harvest)",
+      "közvélemény-kutatás (survey)",
+      "ügyvédnő (lawyer (female))",
+      "darázs (wasp)"
+    ],
+    "answer": 3,
+    "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
+  },
+  {
+    "question": "ügyvédnő (lawyer (female))",
+    "choices": [
+      "e Anschrift, -en",
+      "e Belagerung, -en",
+      "e Anwältin, -nen",
+      "e Waffe, -n"
+    ],
+    "answer": 3,
+    "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
+  },
+  {
+    "question": "e Anzahl",
+    "choices": [
+      "veszély (danger)",
+      "pályázat / jelentkezés (application)",
+      "szám / mennyiség (number / quantity)",
+      "cím (address)"
+    ],
+    "answer": 3,
+    "hint": "Die Anzahl der Teilnehmer ist begrenzt. (B2 - Nomen)"
+  },
+  {
+    "question": "szám / mennyiség (number / quantity)",
+    "choices": [
+      "e Bevölkerung, -en",
+      "e Datenauswertung, -en",
+      "e Erfindung, -en",
+      "e Anzahl"
+    ],
+    "answer": 4,
+    "hint": "Die Anzahl der Teilnehmer ist begrenzt. (B2 - Nomen)"
+  },
+  {
+    "question": "e Anzeige, -n",
+    "choices": [
+      "osztály / részleg (department)",
+      "frissítő (refreshment)",
+      "hirdetés / feljelentés (advertisement / report)",
+      "csata (battle)"
+    ],
+    "answer": 3,
+    "hint": "Er gab eine Anzeige in der Zeitung auf. (B1 - Nomen)"
+  },
+  {
+    "question": "hirdetés / feljelentés (advertisement / report)",
+    "choices": [
+      "e Abenteuerlust",
+      "e Abteilung, -en",
+      "e Anzeige, -n",
+      "e Ameise, -n"
+    ],
+    "answer": 3,
+    "hint": "Er gab eine Anzeige in der Zeitung auf. (B1 - Nomen)"
+  },
+  {
+    "question": "e Arznei, -en",
+    "choices": [
+      "kiejtés (pronunciation)",
+      "pad (bench)",
+      "gyógyszer (medicine)",
+      "tájékoztatási kötelezettség (duty to provide information)"
+    ],
+    "answer": 3,
+    "hint": "Diese Arznei hilft gegen Schmerzen. (B2 - Nomen)"
+  },
+  {
+    "question": "gyógyszer (medicine)",
+    "choices": [
+      "e Arznei, -en",
+      "e Etagenheizung, -en",
+      "e Fee, -n",
+      "e Bekanntschaft, -en"
+    ],
+    "answer": 1,
+    "hint": "Diese Arznei hilft gegen Schmerzen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Aufmerksamkeit erregen",
+    "choices": [
+      "csata (battle)",
+      "cím (address)",
+      "figyelmet kelteni (to attract attention)",
+      "tolmácsol (to interpret)"
+    ],
+    "answer": 3,
+    "hint": "Er wollte mit seinem Outfit Aufmerksamkeit erregen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "figyelmet kelteni (to attract attention)",
+    "choices": [
+      "e Adresse, -n",
+      "e Aufmerksamkeit erregen",
+      "dolmetschen",
+      "e Schlacht, -en"
+    ],
+    "answer": 2,
+    "hint": "Er wollte mit seinem Outfit Aufmerksamkeit erregen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Aufmerksamkeit, -en",
+    "choices": [
+      "mellék (telefonszám) (extension)",
+      "kilincs (door handle)",
+      "jelen (present)",
+      "figyelem (attention)"
+    ],
+    "answer": 4,
+    "hint": "Vielen Dank for Ihre Aufmerksamkeit. (B1 - Nomen)"
+  },
+  {
+    "question": "figyelem (attention)",
+    "choices": [
+      "e Durchwahl, -en",
+      "e Überführung, -en",
+      "e Aufmerksamkeit, -en",
+      "e Einteilung, -en"
+    ],
+    "answer": 3,
+    "hint": "Vielen Dank for Ihre Aufmerksamkeit. (B1 - Nomen)"
+  },
+  {
+    "question": "e Auskunftspflicht, -en",
+    "choices": [
+      "tájékoztatási kötelezettség (duty to provide information)",
+      "bölcsesség (wisdom)",
+      "műszak / réteg (shift / layer)",
+      "alap (basis / foundation)"
+    ],
+    "answer": 1,
+    "hint": "Es besteht eine gesetzliche Auskunftspflicht. (C1 - Nomen)"
+  },
+  {
+    "question": "tájékoztatási kötelezettség (duty to provide information)",
+    "choices": [
+      "e Auskunftspflicht, -en",
+      "e Türklinke, -n",
+      "e Adresse, -n",
+      "e Jacke, -n"
+    ],
+    "answer": 1,
+    "hint": "Es besteht eine gesetzliche Auskunftspflicht. (C1 - Nomen)"
+  },
+  {
+    "question": "e Aussprache, -n",
+    "choices": [
+      "kiejtés (pronunciation)",
+      "tündér (fairy)",
+      "frissítő (refreshment)",
+      "légy / csokornyakkendő (fly / bow tie)"
+    ],
+    "answer": 1,
+    "hint": "Seine Aussprache ist fast perfekt. (B1 - Nomen)"
+  },
+  {
+    "question": "kiejtés (pronunciation)",
+    "choices": [
+      "e Anschrift, -en",
+      "e Erfahrung, -en",
+      "e Ahnung, -en",
+      "e Aussprache, -n"
+    ],
+    "answer": 4,
+    "hint": "Seine Aussprache ist fast perfekt. (B1 - Nomen)"
+  },
+  {
+    "question": "e Bahn, -en",
+    "choices": [
+      "vasút / pálya (train / track)",
+      "tündér (fairy)",
+      "karom / mancs (claw)",
+      "tapasztalat (experience)"
+    ],
+    "answer": 1,
+    "hint": "Ich fahre mit der Bahn zur Arbeit. (A1 - Nomen)"
+  },
+  {
+    "question": "vasút / pálya (train / track)",
+    "choices": [
+      "e Bahn, -en",
+      "e Ahnung, -en",
+      "e Annonce-Zeitschrift, -en",
+      "e Unterführung, -en"
+    ],
+    "answer": 1,
+    "hint": "Ich fahre mit der Bahn zur Arbeit. (A1 - Nomen)"
+  },
+  {
+    "question": "e Bank, -en",
+    "choices": [
+      "bank (bank)",
+      "alap (basis / foundation)",
+      "cím (address)",
+      "kiejtés (pronunciation)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss Geld von der Bank holen. (A1 - Nomen)"
+  },
+  {
+    "question": "bank (bank)",
+    "choices": [
+      "e Aussprache, -n",
+      "e Durchwahl, -en",
+      "e Bank, -en",
+      "e Belagerung, -en"
+    ],
+    "answer": 3,
+    "hint": "Ich muss Geld von der Bank holen. (A1 - Nomen)"
+  },
+  {
+    "question": "e Bank, -¨e",
+    "choices": [
+      "felosztás / beosztás (classification / division)",
+      "alázat (humility)",
+      "figyelem (attention)",
+      "pad (bench)"
+    ],
+    "answer": 4,
+    "hint": "Wir setzen uns auf die Bank im Park. (A2 - Nomen)"
+  },
+  {
+    "question": "pad (bench)",
+    "choices": [
+      "e Abenteuerlust",
+      "e Bank, -¨e",
+      "e Feder, -n",
+      "e Einrichtung, -en"
+    ],
+    "answer": 2,
+    "hint": "Wir setzen uns auf die Bank im Park. (A2 - Nomen)"
+  },
+  {
+    "question": "e Begeisterung, -en",
+    "choices": [
+      "ostrom (siege)",
+      "közvélemény-kutatás (survey)",
+      "megnyitó beszéd (opening speech)",
+      "lelkesedés (enthusiasm)"
+    ],
+    "answer": 4,
+    "hint": "Seine Begeisterung war ansteckend. (B1 - Nomen)"
+  },
+  {
+    "question": "lelkesedés (enthusiasm)",
+    "choices": [
+      "e Durchschnittsfarbe, -n",
+      "e Bank, -¨e",
+      "e Begeisterung, -en",
+      "e Erholung, -en"
+    ],
+    "answer": 3,
+    "hint": "Seine Begeisterung war ansteckend. (B1 - Nomen)"
+  },
+  {
+    "question": "e Bekanntschaft, -en",
+    "choices": [
+      "tapasztalat (experience)",
+      "ismeretség (acquaintance)",
+      "jelen (present)",
+      "ágazat (industry / branch)"
+    ],
+    "answer": 2,
+    "hint": "Wir haben im Urlaub eine nette Bekanntschaft gemacht. (B1 - Nomen)"
+  },
+  {
+    "question": "ismeretség (acquaintance)",
+    "choices": [
+      "e Bekanntschaft, -en",
+      "e Leiche, -n",
+      "e Auskunftspflicht, -en",
+      "e Frist, -en / r Termin, -e"
+    ],
+    "answer": 1,
+    "hint": "Wir haben im Urlaub eine nette Bekanntschaft gemacht. (B1 - Nomen)"
+  },
+  {
+    "question": "e Belagerung, -en",
+    "choices": [
+      "részlet (detail)",
+      "többség (majority)",
+      "veszély (danger)",
+      "ostrom (siege)"
+    ],
+    "answer": 4,
+    "hint": "Die Belagerung der Stadt dauerte Monate. (C1 - Nomen)"
+  },
+  {
+    "question": "ostrom (siege)",
+    "choices": [
+      "e Etage, -n / e Ebene, -n",
+      "e Bevölkerung, -en",
+      "e Belagerung, -en",
+      "e Türklinke, -n"
+    ],
+    "answer": 3,
+    "hint": "Die Belagerung der Stadt dauerte Monate. (C1 - Nomen)"
+  },
+  {
+    "question": "e Beschwerde, -n",
+    "choices": [
+      "panasz (complaint)",
+      "pályázat / jelentkezés (application)",
+      "lépcsőfok / fokozat (step / level)",
+      "aratás / termés (harvest)"
+    ],
+    "answer": 1,
+    "hint": "Er reichte eine Beschwerde ein. (B1 - Nomen)"
+  },
+  {
+    "question": "panasz (complaint)",
+    "choices": [
+      "e Beschwerde, -n",
+      "e Anwältin, -nen",
+      "e Ernte, -n",
+      "e Disziplin, -en"
+    ],
+    "answer": 1,
+    "hint": "Er reichte eine Beschwerde ein. (B1 - Nomen)"
+  },
+  {
+    "question": "e Beule, -n",
+    "choices": [
+      "ellenszolgáltatás (consideration / return)",
+      "távolság (distance)",
+      "kalandvágy (adventurousness)",
+      "púp / horpadás (bump / dent)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe eine Beule am Kopf. (B1 - Nomen)"
+  },
+  {
+    "question": "púp / horpadás (bump / dent)",
+    "choices": [
+      "e Fahne, -n",
+      "e Gefahr, -en",
+      "e Klaue, -n",
+      "e Beule, -n"
+    ],
+    "answer": 4,
+    "hint": "Ich habe eine Beule am Kopf. (B1 - Nomen)"
+  },
+  {
+    "question": "e Bevölkerung, -en",
+    "choices": [
+      "pihenés / felépülés (recovery / relaxation)",
+      "lakosság (population)",
+      "mellék (telefonszám) (extension)",
+      "toll (feather / spring)"
+    ],
+    "answer": 2,
+    "hint": "Die Bevölkerung wächst stetig. (B2 - Nomen)"
+  },
+  {
+    "question": "lakosság (population)",
+    "choices": [
+      "e Aussprache, -n",
+      "e Bevölkerung, -en",
+      "e Bekanntschaft, -en",
+      "e Mehrheit, -en"
+    ],
+    "answer": 2,
+    "hint": "Die Bevölkerung wächst stetig. (B2 - Nomen)"
+  },
+  {
+    "question": "e Bewerbung, -en",
+    "choices": [
+      "felosztás / beosztás (classification / division)",
+      "ügyvédnő (lawyer (female))",
+      "osztály / részleg (department)",
+      "pályázat / jelentkezés (application)"
+    ],
+    "answer": 4,
+    "hint": "Ich schreibe gerade eine Bewerbung. (B1 - Nomen)"
+  },
+  {
+    "question": "pályázat / jelentkezés (application)",
+    "choices": [
+      "e Abteilung, -en",
+      "e Ahnung, -en",
+      "e Bewerbung, -en",
+      "e Überführung, -en"
+    ],
+    "answer": 3,
+    "hint": "Ich schreibe gerade eine Bewerbung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Beziehung, -en",
+    "choices": [
+      "púp / horpadás (bump / dent)",
+      "megnyitó beszéd (opening speech)",
+      "kapcsolat (relationship)",
+      "gyógyszer (medicine)"
+    ],
+    "answer": 3,
+    "hint": "Sie führen eine glückliche Beziehung. (B1 - Nomen)"
+  },
+  {
+    "question": "kapcsolat (relationship)",
+    "choices": [
+      "e Durchwahl, -en",
+      "e Belagerung, -en",
+      "e Biene, -n",
+      "e Beziehung, -en"
+    ],
+    "answer": 4,
+    "hint": "Sie führen eine glückliche Beziehung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Biene, -n",
+    "choices": [
+      "tulajdonság (property / quality)",
+      "méh (bee)",
+      "adatelemzés (data analysis)",
+      "lakosság (population)"
+    ],
+    "answer": 2,
+    "hint": "Eine Biene stach ihn in den Finger. (A2 - Nomen)"
+  },
+  {
+    "question": "méh (bee)",
+    "choices": [
+      "e Menschheit",
+      "e Biene, -n",
+      "e Anlage, -n",
+      "e Fahne, -n"
+    ],
+    "answer": 2,
+    "hint": "Eine Biene stach ihn in den Finger. (A2 - Nomen)"
+  },
+  {
+    "question": "e Bodenheizung, -en",
+    "choices": [
+      "konnektor (socket)",
+      "műszak / réteg (shift / layer)",
+      "padlófűtés (underfloor heating)",
+      "alázat (humility)"
+    ],
+    "answer": 3,
+    "hint": "Die Wohnung hat eine moderne Bodenheizung. (B2 - Nomen)"
+  },
+  {
+    "question": "padlófűtés (underfloor heating)",
+    "choices": [
+      "e Währung, -en",
+      "e Demut",
+      "e Bodenheizung, -en",
+      "e Biene, -n"
+    ],
+    "answer": 3,
+    "hint": "Die Wohnung hat eine moderne Bodenheizung. (B2 - Nomen)"
+  },
+  {
+    "question": "e Branche, -n",
+    "choices": [
+      "pihenés / felépülés (recovery / relaxation)",
+      "alap (basis / foundation)",
+      "ágazat (industry / branch)",
+      "ismeretség (acquaintance)"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet in der IT-Branche. (B2 - Nomen)"
+  },
+  {
+    "question": "ágazat (industry / branch)",
+    "choices": [
+      "e Bekanntschaft, -en",
+      "e Fahne, -n",
+      "e Branche, -n",
+      "e Feder, -n"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet in der IT-Branche. (B2 - Nomen)"
+  },
+  {
+    "question": "e Buchhaltung, -en",
+    "choices": [
+      "holttest (corpse)",
+      "oszlop (column / pillar)",
+      "könyvelés (accounting)",
+      "visszajelzés (feedback)"
+    ],
+    "answer": 3,
+    "hint": "Die Buchhaltung prüft die Rechnungen. (B2 - Nomen)"
+  },
+  {
+    "question": "könyvelés (accounting)",
+    "choices": [
+      "e Buchhaltung, -en",
+      "e Steckdose, -n",
+      "e Arznei, -en",
+      "e Blutspende, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Buchhaltung prüft die Rechnungen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Disziplin, -en",
+    "choices": [
+      "fegyelem / szakág (discipline)",
+      "szám / mennyiség (number / quantity)",
+      "bank (bank)",
+      "ismeretség (acquaintance)"
+    ],
+    "answer": 1,
+    "hint": "Er zeigt viel Disziplin beim Sport. (B2 - Nomen)"
+  },
+  {
+    "question": "fegyelem / szakág (discipline)",
+    "choices": [
+      "e Buchhaltung, -en",
+      "e Disziplin, -en",
+      "e Steckdose, -n",
+      "e Frist, -en / r Termin, -e"
+    ],
+    "answer": 2,
+    "hint": "Er zeigt viel Disziplin beim Sport. (B2 - Nomen)"
+  },
+  {
+    "question": "e Durchschnittsfarbe, -n",
+    "choices": [
+      "alap (basis / foundation)",
+      "felosztás / beosztás (classification / division)",
+      "horgászbot (fishing rod)",
+      "átlagos szín (average color)"
+    ],
+    "answer": 4,
+    "hint": "Die Durchschnittsfarbe des Himmels wurde ermittelt. (C1 - Nomen)"
+  },
+  {
+    "question": "átlagos szín (average color)",
+    "choices": [
+      "e Gegenwart",
+      "e Blutspende, -n",
+      "e Durchschnittsfarbe, -n",
+      "e Adresse, -n"
+    ],
+    "answer": 3,
+    "hint": "Die Durchschnittsfarbe des Himmels wurde ermittelt. (C1 - Nomen)"
+  },
+  {
+    "question": "e Ebene, -n",
+    "choices": [
+      "kalandvágy (adventurousness)",
+      "szint / sík (level / plane)",
+      "oszlop (column / pillar)",
+      "aluljáró (underpass)"
+    ],
+    "answer": 2,
+    "hint": "Wir arbeiten auf verschiedenen Ebenen. (B2 - Nomen)"
+  },
+  {
+    "question": "szint / sík (level / plane)",
+    "choices": [
+      "e Bodenheizung, -en",
+      "e Rückmeldung, -en",
+      "e Ebene, -n",
+      "e Abenteuerlust"
+    ],
+    "answer": 3,
+    "hint": "Wir arbeiten auf verschiedenen Ebenen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Ehe, -n",
+    "choices": [
+      "holttest (corpse)",
+      "házasság (marriage)",
+      "horgászbot (fishing rod)",
+      "felosztás / beosztás (classification / division)"
+    ],
+    "answer": 2,
+    "hint": "Ihre Ehe hält schon 50 Jahre. (B1 - Nomen)"
+  },
+  {
+    "question": "házasság (marriage)",
+    "choices": [
+      "e Schicht, -en",
+      "e Fliege, -n",
+      "e Beschwerde, -n",
+      "e Ehe, -n"
+    ],
+    "answer": 4,
+    "hint": "Ihre Ehe hält schon 50 Jahre. (B1 - Nomen)"
+  },
+  {
+    "question": "e Einladung, -en",
+    "choices": [
+      "sejtés (idea / inkling)",
+      "darázs (wasp)",
+      "meghívás (invitation)",
+      "aratás / termés (harvest)"
+    ],
+    "answer": 3,
+    "hint": "Danke for die Einladung zur Party. (A2 - Nomen)"
+  },
+  {
+    "question": "meghívás (invitation)",
+    "choices": [
+      "e Einladung, -en",
+      "e Unterführung, -en",
+      "e Ehe, -n",
+      "e Belagerung, -en"
+    ],
+    "answer": 1,
+    "hint": "Danke for die Einladung zur Party. (A2 - Nomen)"
+  },
+  {
+    "question": "e Einrichtung, -en",
+    "choices": [
+      "berendezés / intézmény (facility / furnishing)",
+      "tájékoztatási kötelezettség (duty to provide information)",
+      "hangya (ant)",
+      "fegyelem / szakág (discipline)"
+    ],
+    "answer": 1,
+    "hint": "Die Einrichtung des Zimmers ist sehr schlicht. (B1 - Nomen)"
+  },
+  {
+    "question": "berendezés / intézmény (facility / furnishing)",
+    "choices": [
+      "e Lichtverschmutzung, -en",
+      "e Weisheit, -en",
+      "e Einrichtung, -en",
+      "e Einteilung, -en"
+    ],
+    "answer": 3,
+    "hint": "Die Einrichtung des Zimmers ist sehr schlicht. (B1 - Nomen)"
+  },
+  {
+    "question": "e Einteilung, -en",
+    "choices": [
+      "hirdetési újság (advertising magazine)",
+      "figyelem (attention)",
+      "felosztás / beosztás (classification / division)",
+      "részlet (detail)"
+    ],
+    "answer": 3,
+    "hint": "Die Einteilung der Gruppen ist abgeschlossen. (B2 - Nomen)"
+  },
+  {
+    "question": "felosztás / beosztás (classification / division)",
+    "choices": [
+      "e Rückmeldung, -en",
+      "e Einteilung, -en",
+      "e Auskunftspflicht, -en",
+      "e Fahne, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Einteilung der Gruppen ist abgeschlossen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Entdeckung, -en",
+    "choices": [
+      "találmány (invention)",
+      "részlet (detail)",
+      "elszámolás (settlement / billing)",
+      "felfedezés (discovery)"
+    ],
+    "answer": 4,
+    "hint": "Das war eine bedeutende Entdeckung. (B1 - Nomen)"
+  },
+  {
+    "question": "felfedezés (discovery)",
+    "choices": [
+      "e Steckdose, -n",
+      "e Arznei, -en",
+      "e Erfrischung, -en",
+      "e Entdeckung, -en"
+    ],
+    "answer": 4,
+    "hint": "Das war eine bedeutende Entdeckung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Entfernung, -en",
+    "choices": [
+      "karom / mancs (claw)",
+      "lépcsőfok / fokozat (step / level)",
+      "távolság (distance)",
+      "holttest (corpse)"
+    ],
+    "answer": 3,
+    "hint": "Die Entfernung beträgt zwei Kilometer. (B1 - Nomen)"
+  },
+  {
+    "question": "távolság (distance)",
+    "choices": [
+      "e Buchhaltung, -en",
+      "e Entfernung, -en",
+      "e Waffe, -n",
+      "e Bahn, -en"
+    ],
+    "answer": 2,
+    "hint": "Die Entfernung beträgt zwei Kilometer. (B1 - Nomen)"
+  },
+  {
+    "question": "e Erfahrung, -en",
+    "choices": [
+      "gyógyszer (medicine)",
+      "tapasztalat (experience)",
+      "osztály / részleg (department)",
+      "találmány (invention)"
+    ],
+    "answer": 2,
+    "hint": "Er hat viel Erfahrung in seinem Beruf. (B1 - Nomen)"
+  },
+  {
+    "question": "tapasztalat (experience)",
+    "choices": [
+      "e Erfahrung, -en",
+      "e Schlacht, -en",
+      "e Mehrheit, -en",
+      "e Menschheit"
+    ],
+    "answer": 1,
+    "hint": "Er hat viel Erfahrung in seinem Beruf. (B1 - Nomen)"
+  },
+  {
+    "question": "e Erfindung, -en",
+    "choices": [
+      "tündér (fairy)",
+      "házasság (marriage)",
+      "panasz (complaint)",
+      "találmány (invention)"
+    ],
+    "answer": 4,
+    "hint": "Das Rad war eine wichtige Erfindung. (B1 - Nomen)"
+  },
+  {
+    "question": "találmány (invention)",
+    "choices": [
+      "e Einrichtung, -en",
+      "e Erfindung, -en",
+      "e Beziehung, -en",
+      "e Einzelheit, -en"
+    ],
+    "answer": 2,
+    "hint": "Das Rad war eine wichtige Erfindung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Erfrischung, -en",
+    "choices": [
+      "frissítő (refreshment)",
+      "ágazat (industry / branch)",
+      "méh (bee)",
+      "toll (feather / spring)"
+    ],
+    "answer": 1,
+    "hint": "Wir brauchen eine kühle Erfrischung. (B1 - Nomen)"
+  },
+  {
+    "question": "frissítő (refreshment)",
+    "choices": [
+      "e Erfrischung, -en",
+      "e Überführung, -en",
+      "e Waffe, -n",
+      "e Ernte, -n"
+    ],
+    "answer": 1,
+    "hint": "Wir brauchen eine kühle Erfrischung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Erholung, -en",
+    "choices": [
+      "aluljáró (underpass)",
+      "kedvezmény (discount)",
+      "véradás (blood donation)",
+      "pihenés / felépülés (recovery / relaxation)"
+    ],
+    "answer": 4,
+    "hint": "Nach der Krankheit braucht ő Erholung. (B1 - Nomen)"
+  },
+  {
+    "question": "pihenés / felépülés (recovery / relaxation)",
+    "choices": [
+      "e Anlage, -n",
+      "e Entfernung, -en",
+      "e Erholung, -en",
+      "e Rückmeldung, -en"
+    ],
+    "answer": 3,
+    "hint": "Nach der Krankheit braucht ő Erholung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Ernte, -n",
+    "choices": [
+      "kedvezmény (discount)",
+      "aratás / termés (harvest)",
+      "dzseki / kabát (jacket)",
+      "elszámolás (settlement / billing)"
+    ],
+    "answer": 2,
+    "hint": "Die Ernte war dieses Jahr sehr gut. (B1 - Nomen)"
+  },
+  {
+    "question": "aratás / termés (harvest)",
+    "choices": [
+      "e Aussprache, -n",
+      "e Bevölkerung, -en",
+      "e Einteilung, -en",
+      "e Ernte, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Ernte war dieses Jahr sehr gut. (B1 - Nomen)"
+  },
+  {
+    "question": "e Eröffnungsrede, -n",
+    "choices": [
+      "lakosság (population)",
+      "megnyitó beszéd (opening speech)",
+      "lépcsőfok / fokozat (step / level)",
+      "tündér (fairy)"
+    ],
+    "answer": 2,
+    "hint": "Der Minister hielt die Eröffnungsrede. (C1 - Nomen)"
+  },
+  {
+    "question": "megnyitó beszéd (opening speech)",
+    "choices": [
+      "e Eröffnungsrede, -n",
+      "e Beziehung, -en",
+      "e Einzelheit, -en",
+      "e Abrechnung, -en"
+    ],
+    "answer": 1,
+    "hint": "Der Minister hielt die Eröffnungsrede. (C1 - Nomen)"
+  },
+  {
+    "question": "r Esel, -",
+    "choices": [
+      "ostrom (siege)",
+      "megnyitó beszéd (opening speech)",
+      "emelet / szint (floor / level)",
+      "szamár (donkey)"
+    ],
+    "answer": 4,
+    "hint": "Der Esel trug die schweren Säcke. (A2 - Nomen)"
+  },
+  {
+    "question": "szamár (donkey)",
+    "choices": [
+      "e Bekanntschaft, -en",
+      "e Einzelheit, -en",
+      "r Esel, -",
+      "e Abenteuerlust"
+    ],
+    "answer": 3,
+    "hint": "Der Esel trug die schweren Säcke. (A2 - Nomen)"
+  },
+  {
+    "question": "e Etage, -n / e Ebene, -n",
+    "choices": [
+      "hirdetés / feljelentés (advertisement / report)",
+      "emelet / szint (floor / level)",
+      "légy / csokornyakkendő (fly / bow tie)",
+      "pénznem (currency)"
+    ],
+    "answer": 2,
+    "hint": "Mein Büro ist in der zweiten Etage. (A2 - Nomen)"
+  },
+  {
+    "question": "emelet / szint (floor / level)",
+    "choices": [
+      "e Ermäßigung, -en",
+      "e Etage, -n / e Ebene, -n",
+      "e Belagerung, -en",
+      "e Währung, -en"
+    ],
+    "answer": 2,
+    "hint": "Mein Büro ist in der zweiten Etage. (A2 - Nomen)"
+  },
+  {
+    "question": "e Etagenheizung, -en",
+    "choices": [
+      "lakásfűtés (egyedi központi fűtés) (apartment heating)",
+      "házasság (marriage)",
+      "szám / mennyiség (number / quantity)",
+      "szint / sík (level / plane)"
+    ],
+    "answer": 1,
+    "hint": "Die Wohnung hat eine moderne Etagenheizung. (B2 - Nomen)"
+  },
+  {
+    "question": "lakásfűtés (egyedi központi fűtés) (apartment heating)",
+    "choices": [
+      "e Abenteuerlust",
+      "r Esel, -",
+      "e Ernte, -n",
+      "e Etagenheizung, -en"
+    ],
+    "answer": 4,
+    "hint": "Die Wohnung hat eine moderne Etagenheizung. (B2 - Nomen)"
+  },
+  {
+    "question": "e Fahne, -n",
+    "choices": [
+      "ismeretség (acquaintance)",
+      "hirdetés / feljelentés (advertisement / report)",
+      "frissítő (refreshment)",
+      "zászló (flag)"
+    ],
+    "answer": 4,
+    "hint": "Auf dem Dach weht eine rote Fahne. (A2 - Nomen)"
+  },
+  {
+    "question": "zászló (flag)",
+    "choices": [
+      "e Frist, -en / r Termin, -e",
+      "e Fahne, -n",
+      "e Anschrift, -en",
+      "e Bank, -en"
+    ],
+    "answer": 2,
+    "hint": "Auf dem Dach weht eine rote Fahne. (A2 - Nomen)"
+  },
+  {
+    "question": "e Fee, -n",
+    "choices": [
+      "ellenszolgáltatás (consideration / return)",
+      "panasz (complaint)",
+      "tündér (fairy)",
+      "frissítő (refreshment)"
+    ],
+    "answer": 3,
+    "hint": "Die kleine Fee hat einen Zauberstab. (B1 - Nomen)"
+  },
+  {
+    "question": "tündér (fairy)",
+    "choices": [
+      "e Bodenheizung, -en",
+      "e Beule, -n",
+      "e Etagenheizung, -en",
+      "e Fee, -n"
+    ],
+    "answer": 4,
+    "hint": "Die kleine Fee hat einen Zauberstab. (B1 - Nomen)"
+  }
+]

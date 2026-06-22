@@ -1,0 +1,1608 @@
+[
+  {
+    "question": "e Unterkunft, \"-e",
+    "choices": [
+      "úszó szálloda (floating hotel)",
+      "szállás (accommodation)",
+      "célkitűzés (objective)",
+      "igazolvány (ID card)"
+    ],
+    "answer": 2,
+    "hint": "Wir suchen eine günstige Unterkunft für die Nacht. (B1 - Nomen)"
+  },
+  {
+    "question": "szállás (accommodation)",
+    "choices": [
+      "e Unterkunft, \"-e",
+      "e Verpflegung (Sg.)",
+      "r Schmied",
+      "e Fleißigkeit"
+    ],
+    "answer": 1,
+    "hint": "Wir suchen eine günstige Unterkunft für die Nacht. (B1 - Nomen)"
+  },
+  {
+    "question": "e Dienstleistung, -en",
+    "choices": [
+      "szorgalom (diligence)",
+      "szolgáltatás (service)",
+      "fedél / tető (lid)",
+      "ellátás (étkezés) (catering / board)"
+    ],
+    "answer": 2,
+    "hint": "Wir bieten eine breite Palette an Dienstleistungen an. (B2 - Nomen)"
+  },
+  {
+    "question": "szolgáltatás (service)",
+    "choices": [
+      "e Zielsetzung, -en",
+      "r Zweck, -e",
+      "e Dienstleistung, -en",
+      "e Erhaltung"
+    ],
+    "answer": 3,
+    "hint": "Wir bieten eine breite Palette an Dienstleistungen an. (B2 - Nomen)"
+  },
+  {
+    "question": "in Anspruch nehmen (+ A)",
+    "choices": [
+      "meghosszabbíttat (to have extended)",
+      "igénybe vesz (to make use of)",
+      "csődbe megy (to go bankrupt)",
+      "minden rendben (everything is fine)"
+    ],
+    "answer": 2,
+    "hint": "Sie können unsere Beratung in Anspruch nehmen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "igénybe vesz (to make use of)",
+    "choices": [
+      "in Anspruch nehmen (+ A)",
+      "Pleite gehen",
+      "Jeder Topf findet seinen Deckel.",
+      "(sich) impfen lassen"
+    ],
+    "answer": 1,
+    "hint": "Sie können unsere Beratung in Anspruch nehmen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Verpflegung (Sg.)",
+    "choices": [
+      "ellátás (étkezés) (catering / board)",
+      "elszegényedés (impoverishment)",
+      "megőrzés / fenntartás (preservation)",
+      "átmeneti fázis (transitional phase)"
+    ],
+    "answer": 1,
+    "hint": "Die Verpflegung im Hotel war ausgezeichnet. (B1 - Nomen)"
+  },
+  {
+    "question": "ellátás (étkezés) (catering / board)",
+    "choices": [
+      "e Flucht, -en",
+      "e Abwechslung, -en",
+      "e Verarmung (Sg.)",
+      "e Verpflegung (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Die Verpflegung im Hotel war ausgezeichnet. (B1 - Nomen)"
+  },
+  {
+    "question": "r Ausweis, -e",
+    "choices": [
+      "szorgalom (industriousness)",
+      "sors (fate)",
+      "tanulás (learning)",
+      "igazolvány (ID card)"
+    ],
+    "answer": 4,
+    "hint": "Bitte zeigen Sie Ihren Ausweis. (A1 - Nomen)"
+  },
+  {
+    "question": "igazolvány (ID card)",
+    "choices": [
+      "e Unterkunft, \"-e",
+      "r Ausweis, -e",
+      "e Durchgangsphase, -n",
+      "e Länge, -n"
+    ],
+    "answer": 2,
+    "hint": "Bitte zeigen Sie Ihren Ausweis. (A1 - Nomen)"
+  },
+  {
+    "question": "r Reisepass, \"-e",
+    "choices": [
+      "szolgáltatás (service)",
+      "ellátás (étkezés) (catering / board)",
+      "útlevél (passport)",
+      "sors (fate)"
+    ],
+    "answer": 3,
+    "hint": "Mein Reisepass ist noch zwei Jahre gültig. (A1 - Nomen)"
+  },
+  {
+    "question": "útlevél (passport)",
+    "choices": [
+      "e Verpflegung (Sg.)",
+      "e Abwechslung, -en",
+      "s schwimmende Hotel, -s",
+      "r Reisepass, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Mein Reisepass ist noch zwei Jahre gültig. (A1 - Nomen)"
+  },
+  {
+    "question": "e Länge, -n",
+    "choices": [
+      "szórakozás / kikapcsolódás (distraction / diversion)",
+      "tanulás (learning)",
+      "hosszúság (length)",
+      "sors (fate)"
+    ],
+    "answer": 3,
+    "hint": "Die Länge des Tunnels beträgt zwei Kilometer. (B1 - Nomen)"
+  },
+  {
+    "question": "hosszúság (length)",
+    "choices": [
+      "e Abwechslung, -en",
+      "r Schicksal",
+      "r Ausweis, -e",
+      "e Länge, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Länge des Tunnels beträgt zwei Kilometer. (B1 - Nomen)"
+  },
+  {
+    "question": "ab|gelaufen",
+    "choices": [
+      "pénzügyi (financial)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+      "lejárt (expired)",
+      "tegnapi (yesterday's)"
+    ],
+    "answer": 3,
+    "hint": "Mein Parkticket ist leider abgelaufen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "lejárt (expired)",
+    "choices": [
+      "ab|gelaufen",
+      "deutlich",
+      "gültig",
+      "erlaubt / verboten"
+    ],
+    "answer": 1,
+    "hint": "Mein Parkticket ist leider abgelaufen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "gültig",
+    "choices": [
+      "tegnapi (yesterday's)",
+      "pénzügyi (financial)",
+      "érvényes (valid)",
+      "megengedett / tilos (allowed / forbidden)"
+    ],
+    "answer": 3,
+    "hint": "Das Ticket ist nur heute gültig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "érvényes (valid)",
+    "choices": [
+      "umgangssprachlich",
+      "finanziell",
+      "gültig",
+      "vor|über|gehend"
+    ],
+    "answer": 3,
+    "hint": "Das Ticket ist nur heute gültig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "be|anspruchen (+ A)",
+    "choices": [
+      "lemond (to cancel)",
+      "átfogalmaz (to rephrase)",
+      "megtud / tapasztal (to find out / experience)",
+      "igényel / igénybe vesz (to claim / demand)"
+    ],
+    "answer": 4,
+    "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
+  },
+  {
+    "question": "igényel / igénybe vesz (to claim / demand)",
+    "choices": [
+      "(sich) kämmen",
+      "er|schlagen (+ A)",
+      "be|anspruchen (+ A)",
+      "ver|meiden (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
+  },
+  {
+    "question": "s Regierungsbüro, -s",
+    "choices": [
+      "kormányablak (government office)",
+      "fedél / tető (lid)",
+      "úszó szálloda (floating hotel)",
+      "szorgalom (diligence)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss zum Regierungsbüro, um meinen Ausweis zu erneuern. (B2 - Nomen)"
+  },
+  {
+    "question": "kormányablak (government office)",
+    "choices": [
+      "e Dienstleistung, -en",
+      "e Verpflegung (Sg.)",
+      "e Abwechslung, -en",
+      "s Regierungsbüro, -s"
+    ],
+    "answer": 4,
+    "hint": "Ich muss zum Regierungsbüro, um meinen Ausweis zu erneuern. (B2 - Nomen)"
+  },
+  {
+    "question": "(sich) impfen lassen",
+    "choices": [
+      "beoltatja magát (to get vaccinated)",
+      "igénybe vesz (to make use of)",
+      "minden rendben (everything is fine)",
+      "csődbe megy (to go bankrupt)"
+    ],
+    "answer": 1,
+    "hint": "Er hat sich gegen Grippe impfen lassen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "beoltatja magát (to get vaccinated)",
+    "choices": [
+      "Energie auf|tanken",
+      "im Rahmen des/der etwas",
+      "(sich) impfen lassen",
+      "in Anspruch nehmen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er hat sich gegen Grippe impfen lassen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "(verlängern) lassen",
+    "choices": [
+      "feltöltődik (energiával) (to recharge energy)",
+      "meghosszabbíttat (to have extended)",
+      "tudnia kell (need to know)",
+      "örömömet lelem benne (I enjoy doing...)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss meinen Pass verlängern lassen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "meghosszabbíttat (to have extended)",
+    "choices": [
+      "in Anspruch nehmen (+ A)",
+      "(verlängern) lassen",
+      "Energie auf|tanken",
+      "e Absicht haben (+ zu + Inf)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss meinen Pass verlängern lassen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "brauchen zu wissen",
+    "choices": [
+      "minden rendben (everything is fine)",
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)",
+      "beoltatja magát (to get vaccinated)",
+      "tudnia kell (need to know)"
+    ],
+    "answer": 4,
+    "hint": "Was brauchen wir über das Projekt zu wissen? (B1 - Ausdruck)"
+  },
+  {
+    "question": "tudnia kell (need to know)",
+    "choices": [
+      "Es macht mir Spaß...",
+      "Energie auf|tanken",
+      "im Rahmen des/der etwas",
+      "brauchen zu wissen"
+    ],
+    "answer": 4,
+    "hint": "Was brauchen wir über das Projekt zu wissen? (B1 - Ausdruck)"
+  },
+  {
+    "question": "her|aus|finden (+ A)",
+    "choices": [
+      "felöltözik (to get dressed)",
+      "kiderít / rájön (to find out)",
+      "levetkőzik (to undress)",
+      "igényel / igénybe vesz (to claim / demand)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss herausfinden, wie das Gerät funktioniert. (B1 - Verb)"
+  },
+  {
+    "question": "kiderít / rájön (to find out)",
+    "choices": [
+      "her|aus|finden (+ A)",
+      "ver|meiden (+ A)",
+      "(sich) sorgen (+ um + A)",
+      "(sich) rasieren"
+    ],
+    "answer": 1,
+    "hint": "Ich muss herausfinden, wie das Gerät funktioniert. (B1 - Verb)"
+  },
+  {
+    "question": "(sich) sorgen (+ um + A)",
+    "choices": [
+      "aggódik (to worry)",
+      "támogat / fejleszt (to promote)",
+      "elkerül (to avoid)",
+      "megőriz (to preserve)"
+    ],
+    "answer": 1,
+    "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
+  },
+  {
+    "question": "aggódik (to worry)",
+    "choices": [
+      "(sich) kämmen",
+      "er|schlagen (+ A)",
+      "(sich) sorgen (+ um + A)",
+      "(sich) fühlen"
+    ],
+    "answer": 3,
+    "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
+  },
+  {
+    "question": "e Orientierung (Sg.)",
+    "choices": [
+      "igazolvány (ID card)",
+      "menekülés (escape)",
+      "tájékozódás (orientation)",
+      "átmeneti fázis (transitional phase)"
+    ],
+    "answer": 3,
+    "hint": "Ohne Kompass verliert man leicht die Orientierung. (B2 - Nomen)"
+  },
+  {
+    "question": "tájékozódás (orientation)",
+    "choices": [
+      "r Schicksal",
+      "e Orientierung (Sg.)",
+      "s Lernen (Sg.)",
+      "e Verpflegung (Sg.)"
+    ],
+    "answer": 2,
+    "hint": "Ohne Kompass verliert man leicht die Orientierung. (B2 - Nomen)"
+  },
+  {
+    "question": "(sich) lohnen",
+    "choices": [
+      "lemond (to cancel)",
+      "megáll / megállít (to stop)",
+      "megéri (to be worth it)",
+      "levetkőzik (to undress)"
+    ],
+    "answer": 3,
+    "hint": "Es lohnt sich, früh aufzustehen. (B1 - Verb)"
+  },
+  {
+    "question": "megéri (to be worth it)",
+    "choices": [
+      "(sich) an|ziehen",
+      "her|aus|finden (+ A)",
+      "(sich) lohnen",
+      "niederschlagen"
+    ],
+    "answer": 3,
+    "hint": "Es lohnt sich, früh aufzustehen. (B1 - Verb)"
+  },
+  {
+    "question": "finanziell",
+    "choices": [
+      "világos / érthető (clear / distinct)",
+      "érvényes (valid)",
+      "egyértelmű (clear)",
+      "pénzügyi (financial)"
+    ],
+    "answer": 4,
+    "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "pénzügyi (financial)",
+    "choices": [
+      "finanziell",
+      "ab|gelaufen",
+      "deutlich",
+      "erlaubt / verboten"
+    ],
+    "answer": 1,
+    "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "ver|meiden (+ A)",
+    "choices": [
+      "megéri (to be worth it)",
+      "elkerül (to avoid)",
+      "kiköt (hajó) (to berth / dock)",
+      "törekszik / fáradozik (to strive for)"
+    ],
+    "answer": 2,
+    "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
+  },
+  {
+    "question": "elkerül (to avoid)",
+    "choices": [
+      "ver|meiden (+ A)",
+      "über|ein|stimmen (+ mit + D)",
+      "be|anspruchen (+ A)",
+      "(sich) fühlen"
+    ],
+    "answer": 1,
+    "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
+  },
+  {
+    "question": "e Flucht, -en",
+    "choices": [
+      "szakácsnő (cook)",
+      "elszegényedés (impoverishment)",
+      "tájékozódás (orientation)",
+      "menekülés (escape)"
+    ],
+    "answer": 4,
+    "hint": "Die Flucht aus dem Gefängnis gelang ihm. (B2 - Nomen)"
+  },
+  {
+    "question": "menekülés (escape)",
+    "choices": [
+      "s Lernen (Sg.)",
+      "e Flucht, -en",
+      "e Köchin",
+      "s Regierungsbüro, -s"
+    ],
+    "answer": 2,
+    "hint": "Die Flucht aus dem Gefängnis gelang ihm. (B2 - Nomen)"
+  },
+  {
+    "question": "e Verarmung (Sg.)",
+    "choices": [
+      "hasonlóság (similarity)",
+      "elszegényedés (impoverishment)",
+      "tanulás (learning)",
+      "szórakozás / kikapcsolódás (distraction / diversion)"
+    ],
+    "answer": 2,
+    "hint": "Die Verarmung der Bevölkerung ist ein großes Problem. (C1 - Nomen)"
+  },
+  {
+    "question": "elszegényedés (impoverishment)",
+    "choices": [
+      "r Zweck, -e",
+      "s schwimmende Hotel, -s",
+      "e Verarmung (Sg.)",
+      "s Regierungsbüro, -s"
+    ],
+    "answer": 3,
+    "hint": "Die Verarmung der Bevölkerung ist ein großes Problem. (C1 - Nomen)"
+  },
+  {
+    "question": "Energie auf|tanken",
+    "choices": [
+      "minden rendben (everything is fine)",
+      "feltöltődik (energiával) (to recharge energy)",
+      "meghosszabbíttat (to have extended)",
+      "igénybe vesz (to make use of)"
+    ],
+    "answer": 2,
+    "hint": "Im Urlaub kann ich endlich wieder Energie auftanken. (B2 - Ausdruck)"
+  },
+  {
+    "question": "feltöltődik (energiával) (to recharge energy)",
+    "choices": [
+      "e Absicht haben (+ zu + Inf)",
+      "Energie auf|tanken",
+      "in Anspruch nehmen (+ A)",
+      "Alles in Butter"
+    ],
+    "answer": 2,
+    "hint": "Im Urlaub kann ich endlich wieder Energie auftanken. (B2 - Ausdruck)"
+  },
+  {
+    "question": "er|fahren (+ A / + von + D)",
+    "choices": [
+      "megáll / megállít (to stop)",
+      "kiderít / rájön (to find out)",
+      "megtud / tapasztal (to find out / experience)",
+      "aggódik (to worry)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe erst gestern davon erfahren. (B1 - Verb)"
+  },
+  {
+    "question": "megtud / tapasztal (to find out / experience)",
+    "choices": [
+      "an|halten",
+      "(sich) be|mühen (+ um + A)",
+      "her|aus|finden (+ A)",
+      "er|fahren (+ A / + von + D)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe erst gestern davon erfahren. (B1 - Verb)"
+  },
+  {
+    "question": "e Zerstreuung (Sg.)",
+    "choices": [
+      "szórakozás / kikapcsolódás (distraction / diversion)",
+      "tanulás (learning)",
+      "örökkévalóság (eternity)",
+      "célkitűzés (objective)"
+    ],
+    "answer": 1,
+    "hint": "Er sucht nach der Arbeit ein wenig Zerstreuung. (C1 - Nomen)"
+  },
+  {
+    "question": "szórakozás / kikapcsolódás (distraction / diversion)",
+    "choices": [
+      "e Orientierung (Sg.)",
+      "e Durchgangsphase, -n",
+      "e Zerstreuung (Sg.)",
+      "e Fleißigkeit"
+    ],
+    "answer": 3,
+    "hint": "Er sucht nach der Arbeit ein wenig Zerstreuung. (C1 - Nomen)"
+  },
+  {
+    "question": "e Abwechslung, -en",
+    "choices": [
+      "sors (fate)",
+      "elszegényedés (impoverishment)",
+      "szakácsnő (cook)",
+      "változatosság (variety / change)"
+    ],
+    "answer": 4,
+    "hint": "Ein bisschen Abwechslung tut jedem gut. (B1 - Nomen)"
+  },
+  {
+    "question": "változatosság (variety / change)",
+    "choices": [
+      "e Abwechslung, -en",
+      "r Fleiß",
+      "e Ewigkeit, -en",
+      "e Unterkunft, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Ein bisschen Abwechslung tut jedem gut. (B1 - Nomen)"
+  },
+  {
+    "question": "Es macht mir Spaß...",
+    "choices": [
+      "örömömet lelem benne (I enjoy doing...)",
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)",
+      "igénybe vesz (to make use of)",
+      "tudnia kell (need to know)"
+    ],
+    "answer": 1,
+    "hint": "Es macht mir Spaß, neue Sprachen zu lernen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "örömömet lelem benne (I enjoy doing...)",
+    "choices": [
+      "Energie auf|tanken",
+      "(verlängern) lassen",
+      "Es macht mir Spaß...",
+      "(sich) impfen lassen"
+    ],
+    "answer": 3,
+    "hint": "Es macht mir Spaß, neue Sprachen zu lernen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "e Absicht haben (+ zu + Inf)",
+    "choices": [
+      "szándékozik (to intend)",
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)",
+      "minden rendben (everything is fine)",
+      "valami keretében (in the context of)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe die Absicht, nächstes Jahr nach Berlin zu ziehen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "szándékozik (to intend)",
+    "choices": [
+      "e Absicht haben (+ zu + Inf)",
+      "Energie auf|tanken",
+      "Alles in Butter",
+      "brauchen zu wissen"
+    ],
+    "answer": 1,
+    "hint": "Ich habe die Absicht, nächstes Jahr nach Berlin zu ziehen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "erlaubt / verboten",
+    "choices": [
+      "megengedett / tilos (allowed / forbidden)",
+      "világos / érthető (clear / distinct)",
+      "pénzügyi (financial)",
+      "lejárt (expired)"
+    ],
+    "answer": 1,
+    "hint": "Rauchen ist hier verboten. (A2 - Adjektiv)"
+  },
+  {
+    "question": "megengedett / tilos (allowed / forbidden)",
+    "choices": [
+      "erlaubt / verboten",
+      "finanziell",
+      "vor|über|gehend",
+      "umgangssprachlich"
+    ],
+    "answer": 1,
+    "hint": "Rauchen ist hier verboten. (A2 - Adjektiv)"
+  },
+  {
+    "question": "e Zielsetzung, -en",
+    "choices": [
+      "célkitűzés (objective)",
+      "változatosság (variety / change)",
+      "örökkévalóság (eternity)",
+      "szorgalom (industriousness)"
+    ],
+    "answer": 1,
+    "hint": "Eine klare Zielsetzung ist wichtig for den Erfolg. (B2 - Nomen)"
+  },
+  {
+    "question": "célkitűzés (objective)",
+    "choices": [
+      "e Durchgangsphase, -n",
+      "e Länge, -n",
+      "e Flucht, -en",
+      "e Zielsetzung, -en"
+    ],
+    "answer": 4,
+    "hint": "Eine klare Zielsetzung ist wichtig for den Erfolg. (B2 - Nomen)"
+  },
+  {
+    "question": "r Zweck, -e",
+    "choices": [
+      "tájékozódás (orientation)",
+      "változatosság (variety / change)",
+      "cél / rendeltetés (purpose)",
+      "szakácsnő (cook)"
+    ],
+    "answer": 3,
+    "hint": "Was ist der Zweck dieses Treffens? (B2 - Nomen)"
+  },
+  {
+    "question": "cél / rendeltetés (purpose)",
+    "choices": [
+      "e Ähnlichkeit, -en",
+      "e Unterkunft, \"-e",
+      "e Durchgangsphase, -n",
+      "r Zweck, -e"
+    ],
+    "answer": 4,
+    "hint": "Was ist der Zweck dieses Treffens? (B2 - Nomen)"
+  },
+  {
+    "question": "s schwimmende Hotel, -s",
+    "choices": [
+      "úszó szálloda (floating hotel)",
+      "fedél / tető (lid)",
+      "kormányablak (government office)",
+      "célkitűzés (objective)"
+    ],
+    "answer": 1,
+    "hint": "Das schwimmende Hotel liegt im Hafen. (B2 - Nomen)"
+  },
+  {
+    "question": "úszó szálloda (floating hotel)",
+    "choices": [
+      "e Zerstreuung (Sg.)",
+      "s schwimmende Hotel, -s",
+      "e Ähnlichkeit, -en",
+      "e Verpflegung (Sg.)"
+    ],
+    "answer": 2,
+    "hint": "Das schwimmende Hotel liegt im Hafen. (B2 - Nomen)"
+  },
+  {
+    "question": "an|legen",
+    "choices": [
+      "kiköt (hajó) (to berth / dock)",
+      "kiderít / rájön (to find out)",
+      "megáll / megállít (to stop)",
+      "támogat / fejleszt (to promote)"
+    ],
+    "answer": 1,
+    "hint": "Das Schiff wird in Kürze im Hafen anlegen. (B2 - Verb)"
+  },
+  {
+    "question": "kiköt (hajó) (to berth / dock)",
+    "choices": [
+      "(sich) fühlen",
+      "an|legen",
+      "(sich) sorgen (+ um + A)",
+      "loben"
+    ],
+    "answer": 2,
+    "hint": "Das Schiff wird in Kürze im Hafen anlegen. (B2 - Verb)"
+  },
+  {
+    "question": "e Ähnlichkeit, -en",
+    "choices": [
+      "úszó szálloda (floating hotel)",
+      "hasonlóság (similarity)",
+      "igazolvány (ID card)",
+      "átmeneti fázis (transitional phase)"
+    ],
+    "answer": 2,
+    "hint": "Es gibt eine große Ähnlichkeit zwischen den Plänen. (B2 - Nomen)"
+  },
+  {
+    "question": "hasonlóság (similarity)",
+    "choices": [
+      "r Schmied",
+      "e Fleißigkeit",
+      "e Ähnlichkeit, -en",
+      "e Unterkunft, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Es gibt eine große Ähnlichkeit zwischen den Plänen. (B2 - Nomen)"
+  },
+  {
+    "question": "über|ein|stimmen (+ mit + D)",
+    "choices": [
+      "érzi magát (to feel)",
+      "megegyezik valamiben (to agree on)",
+      "kiköt (hajó) (to berth / dock)",
+      "támogat / fejleszt (to promote)"
+    ],
+    "answer": 2,
+    "hint": "Wir stimmen in diesem Punkt überein. (C1 - Verb)"
+  },
+  {
+    "question": "megegyezik valamiben (to agree on)",
+    "choices": [
+      "be|anspruchen (+ A)",
+      "ver|meiden (+ A)",
+      "über|ein|stimmen (+ mit + D)",
+      "(sich) lohnen"
+    ],
+    "answer": 3,
+    "hint": "Wir stimmen in diesem Punkt überein. (C1 - Verb)"
+  },
+  {
+    "question": "Pleite gehen",
+    "choices": [
+      "csődbe megy (to go bankrupt)",
+      "igénybe vesz (to make use of)",
+      "beoltatja magát (to get vaccinated)",
+      "szándékozik (to intend)"
+    ],
+    "answer": 1,
+    "hint": "Viele kleine Firmen sind während der Krise pleite gegangen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "csődbe megy (to go bankrupt)",
+    "choices": [
+      "Pleite gehen",
+      "Alles in Butter",
+      "(verlängern) lassen",
+      "Es macht mir Spaß..."
+    ],
+    "answer": 1,
+    "hint": "Viele kleine Firmen sind während der Krise pleite gegangen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "pauschal",
+    "choices": [
+      "egyértelmű (clear)",
+      "köznyelvi (colloquial)",
+      "megengedett / tilos (allowed / forbidden)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)"
+    ],
+    "answer": 4,
+    "hint": "Wir haben eine Pauschalreise gebucht. (B2 - Adjektiv)"
+  },
+  {
+    "question": "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+    "choices": [
+      "gültig",
+      "finanziell",
+      "pauschal",
+      "ab|gelaufen"
+    ],
+    "answer": 3,
+    "hint": "Wir haben eine Pauschalreise gebucht. (B2 - Adjektiv)"
+  },
+  {
+    "question": "(sich) rasieren",
+    "choices": [
+      "levetkőzik (to undress)",
+      "borotválkozik (to shave)",
+      "megőriz (to preserve)",
+      "felöltözik (to get dressed)"
+    ],
+    "answer": 2,
+    "hint": "Er rasiert sich jeden Morgen. (A2 - Verb)"
+  },
+  {
+    "question": "borotválkozik (to shave)",
+    "choices": [
+      "(sich) rasieren",
+      "be|anspruchen (+ A)",
+      "(sich) lohnen",
+      "loben"
+    ],
+    "answer": 1,
+    "hint": "Er rasiert sich jeden Morgen. (A2 - Verb)"
+  },
+  {
+    "question": "(sich) kämmen",
+    "choices": [
+      "levetkőzik (to undress)",
+      "borotválkozik (to shave)",
+      "fésülködik (to comb)",
+      "aggódik (to worry)"
+    ],
+    "answer": 3,
+    "hint": "Sie kämmt sich die Haare. (A2 - Verb)"
+  },
+  {
+    "question": "fésülködik (to comb)",
+    "choices": [
+      "ver|meiden (+ A)",
+      "(sich) kämmen",
+      "umformulieren",
+      "(sich) rasieren"
+    ],
+    "answer": 2,
+    "hint": "Sie kämmt sich die Haare. (A2 - Verb)"
+  },
+  {
+    "question": "(sich) an|ziehen",
+    "choices": [
+      "felöltözik (to get dressed)",
+      "igényel / igénybe vesz (to claim / demand)",
+      "megegyezik valamiben (to agree on)",
+      "átfogalmaz (to rephrase)"
+    ],
+    "answer": 1,
+    "hint": "Zieh dich bitte schnell an! (A1 - Verb)"
+  },
+  {
+    "question": "felöltözik (to get dressed)",
+    "choices": [
+      "(sich) sorgen (+ um + A)",
+      "umformulieren",
+      "(sich) an|ziehen",
+      "fördern (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Zieh dich bitte schnell an! (A1 - Verb)"
+  },
+  {
+    "question": "(sich) aus|ziehen",
+    "choices": [
+      "fésülködik (to comb)",
+      "átfogalmaz (to rephrase)",
+      "levetkőzik (to undress)",
+      "kiderít / rájön (to find out)"
+    ],
+    "answer": 3,
+    "hint": "Er zieht sich vor dem Duschen aus. (A1 - Verb)"
+  },
+  {
+    "question": "levetkőzik (to undress)",
+    "choices": [
+      "niederschlagen",
+      "erhalten",
+      "(sich) be|mühen (+ um + A)",
+      "(sich) aus|ziehen"
+    ],
+    "answer": 4,
+    "hint": "Er zieht sich vor dem Duschen aus. (A1 - Verb)"
+  },
+  {
+    "question": "(sich) fühlen",
+    "choices": [
+      "agyonüt (to strike dead)",
+      "lemond (to cancel)",
+      "aggódik (to worry)",
+      "érzi magát (to feel)"
+    ],
+    "answer": 4,
+    "hint": "Wie fühlst du dich heute? (A2 - Verb)"
+  },
+  {
+    "question": "érzi magát (to feel)",
+    "choices": [
+      "umformulieren",
+      "(sich) kämmen",
+      "(sich) sorgen (+ um + A)",
+      "(sich) fühlen"
+    ],
+    "answer": 4,
+    "hint": "Wie fühlst du dich heute? (A2 - Verb)"
+  },
+  {
+    "question": "s Lernen (Sg.)",
+    "choices": [
+      "kovács (smith)",
+      "úszó szálloda (floating hotel)",
+      "tanulás (learning)",
+      "ellátás (étkezés) (catering / board)"
+    ],
+    "answer": 3,
+    "hint": "Das Lernen von Vokabeln ist wichtig. (A1 - Nomen)"
+  },
+  {
+    "question": "tanulás (learning)",
+    "choices": [
+      "e Köchin",
+      "e Verarmung (Sg.)",
+      "s Lernen (Sg.)",
+      "s Regierungsbüro, -s"
+    ],
+    "answer": 3,
+    "hint": "Das Lernen von Vokabeln ist wichtig. (A1 - Nomen)"
+  },
+  {
+    "question": "(sich) be|mühen (+ um + A)",
+    "choices": [
+      "lever / elnyom (to beat down)",
+      "kiderít / rájön (to find out)",
+      "törekszik / fáradozik (to strive for)",
+      "borotválkozik (to shave)"
+    ],
+    "answer": 3,
+    "hint": "Wir bemühen uns um eine schnelle Lösung. (B2 - Verb)"
+  },
+  {
+    "question": "törekszik / fáradozik (to strive for)",
+    "choices": [
+      "loben",
+      "(sich) sorgen (+ um + A)",
+      "(sich) be|mühen (+ um + A)",
+      "her|aus|finden (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Wir bemühen uns um eine schnelle Lösung. (B2 - Verb)"
+  },
+  {
+    "question": "nicht wahr? / oder?",
+    "choices": [
+      "megőrzés / fenntartás (preservation)",
+      "ugye (right?)",
+      "lejárt (expired)",
+      "ugyebár (right? / isn't it?)"
+    ],
+    "answer": 4,
+    "hint": "Das ist eine tolle Idee, nicht wahr? (B1 - Partikel)"
+  },
+  {
+    "question": "ugyebár (right? / isn't it?)",
+    "choices": [
+      "nicht wahr? / oder?",
+      "oder?",
+      "e Erhaltung",
+      "ab|gelaufen"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine tolle Idee, nicht wahr? (B1 - Partikel)"
+  },
+  {
+    "question": "oder?",
+    "choices": [
+      "ugye (right?)",
+      "ugyebár (right? / isn't it?)",
+      "szorgalom (industriousness)",
+      "törekszik / fáradozik (to strive for)"
+    ],
+    "answer": 1,
+    "hint": "Du kommst morgen auch, oder? (A2 - Partikel)"
+  },
+  {
+    "question": "ugye (right?)",
+    "choices": [
+      "nicht wahr? / oder?",
+      "(sich) be|mühen (+ um + A)",
+      "e Fleißigkeit",
+      "oder?"
+    ],
+    "answer": 4,
+    "hint": "Du kommst morgen auch, oder? (A2 - Partikel)"
+  },
+  {
+    "question": "e Ewigkeit, -en",
+    "choices": [
+      "ellátás (étkezés) (catering / board)",
+      "szorgalom (diligence)",
+      "kormányablak (government office)",
+      "örökkévalóság (eternity)"
+    ],
+    "answer": 4,
+    "hint": "Es dauerte eine Ewigkeit, bis er ankam. (C1 - Nomen)"
+  },
+  {
+    "question": "örökkévalóság (eternity)",
+    "choices": [
+      "e Fleißigkeit",
+      "r Schmied",
+      "e Erhaltung",
+      "e Ewigkeit, -en"
+    ],
+    "answer": 4,
+    "hint": "Es dauerte eine Ewigkeit, bis er ankam. (C1 - Nomen)"
+  },
+  {
+    "question": "e Durchgangsphase, -n",
+    "choices": [
+      "kormányablak (government office)",
+      "célkitűzés (objective)",
+      "átmeneti fázis (transitional phase)",
+      "elszegényedés (impoverishment)"
+    ],
+    "answer": 3,
+    "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
+  },
+  {
+    "question": "átmeneti fázis (transitional phase)",
+    "choices": [
+      "s Regierungsbüro, -s",
+      "e Durchgangsphase, -n",
+      "e Zielsetzung, -en",
+      "r Fleiß"
+    ],
+    "answer": 2,
+    "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
+  },
+  {
+    "question": "vor|über|gehend",
+    "choices": [
+      "pénzügyi (financial)",
+      "egyértelmű (clear)",
+      "érvényes (valid)",
+      "átmeneti (temporary)"
+    ],
+    "answer": 4,
+    "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
+  },
+  {
+    "question": "átmeneti (temporary)",
+    "choices": [
+      "finanziell",
+      "erlaubt / verboten",
+      "pauschal",
+      "vor|über|gehend"
+    ],
+    "answer": 4,
+    "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
+  },
+  {
+    "question": "umgangssprachlich",
+    "choices": [
+      "köznyelvi (colloquial)",
+      "tegnapi (yesterday's)",
+      "átmeneti (temporary)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)"
+    ],
+    "answer": 1,
+    "hint": "Das Wort wird meist umgangssprachlich verwendet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "köznyelvi (colloquial)",
+    "choices": [
+      "umgangssprachlich",
+      "deutlich",
+      "finanziell",
+      "gültig"
+    ],
+    "answer": 1,
+    "hint": "Das Wort wird meist umgangssprachlich verwendet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "fließend",
+    "choices": [
+      "folyékony (fluent)",
+      "pénzügyi (financial)",
+      "megengedett / tilos (allowed / forbidden)",
+      "átmeneti (temporary)"
+    ],
+    "answer": 1,
+    "hint": "Er spricht fließend Deutsch. (B2 - Adjektiv)"
+  },
+  {
+    "question": "folyékony (fluent)",
+    "choices": [
+      "gültig",
+      "ab|gelaufen",
+      "fließend",
+      "ein|deutig"
+    ],
+    "answer": 3,
+    "hint": "Er spricht fließend Deutsch. (B2 - Adjektiv)"
+  },
+  {
+    "question": "fördern (+ A)",
+    "choices": [
+      "megőriz (to preserve)",
+      "megkap / kap (to receive)",
+      "támogat / fejleszt (to promote)",
+      "megegyezik valamiben (to agree on)"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen die Talente der Kinder fördern. (B2 - Verb)"
+  },
+  {
+    "question": "támogat / fejleszt (to promote)",
+    "choices": [
+      "an|legen",
+      "bewahren",
+      "an|halten",
+      "fördern (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Talente der Kinder fördern. (B2 - Verb)"
+  },
+  {
+    "question": "ein|deutig",
+    "choices": [
+      "pénzügyi (financial)",
+      "köznyelvi (colloquial)",
+      "egyértelmű (clear)",
+      "lejárt (expired)"
+    ],
+    "answer": 3,
+    "hint": "Das Ergebnis ist eindeutig. (B2 - Adjektiv)"
+  },
+  {
+    "question": "egyértelmű (clear)",
+    "choices": [
+      "finanziell",
+      "gültig",
+      "ein|deutig",
+      "pauschal"
+    ],
+    "answer": 3,
+    "hint": "Das Ergebnis ist eindeutig. (B2 - Adjektiv)"
+  },
+  {
+    "question": "deutlich",
+    "choices": [
+      "megengedett / tilos (allowed / forbidden)",
+      "világos / érthető (clear / distinct)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+      "átmeneti (temporary)"
+    ],
+    "answer": 2,
+    "hint": "Bitte sprechen Sie etwas deutlicher. (B1 - Adjektiv)"
+  },
+  {
+    "question": "világos / érthető (clear / distinct)",
+    "choices": [
+      "ein|deutig",
+      "finanziell",
+      "deutlich",
+      "ab|gelaufen"
+    ],
+    "answer": 3,
+    "hint": "Bitte sprechen Sie etwas deutlicher. (B1 - Adjektiv)"
+  },
+  {
+    "question": "ab|sagen (+ A)",
+    "choices": [
+      "igényel / igénybe vesz (to claim / demand)",
+      "lemond (to cancel)",
+      "megáll / megállít (to stop)",
+      "kiköt (hajó) (to berth / dock)"
+    ],
+    "answer": 2,
+    "hint": "Wegen Krankheit muss er den Termin absagen. (B1 - Verb)"
+  },
+  {
+    "question": "lemond (to cancel)",
+    "choices": [
+      "(sich) aus|ziehen",
+      "(sich) sorgen (+ um + A)",
+      "fördern (+ A)",
+      "ab|sagen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wegen Krankheit muss er den Termin absagen. (B1 - Verb)"
+  },
+  {
+    "question": "an|halten",
+    "choices": [
+      "átfogalmaz (to rephrase)",
+      "aggódik (to worry)",
+      "lever / elnyom (to beat down)",
+      "megáll / megállít (to stop)"
+    ],
+    "answer": 4,
+    "hint": "Das Auto musste vor der Ampel anhalten. (A2 - Verb)"
+  },
+  {
+    "question": "megáll / megállít (to stop)",
+    "choices": [
+      "(sich) kämmen",
+      "her|aus|finden (+ A)",
+      "(sich) fühlen",
+      "an|halten"
+    ],
+    "answer": 4,
+    "hint": "Das Auto musste vor der Ampel anhalten. (A2 - Verb)"
+  },
+  {
+    "question": "er|schlagen (+ A)",
+    "choices": [
+      "kiköt (hajó) (to berth / dock)",
+      "megtud / tapasztal (to find out / experience)",
+      "megkap / kap (to receive)",
+      "agyonüt (to strike dead)"
+    ],
+    "answer": 4,
+    "hint": "Die Nachricht hat mich fast erschlagen. (C1 - Verb)"
+  },
+  {
+    "question": "agyonüt (to strike dead)",
+    "choices": [
+      "fördern (+ A)",
+      "loben",
+      "er|schlagen (+ A)",
+      "(sich) an|ziehen"
+    ],
+    "answer": 3,
+    "hint": "Die Nachricht hat mich fast erschlagen. (C1 - Verb)"
+  },
+  {
+    "question": "niederschlagen",
+    "choices": [
+      "megtud / tapasztal (to find out / experience)",
+      "megkap / kap (to receive)",
+      "lever / elnyom (to beat down)",
+      "felöltözik (to get dressed)"
+    ],
+    "answer": 3,
+    "hint": "Er konnte die Kritik nicht einfach niederschlagen. (C1 - Verb)"
+  },
+  {
+    "question": "lever / elnyom (to beat down)",
+    "choices": [
+      "(sich) lohnen",
+      "niederschlagen",
+      "er|schlagen (+ A)",
+      "er|fahren (+ A / + von + D)"
+    ],
+    "answer": 2,
+    "hint": "Er konnte die Kritik nicht einfach niederschlagen. (C1 - Verb)"
+  },
+  {
+    "question": "umformulieren",
+    "choices": [
+      "agyonüt (to strike dead)",
+      "átfogalmaz (to rephrase)",
+      "fésülködik (to comb)",
+      "megegyezik valamiben (to agree on)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss den Text noch einmal umformulieren. (B2 - Verb)"
+  },
+  {
+    "question": "átfogalmaz (to rephrase)",
+    "choices": [
+      "erhalten",
+      "umformulieren",
+      "fördern (+ A)",
+      "(sich) be|mühen (+ um + A)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss den Text noch einmal umformulieren. (B2 - Verb)"
+  },
+  {
+    "question": "bewahren",
+    "choices": [
+      "borotválkozik (to shave)",
+      "agyonüt (to strike dead)",
+      "igényel / igénybe vesz (to claim / demand)",
+      "megőriz (to preserve)"
+    ],
+    "answer": 4,
+    "hint": "Wir sollten unsere Traditionen bewahren. (B2 - Verb)"
+  },
+  {
+    "question": "megőriz (to preserve)",
+    "choices": [
+      "her|aus|finden (+ A)",
+      "ver|meiden (+ A)",
+      "bewahren",
+      "über|ein|stimmen (+ mit + D)"
+    ],
+    "answer": 3,
+    "hint": "Wir sollten unsere Traditionen bewahren. (B2 - Verb)"
+  },
+  {
+    "question": "gestrig",
+    "choices": [
+      "átmeneti (temporary)",
+      "megengedett / tilos (allowed / forbidden)",
+      "lejárt (expired)",
+      "tegnapi (yesterday's)"
+    ],
+    "answer": 4,
+    "hint": "Die gestrige Zeitung liegt noch auf dem Tisch. (B1 - Adjektiv)"
+  },
+  {
+    "question": "tegnapi (yesterday's)",
+    "choices": [
+      "fließend",
+      "erlaubt / verboten",
+      "gestrig",
+      "finanziell"
+    ],
+    "answer": 3,
+    "hint": "Die gestrige Zeitung liegt noch auf dem Tisch. (B1 - Adjektiv)"
+  },
+  {
+    "question": "im Rahmen des/der etwas",
+    "choices": [
+      "szándékozik (to intend)",
+      "valami keretében (in the context of)",
+      "minden rendben (everything is fine)",
+      "csődbe megy (to go bankrupt)"
+    ],
+    "answer": 2,
+    "hint": "Das Projekt findet im Rahmen des Lehrplans statt. (B2 - Ausdruck)"
+  },
+  {
+    "question": "valami keretében (in the context of)",
+    "choices": [
+      "im Rahmen des/der etwas",
+      "(sich) impfen lassen",
+      "Jeder Topf findet seinen Deckel.",
+      "brauchen zu wissen"
+    ],
+    "answer": 1,
+    "hint": "Das Projekt findet im Rahmen des Lehrplans statt. (B2 - Ausdruck)"
+  },
+  {
+    "question": "erhalten",
+    "choices": [
+      "levetkőzik (to undress)",
+      "átfogalmaz (to rephrase)",
+      "megkap / kap (to receive)",
+      "kiköt (hajó) (to berth / dock)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe tegnap ein wichtiges Paket erhalten. (B1 - Verb)"
+  },
+  {
+    "question": "megkap / kap (to receive)",
+    "choices": [
+      "ver|meiden (+ A)",
+      "erhalten",
+      "fördern (+ A)",
+      "er|schlagen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe tegnap ein wichtiges Paket erhalten. (B1 - Verb)"
+  },
+  {
+    "question": "e Erhaltung",
+    "choices": [
+      "hasonlóság (similarity)",
+      "tanulás (learning)",
+      "megőrzés / fenntartás (preservation)",
+      "szórakozás / kikapcsolódás (distraction / diversion)"
+    ],
+    "answer": 3,
+    "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
+  },
+  {
+    "question": "megőrzés / fenntartás (preservation)",
+    "choices": [
+      "e Erhaltung",
+      "s schwimmende Hotel, -s",
+      "e Verarmung (Sg.)",
+      "r Fleiß"
+    ],
+    "answer": 1,
+    "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
+  },
+  {
+    "question": "e Köchin",
+    "choices": [
+      "cél / rendeltetés (purpose)",
+      "szakácsnő (cook)",
+      "szorgalom (diligence)",
+      "ellátás (étkezés) (catering / board)"
+    ],
+    "answer": 2,
+    "hint": "Die Köchin bereitet ein köstliches Menü vor. (A2 - Nomen)"
+  },
+  {
+    "question": "szakácsnő (cook)",
+    "choices": [
+      "e Köchin",
+      "e Unterkunft, \"-e",
+      "r Reisepass, \"-e",
+      "r Zweck, -e"
+    ],
+    "answer": 1,
+    "hint": "Die Köchin bereitet ein köstliches Menü vor. (A2 - Nomen)"
+  },
+  {
+    "question": "Alles in Butter",
+    "choices": [
+      "szándékozik (to intend)",
+      "meghosszabbíttat (to have extended)",
+      "minden rendben (everything is fine)",
+      "örömömet lelem benne (I enjoy doing...)"
+    ],
+    "answer": 3,
+    "hint": "Keine Sorge, es ist alles in Butter. (B2 - Ausdruck)"
+  },
+  {
+    "question": "minden rendben (everything is fine)",
+    "choices": [
+      "in Anspruch nehmen (+ A)",
+      "Energie auf|tanken",
+      "(verlängern) lassen",
+      "Alles in Butter"
+    ],
+    "answer": 4,
+    "hint": "Keine Sorge, es ist alles in Butter. (B2 - Ausdruck)"
+  },
+  {
+    "question": "Jeder Topf findet seinen Deckel.",
+    "choices": [
+      "szándékozik (to intend)",
+      "meghosszabbíttat (to have extended)",
+      "feltöltődik (energiával) (to recharge energy)",
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)"
+    ],
+    "answer": 4,
+    "hint": "Mach dir keine Sorgen, jeder Topf findet seinen Deckel. (B2 - Ausdruck)"
+  },
+  {
+    "question": "Minden zsák megkeresi a foltját. (Every pot finds its lid.)",
+    "choices": [
+      "Jeder Topf findet seinen Deckel.",
+      "(sich) impfen lassen",
+      "in Anspruch nehmen (+ A)",
+      "Energie auf|tanken"
+    ],
+    "answer": 1,
+    "hint": "Mach dir keine Sorgen, jeder Topf findet seinen Deckel. (B2 - Ausdruck)"
+  },
+  {
+    "question": "r Deckel",
+    "choices": [
+      "szorgalom (diligence)",
+      "fedél / tető (lid)",
+      "tanulás (learning)",
+      "örökkévalóság (eternity)"
+    ],
+    "answer": 2,
+    "hint": "Wo ist der Deckel für diesen Topf? (B1 - Nomen)"
+  },
+  {
+    "question": "fedél / tető (lid)",
+    "choices": [
+      "r Reisepass, \"-e",
+      "r Schicksal",
+      "r Zweck, -e",
+      "r Deckel"
+    ],
+    "answer": 4,
+    "hint": "Wo ist der Deckel für diesen Topf? (B1 - Nomen)"
+  },
+  {
+    "question": "loben",
+    "choices": [
+      "felöltözik (to get dressed)",
+      "dicsér (to praise)",
+      "kiköt (hajó) (to berth / dock)",
+      "támogat / fejleszt (to promote)"
+    ],
+    "answer": 2,
+    "hint": "Die Eltern loben das Kind für die gute Note. (B1 - Verb)"
+  },
+  {
+    "question": "dicsér (to praise)",
+    "choices": [
+      "ab|sagen (+ A)",
+      "niederschlagen",
+      "er|fahren (+ A / + von + D)",
+      "loben"
+    ],
+    "answer": 4,
+    "hint": "Die Eltern loben das Kind für die gute Note. (B1 - Verb)"
+  },
+  {
+    "question": "r Schmied",
+    "choices": [
+      "kovács (smith)",
+      "útlevél (passport)",
+      "elszegényedés (impoverishment)",
+      "cél / rendeltetés (purpose)"
+    ],
+    "answer": 1,
+    "hint": "Jeder ist seines Glückes Schmied. (B2 - Nomen)"
+  },
+  {
+    "question": "kovács (smith)",
+    "choices": [
+      "e Zielsetzung, -en",
+      "e Verarmung (Sg.)",
+      "r Schmied",
+      "r Schicksal"
+    ],
+    "answer": 3,
+    "hint": "Jeder ist seines Glückes Schmied. (B2 - Nomen)"
+  },
+  {
+    "question": "r Schicksal",
+    "choices": [
+      "célkitűzés (objective)",
+      "szorgalom (industriousness)",
+      "sors (fate)",
+      "szállás (accommodation)"
+    ],
+    "answer": 3,
+    "hint": "Man muss sein Schicksal selbst in die Hand nehmen. (B2 - Nomen)"
+  },
+  {
+    "question": "sors (fate)",
+    "choices": [
+      "e Flucht, -en",
+      "r Zweck, -e",
+      "r Schicksal",
+      "e Ewigkeit, -en"
+    ],
+    "answer": 3,
+    "hint": "Man muss sein Schicksal selbst in die Hand nehmen. (B2 - Nomen)"
+  },
+  {
+    "question": "r Fleiß",
+    "choices": [
+      "fedél / tető (lid)",
+      "szorgalom (diligence)",
+      "célkitűzés (objective)",
+      "szakácsnő (cook)"
+    ],
+    "answer": 2,
+    "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
+  },
+  {
+    "question": "szorgalom (diligence)",
+    "choices": [
+      "e Durchgangsphase, -n",
+      "r Fleiß",
+      "e Unterkunft, \"-e",
+      "r Schicksal"
+    ],
+    "answer": 2,
+    "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
+  },
+  {
+    "question": "e Fleißigkeit",
+    "choices": [
+      "szorgalom (industriousness)",
+      "ellátás (étkezés) (catering / board)",
+      "célkitűzés (objective)",
+      "szakácsnő (cook)"
+    ],
+    "answer": 1,
+    "hint": "Ihre Fleißigkeit ist wirklich bewundernswert. (B2 - Nomen)"
+  },
+  {
+    "question": "szorgalom (industriousness)",
+    "choices": [
+      "e Orientierung (Sg.)",
+      "r Ausweis, -e",
+      "e Fleißigkeit",
+      "r Reisepass, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Ihre Fleißigkeit ist wirklich bewundernswert. (B2 - Nomen)"
+  }
+]

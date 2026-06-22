@@ -1,0 +1,2202 @@
+[
+  {
+    "question": "s Münster, -",
+    "choices": [
+      "székesegyház (Münster) (minster / cathedral)",
+      "különálló / szabadon álló (detached / free-standing)",
+      "felhőkarcoló (skyscraper)",
+      "jelentős (significant / important)"
+    ],
+    "answer": 1,
+    "hint": "Das Straßburger Münster ist weltberühmt. Synonyme: r Dom, e Kathedrale. (B2 - Nomen)"
+  },
+  {
+    "question": "székesegyház (Münster) (minster / cathedral)",
+    "choices": [
+      "s Münster, -",
+      "freistehend",
+      "r Wolkenkratzer, -",
+      "bedeutend"
+    ],
+    "answer": 1,
+    "hint": "Das Straßburger Münster ist weltberühmt. Synonyme: r Dom, e Kathedrale. (B2 - Nomen)"
+  },
+  {
+    "question": "freistehend",
+    "choices": [
+      "híres (famous)",
+      "különálló / szabadon álló (detached / free-standing)",
+      "kedvelt (popular)",
+      "zenei / jó hallású (musical)"
+    ],
+    "answer": 2,
+    "hint": "Das Haus ist freistehend und hat einen Garten. Synonyme: einzeln stehend, isoliert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "különálló / szabadon álló (detached / free-standing)",
+    "choices": [
+      "berühmt",
+      "freistehend",
+      "beliebt",
+      "musikalisch"
+    ],
+    "answer": 2,
+    "hint": "Das Haus ist freistehend und hat einen Garten. Synonyme: einzeln stehend, isoliert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "r Wolkenkratzer, -",
+    "choices": [
+      "kihord / megrendez (to carry out / host)",
+      "merénylet (assassination attempt)",
+      "felhőkarcoló (skyscraper)",
+      "elrabol / eltérít (to kidnap / hijack)"
+    ],
+    "answer": 3,
+    "hint": "Frankfurt hat viele beeindruckende Wolkenkratzer. Synonyme: s Hochhaus, r Turm. (B1 - Nomen)"
+  },
+  {
+    "question": "felhőkarcoló (skyscraper)",
+    "choices": [
+      "austragen (+ A)",
+      "s Attentat, -e",
+      "r Wolkenkratzer, -",
+      "entführen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Frankfurt hat viele beeindruckende Wolkenkratzer. Synonyme: s Hochhaus, r Turm. (B1 - Nomen)"
+  },
+  {
+    "question": "bedeutend",
+    "choices": [
+      "gejzír (geyser)",
+      "lelkes (enthusiastic)",
+      "rendez / szervez (to organize / host)",
+      "jelentős (significant / important)"
+    ],
+    "answer": 4,
+    "hint": "Das war eine bedeutende Entdeckung für die Chemie. Synonyme: wichtig, einflussreich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "jelentős (significant / important)",
+    "choices": [
+      "r Geysir, -e",
+      "begeistert (von + D)",
+      "veranstalten (+ A)",
+      "bedeutend"
+    ],
+    "answer": 4,
+    "hint": "Das war eine bedeutende Entdeckung für die Chemie. Synonyme: wichtig, einflussreich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "berühmt",
+    "choices": [
+      "híres (famous)",
+      "végbemegy / zajlik (to take place)",
+      "adás / küldemény (broadcast / shipment)",
+      "start / kezdés (start)"
+    ],
+    "answer": 1,
+    "hint": "Mozart ist ein weltweit berühmter Komponist. Synonyme: bekannt, populär. (A2 - Adjektiv)"
+  },
+  {
+    "question": "híres (famous)",
+    "choices": [
+      "berühmt",
+      "stattfinden",
+      "e Sendung, -en",
+      "r Start, -s"
+    ],
+    "answer": 1,
+    "hint": "Mozart ist ein weltweit berühmter Komponist. Synonyme: bekannt, populär. (A2 - Adjektiv)"
+  },
+  {
+    "question": "beliebt",
+    "choices": [
+      "nehézkes / lassú (sluggish)",
+      "kedvelt (popular)",
+      "nehézkes / körülményes (cumbersome)",
+      "előítélet (prejudice / bias)"
+    ],
+    "answer": 2,
+    "hint": "Pizza ist bei Kindern besonders beliebt. Synonyme: geschätzt, gern gesehen. (A2 - Adjektiv)"
+  },
+  {
+    "question": "kedvelt (popular)",
+    "choices": [
+      "schwerfällig / träge",
+      "beliebt",
+      "schwerfällig / umständlich",
+      "s Vorurteil, -e"
+    ],
+    "answer": 2,
+    "hint": "Pizza ist bei Kindern besonders beliebt. Synonyme: geschätzt, gern gesehen. (A2 - Adjektiv)"
+  },
+  {
+    "question": "musikalisch",
+    "choices": [
+      "távolság / köz (distance / gap)",
+      "jégtörő (icebreaker)",
+      "zenei / jó hallású (musical)",
+      "zavargás / hűhó (riot / racket)"
+    ],
+    "answer": 3,
+    "hint": "Er ist sehr musikalisch begabt. Synonyme: klangvoll, melodisch. (B1 - Adjektiv)"
+  },
+  {
+    "question": "zenei / jó hallású (musical)",
+    "choices": [
+      "r Abstand, \"-e",
+      "r Eisbrecher, -",
+      "musikalisch",
+      "r Krawall, -e"
+    ],
+    "answer": 3,
+    "hint": "Er ist sehr musikalisch begabt. Synonyme: klangvoll, melodisch. (B1 - Adjektiv)"
+  },
+  {
+    "question": "austragen (+ A)",
+    "choices": [
+      "menyasszony (bride)",
+      "vőlegény (bridegroom)",
+      "menyasszonyi csokor (bridal bouquet)",
+      "kihord / megrendez (to carry out / host)"
+    ],
+    "answer": 4,
+    "hint": "Die Stadt trägt die Weltmeisterschaft aus. Synonyme: veranstalten, durchführen. (B2 - Verb)"
+  },
+  {
+    "question": "kihord / megrendez (to carry out / host)",
+    "choices": [
+      "e Braut, \"-e",
+      "r Bräutigam, -e",
+      "r Brautstrauß, \"-e",
+      "austragen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Die Stadt trägt die Weltmeisterschaft aus. Synonyme: veranstalten, durchführen. (B2 - Verb)"
+  },
+  {
+    "question": "s Attentat, -e",
+    "choices": [
+      "merénylet (assassination attempt)",
+      "szokás / hagyomány (custom / tradition)",
+      "zengőlégy (hoverfly)",
+      "kellemes (pleasant)"
+    ],
+    "answer": 1,
+    "hint": "Das Attentat auf den Politiker schockierte alle. Synonyme: r Anschlag, r Mordversuch. (C1 - Nomen)"
+  },
+  {
+    "question": "merénylet (assassination attempt)",
+    "choices": [
+      "s Attentat, -e",
+      "r Brauch, \"-e",
+      "e Schwebfliege, -n",
+      "angenehm"
+    ],
+    "answer": 1,
+    "hint": "Das Attentat auf den Politiker schockierte alle. Synonyme: r Anschlag, r Mordversuch. (C1 - Nomen)"
+  },
+  {
+    "question": "entführen (+ A)",
+    "choices": [
+      "hentes (butcher)",
+      "elrabol / eltérít (to kidnap / hijack)",
+      "szalonna (bacon)",
+      "máj (liver)"
+    ],
+    "answer": 2,
+    "hint": "Das Flugzeug wurde gestern entführt. Synonyme: verschleppen, kidnappen. (B2 - Verb)"
+  },
+  {
+    "question": "elrabol / eltérít (to kidnap / hijack)",
+    "choices": [
+      "r Metzger, -",
+      "entführen (+ A)",
+      "r Speck (Sg.)",
+      "e Leber, -n"
+    ],
+    "answer": 2,
+    "hint": "Das Flugzeug wurde gestern entführt. Synonyme: verschleppen, kidnappen. (B2 - Verb)"
+  },
+  {
+    "question": "r Geysir, -e",
+    "choices": [
+      "massza / tömeg (mass / mixture)",
+      "összekevert (mixed)",
+      "gejzír (geyser)",
+      "összekever (to mix)"
+    ],
+    "answer": 3,
+    "hint": "Der Geysir bricht in regelmäßigen Abständen aus. Synonyme: e Springquelle. (B2 - Nomen)"
+  },
+  {
+    "question": "gejzír (geyser)",
+    "choices": [
+      "e Masse, -n",
+      "vermischt",
+      "r Geysir, -e",
+      "ver|mischen (+ A) (mit + D)"
+    ],
+    "answer": 3,
+    "hint": "Der Geysir bricht in regelmäßigen Abständen aus. Synonyme: e Springquelle. (B2 - Nomen)"
+  },
+  {
+    "question": "begeistert (von + D)",
+    "choices": [
+      "szelet (slice)",
+      "fűszernövények (herbs)",
+      "fűszerek (spices)",
+      "lelkes (enthusiastic)"
+    ],
+    "answer": 4,
+    "hint": "Ich bin absolut begeistert von deiner neuen Idee. Synonyme: entzückt, fasziniert. (B1 - Adjektiv)"
+  },
+  {
+    "question": "lelkes (enthusiastic)",
+    "choices": [
+      "e Scheibe, -n",
+      "e Kräuter (Pl.)",
+      "e Gewürze (Pl.)",
+      "begeistert (von + D)"
+    ],
+    "answer": 4,
+    "hint": "Ich bin absolut begeistert von deiner neuen Idee. Synonyme: entzückt, fasziniert. (B1 - Adjektiv)"
+  },
+  {
+    "question": "veranstalten (+ A)",
+    "choices": [
+      "rendez / szervez (to organize / host)",
+      "húslé / alaplé (broth)",
+      "eltartható (durable / long-lasting)",
+      "nyers füstölt kolbász (Mettwurst)"
+    ],
+    "answer": 1,
+    "hint": "Wir veranstalten am Samstag eine große Party. Synonyme: ausrichten, organisieren. (B1 - Verb)"
+  },
+  {
+    "question": "rendez / szervez (to organize / host)",
+    "choices": [
+      "veranstalten (+ A)",
+      "e Brühe, -n",
+      "haltbar",
+      "e Mettwurst, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Wir veranstalten am Samstag eine große Party. Synonyme: ausrichten, organisieren. (B1 - Verb)"
+  },
+  {
+    "question": "stattfinden",
+    "choices": [
+      "felaprít / darabol (to mince / chop up)",
+      "végbemegy / zajlik (to take place)",
+      "aprított (minced / chopped)",
+      "érik (to ripen / mature)"
+    ],
+    "answer": 2,
+    "hint": "Die Konferenz findet in diesem Jahr in Wien statt. Synonyme: ablaufen, geschehen. (B1 - Verb)"
+  },
+  {
+    "question": "végbemegy / zajlik (to take place)",
+    "choices": [
+      "zer|kleinern (+ A)",
+      "stattfinden",
+      "zerkleinert",
+      "reifen"
+    ],
+    "answer": 2,
+    "hint": "Die Konferenz findet in diesem Jahr in Wien statt. Synonyme: ablaufen, geschehen. (B1 - Verb)"
+  },
+  {
+    "question": "e Sendung, -en",
+    "choices": [
+      "puha (soft)",
+      "ken / mázol (to spread / paint)",
+      "adás / küldemény (broadcast / shipment)",
+      "ennél / eközben (here / in this case)"
+    ],
+    "answer": 3,
+    "hint": "Die Sendung beginnt pünktlich um 20 Uhr. Synonyme: e Übertragung, s Programm. (B1 - Nomen)"
+  },
+  {
+    "question": "adás / küldemény (broadcast / shipment)",
+    "choices": [
+      "weich",
+      "streichen (+ A)",
+      "e Sendung, -en",
+      "hierbei"
+    ],
+    "answer": 3,
+    "hint": "Die Sendung beginnt pünktlich um 20 Uhr. Synonyme: e Übertragung, s Programm. (B1 - Nomen)"
+  },
+  {
+    "question": "r Start, -s",
+    "choices": [
+      "szó van valamiről (it is about / involves)",
+      "sovány (hús) (lean)",
+      "pácolt (sózott) (cured (meat))",
+      "start / kezdés (start)"
+    ],
+    "answer": 4,
+    "hint": "Der Start des Rennens verzögert sich. Synonyme: r Beginn, r Anfang. (A1 - Nomen)"
+  },
+  {
+    "question": "start / kezdés (start)",
+    "choices": [
+      "(es) handelt sich um + A",
+      "mager",
+      "ge|pökelt",
+      "r Start, -s"
+    ],
+    "answer": 4,
+    "hint": "Der Start des Rennens verzögert sich. Synonyme: r Beginn, r Anfang. (A1 - Nomen)"
+  },
+  {
+    "question": "schwerfällig / träge",
+    "choices": [
+      "nehézkes / lassú (sluggish)",
+      "elrak / savanyít (to pickle / insert)",
+      "székesegyház (Münster) (minster / cathedral)",
+      "különálló / szabadon álló (detached / free-standing)"
+    ],
+    "answer": 1,
+    "hint": "Der Markt erholt sich nach der Krise nur schwerfällig. Synonyme: langsam, unbeweglich. (C1 - Adjektiv)"
+  },
+  {
+    "question": "nehézkes / lassú (sluggish)",
+    "choices": [
+      "schwerfällig / träge",
+      "ein|legen (+ A)",
+      "s Münster, -",
+      "freistehend"
+    ],
+    "answer": 1,
+    "hint": "Der Markt erholt sich nach der Krise nur schwerfällig. Synonyme: langsam, unbeweglich. (C1 - Adjektiv)"
+  },
+  {
+    "question": "schwerfällig / umständlich",
+    "choices": [
+      "felhőkarcoló (skyscraper)",
+      "nehézkes / körülményes (cumbersome)",
+      "jelentős (significant / important)",
+      "híres (famous)"
+    ],
+    "answer": 2,
+    "hint": "Das Verfahren ist leider sehr schwerfällig. Synonyme: kompliziert, bürokratisch. (C1 - Adjektiv)"
+  },
+  {
+    "question": "nehézkes / körülményes (cumbersome)",
+    "choices": [
+      "r Wolkenkratzer, -",
+      "schwerfällig / umständlich",
+      "bedeutend",
+      "berühmt"
+    ],
+    "answer": 2,
+    "hint": "Das Verfahren ist leider sehr schwerfällig. Synonyme: kompliziert, bürokratisch. (C1 - Adjektiv)"
+  },
+  {
+    "question": "s Vorurteil, -e",
+    "choices": [
+      "kedvelt (popular)",
+      "zenei / jó hallású (musical)",
+      "előítélet (prejudice / bias)",
+      "kihord / megrendez (to carry out / host)"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen Vorurteile abzubauen lernen. Synonyme: e Voreingenommenheit, s Stereotyp. (B2 - Nomen)"
+  },
+  {
+    "question": "előítélet (prejudice / bias)",
+    "choices": [
+      "beliebt",
+      "musikalisch",
+      "s Vorurteil, -e",
+      "austragen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen Vorurteile abzubauen lernen. Synonyme: e Voreingenommenheit, s Stereotyp. (B2 - Nomen)"
+  },
+  {
+    "question": "r Abstand, \"-e",
+    "choices": [
+      "merénylet (assassination attempt)",
+      "elrabol / eltérít (to kidnap / hijack)",
+      "gejzír (geyser)",
+      "távolság / köz (distance / gap)"
+    ],
+    "answer": 4,
+    "hint": "Bitte halten Sie den nötigen Abstand ein. Synonyme: e Distanz, e Entfernung. (B1 - Nomen)"
+  },
+  {
+    "question": "távolság / köz (distance / gap)",
+    "choices": [
+      "s Attentat, -e",
+      "entführen (+ A)",
+      "r Geysir, -e",
+      "r Abstand, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Bitte halten Sie den nötigen Abstand ein. Synonyme: e Distanz, e Entfernung. (B1 - Nomen)"
+  },
+  {
+    "question": "r Eisbrecher, -",
+    "choices": [
+      "jégtörő (icebreaker)",
+      "lelkes (enthusiastic)",
+      "rendez / szervez (to organize / host)",
+      "végbemegy / zajlik (to take place)"
+    ],
+    "answer": 1,
+    "hint": "Ein Witz ist oft ein guter Eisbrecher. Synonyme: s Einstiegsthema. (B2 - Nomen)"
+  },
+  {
+    "question": "jégtörő (icebreaker)",
+    "choices": [
+      "r Eisbrecher, -",
+      "begeistert (von + D)",
+      "veranstalten (+ A)",
+      "stattfinden"
+    ],
+    "answer": 1,
+    "hint": "Ein Witz ist oft ein guter Eisbrecher. Synonyme: s Einstiegsthema. (B2 - Nomen)"
+  },
+  {
+    "question": "r Krawall, -e",
+    "choices": [
+      "adás / küldemény (broadcast / shipment)",
+      "zavargás / hűhó (riot / racket)",
+      "start / kezdés (start)",
+      "nehézkes / lassú (sluggish)"
+    ],
+    "answer": 2,
+    "hint": "Die Polizei versuchte, den Krawall zu stoppen. Synonyme: r Aufruhr, r Lärm. (C1 - Nomen)"
+  },
+  {
+    "question": "zavargás / hűhó (riot / racket)",
+    "choices": [
+      "e Sendung, -en",
+      "r Krawall, -e",
+      "r Start, -s",
+      "schwerfällig / träge"
+    ],
+    "answer": 2,
+    "hint": "Die Polizei versuchte, den Krawall zu stoppen. Synonyme: r Aufruhr, r Lärm. (C1 - Nomen)"
+  },
+  {
+    "question": "e Braut, \"-e",
+    "choices": [
+      "nehézkes / körülményes (cumbersome)",
+      "előítélet (prejudice / bias)",
+      "menyasszony (bride)",
+      "távolság / köz (distance / gap)"
+    ],
+    "answer": 3,
+    "hint": "Die Braut sieht heute wunderschön aus. Synonyme: e Neuvermählte. (B1 - Nomen)"
+  },
+  {
+    "question": "menyasszony (bride)",
+    "choices": [
+      "schwerfällig / umständlich",
+      "s Vorurteil, -e",
+      "e Braut, \"-e",
+      "r Abstand, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Die Braut sieht heute wunderschön aus. Synonyme: e Neuvermählte. (B1 - Nomen)"
+  },
+  {
+    "question": "r Bräutigam, -e",
+    "choices": [
+      "jégtörő (icebreaker)",
+      "zavargás / hűhó (riot / racket)",
+      "menyasszony (bride)",
+      "vőlegény (bridegroom)"
+    ],
+    "answer": 4,
+    "hint": "Der Bräutigam trägt einen schwarzen Anzug. Synonyme: r Neuvermählte. (B1 - Nomen)"
+  },
+  {
+    "question": "vőlegény (bridegroom)",
+    "choices": [
+      "r Eisbrecher, -",
+      "r Krawall, -e",
+      "e Braut, \"-e",
+      "r Bräutigam, -e"
+    ],
+    "answer": 4,
+    "hint": "Der Bräutigam trägt einen schwarzen Anzug. Synonyme: r Neuvermählte. (B1 - Nomen)"
+  },
+  {
+    "question": "r Brautstrauß, \"-e",
+    "choices": [
+      "menyasszonyi csokor (bridal bouquet)",
+      "szokás / hagyomány (custom / tradition)",
+      "zengőlégy (hoverfly)",
+      "kellemes (pleasant)"
+    ],
+    "answer": 1,
+    "hint": "Die Braut wirft traditionell den Brautstrauß. Synonyme: r Hochzeitsstrauß. (B2 - Nomen)"
+  },
+  {
+    "question": "menyasszonyi csokor (bridal bouquet)",
+    "choices": [
+      "r Brautstrauß, \"-e",
+      "r Brauch, \"-e",
+      "e Schwebfliege, -n",
+      "angenehm"
+    ],
+    "answer": 1,
+    "hint": "Die Braut wirft traditionell den Brautstrauß. Synonyme: r Hochzeitsstrauß. (B2 - Nomen)"
+  },
+  {
+    "question": "r Brauch, \"-e",
+    "choices": [
+      "hentes (butcher)",
+      "szokás / hagyomány (custom / tradition)",
+      "szalonna (bacon)",
+      "máj (liver)"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein alter Brauch in unserer Region. Synonyme: e Tradition, e Sitte. (B2 - Nomen)"
+  },
+  {
+    "question": "szokás / hagyomány (custom / tradition)",
+    "choices": [
+      "r Metzger, -",
+      "r Brauch, \"-e",
+      "r Speck (Sg.)",
+      "e Leber, -n"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein alter Brauch in unserer Region. Synonyme: e Tradition, e Sitte. (B2 - Nomen)"
+  },
+  {
+    "question": "e Schwebfliege, -n",
+    "choices": [
+      "massza / tömeg (mass / mixture)",
+      "összekevert (mixed)",
+      "zengőlégy (hoverfly)",
+      "összekever (to mix)"
+    ],
+    "answer": 3,
+    "hint": "Eine Schwebfliege schwebt oft regungslos in der Luft. Synonyme: r Brummer. (C1 - Nomen)"
+  },
+  {
+    "question": "zengőlégy (hoverfly)",
+    "choices": [
+      "e Masse, -n",
+      "vermischt",
+      "e Schwebfliege, -n",
+      "ver|mischen (+ A) (mit + D)"
+    ],
+    "answer": 3,
+    "hint": "Eine Schwebfliege schwebt oft regungslos in der Luft. Synonyme: r Brummer. (C1 - Nomen)"
+  },
+  {
+    "question": "angenehm",
+    "choices": [
+      "szelet (slice)",
+      "fűszernövények (herbs)",
+      "fűszerek (spices)",
+      "kellemes (pleasant)"
+    ],
+    "answer": 4,
+    "hint": "Das Klima hier ist sehr angenehm. Synonyme: behaglich, wohltuend. (B1 - Adjektiv)"
+  },
+  {
+    "question": "kellemes (pleasant)",
+    "choices": [
+      "e Scheibe, -n",
+      "e Kräuter (Pl.)",
+      "e Gewürze (Pl.)",
+      "angenehm"
+    ],
+    "answer": 4,
+    "hint": "Das Klima hier ist sehr angenehm. Synonyme: behaglich, wohltuend. (B1 - Adjektiv)"
+  },
+  {
+    "question": "r Metzger, -",
+    "choices": [
+      "hentes (butcher)",
+      "húslé / alaplé (broth)",
+      "eltartható (durable / long-lasting)",
+      "nyers füstölt kolbász (Mettwurst)"
+    ],
+    "answer": 1,
+    "hint": "Der Metzger schneidet das Fleisch frisch. Synonyme: r Fleischer, r Schlächter. (A2 - Nomen)"
+  },
+  {
+    "question": "hentes (butcher)",
+    "choices": [
+      "r Metzger, -",
+      "e Brühe, -n",
+      "haltbar",
+      "e Mettwurst, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Der Metzger schneidet das Fleisch frisch. Synonyme: r Fleischer, r Schlächter. (A2 - Nomen)"
+  },
+  {
+    "question": "r Speck (Sg.)",
+    "choices": [
+      "felaprít / darabol (to mince / chop up)",
+      "szalonna (bacon)",
+      "aprított (minced / chopped)",
+      "érik (to ripen / mature)"
+    ],
+    "answer": 2,
+    "hint": "Ich esse gerne Eier mit Speck zum Frühstück. Synonyme: s Fettgewebe. (A2 - Nomen)"
+  },
+  {
+    "question": "szalonna (bacon)",
+    "choices": [
+      "zer|kleinern (+ A)",
+      "r Speck (Sg.)",
+      "zerkleinert",
+      "reifen"
+    ],
+    "answer": 2,
+    "hint": "Ich esse gerne Eier mit Speck zum Frühstück. Synonyme: s Fettgewebe. (A2 - Nomen)"
+  },
+  {
+    "question": "e Leber, -n",
+    "choices": [
+      "puha (soft)",
+      "ken / mázol (to spread / paint)",
+      "máj (liver)",
+      "ennél / eközben (here / in this case)"
+    ],
+    "answer": 3,
+    "hint": "Leber mit Zwiebeln ist ein klassisches Gericht. (B1 - Nomen)"
+  },
+  {
+    "question": "máj (liver)",
+    "choices": [
+      "weich",
+      "streichen (+ A)",
+      "e Leber, -n",
+      "hierbei"
+    ],
+    "answer": 3,
+    "hint": "Leber mit Zwiebeln ist ein klassisches Gericht. (B1 - Nomen)"
+  },
+  {
+    "question": "e Masse, -n",
+    "choices": [
+      "szó van valamiről (it is about / involves)",
+      "sovány (hús) (lean)",
+      "pácolt (sózott) (cured (meat))",
+      "massza / tömeg (mass / mixture)"
+    ],
+    "answer": 4,
+    "hint": "Die Masse muss gut verrührt werden. Synonyme: e Substanz, e Menge. (B2 - Nomen)"
+  },
+  {
+    "question": "massza / tömeg (mass / mixture)",
+    "choices": [
+      "(es) handelt sich um + A",
+      "mager",
+      "ge|pökelt",
+      "e Masse, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Masse muss gut verrührt werden. Synonyme: e Substanz, e Menge. (B2 - Nomen)"
+  },
+  {
+    "question": "vermischt",
+    "choices": [
+      "összekevert (mixed)",
+      "elrak / savanyít (to pickle / insert)",
+      "székesegyház (Münster) (minster / cathedral)",
+      "különálló / szabadon álló (detached / free-standing)"
+    ],
+    "answer": 1,
+    "hint": "Die Zutaten sind bereits vermischt. Synonyme: vermengt, kombiniert. (B1 - Adjektiv)"
+  },
+  {
+    "question": "összekevert (mixed)",
+    "choices": [
+      "vermischt",
+      "ein|legen (+ A)",
+      "s Münster, -",
+      "freistehend"
+    ],
+    "answer": 1,
+    "hint": "Die Zutaten sind bereits vermischt. Synonyme: vermengt, kombiniert. (B1 - Adjektiv)"
+  },
+  {
+    "question": "ver|mischen (+ A) (mit + D)",
+    "choices": [
+      "felhőkarcoló (skyscraper)",
+      "összekever (to mix)",
+      "jelentős (significant / important)",
+      "híres (famous)"
+    ],
+    "answer": 2,
+    "hint": "Vermischen Sie das Mehl mit der Milch. Synonyme: vermengen, mischen. (B1 - Verb)"
+  },
+  {
+    "question": "összekever (to mix)",
+    "choices": [
+      "r Wolkenkratzer, -",
+      "ver|mischen (+ A) (mit + D)",
+      "bedeutend",
+      "berühmt"
+    ],
+    "answer": 2,
+    "hint": "Vermischen Sie das Mehl mit der Milch. Synonyme: vermengen, mischen. (B1 - Verb)"
+  },
+  {
+    "question": "e Scheibe, -n",
+    "choices": [
+      "kedvelt (popular)",
+      "zenei / jó hallású (musical)",
+      "szelet (slice)",
+      "kihord / megrendez (to carry out / host)"
+    ],
+    "answer": 3,
+    "hint": "Möchtest du noch eine Scheibe Brot? Synonyme: s Stück, r Schnitz. (A2 - Nomen)"
+  },
+  {
+    "question": "szelet (slice)",
+    "choices": [
+      "beliebt",
+      "musikalisch",
+      "e Scheibe, -n",
+      "austragen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Möchtest du noch eine Scheibe Brot? Synonyme: s Stück, r Schnitz. (A2 - Nomen)"
+  },
+  {
+    "question": "e Kräuter (Pl.)",
+    "choices": [
+      "merénylet (assassination attempt)",
+      "elrabol / eltérít (to kidnap / hijack)",
+      "gejzír (geyser)",
+      "fűszernövények (herbs)"
+    ],
+    "answer": 4,
+    "hint": "Frische Kräuter geben dem Essen mehr Aroma. Synonyme: e Gewürzpflanzen. (B1 - Nomen)"
+  },
+  {
+    "question": "fűszernövények (herbs)",
+    "choices": [
+      "s Attentat, -e",
+      "entführen (+ A)",
+      "r Geysir, -e",
+      "e Kräuter (Pl.)"
+    ],
+    "answer": 4,
+    "hint": "Frische Kräuter geben dem Essen mehr Aroma. Synonyme: e Gewürzpflanzen. (B1 - Nomen)"
+  },
+  {
+    "question": "e Gewürze (Pl.)",
+    "choices": [
+      "fűszerek (spices)",
+      "lelkes (enthusiastic)",
+      "rendez / szervez (to organize / host)",
+      "végbemegy / zajlik (to take place)"
+    ],
+    "answer": 1,
+    "hint": "In diesem Laden gibt es Gewürze aus aller Welt. Synonyme: e Aromastoffe. (B1 - Nomen)"
+  },
+  {
+    "question": "fűszerek (spices)",
+    "choices": [
+      "e Gewürze (Pl.)",
+      "begeistert (von + D)",
+      "veranstalten (+ A)",
+      "stattfinden"
+    ],
+    "answer": 1,
+    "hint": "In diesem Laden gibt es Gewürze aus aller Welt. Synonyme: e Aromastoffe. (B1 - Nomen)"
+  },
+  {
+    "question": "e Brühe, -n",
+    "choices": [
+      "adás / küldemény (broadcast / shipment)",
+      "húslé / alaplé (broth)",
+      "start / kezdés (start)",
+      "nehézkes / lassú (sluggish)"
+    ],
+    "answer": 2,
+    "hint": "Die Suppe basiert auf einer kräftigen Brühe. Synonyme: e Bouillon, r Sud. (B1 - Nomen)"
+  },
+  {
+    "question": "húslé / alaplé (broth)",
+    "choices": [
+      "e Sendung, -en",
+      "e Brühe, -n",
+      "r Start, -s",
+      "schwerfällig / träge"
+    ],
+    "answer": 2,
+    "hint": "Die Suppe basiert auf einer kräftigen Brühe. Synonyme: e Bouillon, r Sud. (B1 - Nomen)"
+  },
+  {
+    "question": "haltbar",
+    "choices": [
+      "nehézkes / körülményes (cumbersome)",
+      "előítélet (prejudice / bias)",
+      "eltartható (durable / long-lasting)",
+      "távolság / köz (distance / gap)"
+    ],
+    "answer": 3,
+    "hint": "Diese Milch ist ungeöffnet lange haltbar. Synonyme: dauerhaft, konserviert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "eltartható (durable / long-lasting)",
+    "choices": [
+      "schwerfällig / umständlich",
+      "s Vorurteil, -e",
+      "haltbar",
+      "r Abstand, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Diese Milch ist ungeöffnet lange haltbar. Synonyme: dauerhaft, konserviert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "e Mettwurst, \"-e",
+    "choices": [
+      "jégtörő (icebreaker)",
+      "zavargás / hűhó (riot / racket)",
+      "menyasszony (bride)",
+      "nyers füstölt kolbász (Mettwurst)"
+    ],
+    "answer": 4,
+    "hint": "Die Mettwurst schmeckt gut auf Schwarzbrot. Synonyme: e Rohwurst. (B2 - Nomen)"
+  },
+  {
+    "question": "nyers füstölt kolbász (Mettwurst)",
+    "choices": [
+      "r Eisbrecher, -",
+      "r Krawall, -e",
+      "e Braut, \"-e",
+      "e Mettwurst, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Die Mettwurst schmeckt gut auf Schwarzbrot. Synonyme: e Rohwurst. (B2 - Nomen)"
+  },
+  {
+    "question": "zer|kleinern (+ A)",
+    "choices": [
+      "felaprít / darabol (to mince / chop up)",
+      "vőlegény (bridegroom)",
+      "menyasszonyi csokor (bridal bouquet)",
+      "szokás / hagyomány (custom / tradition)"
+    ],
+    "answer": 1,
+    "hint": "Zerkleinern Sie das Gemüse in kleine Würfel. Synonyme: zerhacken, zerteilen. (B2 - Verb)"
+  },
+  {
+    "question": "felaprít / darabol (to mince / chop up)",
+    "choices": [
+      "zer|kleinern (+ A)",
+      "r Bräutigam, -e",
+      "r Brautstrauß, \"-e",
+      "r Brauch, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Zerkleinern Sie das Gemüse in kleine Würfel. Synonyme: zerhacken, zerteilen. (B2 - Verb)"
+  },
+  {
+    "question": "zerkleinert",
+    "choices": [
+      "zengőlégy (hoverfly)",
+      "aprított (minced / chopped)",
+      "kellemes (pleasant)",
+      "hentes (butcher)"
+    ],
+    "answer": 2,
+    "hint": "Geben Sie das zerkleinerte Fleisch in die Pfanne. Synonyme: zerhackt, gemahlen. (B2 - Adjektiv)"
+  },
+  {
+    "question": "aprított (minced / chopped)",
+    "choices": [
+      "e Schwebfliege, -n",
+      "zerkleinert",
+      "angenehm",
+      "r Metzger, -"
+    ],
+    "answer": 2,
+    "hint": "Geben Sie das zerkleinerte Fleisch in die Pfanne. Synonyme: zerhackt, gemahlen. (B2 - Adjektiv)"
+  },
+  {
+    "question": "reifen",
+    "choices": [
+      "szalonna (bacon)",
+      "máj (liver)",
+      "érik (to ripen / mature)",
+      "massza / tömeg (mass / mixture)"
+    ],
+    "answer": 3,
+    "hint": "Der Käse muss noch einige Wochen reifen. Synonyme: reif werden, altern. (B2 - Verb)"
+  },
+  {
+    "question": "érik (to ripen / mature)",
+    "choices": [
+      "r Speck (Sg.)",
+      "e Leber, -n",
+      "reifen",
+      "e Masse, -n"
+    ],
+    "answer": 3,
+    "hint": "Der Käse muss noch einige Wochen reifen. Synonyme: reif werden, altern. (B2 - Verb)"
+  },
+  {
+    "question": "weich",
+    "choices": [
+      "összekevert (mixed)",
+      "összekever (to mix)",
+      "szelet (slice)",
+      "puha (soft)"
+    ],
+    "answer": 4,
+    "hint": "Das Kissen ist sehr weich und bequem. Synonyme: sanft, zart. (A2 - Adjektiv)"
+  },
+  {
+    "question": "puha (soft)",
+    "choices": [
+      "vermischt",
+      "ver|mischen (+ A) (mit + D)",
+      "e Scheibe, -n",
+      "weich"
+    ],
+    "answer": 4,
+    "hint": "Das Kissen ist sehr weich und bequem. Synonyme: sanft, zart. (A2 - Adjektiv)"
+  },
+  {
+    "question": "streichen (+ A)",
+    "choices": [
+      "ken / mázol (to spread / paint)",
+      "fűszernövények (herbs)",
+      "fűszerek (spices)",
+      "húslé / alaplé (broth)"
+    ],
+    "answer": 1,
+    "hint": "Er streicht sich Butter auf das Brot. Synonyme: schmieren, auftragen. (B1 - Verb)"
+  },
+  {
+    "question": "ken / mázol (to spread / paint)",
+    "choices": [
+      "streichen (+ A)",
+      "e Kräuter (Pl.)",
+      "e Gewürze (Pl.)",
+      "e Brühe, -n"
+    ],
+    "answer": 1,
+    "hint": "Er streicht sich Butter auf das Brot. Synonyme: schmieren, auftragen. (B1 - Verb)"
+  },
+  {
+    "question": "hierbei",
+    "choices": [
+      "eltartható (durable / long-lasting)",
+      "ennél / eközben (here / in this case)",
+      "nyers füstölt kolbász (Mettwurst)",
+      "felaprít / darabol (to mince / chop up)"
+    ],
+    "answer": 2,
+    "hint": "Hierbei handelt es sich um ein Missverständnis. Synonyme: in diesem Fall, hierzu. (B2 - Adverb)"
+  },
+  {
+    "question": "ennél / eközben (here / in this case)",
+    "choices": [
+      "haltbar",
+      "hierbei",
+      "e Mettwurst, \"-e",
+      "zer|kleinern (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Hierbei handelt es sich um ein Missverständnis. Synonyme: in diesem Fall, hierzu. (B2 - Adverb)"
+  },
+  {
+    "question": "(es) handelt sich um + A",
+    "choices": [
+      "aprított (minced / chopped)",
+      "érik (to ripen / mature)",
+      "szó van valamiről (it is about / involves)",
+      "puha (soft)"
+    ],
+    "answer": 3,
+    "hint": "Es handelt sich um ein sehr wichtiges Projekt. Synonyme: es geht um, es betrifft. (B2 - Ausdruck)"
+  },
+  {
+    "question": "szó van valamiről (it is about / involves)",
+    "choices": [
+      "zerkleinert",
+      "reifen",
+      "(es) handelt sich um + A",
+      "weich"
+    ],
+    "answer": 3,
+    "hint": "Es handelt sich um ein sehr wichtiges Projekt. Synonyme: es geht um, es betrifft. (B2 - Ausdruck)"
+  },
+  {
+    "question": "mager",
+    "choices": [
+      "ken / mázol (to spread / paint)",
+      "ennél / eközben (here / in this case)",
+      "szó van valamiről (it is about / involves)",
+      "sovány (hús) (lean)"
+    ],
+    "answer": 4,
+    "hint": "Ich kaufe lieber mageres Fleisch. Synonyme: fettarm, dünn. (B2 - Adjektiv)"
+  },
+  {
+    "question": "sovány (hús) (lean)",
+    "choices": [
+      "streichen (+ A)",
+      "hierbei",
+      "(es) handelt sich um + A",
+      "mager"
+    ],
+    "answer": 4,
+    "hint": "Ich kaufe lieber mageres Fleisch. Synonyme: fettarm, dünn. (B2 - Adjektiv)"
+  },
+  {
+    "question": "ge|pökelt",
+    "choices": [
+      "pácolt (sózott) (cured (meat))",
+      "elrak / savanyít (to pickle / insert)",
+      "székesegyház (Münster) (minster / cathedral)",
+      "különálló / szabadon álló (detached / free-standing)"
+    ],
+    "answer": 1,
+    "hint": "Gepökeltes Fleisch hält sich länger. Synonyme: gesalzen, konserviert. (C1 - Adjektiv)"
+  },
+  {
+    "question": "pácolt (sózott) (cured (meat))",
+    "choices": [
+      "ge|pökelt",
+      "ein|legen (+ A)",
+      "s Münster, -",
+      "freistehend"
+    ],
+    "answer": 1,
+    "hint": "Gepökeltes Fleisch hält sich länger. Synonyme: gesalzen, konserviert. (C1 - Adjektiv)"
+  },
+  {
+    "question": "ein|legen (+ A)",
+    "choices": [
+      "felhőkarcoló (skyscraper)",
+      "elrak / savanyít (to pickle / insert)",
+      "jelentős (significant / important)",
+      "híres (famous)"
+    ],
+    "answer": 2,
+    "hint": "Wir legen dieses Jahr Gurken ein. Synonyme: einmachen, marinieren. (B1 - Verb)"
+  },
+  {
+    "question": "elrak / savanyít (to pickle / insert)",
+    "choices": [
+      "r Wolkenkratzer, -",
+      "ein|legen (+ A)",
+      "bedeutend",
+      "berühmt"
+    ],
+    "answer": 2,
+    "hint": "Wir legen dieses Jahr Gurken ein. Synonyme: einmachen, marinieren. (B1 - Verb)"
+  },
+  {
+    "question": "r Fleiß (Sg.)",
+    "choices": [
+      "eredményez (to result in)",
+      "szorgalom (diligence)",
+      "kitartás (endurance)",
+      "vizsgálat (investigation)"
+    ],
+    "answer": 2,
+    "hint": "Fleiß wird oft belohnt. Synonyme: e Emsigkeit, e Arbeitssamkeit. (B2 - Nomen)"
+  },
+  {
+    "question": "szorgalom (diligence)",
+    "choices": [
+      "e Ausdauer (Sg.)",
+      "r Fleiß (Sg.)",
+      "schuld sein (+ an + D)",
+      "ergeben (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Fleiß wird oft belohnt. Synonyme: e Emsigkeit, e Arbeitssamkeit. (B2 - Nomen)"
+  },
+  {
+    "question": "e Ausdauer (Sg.)",
+    "choices": [
+      "kitartás (endurance)",
+      "szorgalom (diligence)",
+      "eredmény (result)",
+      "erőfeszítés (effort)"
+    ],
+    "answer": 1,
+    "hint": "Er hat eine große Ausdauer beim Laufen. Synonyme: e Beharrlichkeit, e Zähigkeit. (B2 - Nomen)"
+  },
+  {
+    "question": "kitartás (endurance)",
+    "choices": [
+      "e Ausdauer (Sg.)",
+      "s Ergebnis, -se",
+      "e Anstrengung, -en",
+      "e Untersuchung, -en"
+    ],
+    "answer": 1,
+    "hint": "Er hat eine große Ausdauer beim Laufen. Synonyme: e Beharrlichkeit, e Zähigkeit. (B2 - Nomen)"
+  },
+  {
+    "question": "schuld sein (+ an + D)",
+    "choices": [
+      "gyűlöletet érez (to have a hatred)",
+      "interakcióba lép vkivel (to interact with)",
+      "hibás vmiben (to be to blame)",
+      "kifejez (to express)"
+    ],
+    "answer": 3,
+    "hint": "Er ist schuld an dem Unfall. Synonyme: verantwortlich sein, die Verantwortung tragen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "hibás vmiben (to be to blame)",
+    "choices": [
+      "ausdrücken (+ A)",
+      "darstellen (+ A)",
+      "schuld sein (+ an + D)",
+      "behalten (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er ist schuld an dem Unfall. Synonyme: verantwortlich sein, die Verantwortung tragen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Untersuchung, -en",
+    "choices": [
+      "származás (origin)",
+      "kifejezés (expression)",
+      "vizsgálat (investigation)",
+      "sajnálat (regret)"
+    ],
+    "answer": 3,
+    "hint": "Die Untersuchung dauert noch an. Synonyme: e Analyse, e Überprüfung. (B2 - Nomen)"
+  },
+  {
+    "question": "vizsgálat (investigation)",
+    "choices": [
+      "e Herkunft, \"-e",
+      "r Ausdruck, \"-e",
+      "e Untersuchung, -en",
+      "s Bedauern (Sg.)"
+    ],
+    "answer": 3,
+    "hint": "Die Untersuchung dauert noch an. Synonyme: e Analyse, e Überprüfung. (B2 - Nomen)"
+  },
+  {
+    "question": "ergeben (+ A)",
+    "choices": [
+      "eredményez (to result in)",
+      "kinyomtat (to print out)",
+      "jelez (to indicate)",
+      "fogad (to receive)"
+    ],
+    "answer": 1,
+    "hint": "Die Studie ergab interessante Fakten. Synonyme: zeigen, aufweisen, belegen. (B2 - Verb)"
+  },
+  {
+    "question": "eredményez (to result in)",
+    "choices": [
+      "ergeben (+ A)",
+      "ausdrucken (+ A)",
+      "anzeigen (+ A)",
+      "empfangen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Die Studie ergab interessante Fakten. Synonyme: zeigen, aufweisen, belegen. (B2 - Verb)"
+  },
+  {
+    "question": "s Ergebnis, -se",
+    "choices": [
+      "eredmény (result)",
+      "erőfeszítés (effort)",
+      "származás (origin)",
+      "címzett (recipient)"
+    ],
+    "answer": 1,
+    "hint": "Das Ergebnis was positiv. Synonyme: s Resultat, r Befund. (A2 - Nomen)"
+  },
+  {
+    "question": "eredmény (result)",
+    "choices": [
+      "s Ergebnis, -se",
+      "e Herkunft, \"-e",
+      "e Anstrengung, -en",
+      "r Empfänger, -"
+    ],
+    "answer": 1,
+    "hint": "Das Ergebnis was positiv. Synonyme: s Resultat, r Befund. (A2 - Nomen)"
+  },
+  {
+    "question": "Hass (+ auf + A) haben",
+    "choices": [
+      "kifejez (to express)",
+      "gyűlöletet érez (to have a hatred)",
+      "megőriz / megtart (to retain)",
+      "fogad / kap (to receive)"
+    ],
+    "answer": 2,
+    "hint": "Er hat einen großen Hass auf Lügen. Synonyme: hassen, Abscheu empfinden. (B2 - Ausdruck)"
+  },
+  {
+    "question": "gyűlöletet érez (to have a hatred)",
+    "choices": [
+      "ausdrücken (+ A)",
+      "Hass (+ auf + A) haben",
+      "behalten (+ A)",
+      "empfangen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er hat einen großen Hass auf Lügen. Synonyme: hassen, Abscheu empfinden. (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Anstrengung, -en",
+    "choices": [
+      "tulajdon / birtok (possession)",
+      "erőfeszítés (effort)",
+      "kifejezés (expression)",
+      "származás (origin)"
+    ],
+    "answer": 2,
+    "hint": "Es war eine große Anstrengung. Synonyme: e Mühe, e Bemühung. (B2 - Nomen)"
+  },
+  {
+    "question": "erőfeszítés (effort)",
+    "choices": [
+      "r Besitz (Sg.)",
+      "e Anstrengung, -en",
+      "r Ausdruck, \"-e",
+      "e Herkunft, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Es war eine große Anstrengung. Synonyme: e Mühe, e Bemühung. (B2 - Nomen)"
+  },
+  {
+    "question": "echt / aufrichtig",
+    "choices": [
+      "fiús (boyish)",
+      "valódi / igazi (genuine)",
+      "ellenállhatatlan (irresistible)",
+      "szabálykövető (compliant)"
+    ],
+    "answer": 2,
+    "hint": "Er war aufrichtig über das Geschenk überrascht. Synonyme: ehrlich, wahrhaftig. (B2 - Adverb)"
+  },
+  {
+    "question": "valódi / igazi (genuine)",
+    "choices": [
+      "jungenhaft",
+      "echt / aufrichtig",
+      "unwiderstehlich",
+      "konform / regelkonform"
+    ],
+    "answer": 2,
+    "hint": "Er war aufrichtig über das Geschenk überrascht. Synonyme: ehrlich, wahrhaftig. (B2 - Adverb)"
+  },
+  {
+    "question": "jemanden einlassen (+ A) (mit dem Ausweis)",
+    "choices": [
+      "beléptetni valakit (kártyával) (to badge somebody in)",
+      "kihasznál (to exploit)",
+      "kizsarol (to extort)",
+      "leleplez / megszégyenít (to expose)"
+    ],
+    "answer": 1,
+    "hint": "Können Sie mich bitte einlassen? Ich habe meinen Ausweis vergessen. Synonyme: hineinlassen, Einlass gewähren. (C1 - Verb)"
+  },
+  {
+    "question": "beléptetni valakit (kártyával) (to badge somebody in)",
+    "choices": [
+      "jemanden einlassen (+ A) (mit dem Ausweis)",
+      "ausnutzen (+ A) / ausbeuten (+ A)",
+      "erpressen (+ A)",
+      "bloßstellen (+ A) / entlarven (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Können Sie mich bitte einlassen? Ich habe meinen Ausweis vergessen. Synonyme: hineinlassen, Einlass gewähren. (C1 - Verb)"
+  },
+  {
+    "question": "angesehen / seriös",
+    "choices": [
+      "valódi / igazi (genuine)",
+      "fiús (boyish)",
+      "neves / megbízható (reputable)",
+      "szabálykövető (compliant)"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein angesehenes Unternehmen. Synonyme: respektabel, renommiert, glaubwürdig. (B2 - Adjektiv)"
+  },
+  {
+    "question": "neves / megbízható (reputable)",
+    "choices": [
+      "echt / aufrichtig",
+      "jungenhaft",
+      "angesehen / seriös",
+      "konform / regelkonform"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein angesehenes Unternehmen. Synonyme: respektabel, renommiert, glaubwürdig. (B2 - Adjektiv)"
+  },
+  {
+    "question": "interagieren (mit + D)",
+    "choices": [
+      "feltesz (kérdést) / pózol (to pose)",
+      "interakcióba lép vkivel (to interact with)",
+      "megőriz / megtart (to retain)",
+      "kifejez (to express)"
+    ],
+    "answer": 2,
+    "hint": "Er interagiert gerne mit anderen Menschen. Synonyme: kommunizieren, zusammenarbeiten. (B2 - Verb)"
+  },
+  {
+    "question": "interakcióba lép vkivel (to interact with)",
+    "choices": [
+      "darstellen (+ A) / (Frage) stellen",
+      "interagieren (mit + D)",
+      "behalten (+ A) / festhalten (+ A)",
+      "ausdrücken (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er interagiert gerne mit anderen Menschen. Synonyme: kommunizieren, zusammenarbeiten. (B2 - Verb)"
+  },
+  {
+    "question": "darstellen (+ A) / (Frage) stellen",
+    "choices": [
+      "kinyomtat (to print out)",
+      "jelez / kijelez / feljelent (to indicate / report)",
+      "feltesz (kérdést) / pózol (to pose)",
+      "fogad / kap (to receive)"
+    ],
+    "answer": 3,
+    "hint": "Das stellt ein großes Problem dar. Synonyme: bedeuten, repräsentieren. (B2 - Verb)"
+  },
+  {
+    "question": "feltesz (kérdést) / pózol (to pose)",
+    "choices": [
+      "ausdrucken (+ A)",
+      "anzeigen (+ A)",
+      "darstellen (+ A) / (Frage) stellen",
+      "empfangen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Das stellt ein großes Problem dar. Synonyme: bedeuten, repräsentieren. (B2 - Verb)"
+  },
+  {
+    "question": "behalten (+ A) / festhalten (+ A)",
+    "choices": [
+      "megőriz / megtart (to retain)",
+      "kihasznál (to exploit)",
+      "kizsarol (to extort)",
+      "elkerül (to avoid)"
+    ],
+    "answer": 1,
+    "hint": "Er möchte seine Position behalten. Synonyme: bewahren, aufbewahren. (B2 - Verb)"
+  },
+  {
+    "question": "megőriz / megtart (to retain)",
+    "choices": [
+      "behalten (+ A) / festhalten (+ A)",
+      "ausnutzen (+ A) / ausbeuten (+ A)",
+      "erpressen (+ A)",
+      "vermeiden (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er möchte seine Position behalten. Synonyme: bewahren, aufbewahren. (B2 - Verb)"
+  },
+  {
+    "question": "ausdrücken (+ A)",
+    "choices": [
+      "kinyomtat (to print out)",
+      "kifejez (to express)",
+      "beavatkozik (to intervene)",
+      "elindul / elutazik (to depart)"
+    ],
+    "answer": 2,
+    "hint": "Er kann seine Gefühle gut ausdrücken. Synonyme: formulieren, äußern, artikulieren. (B2 - Verb)"
+  },
+  {
+    "question": "kifejez (to express)",
+    "choices": [
+      "ausdrucken (+ A)",
+      "ausdrücken (+ A)",
+      "eingreifen / intervenieren",
+      "abfahren / abreisen"
+    ],
+    "answer": 2,
+    "hint": "Er kann seine Gefühle gut ausdrücken. Synonyme: formulieren, äußern, artikulieren. (B2 - Verb)"
+  },
+  {
+    "question": "ausdrucken (+ A)",
+    "choices": [
+      "kifejez (to express)",
+      "jelez / kijelez / feljelent (to indicate / report)",
+      "kinyomtat (to print out)",
+      "biztosít / garantál (to ensure)"
+    ],
+    "answer": 3,
+    "hint": "Ich muss das Dokument noch ausdrucken. Synonyme: printen, zu Papier bringen. (A2 - Verb)"
+  },
+  {
+    "question": "kinyomtat (to print out)",
+    "choices": [
+      "ausdrücken (+ A)",
+      "anzeigen (+ A)",
+      "ausdrucken (+ A)",
+      "sicherstellen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Ich muss das Dokument noch ausdrucken. Synonyme: printen, zu Papier bringen. (A2 - Verb)"
+  },
+  {
+    "question": "r Ausdruck, \"-e",
+    "choices": [
+      "sajnálat (regret)",
+      "kifejezés (expression)",
+      "tulajdon / birtok (possession)",
+      "adatvédelmi incidens (data breach)"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein schöner Ausdruck. Synonyme: r Begriff, e Redewendung. (B1 - Nomen)"
+  },
+  {
+    "question": "kifejezés (expression)",
+    "choices": [
+      "s Bedauern (Sg.)",
+      "r Ausdruck, \"-e",
+      "r Besitz (Sg.)",
+      "e Datenpanne, -n"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein schöner Ausdruck. Synonyme: r Begriff, e Redewendung. (B1 - Nomen)"
+  },
+  {
+    "question": "s Bedauern (Sg.)",
+    "choices": [
+      "származás (origin)",
+      "címzett (recipient)",
+      "sajnálat (regret)",
+      "lökés / púp (bump)"
+    ],
+    "answer": 3,
+    "hint": "Mit großem Bedauern habe ich die Nachricht gehört. Synonyme: s Mitgefühl, e Reue. (B2 - Nomen)"
+  },
+  {
+    "question": "sajnálat (regret)",
+    "choices": [
+      "e Herkunft, \"-e",
+      "r Empfänger, -",
+      "s Bedauern (Sg.)",
+      "r Stoß, \"-e / e Beule, -n"
+    ],
+    "answer": 3,
+    "hint": "Mit großem Bedauern habe ich die Nachricht gehört. Synonyme: s Mitgefühl, e Reue. (B2 - Nomen)"
+  },
+  {
+    "question": "e Herkunft, \"-e",
+    "choices": [
+      "tulajdon / birtok (possession)",
+      "vmi elvesztése (a loss of stg)",
+      "megsértés / áthágás (violation)",
+      "származás (origin)"
+    ],
+    "answer": 4,
+    "hint": "Seine Herkunft ist unbekannt. Synonyme: r Ursprung, e Abstammung. (B1 - Nomen)"
+  },
+  {
+    "question": "származás (origin)",
+    "choices": [
+      "r Besitz (Sg.)",
+      "r Verlust, -e (an + D / von + D)",
+      "e Verletzung, -en / r Verstoß, \"-e",
+      "e Herkunft, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Seine Herkunft ist unbekannt. Synonyme: r Ursprung, e Abstammung. (B1 - Nomen)"
+  },
+  {
+    "question": "r Besitz (Sg.)",
+    "choices": [
+      "címzett (recipient)",
+      "tengeri kikötő (seaport)",
+      "tulajdon / birtok (possession)",
+      "kikötő (port / harbor)"
+    ],
+    "answer": 3,
+    "hint": "Er ist im Besitz eines wertvollen Gemäldes. Synonyme: s Eigentum, s Hab und Gut. (B2 - Nomen)"
+  },
+  {
+    "question": "tulajdon / birtok (possession)",
+    "choices": [
+      "r Empfänger, -",
+      "r Seehafen, \"-",
+      "r Besitz (Sg.)",
+      "r Hafen, \"-"
+    ],
+    "answer": 3,
+    "hint": "Er ist im Besitz eines wertvollen Gemäldes. Synonyme: s Eigentum, s Hab und Gut. (B2 - Nomen)"
+  },
+  {
+    "question": "anzeigen (+ A)",
+    "choices": [
+      "fogad / kap (to receive)",
+      "jelez / kijelez / feljelent (to indicate / report)",
+      "kihasznál (to exploit)",
+      "beavatkozik (to intervene)"
+    ],
+    "answer": 2,
+    "hint": "Das Display zeigt die Zeit an. Synonyme: deklarieren, weisen, melden. (B1 - Verb)"
+  },
+  {
+    "question": "jelez / kijelez / feljelent (to indicate / report)",
+    "choices": [
+      "empfangen (+ A)",
+      "anzeigen (+ A)",
+      "ausnutzen (+ A) / ausbeuten (+ A)",
+      "eingreifen / intervenieren"
+    ],
+    "answer": 2,
+    "hint": "Das Display zeigt die Zeit an. Synonyme: deklarieren, weisen, melden. (B1 - Verb)"
+  },
+  {
+    "question": "empfangen (+ A)",
+    "choices": [
+      "fogad / kap (to receive)",
+      "kizsarol (to extort)",
+      "leleplez / megszégyenít (to expose)",
+      "elindul / elutazik (to depart)"
+    ],
+    "answer": 1,
+    "hint": "Wir empfangen heute Gäste. Synonyme: erhalten, bekommen, begrüßen. (B1 - Verb)"
+  },
+  {
+    "question": "fogad / kap (to receive)",
+    "choices": [
+      "empfangen (+ A)",
+      "erpressen (+ A)",
+      "bloßstellen (+ A) / entlarven (+ A)",
+      "abfahren / abreisen"
+    ],
+    "answer": 1,
+    "hint": "Wir empfangen heute Gäste. Synonyme: erhalten, bekommen, begrüßen. (B1 - Verb)"
+  },
+  {
+    "question": "r Empfänger, -",
+    "choices": [
+      "vmi elvesztése (a loss of stg)",
+      "címzett (recipient)",
+      "megsértés / áthágás (violation)",
+      "adatvédelmi incidens (data breach)"
+    ],
+    "answer": 2,
+    "hint": "Der Name des Empfängers fehlt auf dem Brief. Synonyme: r Adressat, r Abnehmer. (B1 - Nomen)"
+  },
+  {
+    "question": "címzett (recipient)",
+    "choices": [
+      "r Verlust, -e (an + D / von + D)",
+      "r Empfänger, -",
+      "e Verletzung, -en / r Verstoß, \"-e",
+      "e Datenpanne, -n"
+    ],
+    "answer": 2,
+    "hint": "Der Name des Empfängers fehlt auf dem Brief. Synonyme: r Adressat, r Abnehmer. (B1 - Nomen)"
+  },
+  {
+    "question": "in der Nähe (von + D)",
+    "choices": [
+      "vki lakóhelyén (at someone's place of residence)",
+      "vmi irányába (towards stg)",
+      "vmi közelében (near stg)",
+      "útközben (along the way)"
+    ],
+    "answer": 3,
+    "hint": "Das Hotel liegt in der Nähe vom Bahnhof. Synonyme: unweit, nahebei. (A1 - Ausdruck)"
+  },
+  {
+    "question": "vmi közelében (near stg)",
+    "choices": [
+      "am Wohnort (einer Person)",
+      "in Richtung (+ G / auf + A)",
+      "in der Nähe (von + D)",
+      "auf dem Weg / unterwegs"
+    ],
+    "answer": 3,
+    "hint": "Das Hotel liegt in der Nähe vom Bahnhof. Synonyme: unweit, nahebei. (A1 - Ausdruck)"
+  },
+  {
+    "question": "am Wohnort (einer Person)",
+    "choices": [
+      "oda (there / thither)",
+      "vki lakóhelyén (at someone's place of residence)",
+      "pontos / betalál (to be spot-on)",
+      "kitör a pánik (panic sets in)"
+    ],
+    "answer": 2,
+    "hint": "Er arbeitet meistens direkt an seinem Wohnort. Synonyme: zu Hause, an der Meldeadresse. (B2 - Ausdruck)"
+  },
+  {
+    "question": "vki lakóhelyén (at someone's place of residence)",
+    "choices": [
+      "hin",
+      "am Wohnort (einer Person)",
+      "genau richtig sein",
+      "Panik bricht aus"
+    ],
+    "answer": 2,
+    "hint": "Er arbeitet meistens direkt an seinem Wohnort. Synonyme: zu Hause, an der Meldeadresse. (B2 - Ausdruck)"
+  },
+  {
+    "question": "in Richtung (+ G / auf + A)",
+    "choices": [
+      "vmi irányába (towards stg)",
+      "oda (there / thither)",
+      "vmi nem stimmel / gyanús (stg feels off)",
+      "pontos / betalál (to be spot-on)"
+    ],
+    "answer": 1,
+    "hint": "Der Zug fährt in Richtung München. Synonyme: nach, hin zu. (B2 - Ausdruck)"
+  },
+  {
+    "question": "vmi irányába (towards stg)",
+    "choices": [
+      "in Richtung (+ G / auf + A)",
+      "hin",
+      "etwas kommt mir komisch vor",
+      "genau richtig sein"
+    ],
+    "answer": 1,
+    "hint": "Der Zug fährt in Richtung München. Synonyme: nach, hin zu. (B2 - Ausdruck)"
+  },
+  {
+    "question": "hin",
+    "choices": [
+      "fiús (boyish)",
+      "ellenállhatatlan (irresistible)",
+      "oda (there / thither)",
+      "szabálykövető (compliant)"
+    ],
+    "answer": 3,
+    "hint": "Wo gehst du jetzt hin? Synonyme: dorthin, dahin. (A1 - Adverb)"
+  },
+  {
+    "question": "oda (there / thither)",
+    "choices": [
+      "jungenhaft",
+      "unwiderstehlich",
+      "hin",
+      "konform / regelkonform"
+    ],
+    "answer": 3,
+    "hint": "Wo gehst du jetzt hin? Synonyme: dorthin, dahin. (A1 - Adverb)"
+  },
+  {
+    "question": "jungenhaft",
+    "choices": [
+      "fiús (boyish)",
+      "ellenállhatatlan (irresistible)",
+      "szabálykövető (compliant)",
+      "szorgalmas / lelkiismeretes (diligent)"
+    ],
+    "answer": 1,
+    "hint": "Er hat ein jungenhaftes Aussehen. Synonyme: knabenhaft, jugendlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "fiús (boyish)",
+    "choices": [
+      "jungenhaft",
+      "unwiderstehlich",
+      "konform / regelkonform",
+      "fleißig / gewissenhaft"
+    ],
+    "answer": 1,
+    "hint": "Er hat ein jungenhaftes Aussehen. Synonyme: knabenhaft, jugendlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "unwiderstehlich",
+    "choices": [
+      "állandóan (constant / ongoing)",
+      "különálló / szabadon álló (detached / free-standing)",
+      "ellenállhatatlan (irresistible)",
+      "jelentős (significant / important)"
+    ],
+    "answer": 3,
+    "hint": "Der Kuchen sieht unwiderstehlich aus. Synonyme: verlockend, bezwingend. (B2 - Adjektiv)"
+  },
+  {
+    "question": "ellenállhatatlan (irresistible)",
+    "choices": [
+      "andauernd / ständig",
+      "freistehend",
+      "unwiderstehlich",
+      "bedeutend"
+    ],
+    "answer": 3,
+    "hint": "Der Kuchen sieht unwiderstehlich aus. Synonyme: verlockend, bezwingend. (B2 - Adjektiv)"
+  },
+  {
+    "question": "etwas kommt mir komisch vor",
+    "choices": [
+      "pontos / betalál (to be spot-on)",
+      "kitör a pánik (panic sets in)",
+      "útközben (along the way)",
+      "vmi nem stimmel / gyanús (stg feels off)"
+    ],
+    "answer": 4,
+    "hint": "Etwas kommt mir bei dieser Geschichte komisch vor. Synonyme: etwas erscheint mir seltsam, etwas kommt mir verdächtig vor. (B2 - Ausdruck)"
+  },
+  {
+    "question": "vmi nem stimmel / gyanús (stg feels off)",
+    "choices": [
+      "genau richtig sein",
+      "Panik bricht aus",
+      "auf dem Weg / unterwegs",
+      "etwas kommt mir komisch vor"
+    ],
+    "answer": 4,
+    "hint": "Etwas kommt mir bei dieser Geschichte komisch vor. Synonyme: etwas erscheint mir seltsam, etwas kommt mir verdächtig vor. (B2 - Ausdruck)"
+  },
+  {
+    "question": "ausnutzen (+ A) / ausbeuten (+ A)",
+    "choices": [
+      "kihasznál (to exploit)",
+      "kizsarol (to extort)",
+      "beáll / elkezdődik (to set in)",
+      "beavatkozik (to intervene)"
+    ],
+    "answer": 1,
+    "hint": "Er nutzt seine Macht schamlos aus. Synonyme: missbrauchen, ausbeuten. (B2 - Verb)"
+  },
+  {
+    "question": "kihasznál (to exploit)",
+    "choices": [
+      "ausnutzen (+ A) / ausbeuten (+ A)",
+      "erpressen (+ A)",
+      "einsetzen / beginnen",
+      "eingreifen / intervenieren"
+    ],
+    "answer": 1,
+    "hint": "Er nutzt seine Macht schamlos aus. Synonyme: missbrauchen, ausbeuten. (B2 - Verb)"
+  },
+  {
+    "question": "erpressen (+ A)",
+    "choices": [
+      "leleplez / megszégyenít (to expose)",
+      "biztosít / garantál (to ensure)",
+      "kizsarol (to extort)",
+      "elindul / elutazik (to depart)"
+    ],
+    "answer": 3,
+    "hint": "Er wurde erpresst, eine große Summe zu zahlen. Synonyme: abnötigen, abzwingen. (C1 - Verb)"
+  },
+  {
+    "question": "kizsarol (to extort)",
+    "choices": [
+      "bloßstellen (+ A) / entlarven (+ A)",
+      "sicherstellen (+ A)",
+      "erpressen (+ A)",
+      "abfahren / abreisen"
+    ],
+    "answer": 3,
+    "hint": "Er wurde erpresst, eine große Summe zu zahlen. Synonyme: abnötigen, abzwingen. (C1 - Verb)"
+  },
+  {
+    "question": "r Verlust, -e (an + D / von + D)",
+    "choices": [
+      "megsértés / áthágás (violation)",
+      "vmi elvesztése (a loss of stg)",
+      "adatvédelmi incidens (data breach)",
+      "lökés / púp (bump)"
+    ],
+    "answer": 2,
+    "hint": "Der Verlust an Zeit war in diesem Projekt groß. Synonyme: r Abgang, r Schaden, s Einbüßen. (B2 - Nomen)"
+  },
+  {
+    "question": "vmi elvesztése (a loss of stg)",
+    "choices": [
+      "e Verletzung, -en / r Verstoß, \"-e",
+      "r Verlust, -e (an + D / von + D)",
+      "e Datenpanne, -n",
+      "r Stoß, \"-e / e Beule, -n"
+    ],
+    "answer": 2,
+    "hint": "Der Verlust an Zeit war in diesem Projekt groß. Synonyme: r Abgang, r Schaden, s Einbüßen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Verletzung, -en / r Verstoß, \"-e",
+    "choices": [
+      "tengeri kikötő (seaport)",
+      "kikötő (port / harbor)",
+      "megsértés / áthágás (violation)",
+      "székesegyház (Münster) (minster / cathedral)"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine klare Verletzung der Regeln. Synonyme: r Bruch, e Übertretung, e Missachtung. (B2 - Nomen)"
+  },
+  {
+    "question": "megsértés / áthágás (violation)",
+    "choices": [
+      "r Seehafen, \"-",
+      "r Hafen, \"-",
+      "e Verletzung, -en / r Verstoß, \"-e",
+      "s Münster, -"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine klare Verletzung der Regeln. Synonyme: r Bruch, e Übertretung, e Missachtung. (B2 - Nomen)"
+  },
+  {
+    "question": "e Datenpanne, -n",
+    "choices": [
+      "felhőkarcoló (skyscraper)",
+      "adatvédelmi incidens (data breach)",
+      "merénylet (assassination attempt)",
+      "gejzír (geyser)"
+    ],
+    "answer": 2,
+    "hint": "Die Firma meldete eine schwere Datenpanne. Synonyme: s Datenleck, r Datenverlust. (C1 - Nomen)"
+  },
+  {
+    "question": "adatvédelmi incidens (data breach)",
+    "choices": [
+      "r Wolkenkratzer, -",
+      "e Datenpanne, -n",
+      "s Attentat, -e",
+      "r Geysir, -e"
+    ],
+    "answer": 2,
+    "hint": "Die Firma meldete eine schwere Datenpanne. Synonyme: s Datenleck, r Datenverlust. (C1 - Nomen)"
+  },
+  {
+    "question": "genau richtig sein",
+    "choices": [
+      "kitör a pánik (panic sets in)",
+      "útközben (along the way)",
+      "pontos / betalál (to be spot-on)",
+      "vmi nem stimmel / gyanús (stg feels off)"
+    ],
+    "answer": 3,
+    "hint": "Seine Analyse der Situation war genau richtig. Synonyme: zutreffen, den Nagel auf den Kopf treffen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "pontos / betalál (to be spot-on)",
+    "choices": [
+      "Panik bricht aus",
+      "auf dem Weg / unterwegs",
+      "genau richtig sein",
+      "etwas kommt mir komisch vor"
+    ],
+    "answer": 3,
+    "hint": "Seine Analyse der Situation war genau richtig. Synonyme: zutreffen, den Nagel auf den Kopf treffen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "Panik bricht aus",
+    "choices": [
+      "kitör a pánik (panic sets in)",
+      "vmi közelében (near stg)",
+      "vki lakóhelyén (at someone's place of residence)",
+      "vmi irányába (towards stg)"
+    ],
+    "answer": 1,
+    "hint": "Im Saal brach plötzlich Panik aus. Synonyme: Angst macht sich breit. (B2 - Ausdruck)"
+  },
+  {
+    "question": "kitör a pánik (panic sets in)",
+    "choices": [
+      "Panik bricht aus",
+      "in der Nähe (von + D)",
+      "am Wohnort (einer Person)",
+      "in Richtung (+ G / auf + A)"
+    ],
+    "answer": 1,
+    "hint": "Im Saal brach plötzlich Panik aus. Synonyme: Angst macht sich breit. (B2 - Ausdruck)"
+  },
+  {
+    "question": "einsetzen / beginnen",
+    "choices": [
+      "beavatkozik (to intervene)",
+      "leleplez / megszégyenít (to expose)",
+      "biztosít / garantál (to ensure)",
+      "beáll / elkezdődik (to set in)"
+    ],
+    "answer": 4,
+    "hint": "Der Regen setzte erst am späten Abend ein. Synonyme: anfangen, starten. (B2 - Verb)"
+  },
+  {
+    "question": "beáll / elkezdődik (to set in)",
+    "choices": [
+      "eingreifen / intervenieren",
+      "bloßstellen (+ A) / entlarven (+ A)",
+      "sicherstellen (+ A)",
+      "einsetzen / beginnen"
+    ],
+    "answer": 4,
+    "hint": "Der Regen setzte erst am späten Abend ein. Synonyme: anfangen, starten. (B2 - Verb)"
+  },
+  {
+    "question": "eingreifen / intervenieren",
+    "choices": [
+      "beavatkozik (to intervene)",
+      "elindul / elutazik (to depart)",
+      "elkerül (to avoid)",
+      "kihord / megrendez (to carry out / host)"
+    ],
+    "answer": 1,
+    "hint": "Die Polizei musste sofort eingreifen. Synonyme: einschreiten, sich einmischen. (B2 - Verb)"
+  },
+  {
+    "question": "beavatkozik (to intervene)",
+    "choices": [
+      "eingreifen / intervenieren",
+      "abfahren / abreisen",
+      "vermeiden (+ A)",
+      "austragen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Die Polizei musste sofort eingreifen. Synonyme: einschreiten, sich einmischen. (B2 - Verb)"
+  },
+  {
+    "question": "bloßstellen (+ A) / entlarven (+ A)",
+    "choices": [
+      "elrabol / eltérít (to kidnap / hijack)",
+      "rendez / szervez (to organize / host)",
+      "leleplez / megszégyenít (to expose)",
+      "végbemegy / zajlik (to take place)"
+    ],
+    "answer": 3,
+    "hint": "Der Skandal wurde durch Journalisten entlarvt. Synonyme: demaskieren, kompromittieren. (C1 - Verb)"
+  },
+  {
+    "question": "leleplez / megszégyenít (to expose)",
+    "choices": [
+      "entführen (+ A)",
+      "veranstalten (+ A)",
+      "bloßstellen (+ A) / entlarven (+ A)",
+      "stattfinden"
+    ],
+    "answer": 3,
+    "hint": "Der Skandal wurde durch Journalisten entlarvt. Synonyme: demaskieren, kompromittieren. (C1 - Verb)"
+  },
+  {
+    "question": "sicherstellen (+ A)",
+    "choices": [
+      "biztosít / garantál (to ensure)",
+      "összekever (to mix)",
+      "felaprít / darabol (to mince / chop up)",
+      "érik (to ripen / mature)"
+    ],
+    "answer": 1,
+    "hint": "Wir müssen den Erfolg des Projekts sicherstellen. Synonyme: garantieren, gewährleisten. (B2 - Verb)"
+  },
+  {
+    "question": "biztosít / garantál (to ensure)",
+    "choices": [
+      "sicherstellen (+ A)",
+      "ver|mischen (+ A) (mit + D)",
+      "zer|kleinern (+ A)",
+      "reifen"
+    ],
+    "answer": 1,
+    "hint": "Wir müssen den Erfolg des Projekts sicherstellen. Synonyme: garantieren, gewährleisten. (B2 - Verb)"
+  },
+  {
+    "question": "r Stoß, \"-e / e Beule, -n",
+    "choices": [
+      "lökés / púp (bump)",
+      "adás / küldemény (broadcast / shipment)",
+      "start / kezdés (start)",
+      "előítélet (prejudice / bias)"
+    ],
+    "answer": 1,
+    "hint": "Er hat nach dem Sturz eine Beule am Kopf. Synonyme: r Aufprall, e Schwellung, r Schlag. (B1 - Nomen)"
+  },
+  {
+    "question": "lökés / púp (bump)",
+    "choices": [
+      "r Stoß, \"-e / e Beule, -n",
+      "e Sendung, -en",
+      "r Start, -s",
+      "s Vorurteil, -e"
+    ],
+    "answer": 1,
+    "hint": "Er hat nach dem Sturz eine Beule am Kopf. Synonyme: r Aufprall, e Schwellung, r Schlag. (B1 - Nomen)"
+  },
+  {
+    "question": "abfahren / abreisen",
+    "choices": [
+      "ken / mázol (to spread / paint)",
+      "elrak / savanyít (to pickle / insert)",
+      "elindul / elutazik (to depart)",
+      "eredményez (to result in)"
+    ],
+    "answer": 3,
+    "hint": "Der Zug fährt pünktlich um 10 Uhr ab. Synonyme: aufbrechen, wegfahren. (A1 - Verb)"
+  },
+  {
+    "question": "elindul / elutazik (to depart)",
+    "choices": [
+      "streichen (+ A)",
+      "ein|legen (+ A)",
+      "abfahren / abreisen",
+      "ergeben (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Der Zug fährt pünktlich um 10 Uhr ab. Synonyme: aufbrechen, wegfahren. (A1 - Verb)"
+  },
+  {
+    "question": "vermeiden (+ A)",
+    "choices": [
+      "elkerül (to avoid)",
+      "beléptetni valakit (kártyával) (to badge somebody in)",
+      "interakcióba lép vkivel (to interact with)",
+      "feltesz (kérdést) / pózol (to pose)"
+    ],
+    "answer": 1,
+    "hint": "Vermeiden Sie bitte unnötige Risiken. Synonyme: umgehen, meiden. (B2 - Verb)"
+  },
+  {
+    "question": "elkerül (to avoid)",
+    "choices": [
+      "vermeiden (+ A)",
+      "jemanden einlassen (+ A) (mit dem Ausweis)",
+      "interagieren (mit + D)",
+      "darstellen (+ A) / (Frage) stellen"
+    ],
+    "answer": 1,
+    "hint": "Vermeiden Sie bitte unnötige Risiken. Synonyme: umgehen, meiden. (B2 - Verb)"
+  },
+  {
+    "question": "auf dem Weg / unterwegs",
+    "choices": [
+      "távolság / köz (distance / gap)",
+      "jégtörő (icebreaker)",
+      "zavargás / hűhó (riot / racket)",
+      "útközben (along the way)"
+    ],
+    "answer": 4,
+    "hint": "Auf dem Weg haben wir viel Neues gelernt. Synonyme: auf der Reise, auf der Strecke. (B1 - Ausdruck)"
+  },
+  {
+    "question": "útközben (along the way)",
+    "choices": [
+      "r Abstand, \"-e",
+      "r Eisbrecher, -",
+      "r Krawall, -e",
+      "auf dem Weg / unterwegs"
+    ],
+    "answer": 4,
+    "hint": "Auf dem Weg haben wir viel Neues gelernt. Synonyme: auf der Reise, auf der Strecke. (B1 - Ausdruck)"
+  },
+  {
+    "question": "konform / regelkonform",
+    "choices": [
+      "szabálykövető (compliant)",
+      "szorgalmas / lelkiismeretes (diligent)",
+      "állandóan (constant / ongoing)",
+      "különálló / szabadon álló (detached / free-standing)"
+    ],
+    "answer": 1,
+    "hint": "Das neue System ist vollkommen regelkonform. Synonyme: vorschriftsmäßig, passend. (C1 - Adjektiv)"
+  },
+  {
+    "question": "szabálykövető (compliant)",
+    "choices": [
+      "konform / regelkonform",
+      "fleißig / gewissenhaft",
+      "andauernd / ständig",
+      "freistehend"
+    ],
+    "answer": 1,
+    "hint": "Das neue System ist vollkommen regelkonform. Synonyme: vorschriftsmäßig, passend. (C1 - Adjektiv)"
+  },
+  {
+    "question": "fleißig / gewissenhaft",
+    "choices": [
+      "jelentős (significant / important)",
+      "híres (famous)",
+      "szorgalmas / lelkiismeretes (diligent)",
+      "kedvelt (popular)"
+    ],
+    "answer": 3,
+    "hint": "Er ist ein sehr gewissenhafter Arbeiter. Synonyme: sorgfältig, ordentlich. (B1 - Adjektiv)"
+  },
+  {
+    "question": "szorgalmas / lelkiismeretes (diligent)",
+    "choices": [
+      "bedeutend",
+      "berühmt",
+      "fleißig / gewissenhaft",
+      "beliebt"
+    ],
+    "answer": 3,
+    "hint": "Er ist ein sehr gewissenhafter Arbeiter. Synonyme: sorgfältig, ordentlich. (B1 - Adjektiv)"
+  },
+  {
+    "question": "andauernd / ständig",
+    "choices": [
+      "zenei / jó hallású (musical)",
+      "állandóan (constant / ongoing)",
+      "lelkes (enthusiastic)",
+      "nehézkes / lassú (sluggish)"
+    ],
+    "answer": 2,
+    "hint": "Es regnet andauernd seit heute Morgen. Synonyme: kontinuierlich, permanent. (B2 - Adjektiv / Adverb)"
+  },
+  {
+    "question": "állandóan (constant / ongoing)",
+    "choices": [
+      "musikalisch",
+      "andauernd / ständig",
+      "begeistert (von + D)",
+      "schwerfällig / träge"
+    ],
+    "answer": 2,
+    "hint": "Es regnet andauernd seit heute Morgen. Synonyme: kontinuierlich, permanent. (B2 - Adjektiv / Adverb)"
+  },
+  {
+    "question": "r Seehafen, \"-",
+    "choices": [
+      "menyasszony (bride)",
+      "vőlegény (bridegroom)",
+      "menyasszonyi csokor (bridal bouquet)",
+      "tengeri kikötő (seaport)"
+    ],
+    "answer": 4,
+    "hint": "Hamburg verfügt über einen großen Seehafen. Synonyme: r Küstenhafen. (B2 - Nomen)"
+  },
+  {
+    "question": "tengeri kikötő (seaport)",
+    "choices": [
+      "e Braut, \"-e",
+      "r Bräutigam, -e",
+      "r Brautstrauß, \"-e",
+      "r Seehafen, \"-"
+    ],
+    "answer": 4,
+    "hint": "Hamburg verfügt über einen großen Seehafen. Synonyme: r Küstenhafen. (B2 - Nomen)"
+  },
+  {
+    "question": "r Hafen, \"-",
+    "choices": [
+      "szokás / hagyomány (custom / tradition)",
+      "kikötő (port / harbor)",
+      "zengőlégy (hoverfly)",
+      "hentes (butcher)"
+    ],
+    "answer": 2,
+    "hint": "Viele Schiffe liegen sicher im Hafen. Synonyme: r Anlegeplatz. (B1 - Nomen)"
+  },
+  {
+    "question": "kikötő (port / harbor)",
+    "choices": [
+      "r Brauch, \"-e",
+      "r Hafen, \"-",
+      "e Schwebfliege, -n",
+      "r Metzger, -"
+    ],
+    "answer": 2,
+    "hint": "Viele Schiffe liegen sicher im Hafen. Synonyme: r Anlegeplatz. (B1 - Nomen)"
+  }
+]

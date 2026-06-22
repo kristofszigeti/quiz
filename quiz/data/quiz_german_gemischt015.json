@@ -1,0 +1,2180 @@
+[
+  {
+    "question": "r Ausweis, -e",
+    "choices": [
+      "építkezés (construction site)",
+      "méh (bee)",
+      "pékség (bakery)",
+      "igazolvány (identity card)"
+    ],
+    "answer": 4,
+    "hint": "Bitte zeigen Sie Ihren Ausweis. (A1 - Nomen)"
+  },
+  {
+    "question": "igazolvány (identity card)",
+    "choices": [
+      "e Banane, -n",
+      "r Balkon, -e",
+      "r Automat, -en",
+      "r Ausweis, -e"
+    ],
+    "answer": 4,
+    "hint": "Bitte zeigen Sie Ihren Ausweis. (A1 - Nomen)"
+  },
+  {
+    "question": "auswendig",
+    "choices": [
+      "kívülről / fejből (by heart)",
+      "ismert (known)",
+      "készpénzben (in cash)",
+      "világos / érthető (clear)"
+    ],
+    "answer": 1,
+    "hint": "Er lernt das Gedicht auswendig. (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "kívülről / fejből (by heart)",
+    "choices": [
+      "bar",
+      "befreit (von + D)",
+      "auswendig",
+      "deutlich"
+    ],
+    "answer": 3,
+    "hint": "Er lernt das Gedicht auswendig. (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "(sich) aus|ziehen (+ A)",
+    "choices": [
+      "üdvözöl (to greet)",
+      "levetkőzik / kiköltözik (to undress / move out)",
+      "siet (to hurry)",
+      "kap (to get)"
+    ],
+    "answer": 2,
+    "hint": "Er zieht sich vor dem Schlafen aus. (A1 - Verb)"
+  },
+  {
+    "question": "levetkőzik / kiköltözik (to undress / move out)",
+    "choices": [
+      "basteln",
+      "beantworten (+ A)",
+      "begleiten (+ A)",
+      "(sich) aus|ziehen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er zieht sich vor dem Schlafen aus. (A1 - Verb)"
+  },
+  {
+    "question": "s Auto, -s",
+    "choices": [
+      "vércsoport (blood group)",
+      "hozzáférés (access)",
+      "autó (car)",
+      "méh (bee)"
+    ],
+    "answer": 3,
+    "hint": "Mein Auto ist blau. (A1 - Nomen)"
+  },
+  {
+    "question": "autó (car)",
+    "choices": [
+      "r Spion, -e",
+      "r Ball, \"-e",
+      "s Auto, -s",
+      "s Beispiel, -e"
+    ],
+    "answer": 3,
+    "hint": "Mein Auto ist blau. (A1 - Nomen)"
+  },
+  {
+    "question": "e Autobahn, -en",
+    "choices": [
+      "feltétel (condition)",
+      "bank / pad (bank / bench)",
+      "hatóság (authority)",
+      "autópálya (highway)"
+    ],
+    "answer": 4,
+    "hint": "Wir fahren auf der Autobahn. (A2 - Nomen)"
+  },
+  {
+    "question": "autópálya (highway)",
+    "choices": [
+      "r Bart, \"-e",
+      "s Auto, -s",
+      "e Autobahn, -en",
+      "r Wahnsinn (Sg.)"
+    ],
+    "answer": 3,
+    "hint": "Wir fahren auf der Autobahn. (A2 - Nomen)"
+  },
+  {
+    "question": "r Automat, -en",
+    "choices": [
+      "erkély (balcony)",
+      "banán (banana)",
+      "automata (vending machine)",
+      "benzin (gasoline)"
+    ],
+    "answer": 3,
+    "hint": "Der Fahrkartenautomat ist dort. (A2 - Nomen)"
+  },
+  {
+    "question": "automata (vending machine)",
+    "choices": [
+      "r Wahnsinn (Sg.)",
+      "r Balkon, -e",
+      "r Automat, -en",
+      "r Wettbewerb, -e"
+    ],
+    "answer": 3,
+    "hint": "Der Fahrkartenautomat ist dort. (A2 - Nomen)"
+  },
+  {
+    "question": "e Bäckerei, -en",
+    "choices": [
+      "édesítőszer (sweetener)",
+      "pékség (bakery)",
+      "ismerős (acquaintance)",
+      "csizma (boot)"
+    ],
+    "answer": 2,
+    "hint": "Ich gehe zur Bäckerei. (A2 - Nomen)"
+  },
+  {
+    "question": "pékség (bakery)",
+    "choices": [
+      "e Bäckerei, -en",
+      "e Auskunft, \"-e",
+      "e Ansage, -n",
+      "e Achsel, -n"
+    ],
+    "answer": 1,
+    "hint": "Ich gehe zur Bäckerei. (A2 - Nomen)"
+  },
+  {
+    "question": "s Bad, \"-er",
+    "choices": [
+      "bizonylat (receipt)",
+      "fürdő / fürdőszoba (bath)",
+      "lakosság (population)",
+      "édesítőszer (sweetener)"
+    ],
+    "answer": 2,
+    "hint": "Das Bad ist besetzt. (A1 - Nomen)"
+  },
+  {
+    "question": "fürdő / fürdőszoba (bath)",
+    "choices": [
+      "r Zugang, \"-e",
+      "s Bad, \"-er",
+      "r Bart, \"-e",
+      "r Spion, -e"
+    ],
+    "answer": 2,
+    "hint": "Das Bad ist besetzt. (A1 - Nomen)"
+  },
+  {
+    "question": "baden",
+    "choices": [
+      "fürdik (to bathe)",
+      "harap (to bite)",
+      "fáradozik (to strive)",
+      "barkácsol / bütyköl (to tinker / craft)"
+    ],
+    "answer": 1,
+    "hint": "Ich bade gerne im See. (A1 - Verb)"
+  },
+  {
+    "question": "fürdik (to bathe)",
+    "choices": [
+      "baden",
+      "bauen (+ A)",
+      "basteln",
+      "beginnen (mit + D / + A)"
+    ],
+    "answer": 1,
+    "hint": "Ich bade gerne im See. (A1 - Verb)"
+  },
+  {
+    "question": "e Bahn, -en",
+    "choices": [
+      "bemondás (announcement)",
+      "vasútállomás (railway station)",
+      "érték (value)",
+      "vasút / villamos (train / tram)"
+    ],
+    "answer": 4,
+    "hint": "Wir fahren mit der Bahn. (A1 - Nomen)"
+  },
+  {
+    "question": "vasút / villamos (train / tram)",
+    "choices": [
+      "e Bedienung, -en",
+      "s Benzin (Sg.)",
+      "e Bahn, -en",
+      "r Ball, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Wir fahren mit der Bahn. (A1 - Nomen)"
+  },
+  {
+    "question": "r Bahnhof, \"-e",
+    "choices": [
+      "fürdő / fürdőszoba (bath)",
+      "hatóság (authority)",
+      "vasútállomás (railway station)",
+      "labda (ball)"
+    ],
+    "answer": 3,
+    "hint": "Der Bahnhof ist groß. (A1 - Nomen)"
+  },
+  {
+    "question": "vasútállomás (railway station)",
+    "choices": [
+      "r Bart, \"-e",
+      "r Bahnhof, \"-e",
+      "e Begründung, -en",
+      "r Baum, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Der Bahnhof ist groß. (A1 - Nomen)"
+  },
+  {
+    "question": "r Bahnsteig, -e",
+    "choices": [
+      "fürdő / fürdőszoba (bath)",
+      "peron (platform)",
+      "automata (vending machine)",
+      "kitartás (endurance)"
+    ],
+    "answer": 2,
+    "hint": "Der Zug fährt auf Bahnsteig 4 ab. (A2 - Nomen)"
+  },
+  {
+    "question": "peron (platform)",
+    "choices": [
+      "r Bahnsteig, -e",
+      "e Bedingung, -en",
+      "e Begründung, -en",
+      "e Biene, -n"
+    ],
+    "answer": 1,
+    "hint": "Der Zug fährt auf Bahnsteig 4 ab. (A2 - Nomen)"
+  },
+  {
+    "question": "bald",
+    "choices": [
+      "majdnem (almost)",
+      "hamarosan (soon)",
+      "ezért (therefore)",
+      "épít (to build)"
+    ],
+    "answer": 2,
+    "hint": "Wir sehen uns bald. (A1 - Adverb)"
+  },
+  {
+    "question": "hamarosan (soon)",
+    "choices": [
+      "bauen (+ A)",
+      "bald",
+      "deshalb",
+      "beinahe"
+    ],
+    "answer": 2,
+    "hint": "Wir sehen uns bald. (A1 - Adverb)"
+  },
+  {
+    "question": "r Balkon, -e",
+    "choices": [
+      "fa (tree)",
+      "indoklás (justification)",
+      "hatóság (authority)",
+      "erkély (balcony)"
+    ],
+    "answer": 4,
+    "hint": "Die Wohnung hat einen Balkon. (A2 - Nomen)"
+  },
+  {
+    "question": "erkély (balcony)",
+    "choices": [
+      "r Verlag, -e",
+      "r Winkel, -",
+      "r Ausweis, -e",
+      "r Balkon, -e"
+    ],
+    "answer": 4,
+    "hint": "Die Wohnung hat einen Balkon. (A2 - Nomen)"
+  },
+  {
+    "question": "r Ball, \"-e",
+    "choices": [
+      "labda (ball)",
+      "abortusz (abortion)",
+      "automata (vending machine)",
+      "fotel (armchair)"
+    ],
+    "answer": 1,
+    "hint": "Der Ball ist rund. (A1 - Nomen)"
+  },
+  {
+    "question": "labda (ball)",
+    "choices": [
+      "e Biene, -n",
+      "r Basketball",
+      "r Ball, \"-e",
+      "e Bäckerei, -en"
+    ],
+    "answer": 3,
+    "hint": "Der Ball ist rund. (A1 - Nomen)"
+  },
+  {
+    "question": "e Banane, -n",
+    "choices": [
+      "felvilágosítás (information)",
+      "jelentés (meaning)",
+      "banán (banana)",
+      "öntözés (irrigation)"
+    ],
+    "answer": 3,
+    "hint": "Ich esse eine Banane. (A1 - Nomen)"
+  },
+  {
+    "question": "banán (banana)",
+    "choices": [
+      "e Banane, -n",
+      "e Bedingung, -en",
+      "e Bevölkerung, -en",
+      "s Auto, -s"
+    ],
+    "answer": 1,
+    "hint": "Ich esse eine Banane. (A1 - Nomen)"
+  },
+  {
+    "question": "e Bank, -en / \"-e",
+    "choices": [
+      "benzin (gasoline)",
+      "parancs (command)",
+      "bank / pad (bank / bench)",
+      "szög / sarok (angle / corner)"
+    ],
+    "answer": 3,
+    "hint": "Ich muss zur Bank gehen. (A1 - Nomen)"
+  },
+  {
+    "question": "bank / pad (bank / bench)",
+    "choices": [
+      "r Bahnsteig, -e",
+      "e Bank, -en / \"-e",
+      "r Automat, -en",
+      "e Bewusstheit / s Bewusstsein"
+    ],
+    "answer": 2,
+    "hint": "Ich muss zur Bank gehen. (A1 - Nomen)"
+  },
+  {
+    "question": "bar",
+    "choices": [
+      "korlátozott (limited)",
+      "lelkes (enthusiastic)",
+      "készpénzben (in cash)",
+      "mozgássérült (disabled)"
+    ],
+    "answer": 3,
+    "hint": "Kann ich bar bezahlen? (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "készpénzben (in cash)",
+    "choices": [
+      "bar",
+      "beliebt (bei + D)",
+      "begrenzt",
+      "auswendig"
+    ],
+    "answer": 1,
+    "hint": "Kann ich bar bezahlen? (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "r Bart, \"-e",
+    "choices": [
+      "kezdet (beginning)",
+      "kitartás (endurance)",
+      "szakáll (beard)",
+      "kiadó (publisher)"
+    ],
+    "answer": 3,
+    "hint": "Er trägt einen langen Bart. (B1 - Nomen)"
+  },
+  {
+    "question": "szakáll (beard)",
+    "choices": [
+      "r Bart, \"-e",
+      "e Ausdauer (Sg.)",
+      "r Bauer, -n",
+      "e Behörde, -n"
+    ],
+    "answer": 1,
+    "hint": "Er trägt einen langen Bart. (B1 - Nomen)"
+  },
+  {
+    "question": "r Basketball",
+    "choices": [
+      "adat / információ (statement / data)",
+      "vasútállomás (railway station)",
+      "hozzáférés (access)",
+      "kosárlabda (basketball)"
+    ],
+    "answer": 4,
+    "hint": "Wir spielen Basketball. (A2 - Nomen)"
+  },
+  {
+    "question": "kosárlabda (basketball)",
+    "choices": [
+      "r Befehl, -e",
+      "r Basketball",
+      "r Ball, \"-e",
+      "r/e Bekannte, -n"
+    ],
+    "answer": 2,
+    "hint": "Wir spielen Basketball. (A2 - Nomen)"
+  },
+  {
+    "question": "basteln",
+    "choices": [
+      "kezdődik / kezd (to begin)",
+      "kezel (to treat)",
+      "megindokol (to justify)",
+      "barkácsol / bütyköl (to tinker / craft)"
+    ],
+    "answer": 4,
+    "hint": "Die Kinder basteln viel. (A2 - Verb)"
+  },
+  {
+    "question": "barkácsol / bütyköl (to tinker / craft)",
+    "choices": [
+      "bemerken (+ A)",
+      "basteln",
+      "beginnen (mit + D / + A)",
+      "begrüßen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Die Kinder basteln viel. (A2 - Verb)"
+  },
+  {
+    "question": "r Bauch, \"-e",
+    "choices": [
+      "vasútállomás (railway station)",
+      "hozzájárulás / tagdíj (contribution)",
+      "has (belly)",
+      "fürdő / fürdőszoba (bath)"
+    ],
+    "answer": 3,
+    "hint": "Mein Bauch tut weh. (A2 - Nomen)"
+  },
+  {
+    "question": "has (belly)",
+    "choices": [
+      "r Bauch, \"-e",
+      "r Sessel, -",
+      "e Bewässerung, -en",
+      "e Abtreibung, -en"
+    ],
+    "answer": 1,
+    "hint": "Mein Bauch tut weh. (A2 - Nomen)"
+  },
+  {
+    "question": "bauen (+ A)",
+    "choices": [
+      "épít (to build)",
+      "kap (to get)",
+      "kezdődik / kezd (to begin)",
+      "elkísér (to accompany)"
+    ],
+    "answer": 1,
+    "hint": "Sie bauen ein neues Haus. (A2 - Verb)"
+  },
+  {
+    "question": "épít (to build)",
+    "choices": [
+      "bemerken (+ A)",
+      "(sich) aus|ziehen (+ A)",
+      "(sich) bemühen (um + A)",
+      "bauen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Sie bauen ein neues Haus. (A2 - Verb)"
+  },
+  {
+    "question": "r Bauer, -n",
+    "choices": [
+      "paraszt / gazda (farmer)",
+      "bizonylat (receipt)",
+      "méh (bee)",
+      "banán (banana)"
+    ],
+    "answer": 1,
+    "hint": "Der Bauer arbeitet auf dem Feld. (A2 - Nomen)"
+  },
+  {
+    "question": "paraszt / gazda (farmer)",
+    "choices": [
+      "e Bewusstheit / s Bewusstsein",
+      "e Beschränkung, -en",
+      "r Zugang, \"-e",
+      "r Bauer, -n"
+    ],
+    "answer": 4,
+    "hint": "Der Bauer arbeitet auf dem Feld. (A2 - Nomen)"
+  },
+  {
+    "question": "r Baum, \"-e",
+    "choices": [
+      "szédülés (dizziness)",
+      "fa (tree)",
+      "vasút / villamos (train / tram)",
+      "vasútállomás (railway station)"
+    ],
+    "answer": 2,
+    "hint": "Der Baum ist sehr hoch. (A1 - Nomen)"
+  },
+  {
+    "question": "fa (tree)",
+    "choices": [
+      "r Basketball",
+      "s Auto, -s",
+      "r Süßstoff, -e",
+      "r Baum, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Der Baum ist sehr hoch. (A1 - Nomen)"
+  },
+  {
+    "question": "e Baustelle, -n",
+    "choices": [
+      "építkezés (construction site)",
+      "hatóság (authority)",
+      "banán (banana)",
+      "bizonylat (receipt)"
+    ],
+    "answer": 1,
+    "hint": "Vorsicht, Baustelle! (B1 - Nomen)"
+  },
+  {
+    "question": "építkezés (construction site)",
+    "choices": [
+      "r Beitrag, \"-e",
+      "r Ausweis, -e",
+      "e Bedienung, -en",
+      "e Baustelle, -n"
+    ],
+    "answer": 4,
+    "hint": "Vorsicht, Baustelle! (B1 - Nomen)"
+  },
+  {
+    "question": "beantworten (+ A)",
+    "choices": [
+      "megválaszol (to answer)",
+      "kiszolgál (to serve)",
+      "kezdődik / kezd (to begin)",
+      "befejez (to finish)"
+    ],
+    "answer": 1,
+    "hint": "Beantworten Sie die Frage. (A2 - Verb)"
+  },
+  {
+    "question": "megválaszol (to answer)",
+    "choices": [
+      "beantworten (+ A)",
+      "behaupten (+ A)",
+      "befristen (+ A)",
+      "bedienen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Beantworten Sie die Frage. (A2 - Verb)"
+  },
+  {
+    "question": "(sich) bedanken (für + A / bei + D)",
+    "choices": [
+      "harap (to bite)",
+      "fürdik (to bathe)",
+      "megköszön (to thank)",
+      "állít (to claim)"
+    ],
+    "answer": 3,
+    "hint": "Ich bedanke mich bei dir. (A2 - Verb)"
+  },
+  {
+    "question": "megköszön (to thank)",
+    "choices": [
+      "(sich) bemühen (um + A)",
+      "(sich) bedanken (für + A / bei + D)",
+      "behalten (+ A)",
+      "beginnen (mit + D / + A)"
+    ],
+    "answer": 2,
+    "hint": "Ich bedanke mich bei dir. (A2 - Verb)"
+  },
+  {
+    "question": "bedeuten (+ A)",
+    "choices": [
+      "jelent (to mean)",
+      "található / van (to be located)",
+      "megtart (to keep)",
+      "befejez (to finish)"
+    ],
+    "answer": 1,
+    "hint": "Was bedeutet das Wort? (A2 - Verb)"
+  },
+  {
+    "question": "jelent (to mean)",
+    "choices": [
+      "baden",
+      "begleiten (+ A)",
+      "bedeuten (+ A)",
+      "beleidigen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Was bedeutet das Wort? (A2 - Verb)"
+  },
+  {
+    "question": "e Bedeutung, -en",
+    "choices": [
+      "jelentés (meaning)",
+      "édesítőszer (sweetener)",
+      "parancs (command)",
+      "automata (vending machine)"
+    ],
+    "answer": 1,
+    "hint": "Das Wort hat zwei Bedeutungen. (B1 - Nomen)"
+  },
+  {
+    "question": "jelentés (meaning)",
+    "choices": [
+      "s Beispiel, -e",
+      "r Bauer, -n",
+      "r Beginn (Sg.)",
+      "e Bedeutung, -en"
+    ],
+    "answer": 4,
+    "hint": "Das Wort hat zwei Bedeutungen. (B1 - Nomen)"
+  },
+  {
+    "question": "bedienen (+ A)",
+    "choices": [
+      "kiszolgál (to serve)",
+      "barkácsol / bütyköl (to tinker / craft)",
+      "kezel (to treat)",
+      "siet (to hurry)"
+    ],
+    "answer": 1,
+    "hint": "Werden Sie schon bedient? (B1 - Verb)"
+  },
+  {
+    "question": "kiszolgál (to serve)",
+    "choices": [
+      "(sich) bemühen (um + A)",
+      "behalten (+ A)",
+      "bedienen (+ A)",
+      "beginnen (mit + D / + A)"
+    ],
+    "answer": 3,
+    "hint": "Werden Sie schon bedient? (B1 - Verb)"
+  },
+  {
+    "question": "e Bedienung, -en",
+    "choices": [
+      "láb (leg)",
+      "autópálya (highway)",
+      "ismerős (acquaintance)",
+      "kiszolgálás (service)"
+    ],
+    "answer": 4,
+    "hint": "Die Bedienung war sehr nett. (B1 - Nomen)"
+  },
+  {
+    "question": "kiszolgálás (service)",
+    "choices": [
+      "r Ball, \"-e",
+      "e Bedienung, -en",
+      "r Schwindel, -",
+      "e Banane, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Bedienung war sehr nett. (B1 - Nomen)"
+  },
+  {
+    "question": "e Bedingung, -en",
+    "choices": [
+      "feltétel (condition)",
+      "példa (example)",
+      "autópálya (highway)",
+      "benzin (gasoline)"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine harte Bedingung. (B2 - Nomen)"
+  },
+  {
+    "question": "feltétel (condition)",
+    "choices": [
+      "e Bedienung, -en",
+      "e Begründung, -en",
+      "e Bedingung, -en",
+      "e Ausdauer (Sg.)"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine harte Bedingung. (B2 - Nomen)"
+  },
+  {
+    "question": "(sich) beeilen",
+    "choices": [
+      "fürdik (to bathe)",
+      "megindokol (to justify)",
+      "észrevesz (to notice)",
+      "siet (to hurry)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen uns beeilen. (A2 - Verb)"
+  },
+  {
+    "question": "siet (to hurry)",
+    "choices": [
+      "baden",
+      "(sich) beeilen",
+      "behalten (+ A)",
+      "benutzen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen uns beeilen. (A2 - Verb)"
+  },
+  {
+    "question": "beenden (+ A)",
+    "choices": [
+      "levetkőzik / kiköltözik (to undress / move out)",
+      "található / van (to be located)",
+      "befejez (to finish)",
+      "fáradozik (to strive)"
+    ],
+    "answer": 3,
+    "hint": "Wir beenden die Arbeit. (B1 - Verb)"
+  },
+  {
+    "question": "befejez (to finish)",
+    "choices": [
+      "benutzen (+ A)",
+      "bauen (+ A)",
+      "bemerken (+ A)",
+      "beenden (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir beenden die Arbeit. (B1 - Verb)"
+  },
+  {
+    "question": "r Befehl, -e",
+    "choices": [
+      "bizonylat (receipt)",
+      "parancs (command)",
+      "has (belly)",
+      "igazolvány (identity card)"
+    ],
+    "answer": 2,
+    "hint": "Das war ein Befehl. (B2 - Nomen)"
+  },
+  {
+    "question": "parancs (command)",
+    "choices": [
+      "r Befehl, -e",
+      "e Bedingung, -en",
+      "r Beleg, -e",
+      "r Überfall, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Das war ein Befehl. (B2 - Nomen)"
+  },
+  {
+    "question": "(sich) befinden",
+    "choices": [
+      "határidőhöz köt (to limit)",
+      "található / van (to be located)",
+      "megköszön (to thank)",
+      "állít (to claim)"
+    ],
+    "answer": 2,
+    "hint": "Das Hotel befindet sich hier. (B1 - Verb)"
+  },
+  {
+    "question": "található / van (to be located)",
+    "choices": [
+      "bekommen (+ A)",
+      "(sich) befinden",
+      "(sich) bedanken (für + A / bei + D)",
+      "begrüßen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Das Hotel befindet sich hier. (B1 - Verb)"
+  },
+  {
+    "question": "befreit (von + D)",
+    "choices": [
+      "mozgássérült (disabled)",
+      "mentesítve (exempt)",
+      "ismert (known)",
+      "készpénzben (in cash)"
+    ],
+    "answer": 2,
+    "hint": "Er ist vom Sport befreit. (B2 - Adjektiv)"
+  },
+  {
+    "question": "mentesítve (exempt)",
+    "choices": [
+      "bar",
+      "befreit (von + D)",
+      "begrenzt",
+      "auswendig"
+    ],
+    "answer": 2,
+    "hint": "Er ist vom Sport befreit. (B2 - Adjektiv)"
+  },
+  {
+    "question": "befristen (+ A)",
+    "choices": [
+      "megindokol (to justify)",
+      "határidőhöz köt (to limit)",
+      "találkozik / összefut (to encounter)",
+      "elkísér (to accompany)"
+    ],
+    "answer": 2,
+    "hint": "Der Vertrag ist befristet. (B2 - Verb)"
+  },
+  {
+    "question": "határidőhöz köt (to limit)",
+    "choices": [
+      "(sich) befinden",
+      "(sich) bemühen (um + A)",
+      "befristen (+ A)",
+      "bedienen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Der Vertrag ist befristet. (B2 - Verb)"
+  },
+  {
+    "question": "begegnen (+ D)",
+    "choices": [
+      "siet (to hurry)",
+      "megindokol (to justify)",
+      "megválaszol (to answer)",
+      "találkozik / összefut (to encounter)"
+    ],
+    "answer": 4,
+    "hint": "Ich bin ihm begegnet. (B1 - Verb)"
+  },
+  {
+    "question": "találkozik / összefut (to encounter)",
+    "choices": [
+      "begründen (+ A)",
+      "begegnen (+ D)",
+      "(sich) bemühen (um + A)",
+      "beleidigen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich bin ihm begegnet. (B1 - Verb)"
+  },
+  {
+    "question": "begeistert (von + D)",
+    "choices": [
+      "mentesítve (exempt)",
+      "mozgássérült (disabled)",
+      "világos / érthető (clear)",
+      "lelkes (enthusiastic)"
+    ],
+    "answer": 4,
+    "hint": "Er ist von der Idee begeistert. (B1 - Adjektiv)"
+  },
+  {
+    "question": "lelkes (enthusiastic)",
+    "choices": [
+      "deutlich",
+      "begrenzt",
+      "beliebt (bei + D)",
+      "begeistert (von + D)"
+    ],
+    "answer": 4,
+    "hint": "Er ist von der Idee begeistert. (B1 - Adjektiv)"
+  },
+  {
+    "question": "r Beginn (Sg.)",
+    "choices": [
+      "benzin (gasoline)",
+      "hozzájárulás / tagdíj (contribution)",
+      "kezdet (beginning)",
+      "csizma (boot)"
+    ],
+    "answer": 3,
+    "hint": "Der Beginn war schwierig. (B1 - Nomen)"
+  },
+  {
+    "question": "kezdet (beginning)",
+    "choices": [
+      "r Ball, \"-e",
+      "r Bauer, -n",
+      "s Beispiel, -e",
+      "r Beginn (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Der Beginn war schwierig. (B1 - Nomen)"
+  },
+  {
+    "question": "beginnen (mit + D / + A)",
+    "choices": [
+      "befejez (to finish)",
+      "barkácsol / bütyköl (to tinker / craft)",
+      "kezdődik / kezd (to begin)",
+      "megindokol (to justify)"
+    ],
+    "answer": 3,
+    "hint": "Der Film beginnt um 8. (A1 - Verb)"
+  },
+  {
+    "question": "kezdődik / kezd (to begin)",
+    "choices": [
+      "bedeuten (+ A)",
+      "beantworten (+ A)",
+      "basteln",
+      "beginnen (mit + D / + A)"
+    ],
+    "answer": 4,
+    "hint": "Der Film beginnt um 8. (A1 - Verb)"
+  },
+  {
+    "question": "begleiten (+ A)",
+    "choices": [
+      "elkísér (to accompany)",
+      "jelent (to mean)",
+      "kezdődik / kezd (to begin)",
+      "kezel (to treat)"
+    ],
+    "answer": 1,
+    "hint": "Ich begleite dich nach Hause. (B1 - Verb)"
+  },
+  {
+    "question": "elkísér (to accompany)",
+    "choices": [
+      "(sich) befinden",
+      "beantworten (+ A)",
+      "begleiten (+ A)",
+      "befristen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Ich begleite dich nach Hause. (B1 - Verb)"
+  },
+  {
+    "question": "begrenzt",
+    "choices": [
+      "népszerű (popular)",
+      "mentesítve (exempt)",
+      "korlátozott (limited)",
+      "világos / érthető (clear)"
+    ],
+    "answer": 3,
+    "hint": "Die Zeit ist begrenzt. (B2 - Adjektiv)"
+  },
+  {
+    "question": "korlátozott (limited)",
+    "choices": [
+      "bar",
+      "begeistert (von + D)",
+      "auswendig",
+      "begrenzt"
+    ],
+    "answer": 4,
+    "hint": "Die Zeit ist begrenzt. (B2 - Adjektiv)"
+  },
+  {
+    "question": "begründen (+ A)",
+    "choices": [
+      "kap (to get)",
+      "megindokol (to justify)",
+      "befejez (to finish)",
+      "jelent (to mean)"
+    ],
+    "answer": 2,
+    "hint": "Bitte begründen Sie das. (B1 - Verb)"
+  },
+  {
+    "question": "megindokol (to justify)",
+    "choices": [
+      "begründen (+ A)",
+      "bekommen (+ A)",
+      "bauen (+ A)",
+      "begegnen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Bitte begründen Sie das. (B1 - Verb)"
+  },
+  {
+    "question": "e Begründung, -en",
+    "choices": [
+      "mustár (mustard)",
+      "igazolvány (identity card)",
+      "indoklás (justification)",
+      "fürdő / fürdőszoba (bath)"
+    ],
+    "answer": 3,
+    "hint": "Das ist keine gute Begründung. (B2 - Nomen)"
+  },
+  {
+    "question": "indoklás (justification)",
+    "choices": [
+      "r Wettbewerb, -e",
+      "e Behörde, -n",
+      "e Achsel, -n",
+      "e Begründung, -en"
+    ],
+    "answer": 4,
+    "hint": "Das ist keine gute Begründung. (B2 - Nomen)"
+  },
+  {
+    "question": "begrüßen (+ A)",
+    "choices": [
+      "kap (to get)",
+      "üdvözöl (to greet)",
+      "észrevesz (to notice)",
+      "siet (to hurry)"
+    ],
+    "answer": 2,
+    "hint": "Er begrüßt die Gäste. (A2 - Verb)"
+  },
+  {
+    "question": "üdvözöl (to greet)",
+    "choices": [
+      "begrüßen (+ A)",
+      "(sich) befinden",
+      "begleiten (+ A)",
+      "behalten (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er begrüßt die Gäste. (A2 - Verb)"
+  },
+  {
+    "question": "behalten (+ A)",
+    "choices": [
+      "fürdik (to bathe)",
+      "megválaszol (to answer)",
+      "jelent (to mean)",
+      "megtart (to keep)"
+    ],
+    "answer": 4,
+    "hint": "Du kannst das Buch behalten. (B1 - Verb)"
+  },
+  {
+    "question": "megtart (to keep)",
+    "choices": [
+      "behalten (+ A)",
+      "beleidigen (+ A)",
+      "bekommen (+ A)",
+      "(sich) bemühen (um + A)"
+    ],
+    "answer": 1,
+    "hint": "Du kannst das Buch behalten. (B1 - Verb)"
+  },
+  {
+    "question": "behandeln (+ A)",
+    "choices": [
+      "találkozik / összefut (to encounter)",
+      "jelent (to mean)",
+      "kezel (to treat)",
+      "kezdődik / kezd (to begin)"
+    ],
+    "answer": 3,
+    "hint": "Der Arzt behandelt den Patienten. (B1 - Verb)"
+  },
+  {
+    "question": "kezel (to treat)",
+    "choices": [
+      "(sich) aus|ziehen (+ A)",
+      "behandeln (+ A)",
+      "begrüßen (+ A)",
+      "bekommen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Der Arzt behandelt den Patienten. (B1 - Verb)"
+  },
+  {
+    "question": "behaupten (+ A)",
+    "choices": [
+      "megválaszol (to answer)",
+      "üdvözöl (to greet)",
+      "állít (to claim)",
+      "harap (to bite)"
+    ],
+    "answer": 3,
+    "hint": "Er behauptet, er sei krank. (B2 - Verb)"
+  },
+  {
+    "question": "állít (to claim)",
+    "choices": [
+      "beginnen (mit + D / + A)",
+      "beenden (+ A)",
+      "basteln",
+      "behaupten (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er behauptet, er sei krank. (B2 - Verb)"
+  },
+  {
+    "question": "behindert",
+    "choices": [
+      "lelkes (enthusiastic)",
+      "korlátozott (limited)",
+      "mozgássérült (disabled)",
+      "mentesítve (exempt)"
+    ],
+    "answer": 3,
+    "hint": "Der Bus ist behindertengerecht. (B1 - Adjektiv)"
+  },
+  {
+    "question": "mozgássérült (disabled)",
+    "choices": [
+      "befreit (von + D)",
+      "bekannt",
+      "bar",
+      "behindert"
+    ],
+    "answer": 4,
+    "hint": "Der Bus ist behindertengerecht. (B1 - Adjektiv)"
+  },
+  {
+    "question": "bei + D",
+    "choices": [
+      "fa (tree)",
+      "használ (to use)",
+      "indoklás (justification)",
+      "-nál / -nél (at / by)"
+    ],
+    "answer": 4,
+    "hint": "Er wohnt bei seinen Eltern. (A1 - Präposition)"
+  },
+  {
+    "question": "-nál / -nél (at / by)",
+    "choices": [
+      "benutzen (+ A)",
+      "e Begründung, -en",
+      "bei + D",
+      "r Baum, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Er wohnt bei seinen Eltern. (A1 - Präposition)"
+  },
+  {
+    "question": "beide",
+    "choices": [
+      "fáradozik (to strive)",
+      "ezért (therefore)",
+      "mindkettő (both)",
+      "kapcsolat (relationship)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben beide Zeit. (A2 - Pronomen)"
+  },
+  {
+    "question": "mindkettő (both)",
+    "choices": [
+      "beide",
+      "e Beziehung, -en",
+      "(sich) bemühen (um + A)",
+      "deshalb"
+    ],
+    "answer": 1,
+    "hint": "Wir haben beide Zeit. (A2 - Pronomen)"
+  },
+  {
+    "question": "s Bein, -e",
+    "choices": [
+      "édesítőszer (sweetener)",
+      "fa (tree)",
+      "kapcsolat (relationship)",
+      "láb (leg)"
+    ],
+    "answer": 4,
+    "hint": "Mein Bein tut weh. (A1 - Nomen)"
+  },
+  {
+    "question": "láb (leg)",
+    "choices": [
+      "e Biene, -n",
+      "s Bein, -e",
+      "r Beitrag, \"-e",
+      "e Beschränkung, -en"
+    ],
+    "answer": 2,
+    "hint": "Mein Bein tut weh. (A1 - Nomen)"
+  },
+  {
+    "question": "beinahe",
+    "choices": [
+      "majdnem (almost)",
+      "hamarosan (soon)",
+      "használ (to use)",
+      "ezért (therefore)"
+    ],
+    "answer": 1,
+    "hint": "Er wäre beinahe gestürzt. (B1 - Adverb)"
+  },
+  {
+    "question": "majdnem (almost)",
+    "choices": [
+      "deshalb",
+      "beinahe",
+      "bald",
+      "benutzen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er wäre beinahe gestürzt. (B1 - Adverb)"
+  },
+  {
+    "question": "s Beispiel, -e",
+    "choices": [
+      "autópálya (highway)",
+      "fotel (armchair)",
+      "példa (example)",
+      "mustár (mustard)"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein gutes Beispiel. (A1 - Nomen)"
+  },
+  {
+    "question": "példa (example)",
+    "choices": [
+      "s Beispiel, -e",
+      "r Beginn (Sg.)",
+      "e Bedeutung, -en",
+      "e Bevölkerung, -en"
+    ],
+    "answer": 1,
+    "hint": "Das ist ein gutes Beispiel. (A1 - Nomen)"
+  },
+  {
+    "question": "beißen (+ A)",
+    "choices": [
+      "megválaszol (to answer)",
+      "megtart (to keep)",
+      "jelent (to mean)",
+      "harap (to bite)"
+    ],
+    "answer": 4,
+    "hint": "Der Hund beißt nicht. (B1 - Verb)"
+  },
+  {
+    "question": "harap (to bite)",
+    "choices": [
+      "baden",
+      "beißen (+ A)",
+      "beenden (+ A)",
+      "(sich) bemühen (um + A)"
+    ],
+    "answer": 2,
+    "hint": "Der Hund beißt nicht. (B1 - Verb)"
+  },
+  {
+    "question": "r Beitrag, \"-e",
+    "choices": [
+      "has (belly)",
+      "hozzájárulás / tagdíj (contribution)",
+      "jelentés (meaning)",
+      "vasútállomás (railway station)"
+    ],
+    "answer": 2,
+    "hint": "Der Beitrag ist fällig. (B1 - Nomen)"
+  },
+  {
+    "question": "hozzájárulás / tagdíj (contribution)",
+    "choices": [
+      "r Bahnhof, \"-e",
+      "r/e Bekannte, -n",
+      "r Beitrag, \"-e",
+      "e Bahn, -en"
+    ],
+    "answer": 3,
+    "hint": "Der Beitrag ist fällig. (B1 - Nomen)"
+  },
+  {
+    "question": "bekannt",
+    "choices": [
+      "készpénzben (in cash)",
+      "népszerű (popular)",
+      "mentesítve (exempt)",
+      "ismert (known)"
+    ],
+    "answer": 4,
+    "hint": "Er ist ein bekannter Autor. (A2 - Adjektiv)"
+  },
+  {
+    "question": "ismert (known)",
+    "choices": [
+      "deutlich",
+      "befreit (von + D)",
+      "bekannt",
+      "begrenzt"
+    ],
+    "answer": 3,
+    "hint": "Er ist ein bekannter Autor. (A2 - Adjektiv)"
+  },
+  {
+    "question": "r/e Bekannte, -n",
+    "choices": [
+      "szédülés (dizziness)",
+      "ismerős (acquaintance)",
+      "igazolvány (identity card)",
+      "kitartás (endurance)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe viele Bekannte. (A2 - Nomen)"
+  },
+  {
+    "question": "ismerős (acquaintance)",
+    "choices": [
+      "r/e Bekannte, -n",
+      "r Bauch, \"-e",
+      "r Beginn (Sg.)",
+      "r Beleg, -e"
+    ],
+    "answer": 1,
+    "hint": "Ich habe viele Bekannte. (A2 - Nomen)"
+  },
+  {
+    "question": "bekommen (+ A)",
+    "choices": [
+      "levetkőzik / kiköltözik (to undress / move out)",
+      "épít (to build)",
+      "kap (to get)",
+      "észrevesz (to notice)"
+    ],
+    "answer": 3,
+    "hint": "Er bekommt ein Geschenk. (A1 - Verb)"
+  },
+  {
+    "question": "kap (to get)",
+    "choices": [
+      "beantworten (+ A)",
+      "beleidigen (+ A)",
+      "bekommen (+ A)",
+      "begegnen (+ D)"
+    ],
+    "answer": 3,
+    "hint": "Er bekommt ein Geschenk. (A1 - Verb)"
+  },
+  {
+    "question": "r Beleg, -e",
+    "choices": [
+      "fotel (armchair)",
+      "verseny (competition)",
+      "bizonylat (receipt)",
+      "indoklás (justification)"
+    ],
+    "answer": 3,
+    "hint": "Bitte bewahren Sie den Beleg auf. (B1 - Nomen)"
+  },
+  {
+    "question": "bizonylat (receipt)",
+    "choices": [
+      "r Schwindel, -",
+      "e Bewässerung, -en",
+      "r Sessel, -",
+      "r Beleg, -e"
+    ],
+    "answer": 4,
+    "hint": "Bitte bewahren Sie den Beleg auf. (B1 - Nomen)"
+  },
+  {
+    "question": "beleidigen (+ A)",
+    "choices": [
+      "kezdődik / kezd (to begin)",
+      "megtart (to keep)",
+      "befejez (to finish)",
+      "megsért (to offend)"
+    ],
+    "answer": 4,
+    "hint": "Er hat mich beleidigt. (B1 - Verb)"
+  },
+  {
+    "question": "megsért (to offend)",
+    "choices": [
+      "beleidigen (+ A)",
+      "bemerken (+ A)",
+      "baden",
+      "beenden (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er hat mich beleidigt. (B1 - Verb)"
+  },
+  {
+    "question": "beliebt (bei + D)",
+    "choices": [
+      "lelkes (enthusiastic)",
+      "mentesítve (exempt)",
+      "korlátozott (limited)",
+      "népszerű (popular)"
+    ],
+    "answer": 4,
+    "hint": "Das ist bei allen beliebt. (A2 - Adjektiv)"
+  },
+  {
+    "question": "népszerű (popular)",
+    "choices": [
+      "beliebt (bei + D)",
+      "begeistert (von + D)",
+      "auswendig",
+      "begrenzt"
+    ],
+    "answer": 1,
+    "hint": "Das ist bei allen beliebt. (A2 - Adjektiv)"
+  },
+  {
+    "question": "bemerken (+ A)",
+    "choices": [
+      "harap (to bite)",
+      "észrevesz (to notice)",
+      "kap (to get)",
+      "kezdődik / kezd (to begin)"
+    ],
+    "answer": 2,
+    "hint": "Er hat den Fehler bemerkt. (B1 - Verb)"
+  },
+  {
+    "question": "észrevesz (to notice)",
+    "choices": [
+      "bemerken (+ A)",
+      "behaupten (+ A)",
+      "(sich) bedanken (für + A / bei + D)",
+      "begegnen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Er hat den Fehler bemerkt. (B1 - Verb)"
+  },
+  {
+    "question": "(sich) bemühen (um + A)",
+    "choices": [
+      "siet (to hurry)",
+      "fáradozik (to strive)",
+      "kap (to get)",
+      "használ (to use)"
+    ],
+    "answer": 2,
+    "hint": "Wir bemühen uns um Erfolg. (B1 - Verb)"
+  },
+  {
+    "question": "fáradozik (to strive)",
+    "choices": [
+      "bedienen (+ A)",
+      "behandeln (+ A)",
+      "(sich) bemühen (um + A)",
+      "behalten (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Wir bemühen uns um Erfolg. (B1 - Verb)"
+  },
+  {
+    "question": "benutzen (+ A)",
+    "choices": [
+      "használ (to use)",
+      "kap (to get)",
+      "megtart (to keep)",
+      "találkozik / összefut (to encounter)"
+    ],
+    "answer": 1,
+    "hint": "Ich benutze mein Handy. (A2 - Verb)"
+  },
+  {
+    "question": "használ (to use)",
+    "choices": [
+      "benutzen (+ A)",
+      "basteln",
+      "(sich) beeilen",
+      "befristen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Ich benutze mein Handy. (A2 - Verb)"
+  },
+  {
+    "question": "s Benzin (Sg.)",
+    "choices": [
+      "fotel (armchair)",
+      "has (belly)",
+      "szög / sarok (angle / corner)",
+      "benzin (gasoline)"
+    ],
+    "answer": 4,
+    "hint": "Das Benzin ist teuer. (A2 - Nomen)"
+  },
+  {
+    "question": "benzin (gasoline)",
+    "choices": [
+      "r/e Bekannte, -n",
+      "s Benzin (Sg.)",
+      "r Balkon, -e",
+      "e Abtreibung, -en"
+    ],
+    "answer": 2,
+    "hint": "Das Benzin ist teuer. (A2 - Nomen)"
+  },
+  {
+    "question": "r Schwindel, -",
+    "choices": [
+      "építkezés (construction site)",
+      "vasút / villamos (train / tram)",
+      "autó (car)",
+      "szédülés (dizziness)"
+    ],
+    "answer": 4,
+    "hint": "Ihm ist schwindlig. (B2 - Nomen)"
+  },
+  {
+    "question": "szédülés (dizziness)",
+    "choices": [
+      "s Beispiel, -e",
+      "r Beitrag, \"-e",
+      "r Schwindel, -",
+      "e Ausdauer (Sg.)"
+    ],
+    "answer": 3,
+    "hint": "Ihm ist schwindlig. (B2 - Nomen)"
+  },
+  {
+    "question": "r Senf, -e",
+    "choices": [
+      "korlátozás (restriction)",
+      "paraszt / gazda (farmer)",
+      "szédülés (dizziness)",
+      "mustár (mustard)"
+    ],
+    "answer": 4,
+    "hint": "Ich esse Würstchen mit Senf. (A2 - Nomen)"
+  },
+  {
+    "question": "mustár (mustard)",
+    "choices": [
+      "e Bewässerung, -en",
+      "r Beitrag, \"-e",
+      "r Verlag, -e",
+      "r Senf, -e"
+    ],
+    "answer": 4,
+    "hint": "Ich esse Würstchen mit Senf. (A2 - Nomen)"
+  },
+  {
+    "question": "r Sessel, -",
+    "choices": [
+      "fotel (armchair)",
+      "hatóság (authority)",
+      "öntözés (irrigation)",
+      "kitartás (endurance)"
+    ],
+    "answer": 1,
+    "hint": "Der Sessel ist bequem. (A2 - Nomen)"
+  },
+  {
+    "question": "fotel (armchair)",
+    "choices": [
+      "e Autobahn, -en",
+      "e Biene, -n",
+      "r Winkel, -",
+      "r Sessel, -"
+    ],
+    "answer": 4,
+    "hint": "Der Sessel ist bequem. (A2 - Nomen)"
+  },
+  {
+    "question": "r Spion, -e",
+    "choices": [
+      "abortusz (abortion)",
+      "kém (spy)",
+      "láb (leg)",
+      "korlátozás (restriction)"
+    ],
+    "answer": 2,
+    "hint": "Er arbeitet als Spion. (B2 - Nomen)"
+  },
+  {
+    "question": "kém (spy)",
+    "choices": [
+      "s Auto, -s",
+      "r Bahnhof, \"-e",
+      "r Spion, -e",
+      "s Beispiel, -e"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet als Spion. (B2 - Nomen)"
+  },
+  {
+    "question": "r Stich, -e",
+    "choices": [
+      "kiszolgálás (service)",
+      "szúrás (sting / stitch)",
+      "autópálya (highway)",
+      "érték (value)"
+    ],
+    "answer": 2,
+    "hint": "Ein Mückenstich juckt. (B2 - Nomen)"
+  },
+  {
+    "question": "szúrás (sting / stitch)",
+    "choices": [
+      "r Automat, -en",
+      "r Stich, -e",
+      "s Auto, -s",
+      "e Beschränkung, -en"
+    ],
+    "answer": 2,
+    "hint": "Ein Mückenstich juckt. (B2 - Nomen)"
+  },
+  {
+    "question": "r Stiefel, -",
+    "choices": [
+      "csizma (boot)",
+      "paraszt / gazda (farmer)",
+      "kiadó (publisher)",
+      "láb (leg)"
+    ],
+    "answer": 1,
+    "hint": "Zieh deine Stiefel an. (A2 - Nomen)"
+  },
+  {
+    "question": "csizma (boot)",
+    "choices": [
+      "r Stiefel, -",
+      "e Ausdauer (Sg.)",
+      "r Bauer, -n",
+      "r Winkel, -"
+    ],
+    "answer": 1,
+    "hint": "Zieh deine Stiefel an. (A2 - Nomen)"
+  },
+  {
+    "question": "r Süßstoff, -e",
+    "choices": [
+      "édesítőszer (sweetener)",
+      "fotel (armchair)",
+      "szúrás (sting / stitch)",
+      "parancs (command)"
+    ],
+    "answer": 1,
+    "hint": "Ich nehme Süßstoff. (B2 - Nomen)"
+  },
+  {
+    "question": "édesítőszer (sweetener)",
+    "choices": [
+      "s Auto, -s",
+      "r Süßstoff, -e",
+      "e Bäckerei, -en",
+      "r Basketball"
+    ],
+    "answer": 2,
+    "hint": "Ich nehme Süßstoff. (B2 - Nomen)"
+  },
+  {
+    "question": "r Verlag, -e",
+    "choices": [
+      "szédülés (dizziness)",
+      "felvilágosítás (information)",
+      "kiadó (publisher)",
+      "autó (car)"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet bei einem Verlag. (B1 - Nomen)"
+  },
+  {
+    "question": "kiadó (publisher)",
+    "choices": [
+      "e Ansage, -n",
+      "r Verlag, -e",
+      "r Beitrag, \"-e",
+      "e Bahn, -en"
+    ],
+    "answer": 2,
+    "hint": "Er arbeitet bei einem Verlag. (B1 - Nomen)"
+  },
+  {
+    "question": "r Wahnsinn (Sg.)",
+    "choices": [
+      "vasútállomás (railway station)",
+      "rablás / támadás (robbery)",
+      "szög / sarok (angle / corner)",
+      "őrület (madness)"
+    ],
+    "answer": 4,
+    "hint": "Das ist der Wahnsinn! (B2 - Nomen)"
+  },
+  {
+    "question": "őrület (madness)",
+    "choices": [
+      "r Wahnsinn (Sg.)",
+      "r Wettbewerb, -e",
+      "e Banane, -n",
+      "e Behörde, -n"
+    ],
+    "answer": 1,
+    "hint": "Das ist der Wahnsinn! (B2 - Nomen)"
+  },
+  {
+    "question": "r Wert, -e",
+    "choices": [
+      "fa (tree)",
+      "érték (value)",
+      "felvilágosítás (information)",
+      "hatóság (authority)"
+    ],
+    "answer": 2,
+    "hint": "Der Wert ist gestiegen. (B1 - Nomen)"
+  },
+  {
+    "question": "érték (value)",
+    "choices": [
+      "r Wert, -e",
+      "r Bart, \"-e",
+      "r Basketball",
+      "e Banane, -n"
+    ],
+    "answer": 1,
+    "hint": "Der Wert ist gestiegen. (B1 - Nomen)"
+  },
+  {
+    "question": "r Wettbewerb, -e",
+    "choices": [
+      "paraszt / gazda (farmer)",
+      "kezdet (beginning)",
+      "verseny (competition)",
+      "autópálya (highway)"
+    ],
+    "answer": 3,
+    "hint": "Er nimmt am Wettbewerb teil. (B1 - Nomen)"
+  },
+  {
+    "question": "verseny (competition)",
+    "choices": [
+      "e Blutgruppe, -n",
+      "r Wettbewerb, -e",
+      "s Beispiel, -e",
+      "e Begründung, -en"
+    ],
+    "answer": 2,
+    "hint": "Er nimmt am Wettbewerb teil. (B1 - Nomen)"
+  },
+  {
+    "question": "r Winkel, -",
+    "choices": [
+      "igazolvány (identity card)",
+      "adat / információ (statement / data)",
+      "szög / sarok (angle / corner)",
+      "kezdet (beginning)"
+    ],
+    "answer": 3,
+    "hint": "Der Winkel beträgt 90 Grad. (B2 - Nomen)"
+  },
+  {
+    "question": "szög / sarok (angle / corner)",
+    "choices": [
+      "r Winkel, -",
+      "e Blutgruppe, -n",
+      "e Auskunft, \"-e",
+      "e Bewusstheit / s Bewusstsein"
+    ],
+    "answer": 1,
+    "hint": "Der Winkel beträgt 90 Grad. (B2 - Nomen)"
+  },
+  {
+    "question": "r Zugang, \"-e",
+    "choices": [
+      "kém (spy)",
+      "paraszt / gazda (farmer)",
+      "kapcsolat (relationship)",
+      "hozzáférés (access)"
+    ],
+    "answer": 4,
+    "hint": "Der Zugang ist gesperrt. (B2 - Nomen)"
+  },
+  {
+    "question": "hozzáférés (access)",
+    "choices": [
+      "e Bewusstheit / s Bewusstsein",
+      "e Autobahn, -en",
+      "r Zugang, \"-e",
+      "r Süßstoff, -e"
+    ],
+    "answer": 3,
+    "hint": "Der Zugang ist gesperrt. (B2 - Nomen)"
+  },
+  {
+    "question": "r Überfall, \"-e",
+    "choices": [
+      "kosárlabda (basketball)",
+      "kiszolgálás (service)",
+      "érték (value)",
+      "rablás / támadás (robbery)"
+    ],
+    "answer": 4,
+    "hint": "Es gab einen Banküberfall. (B2 - Nomen)"
+  },
+  {
+    "question": "rablás / támadás (robbery)",
+    "choices": [
+      "r Ball, \"-e",
+      "r Überfall, \"-e",
+      "e Banane, -n",
+      "e Ausdauer (Sg.)"
+    ],
+    "answer": 2,
+    "hint": "Es gab einen Banküberfall. (B2 - Nomen)"
+  },
+  {
+    "question": "deshalb",
+    "choices": [
+      "ezért (therefore)",
+      "barkácsol / bütyköl (to tinker / craft)",
+      "majdnem (almost)",
+      "hamarosan (soon)"
+    ],
+    "answer": 1,
+    "hint": "Er ist krank, deshalb kommt er nicht. (A2 - Adverb)"
+  },
+  {
+    "question": "ezért (therefore)",
+    "choices": [
+      "basteln",
+      "deshalb",
+      "beinahe",
+      "bald"
+    ],
+    "answer": 2,
+    "hint": "Er ist krank, deshalb kommt er nicht. (A2 - Adverb)"
+  },
+  {
+    "question": "deutlich",
+    "choices": [
+      "mozgássérült (disabled)",
+      "lelkes (enthusiastic)",
+      "világos / érthető (clear)",
+      "készpénzben (in cash)"
+    ],
+    "answer": 3,
+    "hint": "Bitte sprechen Sie deutlich. (B1 - Adjektiv)"
+  },
+  {
+    "question": "világos / érthető (clear)",
+    "choices": [
+      "bar",
+      "deutlich",
+      "befreit (von + D)",
+      "bekannt"
+    ],
+    "answer": 2,
+    "hint": "Bitte sprechen Sie deutlich. (B1 - Adjektiv)"
+  },
+  {
+    "question": "e Abtreibung, -en",
+    "choices": [
+      "banán (banana)",
+      "abortusz (abortion)",
+      "csizma (boot)",
+      "igazolvány (identity card)"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein Tabuthema. (C1 - Nomen)"
+  },
+  {
+    "question": "abortusz (abortion)",
+    "choices": [
+      "r Balkon, -e",
+      "e Abtreibung, -en",
+      "e Beziehung, -en",
+      "s Beispiel, -e"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein Tabuthema. (C1 - Nomen)"
+  },
+  {
+    "question": "e Achsel, -n",
+    "choices": [
+      "láb (leg)",
+      "indoklás (justification)",
+      "hónalj / váll (armpit / shoulder)",
+      "fa (tree)"
+    ],
+    "answer": 3,
+    "hint": "Er zuckte mit den Achseln. (B2 - Nomen)"
+  },
+  {
+    "question": "hónalj / váll (armpit / shoulder)",
+    "choices": [
+      "r Befehl, -e",
+      "e Bäckerei, -en",
+      "e Achsel, -n",
+      "e Bewusstheit / s Bewusstsein"
+    ],
+    "answer": 3,
+    "hint": "Er zuckte mit den Achseln. (B2 - Nomen)"
+  },
+  {
+    "question": "e Angabe, -n",
+    "choices": [
+      "vasútállomás (railway station)",
+      "jelentés (meaning)",
+      "szakáll (beard)",
+      "adat / információ (statement / data)"
+    ],
+    "answer": 4,
+    "hint": "Machen Sie genaue Angaben. (B1 - Nomen)"
+  },
+  {
+    "question": "adat / információ (statement / data)",
+    "choices": [
+      "e Bedeutung, -en",
+      "r Bahnhof, \"-e",
+      "r Beginn (Sg.)",
+      "e Angabe, -n"
+    ],
+    "answer": 4,
+    "hint": "Machen Sie genaue Angaben. (B1 - Nomen)"
+  },
+  {
+    "question": "e Ansage, -n",
+    "choices": [
+      "lakosság (population)",
+      "banán (banana)",
+      "szédülés (dizziness)",
+      "bemondás (announcement)"
+    ],
+    "answer": 4,
+    "hint": "Hören Sie auf die Ansage. (B1 - Nomen)"
+  },
+  {
+    "question": "bemondás (announcement)",
+    "choices": [
+      "r Stiefel, -",
+      "r Automat, -en",
+      "e Ansage, -n",
+      "e Autobahn, -en"
+    ],
+    "answer": 3,
+    "hint": "Hören Sie auf die Ansage. (B1 - Nomen)"
+  },
+  {
+    "question": "e Ausdauer (Sg.)",
+    "choices": [
+      "építkezés (construction site)",
+      "szúrás (sting / stitch)",
+      "fa (tree)",
+      "kitartás (endurance)"
+    ],
+    "answer": 4,
+    "hint": "Er hat viel Ausdauer. (B2 - Nomen)"
+  },
+  {
+    "question": "kitartás (endurance)",
+    "choices": [
+      "s Benzin (Sg.)",
+      "r Automat, -en",
+      "e Ausdauer (Sg.)",
+      "s Bein, -e"
+    ],
+    "answer": 3,
+    "hint": "Er hat viel Ausdauer. (B2 - Nomen)"
+  },
+  {
+    "question": "e Auskunft, \"-e",
+    "choices": [
+      "felvilágosítás (information)",
+      "kezdet (beginning)",
+      "szédülés (dizziness)",
+      "hatóság (authority)"
+    ],
+    "answer": 1,
+    "hint": "Wo ist die Auskunft? (B1 - Nomen)"
+  },
+  {
+    "question": "felvilágosítás (information)",
+    "choices": [
+      "e Beschränkung, -en",
+      "e Baustelle, -n",
+      "e Auskunft, \"-e",
+      "r Balkon, -e"
+    ],
+    "answer": 3,
+    "hint": "Wo ist die Auskunft? (B1 - Nomen)"
+  },
+  {
+    "question": "e Behörde, -n",
+    "choices": [
+      "parancs (command)",
+      "kosárlabda (basketball)",
+      "autópálya (highway)",
+      "hatóság (authority)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss zur Behörde. (B2 - Nomen)"
+  },
+  {
+    "question": "hatóság (authority)",
+    "choices": [
+      "e Ausdauer (Sg.)",
+      "e Beziehung, -en",
+      "r Ball, \"-e",
+      "e Behörde, -n"
+    ],
+    "answer": 4,
+    "hint": "Ich muss zur Behörde. (B2 - Nomen)"
+  },
+  {
+    "question": "e Beschränkung, -en",
+    "choices": [
+      "hozzájárulás / tagdíj (contribution)",
+      "korlátozás (restriction)",
+      "peron (platform)",
+      "hozzáférés (access)"
+    ],
+    "answer": 2,
+    "hint": "Es gibt eine Geschwindigkeitsbeschränkung. (B2 - Nomen)"
+  },
+  {
+    "question": "korlátozás (restriction)",
+    "choices": [
+      "e Bedingung, -en",
+      "r Balkon, -e",
+      "e Beschränkung, -en",
+      "r Spion, -e"
+    ],
+    "answer": 3,
+    "hint": "Es gibt eine Geschwindigkeitsbeschränkung. (B2 - Nomen)"
+  },
+  {
+    "question": "e Bevölkerung, -en",
+    "choices": [
+      "hatóság (authority)",
+      "lakosság (population)",
+      "peron (platform)",
+      "erkély (balcony)"
+    ],
+    "answer": 2,
+    "hint": "Die Bevölkerung wächst. (B2 - Nomen)"
+  },
+  {
+    "question": "lakosság (population)",
+    "choices": [
+      "r Bahnsteig, -e",
+      "r Stiefel, -",
+      "r/e Bekannte, -n",
+      "e Bevölkerung, -en"
+    ],
+    "answer": 4,
+    "hint": "Die Bevölkerung wächst. (B2 - Nomen)"
+  },
+  {
+    "question": "e Bewusstheit / s Bewusstsein",
+    "choices": [
+      "szúrás (sting / stitch)",
+      "őrület (madness)",
+      "láb (leg)",
+      "tudatosság (awareness)"
+    ],
+    "answer": 4,
+    "hint": "Er verlor das Bewusstsein. (C1 - Nomen)"
+  },
+  {
+    "question": "tudatosság (awareness)",
+    "choices": [
+      "e Bewusstheit / s Bewusstsein",
+      "r Bauer, -n",
+      "e Bank, -en / \"-e",
+      "r Senf, -e"
+    ],
+    "answer": 1,
+    "hint": "Er verlor das Bewusstsein. (C1 - Nomen)"
+  },
+  {
+    "question": "e Bewässerung, -en",
+    "choices": [
+      "szakáll (beard)",
+      "öntözés (irrigation)",
+      "banán (banana)",
+      "kosárlabda (basketball)"
+    ],
+    "answer": 2,
+    "hint": "Die Bewässerung ist fontos. (C1 - Nomen)"
+  },
+  {
+    "question": "öntözés (irrigation)",
+    "choices": [
+      "r Bahnsteig, -e",
+      "e Bewässerung, -en",
+      "r Winkel, -",
+      "s Beispiel, -e"
+    ],
+    "answer": 2,
+    "hint": "Die Bewässerung ist fontos. (C1 - Nomen)"
+  },
+  {
+    "question": "e Beziehung, -en",
+    "choices": [
+      "parancs (command)",
+      "autópálya (highway)",
+      "hónalj / váll (armpit / shoulder)",
+      "kapcsolat (relationship)"
+    ],
+    "answer": 4,
+    "hint": "Wir haben eine gute Beziehung. (B1 - Nomen)"
+  },
+  {
+    "question": "kapcsolat (relationship)",
+    "choices": [
+      "r Stich, -e",
+      "e Beziehung, -en",
+      "r Verlag, -e",
+      "r Schwindel, -"
+    ],
+    "answer": 2,
+    "hint": "Wir haben eine gute Beziehung. (B1 - Nomen)"
+  },
+  {
+    "question": "e Biene, -n",
+    "choices": [
+      "édesítőszer (sweetener)",
+      "kezdet (beginning)",
+      "fürdő / fürdőszoba (bath)",
+      "méh (bee)"
+    ],
+    "answer": 4,
+    "hint": "Die Biene sammelt Nektar von den Blumen. (A2 - Nomen)"
+  },
+  {
+    "question": "méh (bee)",
+    "choices": [
+      "e Biene, -n",
+      "r Balkon, -e",
+      "e Abtreibung, -en",
+      "e Bevölkerung, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Biene sammelt Nektar von den Blumen. (A2 - Nomen)"
+  },
+  {
+    "question": "e Blutgruppe, -n",
+    "choices": [
+      "tudatosság (awareness)",
+      "vércsoport (blood group)",
+      "fotel (armchair)",
+      "bank / pad (bank / bench)"
+    ],
+    "answer": 2,
+    "hint": "Welche Blutgruppe hast du? (B2 - Nomen)"
+  },
+  {
+    "question": "vércsoport (blood group)",
+    "choices": [
+      "e Bewusstheit / s Bewusstsein",
+      "e Begründung, -en",
+      "r Stich, -e",
+      "e Blutgruppe, -n"
+    ],
+    "answer": 4,
+    "hint": "Welche Blutgruppe hast du? (B2 - Nomen)"
+  }
+]

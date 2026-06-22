@@ -510,6 +510,12 @@ deutsch.add_radiobutton(label = 'Deutsch Gemischung 001', variable = choice, val
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt001.json'), 8), quiz.display_deutsch_label(8)))
 deutsch.add_radiobutton(label = 'Deutsch Gemischung 002', variable = choice, value = 10,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt002.json'), 9), quiz.display_deutsch_label(9)))
+deutsch.add_radiobutton(label = 'Deutsch Gemischung 003', variable = choice, value = 11,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt003.json'), 10), quiz.display_deutsch_label(10)))
+deutsch.add_radiobutton(label = 'Deutsch Gemischung 004', variable = choice, value = 12,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt004.json'), 11), quiz.display_deutsch_label(11)))
+deutsch.add_radiobutton(label = 'Deutsch Gemischung 005', variable = choice, value = 13,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt005.json'), 12), quiz.display_deutsch_label(12)))
 
 # ENGLISH MENUBAR
 choice = IntVar()

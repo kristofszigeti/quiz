@@ -1,0 +1,2444 @@
+[
+  {
+    "question": "ab sofort / ab jetzt",
+    "choices": [
+      "kétnaponta (every two days)",
+      "mostantól (from now on)",
+      "minden jót (all the best)",
+      "mindenképpen (in any case)"
+    ],
+    "answer": 2,
+    "hint": "Die neuen Preise gelten ab sofort. (A2 - Ausdruck)"
+  },
+  {
+    "question": "mostantól (from now on)",
+    "choices": [
+      "am liebsten",
+      "auf jeden Fall",
+      "ab sofort / ab jetzt",
+      "Angst haben vor + D"
+    ],
+    "answer": 3,
+    "hint": "Die neuen Preise gelten ab sofort. (A2 - Ausdruck)"
+  },
+  {
+    "question": "ab wann?",
+    "choices": [
+      "a készüléknél (on the line)",
+      "semmiképpen (no way / by no means)",
+      "mikortól? (from when?)",
+      "legszívesebben (preferably)"
+    ],
+    "answer": 3,
+    "hint": "Ab wann haben Sie morgen Zeit? (A1 - Ausdruck)"
+  },
+  {
+    "question": "mikortól? (from when?)",
+    "choices": [
+      "am Apparat",
+      "auf jeden Fall",
+      "ab sofort / ab jetzt",
+      "ab wann?"
+    ],
+    "answer": 4,
+    "hint": "Ab wann haben Sie morgen Zeit? (A1 - Ausdruck)"
+  },
+  {
+    "question": "ab|biegen",
+    "choices": [
+      "bekanyarodni (turn (off))",
+      "megszólít (to address / speak to)",
+      "kitakarít / rendet rak (to clean up)",
+      "bemond / hirdet (to announce)"
+    ],
+    "answer": 1,
+    "hint": "Biegen Sie an der nächsten Kreuzung rechts ab. (A2 - Verb)"
+  },
+  {
+    "question": "bekanyarodni (turn (off))",
+    "choices": [
+      "arbeiten an + D / bei + D",
+      "aus|machen (+ A)",
+      "ab|biegen",
+      "ab|holen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Biegen Sie an der nächsten Kreuzung rechts ab. (A2 - Verb)"
+  },
+  {
+    "question": "aber",
+    "choices": [
+      "tehát / szóval (so / therefore)",
+      "elutasítani (reject)",
+      "mint / amikor (than / when)",
+      "de (but)"
+    ],
+    "answer": 4,
+    "hint": "Ich bin müde, aber ich muss noch arbeiten. (A1 - Konjunktion)"
+  },
+  {
+    "question": "de (but)",
+    "choices": [
+      "ab|lehnen (+ A)",
+      "aber",
+      "als",
+      "also"
+    ],
+    "answer": 2,
+    "hint": "Ich bin müde, aber ich muss noch arbeiten. (A1 - Konjunktion)"
+  },
+  {
+    "question": "ab|fahren",
+    "choices": [
+      "dolgozik valamin / valahol (to work on / at)",
+      "megszólít (to address / speak to)",
+      "kinyit (to open)",
+      "elindul (depart)"
+    ],
+    "answer": 4,
+    "hint": "Der Zug fährt in fünf Minuten ab. (A1 - Verb)"
+  },
+  {
+    "question": "elindul (depart)",
+    "choices": [
+      "(sich) an|ziehen (+ A)",
+      "ab|fahren",
+      "ab|biegen",
+      "auf|schreiben (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Der Zug fährt in fünf Minuten ab. (A1 - Verb)"
+  },
+  {
+    "question": "ab|gelaufen",
+    "choices": [
+      "munkanélküli (unemployed)",
+      "kiváló (excellent)",
+      "figyelmes valamire (attentive to)",
+      "lejárt (expired)"
+    ],
+    "answer": 4,
+    "hint": "Das Mindesthaltbarkeitsdatum ist abgelaufen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "lejárt (expired)",
+    "choices": [
+      "ab|gelaufen",
+      "aufmerksam auf + A",
+      "ausgezeichnet",
+      "arbeitslos"
+    ],
+    "answer": 1,
+    "hint": "Das Mindesthaltbarkeitsdatum ist abgelaufen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "ab|holen (+ A)",
+    "choices": [
+      "feltölt (pl. akkumulátort) (to charge)",
+      "elhozni (pick up)",
+      "felpróbál (to try on)",
+      "kinéz (to look / appear)"
+    ],
+    "answer": 2,
+    "hint": "Ich hole dich um acht Uhr vom Bahnhof ab. (A2 - Verb)"
+  },
+  {
+    "question": "elhozni (pick up)",
+    "choices": [
+      "ab|holen (+ A)",
+      "an|fangen (+ A) (mit + D)",
+      "auf|fallen (+ D)",
+      "auf|machen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Ich hole dich um acht Uhr vom Bahnhof ab. (A2 - Verb)"
+  },
+  {
+    "question": "ab|kürzen (+ A)",
+    "choices": [
+      "felkel (to get up)",
+      "felvilágosít / kinyomoz (to clarify / enlighten)",
+      "bemond / hirdet (to announce)",
+      "levágni (az utat) (take a shortcut)"
+    ],
+    "answer": 4,
+    "hint": "Wir können den Weg durch den Park abkürzen. (B1 - Verb)"
+  },
+  {
+    "question": "levágni (az utat) (take a shortcut)",
+    "choices": [
+      "ab|kürzen (+ A)",
+      "aus|wählen (+ A)",
+      "aus|drucken (+ A)",
+      "an|rufen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Wir können den Weg durch den Park abkürzen. (B1 - Verb)"
+  },
+  {
+    "question": "ab|lehnen (+ A)",
+    "choices": [
+      "felidegesíti magát valamin (to get excited about)",
+      "kiválaszt (to select)",
+      "feltölt (pl. akkumulátort) (to charge)",
+      "elutasítani (reject)"
+    ],
+    "answer": 4,
+    "hint": "Das Angebot wurde leider abgelehnt. (B2 - Verb)"
+  },
+  {
+    "question": "elutasítani (reject)",
+    "choices": [
+      "(sich) ärgern über + A",
+      "ab|lehnen (+ A)",
+      "aus|wählen (+ A)",
+      "an|sagen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Das Angebot wurde leider abgelehnt. (B2 - Verb)"
+  },
+  {
+    "question": "ab|lenken (+ A)",
+    "choices": [
+      "elterel (to distract)",
+      "jelez / feljelent (to display / report)",
+      "kitölt (pl. űrlapot) (to fill in)",
+      "felébred (to wake up)"
+    ],
+    "answer": 1,
+    "hint": "Bitte lenken Sie mich nicht ab. (B1 - Verb)"
+  },
+  {
+    "question": "elterel (to distract)",
+    "choices": [
+      "auf|machen (+ A)",
+      "aus|drucken (+ A)",
+      "auf|stehen",
+      "ab|lenken (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Bitte lenken Sie mich nicht ab. (B1 - Verb)"
+  },
+  {
+    "question": "(sich) ab|melden (von + D)",
+    "choices": [
+      "kijelentkezik (to sign off / log out)",
+      "válaszol valamire (to answer)",
+      "feltűnik (to notice / stand out)",
+      "elindul (depart)"
+    ],
+    "answer": 1,
+    "hint": "Ich melde mich vom Newsletter ab. (B1 - Verb)"
+  },
+  {
+    "question": "kijelentkezik (to sign off / log out)",
+    "choices": [
+      "an|wenden (+ A)",
+      "(sich) auf|regen über + A",
+      "aus|sehen",
+      "(sich) ab|melden (von + D)"
+    ],
+    "answer": 4,
+    "hint": "Ich melde mich vom Newsletter ab. (B1 - Verb)"
+  },
+  {
+    "question": "ab|nehmen (+ A)",
+    "choices": [
+      "alkalmaz (to apply / use)",
+      "felold / felbont (to dissolve / resolve)",
+      "levesz / fogy (to take off / lose weight)",
+      "felír (to write down)"
+    ],
+    "answer": 3,
+    "hint": "Er hat zehn Kilo abgenommen. (A2 - Verb)"
+  },
+  {
+    "question": "levesz / fogy (to take off / lose weight)",
+    "choices": [
+      "ab|nehmen (+ A)",
+      "an|zeigen (+ A)",
+      "auf|geben (+ A)",
+      "aus|gehen"
+    ],
+    "answer": 1,
+    "hint": "Er hat zehn Kilo abgenommen. (A2 - Verb)"
+  },
+  {
+    "question": "abonnieren (+ A)",
+    "choices": [
+      "bekanyarodni (turn (off))",
+      "alkalmaz (to apply / use)",
+      "előfizet (to subscribe)",
+      "lemond (to cancel)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe die Zeitung abonniert. (B1 - Verb)"
+  },
+  {
+    "question": "előfizet (to subscribe)",
+    "choices": [
+      "abonnieren (+ A)",
+      "an|wenden (+ A)",
+      "ab|kürzen (+ A)",
+      "aus|machen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe die Zeitung abonniert. (B1 - Verb)"
+  },
+  {
+    "question": "ab|sagen (+ A / + D)",
+    "choices": [
+      "lemond (to cancel)",
+      "kikapcsol (to turn off)",
+      "bekapcsol (to switch on)",
+      "elhozni (pick up)"
+    ],
+    "answer": 1,
+    "hint": "Er musste den Termin absagen. (B1 - Verb)"
+  },
+  {
+    "question": "lemond (to cancel)",
+    "choices": [
+      "ab|lehnen (+ A)",
+      "auf|fallen (+ D)",
+      "ab|sagen (+ A / + D)",
+      "auf|passen auf + A"
+    ],
+    "answer": 3,
+    "hint": "Er musste den Termin absagen. (B1 - Verb)"
+  },
+  {
+    "question": "ab|schließen (+ A)",
+    "choices": [
+      "felszólít (to request / call upon)",
+      "elmegy szórakozni (to go out)",
+      "lezár / befejez (to lock / complete)",
+      "elterel (to distract)"
+    ],
+    "answer": 3,
+    "hint": "Hast du die Tür abgeschlossen? (A2 - Verb)"
+  },
+  {
+    "question": "lezár / befejez (to lock / complete)",
+    "choices": [
+      "aus|füllen (+ A)",
+      "ab|schließen (+ A)",
+      "(sich) aus|ruhen",
+      "akzeptieren (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Hast du die Tür abgeschlossen? (A2 - Verb)"
+  },
+  {
+    "question": "ab|wiegen (+ A)",
+    "choices": [
+      "kitakarít / rendet rak (to clean up)",
+      "lemér (súlyt) (to weigh)",
+      "kitölt (pl. űrlapot) (to fill in)",
+      "abbahagy valamit (to stop / finish)"
+    ],
+    "answer": 2,
+    "hint": "Er wiegt das Obst ab. (B1 - Verb)"
+  },
+  {
+    "question": "lemér (súlyt) (to weigh)",
+    "choices": [
+      "ab|sagen (+ A / + D)",
+      "(sich) auf|regen über + A",
+      "abonnieren (+ A)",
+      "ab|wiegen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er wiegt das Obst ab. (B1 - Verb)"
+  },
+  {
+    "question": "akzeptieren (+ A)",
+    "choices": [
+      "felszólít (to request / call upon)",
+      "kinéz (to look / appear)",
+      "levágni (az utat) (take a shortcut)",
+      "elfogad (to accept)"
+    ],
+    "answer": 4,
+    "hint": "Ich akzeptiere deine Entscheidung. (B1 - Verb)"
+  },
+  {
+    "question": "elfogad (to accept)",
+    "choices": [
+      "ab|holen (+ A)",
+      "akzeptieren (+ A)",
+      "auf|laden (+ A)",
+      "ab|lehnen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich akzeptiere deine Entscheidung. (B1 - Verb)"
+  },
+  {
+    "question": "all das",
+    "choices": [
+      "minden jót (all the best)",
+      "mindez (all that)",
+      "kétnaponta (every two days)",
+      "semmiképpen (no way / by no means)"
+    ],
+    "answer": 2,
+    "hint": "All das ist sehr wichtig. (B1 - Ausdruck)"
+  },
+  {
+    "question": "mindez (all that)",
+    "choices": [
+      "am besten",
+      "alles Gute",
+      "Angst haben vor + D",
+      "all das"
+    ],
+    "answer": 4,
+    "hint": "All das ist sehr wichtig. (B1 - Ausdruck)"
+  },
+  {
+    "question": "alle zwei Tage",
+    "choices": [
+      "minden jót (all the best)",
+      "mikortól? (from when?)",
+      "kétnaponta (every two days)",
+      "fél valamitől (to be afraid of)"
+    ],
+    "answer": 3,
+    "hint": "Ich gehe alle zwei Tage joggen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "kétnaponta (every two days)",
+    "choices": [
+      "alle zwei Tage",
+      "auf jeden Fall",
+      "ab wann?",
+      "alles Gute"
+    ],
+    "answer": 1,
+    "hint": "Ich gehe alle zwei Tage joggen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "allein",
+    "choices": [
+      "kiváló (excellent)",
+      "munkanélküli (unemployed)",
+      "egyedül (alone)",
+      "figyelmes valamire (attentive to)"
+    ],
+    "answer": 3,
+    "hint": "Er wohnt ganz allein. (A1 - Adjektiv / hsz)"
+  },
+  {
+    "question": "egyedül (alone)",
+    "choices": [
+      "arbeitslos",
+      "allein",
+      "ab|gelaufen",
+      "alt"
+    ],
+    "answer": 2,
+    "hint": "Er wohnt ganz allein. (A1 - Adjektiv / hsz)"
+  },
+  {
+    "question": "alles",
+    "choices": [
+      "minden (everything)",
+      "más / mások (other)",
+      "kijelent / vallomást tesz (to state / testify)",
+      "feladat (task)"
+    ],
+    "answer": 1,
+    "hint": "Alles ist in Ordnung. (A1 - Pronomen)"
+  },
+  {
+    "question": "minden (everything)",
+    "choices": [
+      "aus|sagen (+ A)",
+      "e Aufgabe, -n",
+      "alles",
+      "andere"
+    ],
+    "answer": 3,
+    "hint": "Alles ist in Ordnung. (A1 - Pronomen)"
+  },
+  {
+    "question": "alles Gute",
+    "choices": [
+      "mostantól (from now on)",
+      "a készüléknél (on the line)",
+      "minden jót (all the best)",
+      "legszívesebben (preferably)"
+    ],
+    "answer": 3,
+    "hint": "Ich wünsche dir alles Gute. (A1 - Ausdruck)"
+  },
+  {
+    "question": "minden jót (all the best)",
+    "choices": [
+      "alles Gute",
+      "ab sofort / ab jetzt",
+      "all das",
+      "Angst haben vor + D"
+    ],
+    "answer": 1,
+    "hint": "Ich wünsche dir alles Gute. (A1 - Ausdruck)"
+  },
+  {
+    "question": "als",
+    "choices": [
+      "mint / amikor (than / when)",
+      "megerőlteti magát (to make an effort)",
+      "de (but)",
+      "tehát / szóval (so / therefore)"
+    ],
+    "answer": 1,
+    "hint": "Er ist größer als ich. (A2 - Konjunktion)"
+  },
+  {
+    "question": "mint / amikor (than / when)",
+    "choices": [
+      "(sich) an|strengen",
+      "aber",
+      "also",
+      "als"
+    ],
+    "answer": 4,
+    "hint": "Er ist größer als ich. (A2 - Konjunktion)"
+  },
+  {
+    "question": "also",
+    "choices": [
+      "mint / amikor (than / when)",
+      "de (but)",
+      "kiválaszt (to select)",
+      "tehát / szóval (so / therefore)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe Zeit, also komme ich. (A1 - Konjunktion)"
+  },
+  {
+    "question": "tehát / szóval (so / therefore)",
+    "choices": [
+      "also",
+      "als",
+      "aus|wählen (+ A)",
+      "aber"
+    ],
+    "answer": 1,
+    "hint": "Ich habe Zeit, also komme ich. (A1 - Konjunktion)"
+  },
+  {
+    "question": "alt",
+    "choices": [
+      "munkanélküli (unemployed)",
+      "figyelmes valamire (attentive to)",
+      "öreg / régi (old)",
+      "lejárt (expired)"
+    ],
+    "answer": 3,
+    "hint": "Wie alt bist du? (A1 - Adjektiv)"
+  },
+  {
+    "question": "öreg / régi (old)",
+    "choices": [
+      "aufmerksam auf + A",
+      "allein",
+      "alt",
+      "ausgezeichnet"
+    ],
+    "answer": 3,
+    "hint": "Wie alt bist du? (A1 - Adjektiv)"
+  },
+  {
+    "question": "am Apparat",
+    "choices": [
+      "kétnaponta (every two days)",
+      "a készüléknél (on the line)",
+      "semmiképpen (no way / by no means)",
+      "mostantól (from now on)"
+    ],
+    "answer": 2,
+    "hint": "Wer ist am Apparat? (A2 - Ausdruck)"
+  },
+  {
+    "question": "a készüléknél (on the line)",
+    "choices": [
+      "ab sofort / ab jetzt",
+      "am Apparat",
+      "alle zwei Tage",
+      "am besten"
+    ],
+    "answer": 2,
+    "hint": "Wer ist am Apparat? (A2 - Ausdruck)"
+  },
+  {
+    "question": "am besten",
+    "choices": [
+      "mindenképpen (in any case)",
+      "kétnaponta (every two days)",
+      "a készüléknél (on the line)",
+      "legjobban (best (superlative))"
+    ],
+    "answer": 4,
+    "hint": "Das gefällt mir am besten. (A2 - Ausdruck)"
+  },
+  {
+    "question": "legjobban (best (superlative))",
+    "choices": [
+      "alles Gute",
+      "am besten",
+      "am Apparat",
+      "ab sofort / ab jetzt"
+    ],
+    "answer": 2,
+    "hint": "Das gefällt mir am besten. (A2 - Ausdruck)"
+  },
+  {
+    "question": "am liebsten",
+    "choices": [
+      "minden jót (all the best)",
+      "kétnaponta (every two days)",
+      "legszívesebben (preferably)",
+      "mindez (all that)"
+    ],
+    "answer": 3,
+    "hint": "Ich esse am liebsten Pizza. (A2 - Ausdruck)"
+  },
+  {
+    "question": "legszívesebben (preferably)",
+    "choices": [
+      "am liebsten",
+      "ab wann?",
+      "auf jeden Fall",
+      "Angst haben vor + D"
+    ],
+    "answer": 1,
+    "hint": "Ich esse am liebsten Pizza. (A2 - Ausdruck)"
+  },
+  {
+    "question": "s Wochenende, -n",
+    "choices": [
+      "állás / munkahely (job / workplace)",
+      "külföld (abroad)",
+      "hétvége (weekend)",
+      "névelő / cikk (article)"
+    ],
+    "answer": 3,
+    "hint": "Was machst du am Wochenende? (A1 - Nomen)"
+  },
+  {
+    "question": "hétvége (weekend)",
+    "choices": [
+      "e Ausnahme, -n",
+      "s Wochenende, -n",
+      "s Auge, -n",
+      "r Artikel, -"
+    ],
+    "answer": 2,
+    "hint": "Was machst du am Wochenende? (A1 - Nomen)"
+  },
+  {
+    "question": "an + A/D",
+    "choices": [
+      "-on, -en, -ön / -hoz, -hez, -höz (at / to)",
+      "-on, -en, -ön / -ra, -re (on / onto)",
+      "kívül / kivéve (except / besides)",
+      "kívül (outside of)"
+    ],
+    "answer": 1,
+    "hint": "Das Bild hängt an der Wand. (A1 - Präposition)"
+  },
+  {
+    "question": "-on, -en, -ön / -hoz, -hez, -höz (at / to)",
+    "choices": [
+      "außer + D",
+      "auf + A/D",
+      "an + A/D",
+      "aus + D"
+    ],
+    "answer": 3,
+    "hint": "Das Bild hängt an der Wand. (A1 - Präposition)"
+  },
+  {
+    "question": "an|bieten (+ A) (+ D)",
+    "choices": [
+      "jelentkezik / regisztrál (to register / sign up)",
+      "megkínál / felajánl (to offer)",
+      "kinyomtat (to print out)",
+      "kinéz (to look / appear)"
+    ],
+    "answer": 2,
+    "hint": "Darf ich Ihnen einen Kaffee anbieten? (B1 - Verb)"
+  },
+  {
+    "question": "megkínál / felajánl (to offer)",
+    "choices": [
+      "ab|fahren",
+      "(sich) an|sehen (+ A)",
+      "auf|schreiben (+ A)",
+      "an|bieten (+ A) (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Darf ich Ihnen einen Kaffee anbieten? (B1 - Verb)"
+  },
+  {
+    "question": "andere",
+    "choices": [
+      "munkanélküli (unemployed)",
+      "más / mások (other)",
+      "minden (everything)",
+      "figyel / vigyáz valamire (to look after)"
+    ],
+    "answer": 2,
+    "hint": "Hast du andere Ideen? (A1 - Pronomen)"
+  },
+  {
+    "question": "más / mások (other)",
+    "choices": [
+      "arbeitslos",
+      "alles",
+      "andere",
+      "auf|passen auf + A"
+    ],
+    "answer": 3,
+    "hint": "Hast du andere Ideen? (A1 - Pronomen)"
+  },
+  {
+    "question": "anders",
+    "choices": [
+      "másképp (differently)",
+      "ezenkívül (besides / furthermore)",
+      "kint / kívül (outside)",
+      "is (also / too)"
+    ],
+    "answer": 1,
+    "hint": "Er denkt anders darüber. (A2 - Adverb)"
+  },
+  {
+    "question": "másképp (differently)",
+    "choices": [
+      "außen",
+      "außerdem",
+      "auch",
+      "anders"
+    ],
+    "answer": 4,
+    "hint": "Er denkt anders darüber. (A2 - Adverb)"
+  },
+  {
+    "question": "an|fangen (+ A) (mit + D)",
+    "choices": [
+      "előfizet (to subscribe)",
+      "elutasítani (reject)",
+      "megérkezik (to arrive)",
+      "elkezd (to start)"
+    ],
+    "answer": 4,
+    "hint": "Wann fängst du mit der Arbeit an? (A2 - Verb)"
+  },
+  {
+    "question": "elkezd (to start)",
+    "choices": [
+      "aus|sehen",
+      "an|fangen (+ A) (mit + D)",
+      "aus|gehen",
+      "(sich) an|sehen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Wann fängst du mit der Arbeit an? (A2 - Verb)"
+  },
+  {
+    "question": "Angst haben vor + D",
+    "choices": [
+      "fél valamitől (to be afraid of)",
+      "mikortól? (from when?)",
+      "a készüléknél (on the line)",
+      "mindenképpen (in any case)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe Angst vor Spinnen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "fél valamitől (to be afraid of)",
+    "choices": [
+      "Angst haben vor + D",
+      "ab wann?",
+      "am Apparat",
+      "alles Gute"
+    ],
+    "answer": 1,
+    "hint": "Ich habe Angst vor Spinnen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "an|kommen (auf + A)",
+    "choices": [
+      "megerőlteti magát (to make an effort)",
+      "megérkezik (to arrive)",
+      "elmegy szórakozni (to go out)",
+      "lemér (súlyt) (to weigh)"
+    ],
+    "answer": 2,
+    "hint": "Der Zug kommt um 10 Uhr an. (A1 - Verb)"
+  },
+  {
+    "question": "megérkezik (to arrive)",
+    "choices": [
+      "(sich) auf|regen über + A",
+      "an|kommen (auf + A)",
+      "aus|sehen",
+      "auf|hören mit + D"
+    ],
+    "answer": 2,
+    "hint": "Der Zug kommt um 10 Uhr an. (A1 - Verb)"
+  },
+  {
+    "question": "an|machen (+ A)",
+    "choices": [
+      "feltűnik (to notice / stand out)",
+      "kipróbál (to try out)",
+      "abbahagy valamit (to stop / finish)",
+      "felkapcsol / bekapcsol (to turn on)"
+    ],
+    "answer": 4,
+    "hint": "Kannst du bitte das Licht anmachen? (A1 - Verb)"
+  },
+  {
+    "question": "felkapcsol / bekapcsol (to turn on)",
+    "choices": [
+      "an|wenden (+ A)",
+      "auf|geben (+ A)",
+      "an|machen (+ A)",
+      "an|schalten (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Kannst du bitte das Licht anmachen? (A1 - Verb)"
+  },
+  {
+    "question": "(sich) an|melden (für + A / bei + D)",
+    "choices": [
+      "bekapcsol (to switch on)",
+      "kijelent / vallomást tesz (to state / testify)",
+      "jelentkezik / regisztrál (to register / sign up)",
+      "lemér (súlyt) (to weigh)"
+    ],
+    "answer": 3,
+    "hint": "Ich möchte mich für den Kurs anmelden. (A2 - Verb)"
+  },
+  {
+    "question": "jelentkezik / regisztrál (to register / sign up)",
+    "choices": [
+      "aus|drucken (+ A)",
+      "(sich) an|melden (für + A / bei + D)",
+      "ab|lenken (+ A)",
+      "auf|hören mit + D"
+    ],
+    "answer": 2,
+    "hint": "Ich möchte mich für den Kurs anmelden. (A2 - Verb)"
+  },
+  {
+    "question": "an|probieren (+ A)",
+    "choices": [
+      "jelez / feljelent (to display / report)",
+      "felpróbál (to try on)",
+      "dolgozik valamin / valahol (to work on / at)",
+      "felad (to give up)"
+    ],
+    "answer": 2,
+    "hint": "Kann ich die Hose anprobieren? (A2 - Verb)"
+  },
+  {
+    "question": "felpróbál (to try on)",
+    "choices": [
+      "an|probieren (+ A)",
+      "ab|fahren",
+      "auf|klären (+ A)",
+      "aus|probieren (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Kann ich die Hose anprobieren? (A2 - Verb)"
+  },
+  {
+    "question": "an|rufen (+ A)",
+    "choices": [
+      "elfogad (to accept)",
+      "válaszol valamire (to answer)",
+      "felpróbál (to try on)",
+      "felhív (telefonon) (to call)"
+    ],
+    "answer": 4,
+    "hint": "Ich rufe dich morgen an. (A1 - Verb)"
+  },
+  {
+    "question": "felhív (telefonon) (to call)",
+    "choices": [
+      "an|rufen (+ A)",
+      "auf|hören mit + D",
+      "an|sprechen (+ A)",
+      "an|fangen (+ A) (mit + D)"
+    ],
+    "answer": 1,
+    "hint": "Ich rufe dich morgen an. (A1 - Verb)"
+  },
+  {
+    "question": "an|sagen (+ A)",
+    "choices": [
+      "jelentkezik / regisztrál (to register / sign up)",
+      "lezár / befejez (to lock / complete)",
+      "bemond / hirdet (to announce)",
+      "kiválaszt (to choose)"
+    ],
+    "answer": 3,
+    "hint": "Der Sprecher sagt die nächste Sendung an. (B1 - Verb)"
+  },
+  {
+    "question": "bemond / hirdet (to announce)",
+    "choices": [
+      "an|wenden (+ A)",
+      "(sich) an|melden (für + A / bei + D)",
+      "an|sagen (+ A)",
+      "(sich) an|sehen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Der Sprecher sagt die nächste Sendung an. (B1 - Verb)"
+  },
+  {
+    "question": "an|schalten (+ A)",
+    "choices": [
+      "válaszol valamire (to answer)",
+      "bekapcsol (to switch on)",
+      "kipiheni magát (to rest)",
+      "felöltözik (to get dressed)"
+    ],
+    "answer": 2,
+    "hint": "Er schaltet das Radio an. (A2 - Verb)"
+  },
+  {
+    "question": "bekapcsol (to switch on)",
+    "choices": [
+      "an|schalten (+ A)",
+      "an|fangen (+ A) (mit + D)",
+      "ab|fahren",
+      "aus|gehen"
+    ],
+    "answer": 1,
+    "hint": "Er schaltet das Radio an. (A2 - Verb)"
+  },
+  {
+    "question": "(sich) an|sehen (+ A)",
+    "choices": [
+      "megérkezik (to arrive)",
+      "megnéz (to look at / watch)",
+      "felkapcsol / bekapcsol (to turn on)",
+      "elindul (depart)"
+    ],
+    "answer": 2,
+    "hint": "Wir sehen uns einen Film an. (A2 - Verb)"
+  },
+  {
+    "question": "megnéz (to look at / watch)",
+    "choices": [
+      "(sich) an|sehen (+ A)",
+      "aus|drucken (+ A)",
+      "ab|fahren",
+      "auf|machen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Wir sehen uns einen Film an. (A2 - Verb)"
+  },
+  {
+    "question": "an|sprechen (+ A)",
+    "choices": [
+      "felold / felbont (to dissolve / resolve)",
+      "elkezd (to start)",
+      "elmegy szórakozni (to go out)",
+      "megszólít (to address / speak to)"
+    ],
+    "answer": 4,
+    "hint": "Er hat mich auf der Straße angesprochen. (B1 - Verb)"
+  },
+  {
+    "question": "megszólít (to address / speak to)",
+    "choices": [
+      "an|wenden (+ A)",
+      "aus|suchen (+ A)",
+      "an|sprechen (+ A)",
+      "antworten auf + A"
+    ],
+    "answer": 3,
+    "hint": "Er hat mich auf der Straße angesprochen. (B1 - Verb)"
+  },
+  {
+    "question": "(sich) an|strengen",
+    "choices": [
+      "kijelent / vallomást tesz (to state / testify)",
+      "megszólít (to address / speak to)",
+      "megérkezik (to arrive)",
+      "megerőlteti magát (to make an effort)"
+    ],
+    "answer": 4,
+    "hint": "Du musst dich mehr anstrengen. (B1 - Verb)"
+  },
+  {
+    "question": "megerőlteti magát (to make an effort)",
+    "choices": [
+      "ab|nehmen (+ A)",
+      "an|rufen (+ A)",
+      "(sich) an|strengen",
+      "auf|schreiben (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Du musst dich mehr anstrengen. (B1 - Verb)"
+  },
+  {
+    "question": "antworten auf + A",
+    "choices": [
+      "válaszol valamire (to answer)",
+      "bekanyarodni (turn (off))",
+      "levesz / fogy (to take off / lose weight)",
+      "felkel (to get up)"
+    ],
+    "answer": 1,
+    "hint": "Er antwortet nicht auf meine Mail. (A2 - Verb)"
+  },
+  {
+    "question": "válaszol valamire (to answer)",
+    "choices": [
+      "(sich) an|melden (für + A / bei + D)",
+      "antworten auf + A",
+      "ab|fahren",
+      "ab|lenken (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er antwortet nicht auf meine Mail. (A2 - Verb)"
+  },
+  {
+    "question": "an|wenden (+ A)",
+    "choices": [
+      "alkalmaz (to apply / use)",
+      "bemond / hirdet (to announce)",
+      "felpróbál (to try on)",
+      "felidegesíti magát valamin (to get excited about)"
+    ],
+    "answer": 1,
+    "hint": "Er wendet eine neue Methode an. (B1 - Verb)"
+  },
+  {
+    "question": "alkalmaz (to apply / use)",
+    "choices": [
+      "an|wenden (+ A)",
+      "aus|sehen",
+      "(sich) ab|melden (von + D)",
+      "(sich) an|ziehen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er wendet eine neue Methode an. (B1 - Verb)"
+  },
+  {
+    "question": "an|zeigen (+ A)",
+    "choices": [
+      "feltűnik (to notice / stand out)",
+      "jelez / feljelent (to display / report)",
+      "felpróbál (to try on)",
+      "lezár / befejez (to lock / complete)"
+    ],
+    "answer": 2,
+    "hint": "Er hat den Diebstahl angezeigt. (B1 - Verb)"
+  },
+  {
+    "question": "jelez / feljelent (to display / report)",
+    "choices": [
+      "an|sprechen (+ A)",
+      "an|zeigen (+ A)",
+      "aus|füllen (+ A)",
+      "aus|sagen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er hat den Diebstahl angezeigt. (B1 - Verb)"
+  },
+  {
+    "question": "(sich) an|ziehen (+ A)",
+    "choices": [
+      "felöltözik (to get dressed)",
+      "levesz / fogy (to take off / lose weight)",
+      "kiválaszt (to choose)",
+      "előfizet (to subscribe)"
+    ],
+    "answer": 1,
+    "hint": "Ich ziehe mich schnell an. (A1 - Verb)"
+  },
+  {
+    "question": "felöltözik (to get dressed)",
+    "choices": [
+      "(sich) aus|ruhen",
+      "(sich) an|melden (für + A / bei + D)",
+      "auf|fordern (+ A) (zu + D)",
+      "(sich) an|ziehen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ich ziehe mich schnell an. (A1 - Verb)"
+  },
+  {
+    "question": "e Apotheke, -n",
+    "choices": [
+      "gyógyszertár (pharmacy)",
+      "kar (arm)",
+      "megbízás / rendelés (order / assignment)",
+      "külföld (abroad)"
+    ],
+    "answer": 1,
+    "hint": "Wo ist die nächste Apotheke? (A1 - Nomen)"
+  },
+  {
+    "question": "gyógyszertár (pharmacy)",
+    "choices": [
+      "e Ausnahme, -n",
+      "e Apotheke, -n",
+      "e Arbeit, -en",
+      "r Aufenthalt, -e"
+    ],
+    "answer": 2,
+    "hint": "Wo ist die nächste Apotheke? (A1 - Nomen)"
+  },
+  {
+    "question": "r Appetit (Sg.)",
+    "choices": [
+      "megbízás / rendelés (order / assignment)",
+      "étvágy (appetite)",
+      "képzés (training / education)",
+      "hétvége (weekend)"
+    ],
+    "answer": 2,
+    "hint": "Guten Appetit! (A1 - Nomen)"
+  },
+  {
+    "question": "étvágy (appetite)",
+    "choices": [
+      "r Appetit (Sg.)",
+      "r Auftrag, \"-e",
+      "e Auskunft, \"-e",
+      "e Ärztin, -nen"
+    ],
+    "answer": 1,
+    "hint": "Guten Appetit! (A1 - Nomen)"
+  },
+  {
+    "question": "r April",
+    "choices": [
+      "április (April)",
+      "étvágy (appetite)",
+      "munka (work)",
+      "mód / fajta (kind / type)"
+    ],
+    "answer": 1,
+    "hint": "Im April regnet es oft. (A1 - Nomen)"
+  },
+  {
+    "question": "április (April)",
+    "choices": [
+      "e Arbeit, -en",
+      "e Ausnahme, -n",
+      "e Ärztin, -nen",
+      "r April"
+    ],
+    "answer": 4,
+    "hint": "Im April regnet es oft. (A1 - Nomen)"
+  },
+  {
+    "question": "e Arbeit, -en",
+    "choices": [
+      "felvilágosítás (information)",
+      "munka (work)",
+      "kar (arm)",
+      "gyógyszertár (pharmacy)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe viel Arbeit. (A1 - Nomen)"
+  },
+  {
+    "question": "munka (work)",
+    "choices": [
+      "e Arbeit, -en",
+      "e Aufgabe, -n",
+      "r Appetit (Sg.)",
+      "e Ausnahme, -n"
+    ],
+    "answer": 1,
+    "hint": "Ich habe viel Arbeit. (A1 - Nomen)"
+  },
+  {
+    "question": "arbeiten an + D / bei + D",
+    "choices": [
+      "elkezd (to start)",
+      "kiválaszt (to select)",
+      "kicsomagol (to unpack)",
+      "dolgozik valamin / valahol (to work on / at)"
+    ],
+    "answer": 4,
+    "hint": "Er arbeitet bei einer Bank. (A1 - Verb)"
+  },
+  {
+    "question": "dolgozik valamin / valahol (to work on / at)",
+    "choices": [
+      "(sich) an|ziehen (+ A)",
+      "auf|geben (+ A)",
+      "arbeiten an + D / bei + D",
+      "aus|gehen"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet bei einer Bank. (A1 - Verb)"
+  },
+  {
+    "question": "arbeitslos",
+    "choices": [
+      "lejárt (expired)",
+      "kiváló (excellent)",
+      "munkanélküli (unemployed)",
+      "egyedül (alone)"
+    ],
+    "answer": 3,
+    "hint": "Er ist seit zwei Monaten arbeitslos. (A2 - Adjektiv)"
+  },
+  {
+    "question": "munkanélküli (unemployed)",
+    "choices": [
+      "ab|gelaufen",
+      "aufmerksam auf + A",
+      "arbeitslos",
+      "allein"
+    ],
+    "answer": 3,
+    "hint": "Er ist seit zwei Monaten arbeitslos. (A2 - Adjektiv)"
+  },
+  {
+    "question": "e Arbeitsstelle, -n",
+    "choices": [
+      "névelő / cikk (article)",
+      "gyógyszertár (pharmacy)",
+      "állás / munkahely (job / workplace)",
+      "mód / fajta (kind / type)"
+    ],
+    "answer": 3,
+    "hint": "Er sucht eine neue Arbeitsstelle. (B1 - Nomen)"
+  },
+  {
+    "question": "állás / munkahely (job / workplace)",
+    "choices": [
+      "r August",
+      "s Wochenende, -n",
+      "e Arbeitsstelle, -n",
+      "r Artikel, -"
+    ],
+    "answer": 3,
+    "hint": "Er sucht eine neue Arbeitsstelle. (B1 - Nomen)"
+  },
+  {
+    "question": "(sich) ärgern über + A",
+    "choices": [
+      "levágni (az utat) (take a shortcut)",
+      "bosszankodik valamin (to get angry about)",
+      "kinyit (to open)",
+      "megnéz (to look at / watch)"
+    ],
+    "answer": 2,
+    "hint": "Ich ärgere mich über das Wetter. (A2 - Verb)"
+  },
+  {
+    "question": "bosszankodik valamin (to get angry about)",
+    "choices": [
+      "auf|wachen",
+      "an|wenden (+ A)",
+      "auf|passen auf + A",
+      "(sich) ärgern über + A"
+    ],
+    "answer": 4,
+    "hint": "Ich ärgere mich über das Wetter. (A2 - Verb)"
+  },
+  {
+    "question": "r Arm, -e",
+    "choices": [
+      "külföld (abroad)",
+      "képzés (training / education)",
+      "szem (eye)",
+      "kar (arm)"
+    ],
+    "answer": 4,
+    "hint": "Mein rechter Arm tut weh. (A1 - Nomen)"
+  },
+  {
+    "question": "kar (arm)",
+    "choices": [
+      "e Ausbildung, -en",
+      "e Auskunft, \"-e",
+      "s Wochenende, -n",
+      "r Arm, -e"
+    ],
+    "answer": 4,
+    "hint": "Mein rechter Arm tut weh. (A1 - Nomen)"
+  },
+  {
+    "question": "e Art, -en",
+    "choices": [
+      "mód / fajta (kind / type)",
+      "gyógyszertár (pharmacy)",
+      "képzés (training / education)",
+      "tartózkodás (stay)"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine besondere Art von Musik. (B1 - Nomen)"
+  },
+  {
+    "question": "mód / fajta (kind / type)",
+    "choices": [
+      "s Auge, -n",
+      "e Apotheke, -n",
+      "e Art, -en",
+      "r Arzt, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine besondere Art von Musik. (B1 - Nomen)"
+  },
+  {
+    "question": "r Artikel, -",
+    "choices": [
+      "kijárat (exit)",
+      "névelő / cikk (article)",
+      "képzés (training / education)",
+      "állás / munkahely (job / workplace)"
+    ],
+    "answer": 2,
+    "hint": "„Der“ ist ein bestimmter Artikel. (A1 - Nomen)"
+  },
+  {
+    "question": "névelő / cikk (article)",
+    "choices": [
+      "e Apotheke, -n",
+      "r Ausgang, \"-e",
+      "r Artikel, -",
+      "e Arbeitsstelle, -n"
+    ],
+    "answer": 3,
+    "hint": "„Der“ ist ein bestimmter Artikel. (A1 - Nomen)"
+  },
+  {
+    "question": "r Arzt, \"-e",
+    "choices": [
+      "orvos (doctor)",
+      "mód / fajta (kind / type)",
+      "szem (eye)",
+      "állás / munkahely (job / workplace)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss zum Arzt gehen. (A1 - Nomen)"
+  },
+  {
+    "question": "orvos (doctor)",
+    "choices": [
+      "r Arzt, \"-e",
+      "s Wochenende, -n",
+      "e Ärztin, -nen",
+      "s Auge, -n"
+    ],
+    "answer": 1,
+    "hint": "Ich muss zum Arzt gehen. (A1 - Nomen)"
+  },
+  {
+    "question": "e Ärztin, -nen",
+    "choices": [
+      "gyógyszertár (pharmacy)",
+      "kirándulás (excursion)",
+      "szem (eye)",
+      "orvosnő (doctor (female))"
+    ],
+    "answer": 4,
+    "hint": "Die Ärztin untersucht das Kind. (A1 - Nomen)"
+  },
+  {
+    "question": "orvosnő (doctor (female))",
+    "choices": [
+      "s Wochenende, -n",
+      "e Ausnahme, -n",
+      "e Ärztin, -nen",
+      "r Ausgang, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Die Ärztin untersucht das Kind. (A1 - Nomen)"
+  },
+  {
+    "question": "auch",
+    "choices": [
+      "ezenkívül (besides / furthermore)",
+      "kint / kívül (outside)",
+      "is (also / too)",
+      "másképp (differently)"
+    ],
+    "answer": 3,
+    "hint": "Ich komme auch. (A1 - Adverb)"
+  },
+  {
+    "question": "is (also / too)",
+    "choices": [
+      "anders",
+      "außen",
+      "auch",
+      "außerdem"
+    ],
+    "answer": 3,
+    "hint": "Ich komme auch. (A1 - Adverb)"
+  },
+  {
+    "question": "auf + A/D",
+    "choices": [
+      "kívül / kivéve (except / besides)",
+      "-ból, -ből (from / out of)",
+      "kívül (outside of)",
+      "-on, -en, -ön / -ra, -re (on / onto)"
+    ],
+    "answer": 4,
+    "hint": "Das Buch liegt auf dem Tisch. (A1 - Präposition)"
+  },
+  {
+    "question": "-on, -en, -ön / -ra, -re (on / onto)",
+    "choices": [
+      "außer + D",
+      "außerhalb + G",
+      "auf + A/D",
+      "aus + D"
+    ],
+    "answer": 3,
+    "hint": "Das Buch liegt auf dem Tisch. (A1 - Präposition)"
+  },
+  {
+    "question": "auf jeden Fall",
+    "choices": [
+      "semmiképpen (no way / by no means)",
+      "legszívesebben (preferably)",
+      "kétnaponta (every two days)",
+      "mindenképpen (in any case)"
+    ],
+    "answer": 4,
+    "hint": "Ich komme auf jeden Fall. (A2 - Ausdruck)"
+  },
+  {
+    "question": "mindenképpen (in any case)",
+    "choices": [
+      "alles Gute",
+      "alle zwei Tage",
+      "auf jeden Fall",
+      "Angst haben vor + D"
+    ],
+    "answer": 3,
+    "hint": "Ich komme auf jeden Fall. (A2 - Ausdruck)"
+  },
+  {
+    "question": "auf keinen Fall",
+    "choices": [
+      "legjobban (best (superlative))",
+      "semmiképpen (no way / by no means)",
+      "minden jót (all the best)",
+      "a készüléknél (on the line)"
+    ],
+    "answer": 2,
+    "hint": "Das mache ich auf keinen Fall. (A2 - Ausdruck)"
+  },
+  {
+    "question": "semmiképpen (no way / by no means)",
+    "choices": [
+      "auf keinen Fall",
+      "am Apparat",
+      "ab sofort / ab jetzt",
+      "am liebsten"
+    ],
+    "answer": 1,
+    "hint": "Das mache ich auf keinen Fall. (A2 - Ausdruck)"
+  },
+  {
+    "question": "r Aufenthalt, -e",
+    "choices": [
+      "kar (arm)",
+      "felvilágosítás (information)",
+      "tartózkodás (stay)",
+      "augusztus (August)"
+    ],
+    "answer": 3,
+    "hint": "Wir wünschen Ihnen einen angenehmen Aufenthalt. (B1 - Nomen)"
+  },
+  {
+    "question": "tartózkodás (stay)",
+    "choices": [
+      "e Arbeit, -en",
+      "e Apotheke, -n",
+      "r Aufenthalt, -e",
+      "r Arm, -e"
+    ],
+    "answer": 3,
+    "hint": "Wir wünschen Ihnen einen angenehmen Aufenthalt. (B1 - Nomen)"
+  },
+  {
+    "question": "auf|fallen (+ D)",
+    "choices": [
+      "feltűnik (to notice / stand out)",
+      "jelentkezik / regisztrál (to register / sign up)",
+      "kiválaszt (to choose)",
+      "felold / felbont (to dissolve / resolve)"
+    ],
+    "answer": 1,
+    "hint": "Sein neuer Haarschnitt ist mir sofort aufgefallen. (B1 - Verb)"
+  },
+  {
+    "question": "feltűnik (to notice / stand out)",
+    "choices": [
+      "(sich) an|ziehen (+ A)",
+      "auf|fallen (+ D)",
+      "auf|wärmen (+ A)",
+      "ab|nehmen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Sein neuer Haarschnitt ist mir sofort aufgefallen. (B1 - Verb)"
+  },
+  {
+    "question": "auf|fordern (+ A) (zu + D)",
+    "choices": [
+      "felszólít (to request / call upon)",
+      "levágni (az utat) (take a shortcut)",
+      "bemond / hirdet (to announce)",
+      "jelez / feljelent (to display / report)"
+    ],
+    "answer": 1,
+    "hint": "Die Polizei fordert ihn zum Halten auf. (B2 - Verb)"
+  },
+  {
+    "question": "felszólít (to request / call upon)",
+    "choices": [
+      "aus|wählen (+ A)",
+      "auf|fordern (+ A) (zu + D)",
+      "(sich) ärgern über + A",
+      "auf|passen auf + A"
+    ],
+    "answer": 2,
+    "hint": "Die Polizei fordert ihn zum Halten auf. (B2 - Verb)"
+  },
+  {
+    "question": "e Aufgabe, -n",
+    "choices": [
+      "képzés (training / education)",
+      "tartózkodás (stay)",
+      "feladat (task)",
+      "külföld (abroad)"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine schwierige Aufgabe. (A1 - Nomen)"
+  },
+  {
+    "question": "feladat (task)",
+    "choices": [
+      "r Ausflug, \"-e",
+      "e Aufgabe, -n",
+      "r Artikel, -",
+      "r Ausgang, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine schwierige Aufgabe. (A1 - Nomen)"
+  },
+  {
+    "question": "auf|geben (+ A)",
+    "choices": [
+      "lemér (súlyt) (to weigh)",
+      "megnéz (to look at / watch)",
+      "bosszankodik valamin (to get angry about)",
+      "felad (to give up)"
+    ],
+    "answer": 4,
+    "hint": "Er hat das Rauchen aufgegeben. (B1 - Verb)"
+  },
+  {
+    "question": "felad (to give up)",
+    "choices": [
+      "auf|geben (+ A)",
+      "aus|sagen (+ A)",
+      "aus|packen (+ A)",
+      "ab|lenken (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er hat das Rauchen aufgegeben. (B1 - Verb)"
+  },
+  {
+    "question": "auf|hören mit + D",
+    "choices": [
+      "felhív (telefonon) (to call)",
+      "felszólít (to request / call upon)",
+      "elfogad (to accept)",
+      "abbahagy valamit (to stop / finish)"
+    ],
+    "answer": 4,
+    "hint": "Hört bitte mit dem Lärm auf! (A2 - Verb)"
+  },
+  {
+    "question": "abbahagy valamit (to stop / finish)",
+    "choices": [
+      "aus|packen (+ A)",
+      "auf|laden (+ A)",
+      "ab|kürzen (+ A)",
+      "auf|hören mit + D"
+    ],
+    "answer": 4,
+    "hint": "Hört bitte mit dem Lärm auf! (A2 - Verb)"
+  },
+  {
+    "question": "auf|klären (+ A)",
+    "choices": [
+      "felvilágosít / kinyomoz (to clarify / enlighten)",
+      "figyel / vigyáz valamire (to look after)",
+      "elmegy szórakozni (to go out)",
+      "lemér (súlyt) (to weigh)"
+    ],
+    "answer": 1,
+    "hint": "Der Fall konnte aufgeklärt werden. (B2 - Verb)"
+  },
+  {
+    "question": "felvilágosít / kinyomoz (to clarify / enlighten)",
+    "choices": [
+      "an|fangen (+ A) (mit + D)",
+      "an|sagen (+ A)",
+      "aus|drucken (+ A)",
+      "auf|klären (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Der Fall konnte aufgeklärt werden. (B2 - Verb)"
+  },
+  {
+    "question": "auf|laden (+ A)",
+    "choices": [
+      "feltölt (pl. akkumulátort) (to charge)",
+      "bosszankodik valamin (to get angry about)",
+      "válaszol valamire (to answer)",
+      "elmegy szórakozni (to go out)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss mein Handy aufladen. (B1 - Verb)"
+  },
+  {
+    "question": "feltölt (pl. akkumulátort) (to charge)",
+    "choices": [
+      "aus|drucken (+ A)",
+      "auf|laden (+ A)",
+      "an|rufen (+ A)",
+      "(sich) ärgern über + A"
+    ],
+    "answer": 2,
+    "hint": "Ich muss mein Handy aufladen. (B1 - Verb)"
+  },
+  {
+    "question": "auf|lösen (+ A)",
+    "choices": [
+      "felold / felbont (to dissolve / resolve)",
+      "kijelentkezik (to sign off / log out)",
+      "elterel (to distract)",
+      "előfizet (to subscribe)"
+    ],
+    "answer": 1,
+    "hint": "Er löst das Problem auf. (B2 - Verb)"
+  },
+  {
+    "question": "felold / felbont (to dissolve / resolve)",
+    "choices": [
+      "an|wenden (+ A)",
+      "auf|passen auf + A",
+      "(sich) an|ziehen (+ A)",
+      "auf|lösen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er löst das Problem auf. (B2 - Verb)"
+  },
+  {
+    "question": "auf|machen (+ A)",
+    "choices": [
+      "kinyit (to open)",
+      "lemér (súlyt) (to weigh)",
+      "kiválaszt (to select)",
+      "megérkezik (to arrive)"
+    ],
+    "answer": 1,
+    "hint": "Kannst du bitte das Fenster aufmachen? (A1 - Verb)"
+  },
+  {
+    "question": "kinyit (to open)",
+    "choices": [
+      "(sich) ab|melden (von + D)",
+      "an|probieren (+ A)",
+      "auf|fallen (+ D)",
+      "auf|machen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Kannst du bitte das Fenster aufmachen? (A1 - Verb)"
+  },
+  {
+    "question": "aufmerksam auf + A",
+    "choices": [
+      "lejárt (expired)",
+      "öreg / régi (old)",
+      "kiváló (excellent)",
+      "figyelmes valamire (attentive to)"
+    ],
+    "answer": 4,
+    "hint": "Er ist aufmerksam auf die Verkehrszeichen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "figyelmes valamire (attentive to)",
+    "choices": [
+      "ausgezeichnet",
+      "aufmerksam auf + A",
+      "ab|gelaufen",
+      "allein"
+    ],
+    "answer": 2,
+    "hint": "Er ist aufmerksam auf die Verkehrszeichen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "auf|passen auf + A",
+    "choices": [
+      "figyel / vigyáz valamire (to look after)",
+      "kinyit (to open)",
+      "kinéz (to look / appear)",
+      "elhozni (pick up)"
+    ],
+    "answer": 1,
+    "hint": "Passt bitte auf eure Sachen auf. (A2 - Verb)"
+  },
+  {
+    "question": "figyel / vigyáz valamire (to look after)",
+    "choices": [
+      "an|zeigen (+ A)",
+      "ab|lenken (+ A)",
+      "auf|passen auf + A",
+      "ab|biegen"
+    ],
+    "answer": 3,
+    "hint": "Passt bitte auf eure Sachen auf. (A2 - Verb)"
+  },
+  {
+    "question": "aufräumen (+ A)",
+    "choices": [
+      "jelez / feljelent (to display / report)",
+      "elmegy szórakozni (to go out)",
+      "dolgozik valamin / valahol (to work on / at)",
+      "kitakarít / rendet rak (to clean up)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss mein Zimmer aufräumen. (A1 - Verb)"
+  },
+  {
+    "question": "kitakarít / rendet rak (to clean up)",
+    "choices": [
+      "ab|holen (+ A)",
+      "(sich) aus|ruhen",
+      "aufräumen (+ A)",
+      "(sich) an|strengen"
+    ],
+    "answer": 3,
+    "hint": "Ich muss mein Zimmer aufräumen. (A1 - Verb)"
+  },
+  {
+    "question": "(sich) auf|regen über + A",
+    "choices": [
+      "kinyomtat (to print out)",
+      "felidegesíti magát valamin (to get excited about)",
+      "megkínál / felajánl (to offer)",
+      "elfogad (to accept)"
+    ],
+    "answer": 2,
+    "hint": "Regen Sie sich nicht auf. (B1 - Verb)"
+  },
+  {
+    "question": "felidegesíti magát valamin (to get excited about)",
+    "choices": [
+      "(sich) auf|regen über + A",
+      "an|schalten (+ A)",
+      "(sich) aus|ruhen",
+      "aus|suchen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Regen Sie sich nicht auf. (B1 - Verb)"
+  },
+  {
+    "question": "auf|schreiben (+ A)",
+    "choices": [
+      "jelez / feljelent (to display / report)",
+      "elkezd (to start)",
+      "felír (to write down)",
+      "jelentkezik / regisztrál (to register / sign up)"
+    ],
+    "answer": 3,
+    "hint": "Er schreibt die Telefonnummer auf. (A2 - Verb)"
+  },
+  {
+    "question": "felír (to write down)",
+    "choices": [
+      "aus|suchen (+ A)",
+      "ab|sagen (+ A / + D)",
+      "auf|schreiben (+ A)",
+      "aus|machen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er schreibt die Telefonnummer auf. (A2 - Verb)"
+  },
+  {
+    "question": "auf|stehen",
+    "choices": [
+      "alkalmaz (to apply / use)",
+      "kipiheni magát (to rest)",
+      "felvilágosít / kinyomoz (to clarify / enlighten)",
+      "felkel (to get up)"
+    ],
+    "answer": 4,
+    "hint": "Ich stehe jeden Morgen um sechs Uhr auf. (A1 - Verb)"
+  },
+  {
+    "question": "felkel (to get up)",
+    "choices": [
+      "aus|drucken (+ A)",
+      "(sich) auf|regen über + A",
+      "auf|stehen",
+      "auf|lösen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Ich stehe jeden Morgen um sechs Uhr auf. (A1 - Verb)"
+  },
+  {
+    "question": "r Auftrag, \"-e",
+    "choices": [
+      "megbízás / rendelés (order / assignment)",
+      "tartózkodás (stay)",
+      "munka (work)",
+      "névelő / cikk (article)"
+    ],
+    "answer": 1,
+    "hint": "Die Firma hat einen großen Auftrag erhalten. (B1 - Nomen)"
+  },
+  {
+    "question": "megbízás / rendelés (order / assignment)",
+    "choices": [
+      "r Appetit (Sg.)",
+      "r August",
+      "s Auge, -n",
+      "r Auftrag, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Die Firma hat einen großen Auftrag erhalten. (B1 - Nomen)"
+  },
+  {
+    "question": "auf|wachen",
+    "choices": [
+      "elindul (depart)",
+      "felébred (to wake up)",
+      "jelez / feljelent (to display / report)",
+      "válaszol valamire (to answer)"
+    ],
+    "answer": 2,
+    "hint": "Er ist um fünf Uhr aufgewacht. (A2 - Verb)"
+  },
+  {
+    "question": "felébred (to wake up)",
+    "choices": [
+      "auf|wachen",
+      "an|schalten (+ A)",
+      "an|wenden (+ A)",
+      "aus|füllen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er ist um fünf Uhr aufgewacht. (A2 - Verb)"
+  },
+  {
+    "question": "auf|wärmen (+ A)",
+    "choices": [
+      "kijelent / vallomást tesz (to state / testify)",
+      "elkezd (to start)",
+      "elterel (to distract)",
+      "felmelegít (to warm up)"
+    ],
+    "answer": 4,
+    "hint": "Ich wärme das Essen auf. (B1 - Verb)"
+  },
+  {
+    "question": "felmelegít (to warm up)",
+    "choices": [
+      "(sich) auf|regen über + A",
+      "auf|wärmen (+ A)",
+      "arbeiten an + D / bei + D",
+      "an|probieren (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich wärme das Essen auf. (B1 - Verb)"
+  },
+  {
+    "question": "s Auge, -n",
+    "choices": [
+      "megbízás / rendelés (order / assignment)",
+      "kijárat (exit)",
+      "szem (eye)",
+      "étvágy (appetite)"
+    ],
+    "answer": 3,
+    "hint": "Er hat blaue Augen. (A1 - Nomen)"
+  },
+  {
+    "question": "szem (eye)",
+    "choices": [
+      "e Auskunft, \"-e",
+      "e Ärztin, -nen",
+      "s Auge, -n",
+      "e Arbeit, -en"
+    ],
+    "answer": 3,
+    "hint": "Er hat blaue Augen. (A1 - Nomen)"
+  },
+  {
+    "question": "r August",
+    "choices": [
+      "orvos (doctor)",
+      "étvágy (appetite)",
+      "április (April)",
+      "augusztus (August)"
+    ],
+    "answer": 4,
+    "hint": "Im August fahren wir in den Urlaub. (A1 - Nomen)"
+  },
+  {
+    "question": "augusztus (August)",
+    "choices": [
+      "e Ausbildung, -en",
+      "r August",
+      "r Appetit (Sg.)",
+      "e Ausnahme, -n"
+    ],
+    "answer": 2,
+    "hint": "Im August fahren wir in den Urlaub. (A1 - Nomen)"
+  },
+  {
+    "question": "aus + D",
+    "choices": [
+      "kívül (outside of)",
+      "kívül / kivéve (except / besides)",
+      "-on, -en, -ön / -ra, -re (on / onto)",
+      "-ból, -ből (from / out of)"
+    ],
+    "answer": 4,
+    "hint": "Er kommt aus Berlin. (A1 - Präposition)"
+  },
+  {
+    "question": "-ból, -ből (from / out of)",
+    "choices": [
+      "auf + A/D",
+      "aus + D",
+      "außer + D",
+      "außerhalb + G"
+    ],
+    "answer": 2,
+    "hint": "Er kommt aus Berlin. (A1 - Präposition)"
+  },
+  {
+    "question": "e Ausbildung, -en",
+    "choices": [
+      "képzés (training / education)",
+      "tartózkodás (stay)",
+      "kar (arm)",
+      "szem (eye)"
+    ],
+    "answer": 1,
+    "hint": "Er macht eine Ausbildung als Koch. (B1 - Nomen)"
+  },
+  {
+    "question": "képzés (training / education)",
+    "choices": [
+      "r Ausgang, \"-e",
+      "r Aufenthalt, -e",
+      "e Ausbildung, -en",
+      "e Apotheke, -n"
+    ],
+    "answer": 3,
+    "hint": "Er macht eine Ausbildung als Koch. (B1 - Nomen)"
+  },
+  {
+    "question": "aus|drucken (+ A)",
+    "choices": [
+      "feltölt (pl. akkumulátort) (to charge)",
+      "kinyit (to open)",
+      "kinyomtat (to print out)",
+      "kijelentkezik (to sign off / log out)"
+    ],
+    "answer": 3,
+    "hint": "Kannst du das Dokument ausdrucken? (A2 - Verb)"
+  },
+  {
+    "question": "kinyomtat (to print out)",
+    "choices": [
+      "ab|schließen (+ A)",
+      "antworten auf + A",
+      "aus|drucken (+ A)",
+      "an|kommen (auf + A)"
+    ],
+    "answer": 3,
+    "hint": "Kannst du das Dokument ausdrucken? (A2 - Verb)"
+  },
+  {
+    "question": "r Ausflug, \"-e",
+    "choices": [
+      "étvágy (appetite)",
+      "kijárat (exit)",
+      "kirándulás (excursion)",
+      "tartózkodás (stay)"
+    ],
+    "answer": 3,
+    "hint": "Am Sonntag machen wir einen Ausflug. (A2 - Nomen)"
+  },
+  {
+    "question": "kirándulás (excursion)",
+    "choices": [
+      "e Aufgabe, -n",
+      "r Aufenthalt, -e",
+      "r April",
+      "r Ausflug, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Am Sonntag machen wir einen Ausflug. (A2 - Nomen)"
+  },
+  {
+    "question": "aus|füllen (+ A)",
+    "choices": [
+      "megnéz (to look at / watch)",
+      "kitölt (pl. űrlapot) (to fill in)",
+      "bosszankodik valamin (to get angry about)",
+      "bekanyarodni (turn (off))"
+    ],
+    "answer": 2,
+    "hint": "Bitte füllen Sie das Formular aus. (A2 - Verb)"
+  },
+  {
+    "question": "kitölt (pl. űrlapot) (to fill in)",
+    "choices": [
+      "aus|wählen (+ A)",
+      "auf|fordern (+ A) (zu + D)",
+      "aus|füllen (+ A)",
+      "auf|fallen (+ D)"
+    ],
+    "answer": 3,
+    "hint": "Bitte füllen Sie das Formular aus. (A2 - Verb)"
+  },
+  {
+    "question": "r Ausgang, \"-e",
+    "choices": [
+      "feladat (task)",
+      "kijárat (exit)",
+      "orvosnő (doctor (female))",
+      "képzés (training / education)"
+    ],
+    "answer": 2,
+    "hint": "Wo ist der Ausgang? (A1 - Nomen)"
+  },
+  {
+    "question": "kijárat (exit)",
+    "choices": [
+      "e Arbeit, -en",
+      "r Ausgang, \"-e",
+      "e Aufgabe, -n",
+      "e Arbeitsstelle, -n"
+    ],
+    "answer": 2,
+    "hint": "Wo ist der Ausgang? (A1 - Nomen)"
+  },
+  {
+    "question": "aus|gehen",
+    "choices": [
+      "elmegy szórakozni (to go out)",
+      "elhozni (pick up)",
+      "elutasítani (reject)",
+      "felad (to give up)"
+    ],
+    "answer": 1,
+    "hint": "Wollen wir heute Abend ausgehen? (A2 - Verb)"
+  },
+  {
+    "question": "elmegy szórakozni (to go out)",
+    "choices": [
+      "ab|biegen",
+      "aus|gehen",
+      "(sich) an|ziehen (+ A)",
+      "an|kommen (auf + A)"
+    ],
+    "answer": 2,
+    "hint": "Wollen wir heute Abend ausgehen? (A2 - Verb)"
+  },
+  {
+    "question": "ausgezeichnet",
+    "choices": [
+      "öreg / régi (old)",
+      "lejárt (expired)",
+      "kiváló (excellent)",
+      "munkanélküli (unemployed)"
+    ],
+    "answer": 3,
+    "hint": "Das Essen schmeckt ausgezeichnet. (B1 - Adjektiv)"
+  },
+  {
+    "question": "kiváló (excellent)",
+    "choices": [
+      "ausgezeichnet",
+      "ab|gelaufen",
+      "arbeitslos",
+      "alt"
+    ],
+    "answer": 1,
+    "hint": "Das Essen schmeckt ausgezeichnet. (B1 - Adjektiv)"
+  },
+  {
+    "question": "e Auskunft, \"-e",
+    "choices": [
+      "felvilágosítás (information)",
+      "augusztus (August)",
+      "orvos (doctor)",
+      "kar (arm)"
+    ],
+    "answer": 1,
+    "hint": "Die Auskunft ist am Bahnhof. (B1 - Nomen)"
+  },
+  {
+    "question": "felvilágosítás (information)",
+    "choices": [
+      "e Auskunft, \"-e",
+      "r Arm, -e",
+      "e Ärztin, -nen",
+      "e Aufgabe, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Auskunft ist am Bahnhof. (B1 - Nomen)"
+  },
+  {
+    "question": "s Ausland (Sg.)",
+    "choices": [
+      "gyógyszertár (pharmacy)",
+      "kijárat (exit)",
+      "külföld (abroad)",
+      "mód / fajta (kind / type)"
+    ],
+    "answer": 3,
+    "hint": "Er möchte im Ausland arbeiten. (A2 - Nomen)"
+  },
+  {
+    "question": "külföld (abroad)",
+    "choices": [
+      "e Art, -en",
+      "s Wochenende, -n",
+      "e Auskunft, \"-e",
+      "s Ausland (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Er möchte im Ausland arbeiten. (A2 - Nomen)"
+  },
+  {
+    "question": "aus|machen (+ A)",
+    "choices": [
+      "megnéz (to look at / watch)",
+      "kinéz (to look / appear)",
+      "kinyomtat (to print out)",
+      "kikapcsol (to turn off)"
+    ],
+    "answer": 4,
+    "hint": "Mach bitte das Licht aus. (A1 - Verb)"
+  },
+  {
+    "question": "kikapcsol (to turn off)",
+    "choices": [
+      "auf|klären (+ A)",
+      "auf|geben (+ A)",
+      "(sich) ärgern über + A",
+      "aus|machen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Mach bitte das Licht aus. (A1 - Verb)"
+  },
+  {
+    "question": "e Ausnahme, -n",
+    "choices": [
+      "kivétel (exception)",
+      "felvilágosítás (information)",
+      "étvágy (appetite)",
+      "szem (eye)"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine Ausnahme von der Regel. (B1 - Nomen)"
+  },
+  {
+    "question": "kivétel (exception)",
+    "choices": [
+      "r Arm, -e",
+      "e Aufgabe, -n",
+      "r Arzt, \"-e",
+      "e Ausnahme, -n"
+    ],
+    "answer": 4,
+    "hint": "Das ist eine Ausnahme von der Regel. (B1 - Nomen)"
+  },
+  {
+    "question": "aus|packen (+ A)",
+    "choices": [
+      "elutasítani (reject)",
+      "kijelentkezik (to sign off / log out)",
+      "felébred (to wake up)",
+      "kicsomagol (to unpack)"
+    ],
+    "answer": 4,
+    "hint": "Wir packen die Koffer aus. (A2 - Verb)"
+  },
+  {
+    "question": "kicsomagol (to unpack)",
+    "choices": [
+      "(sich) ab|melden (von + D)",
+      "aus|sagen (+ A)",
+      "ab|lehnen (+ A)",
+      "aus|packen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir packen die Koffer aus. (A2 - Verb)"
+  },
+  {
+    "question": "aus|probieren (+ A)",
+    "choices": [
+      "felkapcsol / bekapcsol (to turn on)",
+      "kipróbál (to try out)",
+      "előfizet (to subscribe)",
+      "bekapcsol (to switch on)"
+    ],
+    "answer": 2,
+    "hint": "Ich möchte das neue Rezept ausprobieren. (B1 - Verb)"
+  },
+  {
+    "question": "kipróbál (to try out)",
+    "choices": [
+      "arbeiten an + D / bei + D",
+      "an|bieten (+ A) (+ D)",
+      "aus|schalten (+ A)",
+      "aus|probieren (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ich möchte das neue Rezept ausprobieren. (B1 - Verb)"
+  },
+  {
+    "question": "(sich) aus|ruhen",
+    "choices": [
+      "feltölt (pl. akkumulátort) (to charge)",
+      "kipiheni magát (to rest)",
+      "jelez / feljelent (to display / report)",
+      "megérkezik (to arrive)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss mich nach der Arbeit ausruhen. (A2 - Verb)"
+  },
+  {
+    "question": "kipiheni magát (to rest)",
+    "choices": [
+      "auf|stehen",
+      "(sich) an|sehen (+ A)",
+      "an|probieren (+ A)",
+      "(sich) aus|ruhen"
+    ],
+    "answer": 4,
+    "hint": "Ich muss mich nach der Arbeit ausruhen. (A2 - Verb)"
+  },
+  {
+    "question": "aus|sagen (+ A)",
+    "choices": [
+      "bemond / hirdet (to announce)",
+      "elterel (to distract)",
+      "elutasítani (reject)",
+      "kijelent / vallomást tesz (to state / testify)"
+    ],
+    "answer": 4,
+    "hint": "Der Zeuge sagt vor Gericht aus. (B2 - Verb)"
+  },
+  {
+    "question": "kijelent / vallomást tesz (to state / testify)",
+    "choices": [
+      "ab|kürzen (+ A)",
+      "aus|sehen",
+      "aus|sagen (+ A)",
+      "aus|wählen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Der Zeuge sagt vor Gericht aus. (B2 - Verb)"
+  },
+  {
+    "question": "aus|schalten (+ A)",
+    "choices": [
+      "felad (to give up)",
+      "kinyomtat (to print out)",
+      "kikapcsol (to switch off)",
+      "felszólít (to request / call upon)"
+    ],
+    "answer": 3,
+    "hint": "Schalte bitte den Fernseher aus. (A2 - Verb)"
+  },
+  {
+    "question": "kikapcsol (to switch off)",
+    "choices": [
+      "aufräumen (+ A)",
+      "aus|schalten (+ A)",
+      "ab|wiegen (+ A)",
+      "aus|probieren (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Schalte bitte den Fernseher aus. (A2 - Verb)"
+  },
+  {
+    "question": "aus|sehen",
+    "choices": [
+      "kinéz (to look / appear)",
+      "bekanyarodni (turn (off))",
+      "kinyomtat (to print out)",
+      "felkel (to get up)"
+    ],
+    "answer": 1,
+    "hint": "Du siehst heute gut aus. (A1 - Verb)"
+  },
+  {
+    "question": "kinéz (to look / appear)",
+    "choices": [
+      "auf|geben (+ A)",
+      "aus|sehen",
+      "(sich) auf|regen über + A",
+      "aus|wählen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Du siehst heute gut aus. (A1 - Verb)"
+  },
+  {
+    "question": "außen",
+    "choices": [
+      "kint / kívül (outside)",
+      "másképp (differently)",
+      "ezenkívül (besides / furthermore)",
+      "is (also / too)"
+    ],
+    "answer": 1,
+    "hint": "Das Haus ist von außen weiß gestrichen. (A2 - Adverb)"
+  },
+  {
+    "question": "kint / kívül (outside)",
+    "choices": [
+      "auch",
+      "außen",
+      "anders",
+      "außerdem"
+    ],
+    "answer": 2,
+    "hint": "Das Haus ist von außen weiß gestrichen. (A2 - Adverb)"
+  },
+  {
+    "question": "außer + D",
+    "choices": [
+      "kívül (outside of)",
+      "-on, -en, -ön / -hoz, -hez, -höz (at / to)",
+      "kívül / kivéve (except / besides)",
+      "-ból, -ből (from / out of)"
+    ],
+    "answer": 3,
+    "hint": "Alle sind da außer Markus. (B1 - Präposition)"
+  },
+  {
+    "question": "kívül / kivéve (except / besides)",
+    "choices": [
+      "außerhalb + G",
+      "aus + D",
+      "an + A/D",
+      "außer + D"
+    ],
+    "answer": 4,
+    "hint": "Alle sind da außer Markus. (B1 - Präposition)"
+  },
+  {
+    "question": "außerdem",
+    "choices": [
+      "is (also / too)",
+      "ezenkívül (besides / furthermore)",
+      "kint / kívül (outside)",
+      "másképp (differently)"
+    ],
+    "answer": 2,
+    "hint": "Er ist nett und außerdem sehr klug. (B1 - Adverb)"
+  },
+  {
+    "question": "ezenkívül (besides / furthermore)",
+    "choices": [
+      "außen",
+      "anders",
+      "auch",
+      "außerdem"
+    ],
+    "answer": 4,
+    "hint": "Er ist nett und außerdem sehr klug. (B1 - Adverb)"
+  },
+  {
+    "question": "außerhalb + G",
+    "choices": [
+      "-on, -en, -ön / -hoz, -hez, -höz (at / to)",
+      "kívül (outside of)",
+      "-ból, -ből (from / out of)",
+      "kívül / kivéve (except / besides)"
+    ],
+    "answer": 2,
+    "hint": "Er wohnt außerhalb der Stadt. (B1 - Präposition)"
+  },
+  {
+    "question": "kívül (outside of)",
+    "choices": [
+      "aus + D",
+      "an + A/D",
+      "auf + A/D",
+      "außerhalb + G"
+    ],
+    "answer": 4,
+    "hint": "Er wohnt außerhalb der Stadt. (B1 - Präposition)"
+  },
+  {
+    "question": "aus|suchen (+ A)",
+    "choices": [
+      "elterel (to distract)",
+      "előfizet (to subscribe)",
+      "kiválaszt (to choose)",
+      "elmegy szórakozni (to go out)"
+    ],
+    "answer": 3,
+    "hint": "Du kannst dir ein Geschenk aussuchen. (A2 - Verb)"
+  },
+  {
+    "question": "kiválaszt (to choose)",
+    "choices": [
+      "(sich) an|melden (für + A / bei + D)",
+      "aus|suchen (+ A)",
+      "ab|schließen (+ A)",
+      "arbeiten an + D / bei + D"
+    ],
+    "answer": 2,
+    "hint": "Du kannst dir ein Geschenk aussuchen. (A2 - Verb)"
+  },
+  {
+    "question": "aus|wählen (+ A)",
+    "choices": [
+      "felszólít (to request / call upon)",
+      "kiválaszt (to select)",
+      "megérkezik (to arrive)",
+      "elutasítani (reject)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen einen Termin auswählen. (B1 - Verb)"
+  },
+  {
+    "question": "kiválaszt (to select)",
+    "choices": [
+      "(sich) an|strengen",
+      "aus|gehen",
+      "ab|fahren",
+      "aus|wählen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen einen Termin auswählen. (B1 - Verb)"
+  }
+]

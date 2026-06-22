@@ -1,0 +1,2202 @@
+[
+  {
+    "question": "e Filiale, -n",
+    "choices": [
+      "lánc (chain)",
+      "fióküzlet / kirendeltség (branch office)",
+      "lényeg (main thing)",
+      "pokol (hell)"
+    ],
+    "answer": 2,
+    "hint": "Die Bank hat eine Filiale in unserer Straße. (B1 - Nomen)"
+  },
+  {
+    "question": "fióküzlet / kirendeltség (branch office)",
+    "choices": [
+      "e Matura",
+      "e Hauptsache, -n",
+      "e Mine, -n",
+      "e Filiale, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Bank hat eine Filiale in unserer Straße. (B1 - Nomen)"
+  },
+  {
+    "question": "e Flöte, -n",
+    "choices": [
+      "kíváncsiság (curiosity)",
+      "anyósék (parents-in-law)",
+      "fuvola / furulya (flute)",
+      "partnerség (partnership)"
+    ],
+    "answer": 3,
+    "hint": "Sie spielt sehr schön Flöte. (A2 - Nomen)"
+  },
+  {
+    "question": "fuvola / furulya (flute)",
+    "choices": [
+      "e Flöte, -n",
+      "e Zukunft (Sg.)",
+      "e Unterkunft, -künfte",
+      "e Station, -en"
+    ],
+    "answer": 1,
+    "hint": "Sie spielt sehr schön Flöte. (A2 - Nomen)"
+  },
+  {
+    "question": "e Fähigkeit, -en",
+    "choices": [
+      "képesség (ability)",
+      "kocsma (pub)",
+      "szósz (sauce)",
+      "türelem (patience)"
+    ],
+    "answer": 1,
+    "hint": "Er hat die Fähigkeit, andere zu motivieren. (B1 - Nomen)"
+  },
+  {
+    "question": "képesség (ability)",
+    "choices": [
+      "e Nebenkosten (Pl.)",
+      "e Fähigkeit, -en",
+      "e Klingel, -n",
+      "e Gelegenheit, -en"
+    ],
+    "answer": 2,
+    "hint": "Er hat die Fähigkeit, andere zu motivieren. (B1 - Nomen)"
+  },
+  {
+    "question": "e Gans, -¨e",
+    "choices": [
+      "céltábla (target)",
+      "gyertya (candle)",
+      "lúd / liba (goose)",
+      "kocsma (pub)"
+    ],
+    "answer": 3,
+    "hint": "Im Garten laufen drei Gänse herum. (A2 - Nomen)"
+  },
+  {
+    "question": "lúd / liba (goose)",
+    "choices": [
+      "e Gans, -¨e",
+      "e Flöte, -n",
+      "e Metzgerei, -en",
+      "e Medizin"
+    ],
+    "answer": 1,
+    "hint": "Im Garten laufen drei Gänse herum. (A2 - Nomen)"
+  },
+  {
+    "question": "e Geborgenheit",
+    "choices": [
+      "egyetem (university)",
+      "biztonságérzet / védettség (security / coziness)",
+      "vásár / mise (fair / mass)",
+      "középiskola (middle school)"
+    ],
+    "answer": 2,
+    "hint": "Kinder brauchen viel Liebe und Geborgenheit. (B2 - Nomen)"
+  },
+  {
+    "question": "biztonságérzet / védettség (security / coziness)",
+    "choices": [
+      "r/e Irre, -n",
+      "e Jugendherberge, -n",
+      "e Geborgenheit",
+      "e Klingel, -n"
+    ],
+    "answer": 3,
+    "hint": "Kinder brauchen viel Liebe und Geborgenheit. (B2 - Nomen)"
+  },
+  {
+    "question": "e Geburt, -en",
+    "choices": [
+      "szabály (rule)",
+      "születés (birth)",
+      "érettségi (school-leaving exam)",
+      "bölcsőde (nursery / crèche)"
+    ],
+    "answer": 2,
+    "hint": "Alles Gute zur Geburt eures Sohnes! (A2 - Nomen)"
+  },
+  {
+    "question": "születés (birth)",
+    "choices": [
+      "e Tätigkeit, -en",
+      "e Geburt, -en",
+      "e Theorie, -n",
+      "e Schallplatte, -n"
+    ],
+    "answer": 2,
+    "hint": "Alles Gute zur Geburt eures Sohnes! (A2 - Nomen)"
+  },
+  {
+    "question": "e Geduld",
+    "choices": [
+      "betegbiztosító (health insurance)",
+      "türelem (patience)",
+      "szokás (habit)",
+      "villa (villa)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen noch etwas Geduld haben. (B1 - Nomen)"
+  },
+  {
+    "question": "türelem (patience)",
+    "choices": [
+      "e Kunst, -¨e",
+      "e Hantel, -n",
+      "e Herkunft, -¨e",
+      "e Geduld"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen noch etwas Geduld haben. (B1 - Nomen)"
+  },
+  {
+    "question": "e Gelegenheit, -en",
+    "choices": [
+      "teknősbéka (turtle)",
+      "nyaklánc (necklace)",
+      "alkalom (opportunity)",
+      "szelet / korong (slice / pane)"
+    ],
+    "answer": 3,
+    "hint": "Das war eine einmalige Gelegenheit. (B1 - Nomen)"
+  },
+  {
+    "question": "alkalom (opportunity)",
+    "choices": [
+      "e Heirat, -en",
+      "e Kündigungsfrist, -en",
+      "e Klingel, -n",
+      "e Gelegenheit, -en"
+    ],
+    "answer": 4,
+    "hint": "Das war eine einmalige Gelegenheit. (B1 - Nomen)"
+  },
+  {
+    "question": "e Gewohnheit, -en",
+    "choices": [
+      "tézis (thesis)",
+      "szokás (habit)",
+      "hanglemez (vinyl record)",
+      "ifjúsági szálló (youth hostel)"
+    ],
+    "answer": 2,
+    "hint": "Es ist eine alte Gewohnheit von mir. (B1 - Nomen)"
+  },
+  {
+    "question": "szokás (habit)",
+    "choices": [
+      "r Unterschied, -e",
+      "e Mine, -n",
+      "e Werbeagentur, -en",
+      "e Gewohnheit, -en"
+    ],
+    "answer": 4,
+    "hint": "Es ist eine alte Gewohnheit von mir. (B1 - Nomen)"
+  },
+  {
+    "question": "e Halskette, -n",
+    "choices": [
+      "fióküzlet / kirendeltség (branch office)",
+      "nyaklánc (necklace)",
+      "különbség (difference)",
+      "villamos (tram)"
+    ],
+    "answer": 2,
+    "hint": "Sie hat eine schöne Halskette geschenkt bekommen. (A2 - Nomen)"
+  },
+  {
+    "question": "nyaklánc (necklace)",
+    "choices": [
+      "e Schildkröte, -n",
+      "e Messe, -n",
+      "e Halskette, -n",
+      "e Schallplatte, -n"
+    ],
+    "answer": 3,
+    "hint": "Sie hat eine schöne Halskette geschenkt bekommen. (A2 - Nomen)"
+  },
+  {
+    "question": "e Haltestelle, -n",
+    "choices": [
+      "megálló (stop / station)",
+      "művészet (art)",
+      "teknősbéka (turtle)",
+      "vizsgálat (examination)"
+    ],
+    "answer": 1,
+    "hint": "Die Haltestelle ist gleich um die Ecke. (A1 - Nomen)"
+  },
+  {
+    "question": "megálló (stop / station)",
+    "choices": [
+      "e Kammer, -n",
+      "e Haltestelle, -n",
+      "e Stimme, -n",
+      "e Kinderkrippe, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Haltestelle ist gleich um die Ecke. (A1 - Nomen)"
+  },
+  {
+    "question": "e Hantel, -n",
+    "choices": [
+      "kézi súlyzó (dumbbell)",
+      "villa (villa)",
+      "türelem (patience)",
+      "fuvola / furulya (flute)"
+    ],
+    "answer": 1,
+    "hint": "Er trainiert jeden Tag mit Hanteln. (B1 - Nomen)"
+  },
+  {
+    "question": "kézi súlyzó (dumbbell)",
+    "choices": [
+      "e Kindheit",
+      "e Scheibe, -n",
+      "e Kammer, -n",
+      "e Hantel, -n"
+    ],
+    "answer": 4,
+    "hint": "Er trainiert jeden Tag mit Hanteln. (B1 - Nomen)"
+  },
+  {
+    "question": "e Hauptsache, -n",
+    "choices": [
+      "holttest (corpse)",
+      "lényeg (main thing)",
+      "bölcsőde (nursery / crèche)",
+      "lánc (chain)"
+    ],
+    "answer": 2,
+    "hint": "Hauptsache, wir sind pünktlich. (B1 - Nomen)"
+  },
+  {
+    "question": "lényeg (main thing)",
+    "choices": [
+      "e Umgebung, -en",
+      "e Schallplatte, -n",
+      "e Hauptsache, -n",
+      "e Süßigkeit, -en"
+    ],
+    "answer": 3,
+    "hint": "Hauptsache, wir sind pünktlich. (B1 - Nomen)"
+  },
+  {
+    "question": "e Haut, -¨e",
+    "choices": [
+      "bőr (skin)",
+      "művészet (art)",
+      "szabály (rule)",
+      "középiskola (middle school)"
+    ],
+    "answer": 1,
+    "hint": "Er hat eine sehr helle Haut. (A2 - Nomen)"
+  },
+  {
+    "question": "bőr (skin)",
+    "choices": [
+      "e Stimmung, -en",
+      "e Haut, -¨e",
+      "e Prüfung, -en",
+      "e Orgel, -n"
+    ],
+    "answer": 2,
+    "hint": "Er hat eine sehr helle Haut. (A2 - Nomen)"
+  },
+  {
+    "question": "e Heimat, -en",
+    "choices": [
+      "haza (homeland)",
+      "beszéd (speech)",
+      "hatékonyság (effectiveness)",
+      "duda (horn)"
+    ],
+    "answer": 1,
+    "hint": "Er liebt seine Heimat über alles. (B1 - Nomen)"
+  },
+  {
+    "question": "haza (homeland)",
+    "choices": [
+      "e Heimat, -en",
+      "e Station, -en",
+      "e Waage, -n",
+      "e Wirksamkeit, -en"
+    ],
+    "answer": 1,
+    "hint": "Er liebt seine Heimat über alles. (B1 - Nomen)"
+  },
+  {
+    "question": "s Heimweh",
+    "choices": [
+      "villa (villa)",
+      "honvágy (homesickness)",
+      "középiskola (middle school)",
+      "bölcső (cradle)"
+    ],
+    "answer": 2,
+    "hint": "Er bekam auf der Reise schlimmes Heimweh. (B1 - Nomen)"
+  },
+  {
+    "question": "honvágy (homesickness)",
+    "choices": [
+      "s Heimweh",
+      "e Prognose, -n",
+      "e Wettervorhersage, -n",
+      "e Stimme, -n"
+    ],
+    "answer": 1,
+    "hint": "Er bekam auf der Reise schlimmes Heimweh. (B1 - Nomen)"
+  },
+  {
+    "question": "e Heirat, -en",
+    "choices": [
+      "házasságkötés (marriage)",
+      "megálló (stop / station)",
+      "érettségi vizsga (final secondary school exam)",
+      "anyósék (parents-in-law)"
+    ],
+    "answer": 1,
+    "hint": "Die Heirat fand im engsten Familienkreis statt. (B1 - Nomen)"
+  },
+  {
+    "question": "házasságkötés (marriage)",
+    "choices": [
+      "e Pille, -n",
+      "e Versicherung, -en",
+      "e Heirat, -en",
+      "e Flöte, -n"
+    ],
+    "answer": 3,
+    "hint": "Die Heirat fand im engsten Familienkreis statt. (B1 - Nomen)"
+  },
+  {
+    "question": "e Herkunft, -¨e",
+    "choices": [
+      "duda (horn)",
+      "napszak (time of day)",
+      "származás (origin)",
+      "hatékonyság (effectiveness)"
+    ],
+    "answer": 3,
+    "hint": "Er ist stolz auf seine Herkunft. (B2 - Nomen)"
+  },
+  {
+    "question": "származás (origin)",
+    "choices": [
+      "e Gewohnheit, -en",
+      "e Stimme, -n",
+      "e Verstopfung, -en",
+      "e Herkunft, -¨e"
+    ],
+    "answer": 4,
+    "hint": "Er ist stolz auf seine Herkunft. (B2 - Nomen)"
+  },
+  {
+    "question": "e Hupe, -n",
+    "choices": [
+      "honvágy (homesickness)",
+      "duda (horn)",
+      "rendelési idő (office hours)",
+      "emberi méltóság (human dignity)"
+    ],
+    "answer": 2,
+    "hint": "Die Hupe des Autos ist sehr laut. (A2 - Nomen)"
+  },
+  {
+    "question": "duda (horn)",
+    "choices": [
+      "e Villa, -s",
+      "e Matura",
+      "e Hupe, -n",
+      "r Unterschied, -e"
+    ],
+    "answer": 3,
+    "hint": "Die Hupe des Autos ist sehr laut. (A2 - Nomen)"
+  },
+  {
+    "question": "e Höhle, -n",
+    "choices": [
+      "szelet / korong (slice / pane)",
+      "ok (cause)",
+      "kézi súlyzó (dumbbell)",
+      "barlang (cave)"
+    ],
+    "answer": 4,
+    "hint": "Wir haben die Höhle mit Taschenlampen erkundet. (B1 - Nomen)"
+  },
+  {
+    "question": "barlang (cave)",
+    "choices": [
+      "e Vermittlung, -en",
+      "e Höhle, -n",
+      "e Nebenkosten (Pl.)",
+      "e Haltestelle, -n"
+    ],
+    "answer": 2,
+    "hint": "Wir haben die Höhle mit Taschenlampen erkundet. (B1 - Nomen)"
+  },
+  {
+    "question": "e Hölle",
+    "choices": [
+      "pokol (hell)",
+      "teknősbéka (turtle)",
+      "orgona (organ)",
+      "biztonságérzet / védettség (security / coziness)"
+    ],
+    "answer": 1,
+    "hint": "Die Arbeit dort war die reinste Hölle. (B2 - Nomen)"
+  },
+  {
+    "question": "pokol (hell)",
+    "choices": [
+      "e Hölle",
+      "e Gewohnheit, -en",
+      "e Gelegenheit, -en",
+      "e Halskette, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Arbeit dort war die reinste Hölle. (B2 - Nomen)"
+  },
+  {
+    "question": "e Industriespionage, -n",
+    "choices": [
+      "mozdony (locomotive)",
+      "időjárás-előrejelzés (weather forecast)",
+      "gyermekkor (childhood)",
+      "ipari kémkedés (industrial espionage)"
+    ],
+    "answer": 4,
+    "hint": "Das Unternehmen schützt sich vor Industriespionage. (C1 - Nomen)"
+  },
+  {
+    "question": "ipari kémkedés (industrial espionage)",
+    "choices": [
+      "e Kammer, -n",
+      "e Hupe, -n",
+      "e Miete, -n",
+      "e Industriespionage, -n"
+    ],
+    "answer": 4,
+    "hint": "Das Unternehmen schützt sich vor Industriespionage. (C1 - Nomen)"
+  },
+  {
+    "question": "r/e Irre, -n",
+    "choices": [
+      "szelet / korong (slice / pane)",
+      "jövő (future)",
+      "őrült (madman / lunatic)",
+      "lúd / liba (goose)"
+    ],
+    "answer": 3,
+    "hint": "Du bist doch ein Irrer! (B2 - Nomen)"
+  },
+  {
+    "question": "őrült (madman / lunatic)",
+    "choices": [
+      "e Staatsangehörigkeit, -en",
+      "e These, -n",
+      "r/e Irre, -n",
+      "e Waage, -n"
+    ],
+    "answer": 3,
+    "hint": "Du bist doch ein Irrer! (B2 - Nomen)"
+  },
+  {
+    "question": "e Jugendherberge, -n",
+    "choices": [
+      "szállás (accommodation)",
+      "türelem (patience)",
+      "ifjúsági szálló (youth hostel)",
+      "édesség (sweet)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben in einer Jugendherberge übernachtet. (A2 - Nomen)"
+  },
+  {
+    "question": "ifjúsági szálló (youth hostel)",
+    "choices": [
+      "e Matura",
+      "e Kunst, -¨e",
+      "e Jugendherberge, -n",
+      "e These, -n"
+    ],
+    "answer": 3,
+    "hint": "Wir haben in einer Jugendherberge übernachtet. (A2 - Nomen)"
+  },
+  {
+    "question": "e Kammer, -n",
+    "choices": [
+      "kamra (chamber)",
+      "mimóza (mimosa)",
+      "lényeg (main thing)",
+      "rendezvény (event)"
+    ],
+    "answer": 1,
+    "hint": "Die Vorräte werden in der Kammer gelagert. (B1 - Nomen)"
+  },
+  {
+    "question": "kamra (chamber)",
+    "choices": [
+      "e Filiale, -n",
+      "e Herkunft, -¨e",
+      "e Messe, -n",
+      "e Kammer, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Vorräte werden in der Kammer gelagert. (B1 - Nomen)"
+  },
+  {
+    "question": "e Kerze, -n",
+    "choices": [
+      "tabletta (pill)",
+      "gyertya (candle)",
+      "szállás (accommodation)",
+      "bőr (skin)"
+    ],
+    "answer": 2,
+    "hint": "Die Kerze brennt hell auf dem Tisch. (A1 - Nomen)"
+  },
+  {
+    "question": "gyertya (candle)",
+    "choices": [
+      "e Kerze, -n",
+      "e Fähigkeit, -en",
+      "e Vereinigung, -en",
+      "e Gelegenheit, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Kerze brennt hell auf dem Tisch. (A1 - Nomen)"
+  },
+  {
+    "question": "e Kette, -n",
+    "choices": [
+      "hanglemez (vinyl record)",
+      "lánc (chain)",
+      "időjárás-előrejelzés (weather forecast)",
+      "tézis (thesis)"
+    ],
+    "answer": 2,
+    "hint": "Das Fahrrad hat eine neue Kette. (A2 - Nomen)"
+  },
+  {
+    "question": "lánc (chain)",
+    "choices": [
+      "e Konditorei, -en",
+      "e Kette, -n",
+      "e Stimmung, -en",
+      "e Kerze, -n"
+    ],
+    "answer": 2,
+    "hint": "Das Fahrrad hat eine neue Kette. (A2 - Nomen)"
+  },
+  {
+    "question": "e Kinderkrippe, -n",
+    "choices": [
+      "bölcsőde (nursery / crèche)",
+      "hangulat (mood)",
+      "szokás (habit)",
+      "anyósék (parents-in-law)"
+    ],
+    "answer": 1,
+    "hint": "Mein Sohn besucht eine Kinderkrippe. (B1 - Nomen)"
+  },
+  {
+    "question": "bölcsőde (nursery / crèche)",
+    "choices": [
+      "e Kinderkrippe, -n",
+      "e Universität, -en",
+      "e Kralle, -n",
+      "e Soße, -n"
+    ],
+    "answer": 1,
+    "hint": "Mein Sohn besucht eine Kinderkrippe. (B1 - Nomen)"
+  },
+  {
+    "question": "e Kindheit",
+    "choices": [
+      "fióküzlet / kirendeltség (branch office)",
+      "gyermekkor (childhood)",
+      "érettségi (school-leaving exam)",
+      "partnerség (partnership)"
+    ],
+    "answer": 2,
+    "hint": "Sie hatte eine sehr glückliche Kindheit. (A2 - Nomen)"
+  },
+  {
+    "question": "gyermekkor (childhood)",
+    "choices": [
+      "e Mimose, -n",
+      "e Kindheit",
+      "e Leiche, -n",
+      "e Lokomotive, -n"
+    ],
+    "answer": 2,
+    "hint": "Sie hatte eine sehr glückliche Kindheit. (A2 - Nomen)"
+  },
+  {
+    "question": "e Klingel, -n",
+    "choices": [
+      "képesség (ability)",
+      "mozdony (locomotive)",
+      "lényeg (main thing)",
+      "csengő (bell)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe die Klingel an der Tür nicht gehört. (A2 - Nomen)"
+  },
+  {
+    "question": "csengő (bell)",
+    "choices": [
+      "e Neugier",
+      "e Wettervorhersage, -n",
+      "e Klingel, -n",
+      "e Medizin"
+    ],
+    "answer": 3,
+    "hint": "Ich habe die Klingel an der Tür nicht gehört. (A2 - Nomen)"
+  },
+  {
+    "question": "e Kneipe, -n",
+    "choices": [
+      "mozdony (locomotive)",
+      "gyermekkor (childhood)",
+      "előrejelzés (forecast)",
+      "kocsma (pub)"
+    ],
+    "answer": 4,
+    "hint": "Wir treffen uns heute Abend in der Kneipe. (A2 - Nomen)"
+  },
+  {
+    "question": "kocsma (pub)",
+    "choices": [
+      "e Zukunft (Sg.)",
+      "e Schallplatte, -n",
+      "e Kunst, -¨e",
+      "e Kneipe, -n"
+    ],
+    "answer": 4,
+    "hint": "Wir treffen uns heute Abend in der Kneipe. (A2 - Nomen)"
+  },
+  {
+    "question": "e Konditorei, -en",
+    "choices": [
+      "cukrászda (pastry shop)",
+      "partnerség (partnership)",
+      "haza (homeland)",
+      "szósz (sauce)"
+    ],
+    "answer": 1,
+    "hint": "In dieser Konditorei gibt es den besten Kuchen. (A2 - Nomen)"
+  },
+  {
+    "question": "cukrászda (pastry shop)",
+    "choices": [
+      "e Verstopfung, -en",
+      "e Konditorei, -en",
+      "e Metzgerei, -en",
+      "e These, -n"
+    ],
+    "answer": 2,
+    "hint": "In dieser Konditorei gibt es den besten Kuchen. (A2 - Nomen)"
+  },
+  {
+    "question": "e Kralle, -n",
+    "choices": [
+      "ipari kémkedés (industrial espionage)",
+      "karom (claw)",
+      "egyesülés (union)",
+      "rendezvény (event)"
+    ],
+    "answer": 2,
+    "hint": "Die Katze hat scharfe Krallen. (B2 - Nomen)"
+  },
+  {
+    "question": "karom (claw)",
+    "choices": [
+      "e Kralle, -n",
+      "e Kneipe, -n",
+      "e Kerze, -n",
+      "e Zielscheibe, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Katze hat scharfe Krallen. (B2 - Nomen)"
+  },
+  {
+    "question": "e Krankenkasse, -n",
+    "choices": [
+      "nyaklánc (necklace)",
+      "hangulat (mood)",
+      "betegbiztosító (health insurance)",
+      "céltábla (target)"
+    ],
+    "answer": 3,
+    "hint": "Er arbeitet bei einer großen Krankenkasse. (B1 - Nomen)"
+  },
+  {
+    "question": "betegbiztosító (health insurance)",
+    "choices": [
+      "e Kralle, -n",
+      "e Krankenkasse, -n",
+      "e Schildkröte, -n",
+      "e Theorie, -n"
+    ],
+    "answer": 2,
+    "hint": "Er arbeitet bei einer großen Krankenkasse. (B1 - Nomen)"
+  },
+  {
+    "question": "e Kräuter (Pl.)",
+    "choices": [
+      "hatékonyság (effectiveness)",
+      "bánya / betét (mine / refill)",
+      "ropi (salt sticks)",
+      "gyógynövények / fűszernövények (herbs)"
+    ],
+    "answer": 4,
+    "hint": "Ich verwende in der Küche viele frische Kräuter. (B1 - Nomen)"
+  },
+  {
+    "question": "gyógynövények / fűszernövények (herbs)",
+    "choices": [
+      "e Zukunft (Sg.)",
+      "e Kräuter (Pl.)",
+      "e Nebenkosten (Pl.)",
+      "e Tätigkeit, -en"
+    ],
+    "answer": 2,
+    "hint": "Ich verwende in der Küche viele frische Kräuter. (B1 - Nomen)"
+  },
+  {
+    "question": "e Kunst, -¨e",
+    "choices": [
+      "előrejelzés (forecast)",
+      "születés (birth)",
+      "szabály (rule)",
+      "művészet (art)"
+    ],
+    "answer": 4,
+    "hint": "Er studiert Kunst in Berlin. (B1 - Nomen)"
+  },
+  {
+    "question": "művészet (art)",
+    "choices": [
+      "e Scheibe, -n",
+      "e Kunst, -¨e",
+      "e These, -n",
+      "e Veranstaltung, -en"
+    ],
+    "answer": 2,
+    "hint": "Er studiert Kunst in Berlin. (B1 - Nomen)"
+  },
+  {
+    "question": "e Kündigungsfrist, -en",
+    "choices": [
+      "sirály (gull)",
+      "felmondási idő (notice period)",
+      "gyertya (candle)",
+      "honvágy (homesickness)"
+    ],
+    "answer": 2,
+    "hint": "Die Kündigungsfrist beträgt drei Monate. (B2 - Nomen)"
+  },
+  {
+    "question": "felmondási idő (notice period)",
+    "choices": [
+      "e Industriespionage, -n",
+      "e Kündigungsfrist, -en",
+      "e Verstopfung, -en",
+      "e Kralle, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Kündigungsfrist beträgt drei Monate. (B2 - Nomen)"
+  },
+  {
+    "question": "e Leiche, -n",
+    "choices": [
+      "rendelési idő (office hours)",
+      "holttest (corpse)",
+      "állomás / osztály (station / ward)",
+      "székrekedés (constipation)"
+    ],
+    "answer": 2,
+    "hint": "Die Leiche wurde gestern im Wald gefunden. (B2 - Nomen)"
+  },
+  {
+    "question": "holttest (corpse)",
+    "choices": [
+      "e Veranstaltung, -en",
+      "e Kette, -n",
+      "e Villa, -s",
+      "e Leiche, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Leiche wurde gestern im Wald gefunden. (B2 - Nomen)"
+  },
+  {
+    "question": "e Lokomotive, -n",
+    "choices": [
+      "tézis (thesis)",
+      "mozdony (locomotive)",
+      "lényeg (main thing)",
+      "felmondási idő (notice period)"
+    ],
+    "answer": 2,
+    "hint": "Die alte Lokomotive steht im Museum. (A2 - Nomen)"
+  },
+  {
+    "question": "mozdony (locomotive)",
+    "choices": [
+      "e Messe, -n",
+      "e Lokomotive, -n",
+      "e Menschenwürde",
+      "e Süßigkeit, -en"
+    ],
+    "answer": 2,
+    "hint": "Die alte Lokomotive steht im Museum. (A2 - Nomen)"
+  },
+  {
+    "question": "e Matura",
+    "choices": [
+      "ipari kémkedés (industrial espionage)",
+      "mérleg (scale)",
+      "cukrászda (pastry shop)",
+      "érettségi (school-leaving exam)"
+    ],
+    "answer": 4,
+    "hint": "Er bereitet sich auf die Matura vor. (B2 - Nomen)"
+  },
+  {
+    "question": "érettségi (school-leaving exam)",
+    "choices": [
+      "e Kerze, -n",
+      "e Matura",
+      "e Mimose, -n",
+      "r Unterschied, -e"
+    ],
+    "answer": 2,
+    "hint": "Er bereitet sich auf die Matura vor. (B2 - Nomen)"
+  },
+  {
+    "question": "e Medizin",
+    "choices": [
+      "orvostudomány (medicine)",
+      "rezsiköltségek (additional costs)",
+      "művészet (art)",
+      "húsbolt (butcher's shop)"
+    ],
+    "answer": 1,
+    "hint": "Er studiert seit drei Semestern Medizin. (B1 - Nomen)"
+  },
+  {
+    "question": "orvostudomány (medicine)",
+    "choices": [
+      "e Medizin",
+      "e Verstopfung, -en",
+      "e Hölle",
+      "e Matura"
+    ],
+    "answer": 1,
+    "hint": "Er studiert seit drei Semestern Medizin. (B1 - Nomen)"
+  },
+  {
+    "question": "e Menschenwürde",
+    "choices": [
+      "csiga (snail)",
+      "mimóza (mimosa)",
+      "emberi méltóság (human dignity)",
+      "tevékenység (activity)"
+    ],
+    "answer": 3,
+    "hint": "Die Menschenwürde ist unantastbar. (C1 - Nomen)"
+  },
+  {
+    "question": "emberi méltóság (human dignity)",
+    "choices": [
+      "e Neugier",
+      "e Menschenwürde",
+      "e Reifeprüfung, -en",
+      "e Stimme, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Menschenwürde ist unantastbar. (C1 - Nomen)"
+  },
+  {
+    "question": "e Messe, -n",
+    "choices": [
+      "vásár / mise (fair / mass)",
+      "bölcső (cradle)",
+      "gyertya (candle)",
+      "emberi méltóság (human dignity)"
+    ],
+    "answer": 1,
+    "hint": "Wir besuchen dieses Jahr die Buchmesse. (B1 - Nomen)"
+  },
+  {
+    "question": "vásár / mise (fair / mass)",
+    "choices": [
+      "e Messe, -n",
+      "e Tätigkeit, -en",
+      "e Filiale, -n",
+      "r/e Irre, -n"
+    ],
+    "answer": 1,
+    "hint": "Wir besuchen dieses Jahr die Buchmesse. (B1 - Nomen)"
+  },
+  {
+    "question": "e Metzgerei, -en",
+    "choices": [
+      "ifjúsági szálló (youth hostel)",
+      "húsbolt (butcher's shop)",
+      "különbség (difference)",
+      "művészet (art)"
+    ],
+    "answer": 2,
+    "hint": "Ich kaufe das Fleisch in der Metzgerei. (A2 - Nomen)"
+  },
+  {
+    "question": "húsbolt (butcher's shop)",
+    "choices": [
+      "e Verstopfung, -en",
+      "e Haut, -¨e",
+      "e Geborgenheit",
+      "e Metzgerei, -en"
+    ],
+    "answer": 4,
+    "hint": "Ich kaufe das Fleisch in der Metzgerei. (A2 - Nomen)"
+  },
+  {
+    "question": "e Miete, -n",
+    "choices": [
+      "egyesülés (union)",
+      "környék (surroundings)",
+      "lakbér (rent)",
+      "szállás (accommodation)"
+    ],
+    "answer": 3,
+    "hint": "Die Miete für die Wohnung ist sehr hoch. (A2 - Nomen)"
+  },
+  {
+    "question": "lakbér (rent)",
+    "choices": [
+      "e Kinderkrippe, -n",
+      "e Miete, -n",
+      "e Theorie, -n",
+      "e Tätigkeit, -en"
+    ],
+    "answer": 2,
+    "hint": "Die Miete für die Wohnung ist sehr hoch. (A2 - Nomen)"
+  },
+  {
+    "question": "e Mimose, -n",
+    "choices": [
+      "teknősbéka (turtle)",
+      "jövő (future)",
+      "mimóza (mimosa)",
+      "kézi súlyzó (dumbbell)"
+    ],
+    "answer": 3,
+    "hint": "Sei doch nicht immer so eine Mimose! (B2 - Nomen)"
+  },
+  {
+    "question": "mimóza (mimosa)",
+    "choices": [
+      "e Hauptsache, -n",
+      "e Regel, -n",
+      "e Hantel, -n",
+      "e Mimose, -n"
+    ],
+    "answer": 4,
+    "hint": "Sei doch nicht immer so eine Mimose! (B2 - Nomen)"
+  },
+  {
+    "question": "e Mine, -n",
+    "choices": [
+      "bánya / betét (mine / refill)",
+      "lánc (chain)",
+      "cukrászda (pastry shop)",
+      "megálló (stop / station)"
+    ],
+    "answer": 1,
+    "hint": "Mein Kuli braucht eine neue Mine. (B2 - Nomen)"
+  },
+  {
+    "question": "bánya / betét (mine / refill)",
+    "choices": [
+      "e Mine, -n",
+      "e Süßigkeit, -en",
+      "r Unterschied, -e",
+      "e Kunst, -¨e"
+    ],
+    "answer": 1,
+    "hint": "Mein Kuli braucht eine neue Mine. (B2 - Nomen)"
+  },
+  {
+    "question": "e Mittelschule, -n",
+    "choices": [
+      "születés (birth)",
+      "kézi súlyzó (dumbbell)",
+      "középiskola (middle school)",
+      "érettségi (school-leaving exam)"
+    ],
+    "answer": 3,
+    "hint": "Er geht ab September in die Mittelschule. (A2 - Nomen)"
+  },
+  {
+    "question": "középiskola (middle school)",
+    "choices": [
+      "e Flöte, -n",
+      "e Veranstaltung, -en",
+      "e Miete, -n",
+      "e Mittelschule, -n"
+    ],
+    "answer": 4,
+    "hint": "Er geht ab September in die Mittelschule. (A2 - Nomen)"
+  },
+  {
+    "question": "e Möwe, -n",
+    "choices": [
+      "hanglemez (vinyl record)",
+      "beszéd (speech)",
+      "sirály (gull)",
+      "származás (origin)"
+    ],
+    "answer": 3,
+    "hint": "An der Ostsee sieht man viele Möwen. (B1 - Nomen)"
+  },
+  {
+    "question": "sirály (gull)",
+    "choices": [
+      "e Vorstellung, -en",
+      "e Wirksamkeit, -en",
+      "e Möwe, -n",
+      "e Reifeprüfung, -en"
+    ],
+    "answer": 3,
+    "hint": "An der Ostsee sieht man viele Möwen. (B1 - Nomen)"
+  },
+  {
+    "question": "e Nebenkosten (Pl.)",
+    "choices": [
+      "hang (voice)",
+      "biztosítás (insurance)",
+      "csengő (bell)",
+      "rezsiköltségek (additional costs)"
+    ],
+    "answer": 4,
+    "hint": "Die Miete ist ohne Nebenkosten angegeben. (B1 - Nomen)"
+  },
+  {
+    "question": "rezsiköltségek (additional costs)",
+    "choices": [
+      "e Haut, -¨e",
+      "e Krankenkasse, -n",
+      "e Rede, -n",
+      "e Nebenkosten (Pl.)"
+    ],
+    "answer": 4,
+    "hint": "Die Miete ist ohne Nebenkosten angegeben. (B1 - Nomen)"
+  },
+  {
+    "question": "e Neugier",
+    "choices": [
+      "megálló (stop / station)",
+      "lúd / liba (goose)",
+      "csiga (snail)",
+      "kíváncsiság (curiosity)"
+    ],
+    "answer": 4,
+    "hint": "Seine Neugier war grenzenlos. (B1 - Nomen)"
+  },
+  {
+    "question": "kíváncsiság (curiosity)",
+    "choices": [
+      "e Neugier",
+      "e Kindheit",
+      "e Rede, -n",
+      "e Haut, -¨e"
+    ],
+    "answer": 1,
+    "hint": "Seine Neugier war grenzenlos. (B1 - Nomen)"
+  },
+  {
+    "question": "e Orgel, -n",
+    "choices": [
+      "orgona (organ)",
+      "előírás (regulation)",
+      "holttest (corpse)",
+      "bemutatkozás / előadás (presentation / performance)"
+    ],
+    "answer": 1,
+    "hint": "Er spielt sonntags die Orgel in der Kirche. (B1 - Nomen)"
+  },
+  {
+    "question": "orgona (organ)",
+    "choices": [
+      "e Orgel, -n",
+      "e Herkunft, -¨e",
+      "e Möwe, -n",
+      "e Klingel, -n"
+    ],
+    "answer": 1,
+    "hint": "Er spielt sonntags die Orgel in der Kirche. (B1 - Nomen)"
+  },
+  {
+    "question": "e Partnerschaft, -en",
+    "choices": [
+      "különbség (difference)",
+      "pokol (hell)",
+      "partnerség (partnership)",
+      "emberi méltóság (human dignity)"
+    ],
+    "answer": 3,
+    "hint": "Wir streben eine langfristige Partnerschaft an. (B1 - Nomen)"
+  },
+  {
+    "question": "partnerség (partnership)",
+    "choices": [
+      "e Partnerschaft, -en",
+      "e Matura",
+      "e Haut, -¨e",
+      "e Menschenwürde"
+    ],
+    "answer": 1,
+    "hint": "Wir streben eine langfristige Partnerschaft an. (B1 - Nomen)"
+  },
+  {
+    "question": "e Pille, -n",
+    "choices": [
+      "fióküzlet / kirendeltség (branch office)",
+      "ropi (salt sticks)",
+      "alkalom (opportunity)",
+      "tabletta (pill)"
+    ],
+    "answer": 4,
+    "hint": "Er muss jeden Tag eine Pille nehmen. (B1 - Nomen)"
+  },
+  {
+    "question": "tabletta (pill)",
+    "choices": [
+      "e Miete, -n",
+      "e Schallplatte, -n",
+      "e Pille, -n",
+      "e Filiale, -n"
+    ],
+    "answer": 3,
+    "hint": "Er muss jeden Tag eine Pille nehmen. (B1 - Nomen)"
+  },
+  {
+    "question": "e Prognose, -n",
+    "choices": [
+      "orvostudomány (medicine)",
+      "előrejelzés (forecast)",
+      "cukrászda (pastry shop)",
+      "kamra (chamber)"
+    ],
+    "answer": 2,
+    "hint": "Die Prognose für das Wetter ist gut. (B2 - Nomen)"
+  },
+  {
+    "question": "előrejelzés (forecast)",
+    "choices": [
+      "e Prognose, -n",
+      "e Reizüberflutung, -en",
+      "e Wirksamkeit, -en",
+      "e Zielscheibe, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Prognose für das Wetter ist gut. (B2 - Nomen)"
+  },
+  {
+    "question": "e Prüfung, -en",
+    "choices": [
+      "lánc (chain)",
+      "jövő (future)",
+      "biztosítás (insurance)",
+      "vizsga (exam)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe die Prüfung bestanden. (A2 - Nomen)"
+  },
+  {
+    "question": "vizsga (exam)",
+    "choices": [
+      "e Sprechstunde, -n",
+      "e Gans, -¨e",
+      "e Prüfung, -en",
+      "e Vorstellung, -en"
+    ],
+    "answer": 3,
+    "hint": "Ich habe die Prüfung bestanden. (A2 - Nomen)"
+  },
+  {
+    "question": "e Rede, -n",
+    "choices": [
+      "alkalom (opportunity)",
+      "beszéd (speech)",
+      "hanglemez (vinyl record)",
+      "céltábla (target)"
+    ],
+    "answer": 2,
+    "hint": "Der Chef hielt eine kurze Rede. (B1 - Nomen)"
+  },
+  {
+    "question": "beszéd (speech)",
+    "choices": [
+      "e Rede, -n",
+      "e Prüfung, -en",
+      "e Villa, -s",
+      "e Stimmung, -en"
+    ],
+    "answer": 1,
+    "hint": "Der Chef hielt eine kurze Rede. (B1 - Nomen)"
+  },
+  {
+    "question": "e Regel, -n",
+    "choices": [
+      "orvostudomány (medicine)",
+      "szabály (rule)",
+      "türelem (patience)",
+      "emberi méltóság (human dignity)"
+    ],
+    "answer": 2,
+    "hint": "Es gibt eine wichtige Regel. (A2 - Nomen)"
+  },
+  {
+    "question": "szabály (rule)",
+    "choices": [
+      "e Höhle, -n",
+      "e Kralle, -n",
+      "e Regel, -n",
+      "e Untersuchung, -en"
+    ],
+    "answer": 3,
+    "hint": "Es gibt eine wichtige Regel. (A2 - Nomen)"
+  },
+  {
+    "question": "e Reifeprüfung, -en",
+    "choices": [
+      "érettségi vizsga (final secondary school exam)",
+      "közvetítés (mediation)",
+      "jövő (future)",
+      "tabletta (pill)"
+    ],
+    "answer": 1,
+    "hint": "Er hat die Reifeprüfung mit Bravour bestanden. (B2 - Nomen)"
+  },
+  {
+    "question": "érettségi vizsga (final secondary school exam)",
+    "choices": [
+      "e Soße, -n",
+      "e Reifeprüfung, -en",
+      "e Kunst, -¨e",
+      "e Ursache, -n"
+    ],
+    "answer": 2,
+    "hint": "Er hat die Reifeprüfung mit Bravour bestanden. (B2 - Nomen)"
+  },
+  {
+    "question": "e Reizüberflutung, -en",
+    "choices": [
+      "ok (cause)",
+      "ingertúltengés (sensory overload)",
+      "tevékenység (activity)",
+      "húsbolt (butcher's shop)"
+    ],
+    "answer": 2,
+    "hint": "Die Großstadt führt oft zu einer Reizüberflutung. (C1 - Nomen)"
+  },
+  {
+    "question": "ingertúltengés (sensory overload)",
+    "choices": [
+      "e Reizüberflutung, -en",
+      "e Reifeprüfung, -en",
+      "e Kunst, -¨e",
+      "e Flöte, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Großstadt führt oft zu einer Reizüberflutung. (C1 - Nomen)"
+  },
+  {
+    "question": "e Salzstangen (Pl.)",
+    "choices": [
+      "ok (cause)",
+      "ropi (salt sticks)",
+      "származás (origin)",
+      "sirály (gull)"
+    ],
+    "answer": 2,
+    "hint": "Wir essen gerne Salzstangen beim Fernsehen. (A2 - Nomen)"
+  },
+  {
+    "question": "ropi (salt sticks)",
+    "choices": [
+      "e Salzstangen (Pl.)",
+      "e Station, -en",
+      "e Kräuter (Pl.)",
+      "e Geburt, -en"
+    ],
+    "answer": 1,
+    "hint": "Wir essen gerne Salzstangen beim Fernsehen. (A2 - Nomen)"
+  },
+  {
+    "question": "e Schallplatte, -n",
+    "choices": [
+      "gyermekkor (childhood)",
+      "hanglemez (vinyl record)",
+      "lényeg (main thing)",
+      "előrejelzés (forecast)"
+    ],
+    "answer": 2,
+    "hint": "Er besitzt eine große Sammlung von Schallplatten. (B1 - Nomen)"
+  },
+  {
+    "question": "hanglemez (vinyl record)",
+    "choices": [
+      "e Kindheit",
+      "e Schallplatte, -n",
+      "e Vermittlung, -en",
+      "e Veranstaltung, -en"
+    ],
+    "answer": 2,
+    "hint": "Er besitzt eine große Sammlung von Schallplatten. (B1 - Nomen)"
+  },
+  {
+    "question": "e Scheibe, -n",
+    "choices": [
+      "pokol (hell)",
+      "szelet / korong (slice / pane)",
+      "beszéd (speech)",
+      "karom (claw)"
+    ],
+    "answer": 2,
+    "hint": "Ich hätte gerne eine Scheibe Brot. (A2 - Nomen)"
+  },
+  {
+    "question": "szelet / korong (slice / pane)",
+    "choices": [
+      "e Kinderkrippe, -n",
+      "e Scheibe, -n",
+      "e Matura",
+      "e Soße, -n"
+    ],
+    "answer": 2,
+    "hint": "Ich hätte gerne eine Scheibe Brot. (A2 - Nomen)"
+  },
+  {
+    "question": "e Schildkröte, -n",
+    "choices": [
+      "teknősbéka (turtle)",
+      "reklámügynökség (advertising agency)",
+      "szelet / korong (slice / pane)",
+      "villamos (tram)"
+    ],
+    "answer": 1,
+    "hint": "Meine Schildkröte lebt im Garten. (A2 - Nomen)"
+  },
+  {
+    "question": "teknősbéka (turtle)",
+    "choices": [
+      "e Schwiegereltern (Pl.)",
+      "e Krankenkasse, -n",
+      "e Kette, -n",
+      "e Schildkröte, -n"
+    ],
+    "answer": 4,
+    "hint": "Meine Schildkröte lebt im Garten. (A2 - Nomen)"
+  },
+  {
+    "question": "e Schnecke, -n",
+    "choices": [
+      "csiga (snail)",
+      "tabletta (pill)",
+      "nyaklánc (necklace)",
+      "karom (claw)"
+    ],
+    "answer": 1,
+    "hint": "Die Schnecke kriecht über den Weg. (A2 - Nomen)"
+  },
+  {
+    "question": "csiga (snail)",
+    "choices": [
+      "e Schnecke, -n",
+      "e Gelegenheit, -en",
+      "e Herkunft, -¨e",
+      "e Tätigkeit, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Schnecke kriecht über den Weg. (A2 - Nomen)"
+  },
+  {
+    "question": "e Schwiegereltern (Pl.)",
+    "choices": [
+      "ropi (salt sticks)",
+      "anyósék (parents-in-law)",
+      "jövő (future)",
+      "lakbér (rent)"
+    ],
+    "answer": 2,
+    "hint": "Wir besuchen meine Schwiegereltern. (B1 - Nomen)"
+  },
+  {
+    "question": "anyósék (parents-in-law)",
+    "choices": [
+      "e Kerze, -n",
+      "e Unterkunft, -künfte",
+      "e Krankenkasse, -n",
+      "e Schwiegereltern (Pl.)"
+    ],
+    "answer": 4,
+    "hint": "Wir besuchen meine Schwiegereltern. (B1 - Nomen)"
+  },
+  {
+    "question": "e Soße, -n",
+    "choices": [
+      "kocsma (pub)",
+      "szósz (sauce)",
+      "állampolgárság (nationality)",
+      "gyermekkor (childhood)"
+    ],
+    "answer": 2,
+    "hint": "Die Soße zum Braten ist sehr lecker. (A2 - Nomen)"
+  },
+  {
+    "question": "szósz (sauce)",
+    "choices": [
+      "r/e Irre, -n",
+      "e Kräuter (Pl.)",
+      "e Mittelschule, -n",
+      "e Soße, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Soße zum Braten ist sehr lecker. (A2 - Nomen)"
+  },
+  {
+    "question": "e Sprechstunde, -n",
+    "choices": [
+      "rendelési idő (office hours)",
+      "képesség (ability)",
+      "bánya / betét (mine / refill)",
+      "vizsga (exam)"
+    ],
+    "answer": 1,
+    "hint": "Der Arzt hat morgen keine Sprechstunde. (B1 - Nomen)"
+  },
+  {
+    "question": "rendelési idő (office hours)",
+    "choices": [
+      "e Kerze, -n",
+      "e Zielscheibe, -n",
+      "e Sprechstunde, -n",
+      "e Regel, -n"
+    ],
+    "answer": 3,
+    "hint": "Der Arzt hat morgen keine Sprechstunde. (B1 - Nomen)"
+  },
+  {
+    "question": "e Staatsangehörigkeit, -en",
+    "choices": [
+      "művészet (art)",
+      "egyetem (university)",
+      "állampolgárság (nationality)",
+      "honvágy (homesickness)"
+    ],
+    "answer": 3,
+    "hint": "Welche Staatsangehörigkeit haben Sie? (B2 - Nomen)"
+  },
+  {
+    "question": "állampolgárság (nationality)",
+    "choices": [
+      "e These, -n",
+      "e Kammer, -n",
+      "e Prognose, -n",
+      "e Staatsangehörigkeit, -en"
+    ],
+    "answer": 4,
+    "hint": "Welche Staatsangehörigkeit haben Sie? (B2 - Nomen)"
+  },
+  {
+    "question": "e Station, -en",
+    "choices": [
+      "állomás / osztály (station / ward)",
+      "tevékenység (activity)",
+      "vizsga (exam)",
+      "türelem (patience)"
+    ],
+    "answer": 1,
+    "hint": "Der Patient liegt auf Station 4. (B1 - Nomen)"
+  },
+  {
+    "question": "állomás / osztály (station / ward)",
+    "choices": [
+      "e Unterkunft, -künfte",
+      "e Veranstaltung, -en",
+      "e Partnerschaft, -en",
+      "e Station, -en"
+    ],
+    "answer": 4,
+    "hint": "Der Patient liegt auf Station 4. (B1 - Nomen)"
+  },
+  {
+    "question": "e Stimme, -n",
+    "choices": [
+      "csengő (bell)",
+      "húsbolt (butcher's shop)",
+      "állomás / osztály (station / ward)",
+      "hang (voice)"
+    ],
+    "answer": 4,
+    "hint": "Sie hat eine sehr angenehme Stimme. (A2 - Nomen)"
+  },
+  {
+    "question": "hang (voice)",
+    "choices": [
+      "e Hauptsache, -n",
+      "e Reifeprüfung, -en",
+      "e Stimme, -n",
+      "e Schallplatte, -n"
+    ],
+    "answer": 3,
+    "hint": "Sie hat eine sehr angenehme Stimme. (A2 - Nomen)"
+  },
+  {
+    "question": "e Stimmung, -en",
+    "choices": [
+      "türelem (patience)",
+      "hangulat (mood)",
+      "teknősbéka (turtle)",
+      "alkalom (opportunity)"
+    ],
+    "answer": 2,
+    "hint": "Die Stimmung auf der Feier war großartig. (B1 - Nomen)"
+  },
+  {
+    "question": "hangulat (mood)",
+    "choices": [
+      "e Stimmung, -en",
+      "e Sprechstunde, -n",
+      "e Nebenkosten (Pl.)",
+      "e Gelegenheit, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Stimmung auf der Feier war großartig. (B1 - Nomen)"
+  },
+  {
+    "question": "e Straßenbahn, -en",
+    "choices": [
+      "biztosítás (insurance)",
+      "villamos (tram)",
+      "rezsiköltségek (additional costs)",
+      "bölcsőde (nursery / crèche)"
+    ],
+    "answer": 2,
+    "hint": "Wir fahren mit der Straßenbahn ins Zentrum. (A1 - Nomen)"
+  },
+  {
+    "question": "villamos (tram)",
+    "choices": [
+      "e Straßenbahn, -en",
+      "e Schildkröte, -n",
+      "e Schallplatte, -n",
+      "e Matura"
+    ],
+    "answer": 1,
+    "hint": "Wir fahren mit der Straßenbahn ins Zentrum. (A1 - Nomen)"
+  },
+  {
+    "question": "e Süßigkeit, -en",
+    "choices": [
+      "csengő (bell)",
+      "orgona (organ)",
+      "egyetem (university)",
+      "édesség (sweet)"
+    ],
+    "answer": 4,
+    "hint": "Kinder essen viel zu viele Süßigkeiten. (A2 - Nomen)"
+  },
+  {
+    "question": "édesség (sweet)",
+    "choices": [
+      "e Süßigkeit, -en",
+      "e Halskette, -n",
+      "e Universität, -en",
+      "e Tageszeit, -en"
+    ],
+    "answer": 1,
+    "hint": "Kinder essen viel zu viele Süßigkeiten. (A2 - Nomen)"
+  },
+  {
+    "question": "e Tageszeit, -en",
+    "choices": [
+      "orgona (organ)",
+      "lényeg (main thing)",
+      "ok (cause)",
+      "napszak (time of day)"
+    ],
+    "answer": 4,
+    "hint": "Zu welcher Tageszeit arbeiten Sie am besten? (A1 - Nomen)"
+  },
+  {
+    "question": "napszak (time of day)",
+    "choices": [
+      "s Heimweh",
+      "e Soße, -n",
+      "e Tageszeit, -en",
+      "e Geduld"
+    ],
+    "answer": 3,
+    "hint": "Zu welcher Tageszeit arbeiten Sie am besten? (A1 - Nomen)"
+  },
+  {
+    "question": "e Theorie, -n",
+    "choices": [
+      "villa (villa)",
+      "elmélet (theory)",
+      "vásár / mise (fair / mass)",
+      "szósz (sauce)"
+    ],
+    "answer": 2,
+    "hint": "Das ist nur eine graue Theorie. (B1 - Nomen)"
+  },
+  {
+    "question": "elmélet (theory)",
+    "choices": [
+      "e Veranstaltung, -en",
+      "e Haltestelle, -n",
+      "e Lokomotive, -n",
+      "e Theorie, -n"
+    ],
+    "answer": 4,
+    "hint": "Das ist nur eine graue Theorie. (B1 - Nomen)"
+  },
+  {
+    "question": "e These, -n",
+    "choices": [
+      "egyetem (university)",
+      "céltábla (target)",
+      "lényeg (main thing)",
+      "tézis (thesis)"
+    ],
+    "answer": 4,
+    "hint": "Er hat eine neue These aufgestellt. (B2 - Nomen)"
+  },
+  {
+    "question": "tézis (thesis)",
+    "choices": [
+      "e Kammer, -n",
+      "e Schallplatte, -n",
+      "e These, -n",
+      "e Geborgenheit"
+    ],
+    "answer": 3,
+    "hint": "Er hat eine neue These aufgestellt. (B2 - Nomen)"
+  },
+  {
+    "question": "e Trennung, -en",
+    "choices": [
+      "hanglemez (vinyl record)",
+      "érettségi vizsga (final secondary school exam)",
+      "szakítás / elválás (separation)",
+      "csiga (snail)"
+    ],
+    "answer": 3,
+    "hint": "Die Trennung war für beide sehr schwer. (B1 - Nomen)"
+  },
+  {
+    "question": "szakítás / elválás (separation)",
+    "choices": [
+      "e Trennung, -en",
+      "e Mine, -n",
+      "e Reizüberflutung, -en",
+      "e Möwe, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Trennung war für beide sehr schwer. (B1 - Nomen)"
+  },
+  {
+    "question": "e Tätigkeit, -en",
+    "choices": [
+      "rendelési idő (office hours)",
+      "rendezvény (event)",
+      "tevékenység (activity)",
+      "mozdony (locomotive)"
+    ],
+    "answer": 3,
+    "hint": "Er geht einer ehrenamtlichen Tätigkeit nach. (B1 - Nomen)"
+  },
+  {
+    "question": "tevékenység (activity)",
+    "choices": [
+      "e Untersuchung, -en",
+      "e Heimat, -en",
+      "e Vorschrift, -en",
+      "e Tätigkeit, -en"
+    ],
+    "answer": 4,
+    "hint": "Er geht einer ehrenamtlichen Tätigkeit nach. (B1 - Nomen)"
+  },
+  {
+    "question": "e Umgebung, -en",
+    "choices": [
+      "bölcsőde (nursery / crèche)",
+      "környék (surroundings)",
+      "érettségi vizsga (final secondary school exam)",
+      "reklámügynökség (advertising agency)"
+    ],
+    "answer": 2,
+    "hint": "In der näheren Umgebung gibt es einen Park. (B1 - Nomen)"
+  },
+  {
+    "question": "környék (surroundings)",
+    "choices": [
+      "e Kindheit",
+      "e Flöte, -n",
+      "e Geduld",
+      "e Umgebung, -en"
+    ],
+    "answer": 4,
+    "hint": "In der näheren Umgebung gibt es einen Park. (B1 - Nomen)"
+  },
+  {
+    "question": "e Universität, -en",
+    "choices": [
+      "középiskola (middle school)",
+      "türelem (patience)",
+      "bemutatkozás / előadás (presentation / performance)",
+      "egyetem (university)"
+    ],
+    "answer": 4,
+    "hint": "Er hat an der Universität studiert. (A2 - Nomen)"
+  },
+  {
+    "question": "egyetem (university)",
+    "choices": [
+      "e Partnerschaft, -en",
+      "e Schallplatte, -n",
+      "e Theorie, -n",
+      "e Universität, -en"
+    ],
+    "answer": 4,
+    "hint": "Er hat an der Universität studiert. (A2 - Nomen)"
+  },
+  {
+    "question": "e Unterkunft, -künfte",
+    "choices": [
+      "szokás (habit)",
+      "bemutatkozás / előadás (presentation / performance)",
+      "szállás (accommodation)",
+      "lakbér (rent)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben eine saubere Unterkunft gefunden. (B1 - Nomen)"
+  },
+  {
+    "question": "szállás (accommodation)",
+    "choices": [
+      "e Unterkunft, -künfte",
+      "e Industriespionage, -n",
+      "e Werbeagentur, -en",
+      "e Wiege, -n"
+    ],
+    "answer": 1,
+    "hint": "Wir haben eine saubere Unterkunft gefunden. (B1 - Nomen)"
+  },
+  {
+    "question": "r Unterschied, -e",
+    "choices": [
+      "bőr (skin)",
+      "orgona (organ)",
+      "karom (claw)",
+      "különbség (difference)"
+    ],
+    "answer": 4,
+    "hint": "Gibt es einen Unterschied zwischen diesen beiden? (B1 - Nomen)"
+  },
+  {
+    "question": "különbség (difference)",
+    "choices": [
+      "e Leiche, -n",
+      "e Kindheit",
+      "e Süßigkeit, -en",
+      "r Unterschied, -e"
+    ],
+    "answer": 4,
+    "hint": "Gibt es einen Unterschied zwischen diesen beiden? (B1 - Nomen)"
+  },
+  {
+    "question": "e Untersuchung, -en",
+    "choices": [
+      "vizsgálat (examination)",
+      "bőr (skin)",
+      "ingertúltengés (sensory overload)",
+      "villamos (tram)"
+    ],
+    "answer": 1,
+    "hint": "Die Untersuchung beim Arzt war gründlich. (B2 - Nomen)"
+  },
+  {
+    "question": "vizsgálat (examination)",
+    "choices": [
+      "e Mimose, -n",
+      "e Untersuchung, -en",
+      "e Hauptsache, -n",
+      "e Geduld"
+    ],
+    "answer": 2,
+    "hint": "Die Untersuchung beim Arzt war gründlich. (B2 - Nomen)"
+  },
+  {
+    "question": "e Ursache, -n",
+    "choices": [
+      "környék (surroundings)",
+      "cukrászda (pastry shop)",
+      "rendezvény (event)",
+      "ok (cause)"
+    ],
+    "answer": 4,
+    "hint": "Die Ursache des Unfalls ist noch unklar. (B1 - Nomen)"
+  },
+  {
+    "question": "ok (cause)",
+    "choices": [
+      "e Ursache, -n",
+      "e Schwiegereltern (Pl.)",
+      "e Straßenbahn, -en",
+      "e Gelegenheit, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Ursache des Unfalls ist noch unklar. (B1 - Nomen)"
+  },
+  {
+    "question": "e Veranstaltung, -en",
+    "choices": [
+      "napszak (time of day)",
+      "rendezvény (event)",
+      "honvágy (homesickness)",
+      "biztonságérzet / védettség (security / coziness)"
+    ],
+    "answer": 2,
+    "hint": "Die Veranstaltung war gut besucht. (B1 - Nomen)"
+  },
+  {
+    "question": "rendezvény (event)",
+    "choices": [
+      "e Veranstaltung, -en",
+      "e Wettervorhersage, -n",
+      "e Orgel, -n",
+      "e Kinderkrippe, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Veranstaltung war gut besucht. (B1 - Nomen)"
+  },
+  {
+    "question": "e Vereinigung, -en",
+    "choices": [
+      "ok (cause)",
+      "lakbér (rent)",
+      "egyesülés (union)",
+      "haza (homeland)"
+    ],
+    "answer": 3,
+    "hint": "Er ist Mitglied in einer studentischen Vereinigung. (B2 - Nomen)"
+  },
+  {
+    "question": "egyesülés (union)",
+    "choices": [
+      "e Wettervorhersage, -n",
+      "e Kündigungsfrist, -en",
+      "e Industriespionage, -n",
+      "e Vereinigung, -en"
+    ],
+    "answer": 4,
+    "hint": "Er ist Mitglied in einer studentischen Vereinigung. (B2 - Nomen)"
+  },
+  {
+    "question": "e Vermittlung, -en",
+    "choices": [
+      "közvetítés (mediation)",
+      "sirály (gull)",
+      "hanglemez (vinyl record)",
+      "lakbér (rent)"
+    ],
+    "answer": 1,
+    "hint": "Die Vermittlung hat gut funktioniert. (B2 - Nomen)"
+  },
+  {
+    "question": "közvetítés (mediation)",
+    "choices": [
+      "e Vermittlung, -en",
+      "e Rede, -n",
+      "e Hauptsache, -n",
+      "e Zielscheibe, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Vermittlung hat gut funktioniert. (B2 - Nomen)"
+  },
+  {
+    "question": "e Versicherung, -en",
+    "choices": [
+      "biztosítás (insurance)",
+      "sirály (gull)",
+      "cukrászda (pastry shop)",
+      "kamra (chamber)"
+    ],
+    "answer": 1,
+    "hint": "Die Versicherung zahlt den Schaden. (B1 - Nomen)"
+  },
+  {
+    "question": "biztosítás (insurance)",
+    "choices": [
+      "e Filiale, -n",
+      "e Versicherung, -en",
+      "e Schallplatte, -n",
+      "e Matura"
+    ],
+    "answer": 2,
+    "hint": "Die Versicherung zahlt den Schaden. (B1 - Nomen)"
+  },
+  {
+    "question": "e Verstopfung, -en",
+    "choices": [
+      "vizsgálat (examination)",
+      "sirály (gull)",
+      "székrekedés (constipation)",
+      "napszak (time of day)"
+    ],
+    "answer": 3,
+    "hint": "Viel Trinken hilft gegen Verstopfung. (B2 - Nomen)"
+  },
+  {
+    "question": "székrekedés (constipation)",
+    "choices": [
+      "e Verstopfung, -en",
+      "e Haut, -¨e",
+      "e Kinderkrippe, -n",
+      "e Prognose, -n"
+    ],
+    "answer": 1,
+    "hint": "Viel Trinken hilft gegen Verstopfung. (B2 - Nomen)"
+  },
+  {
+    "question": "e Villa, -s",
+    "choices": [
+      "kíváncsiság (curiosity)",
+      "vizsgálat (examination)",
+      "villa (villa)",
+      "fióküzlet / kirendeltség (branch office)"
+    ],
+    "answer": 3,
+    "hint": "Die Villa steht in einer teuren Gegend. (B1 - Nomen)"
+  },
+  {
+    "question": "villa (villa)",
+    "choices": [
+      "e Wirksamkeit, -en",
+      "e Villa, -s",
+      "e Heirat, -en",
+      "e Herkunft, -¨e"
+    ],
+    "answer": 2,
+    "hint": "Die Villa steht in einer teuren Gegend. (B1 - Nomen)"
+  },
+  {
+    "question": "e Vorschrift, -en",
+    "choices": [
+      "betegbiztosító (health insurance)",
+      "villa (villa)",
+      "előírás (regulation)",
+      "bölcsőde (nursery / crèche)"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen die Vorschriften genau einhalten. (B2 - Nomen)"
+  },
+  {
+    "question": "előírás (regulation)",
+    "choices": [
+      "e Filiale, -n",
+      "e Versicherung, -en",
+      "e Vorschrift, -en",
+      "e Möwe, -n"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen die Vorschriften genau einhalten. (B2 - Nomen)"
+  },
+  {
+    "question": "e Vorstellung, -en",
+    "choices": [
+      "szelet / korong (slice / pane)",
+      "kézi súlyzó (dumbbell)",
+      "különbség (difference)",
+      "bemutatkozás / előadás (presentation / performance)"
+    ],
+    "answer": 4,
+    "hint": "Die Vorstellung beginnt in zehn Minuten. (B1 - Nomen)"
+  },
+  {
+    "question": "bemutatkozás / előadás (presentation / performance)",
+    "choices": [
+      "e Vorstellung, -en",
+      "e Versicherung, -en",
+      "e Waage, -n",
+      "e Schildkröte, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Vorstellung beginnt in zehn Minuten. (B1 - Nomen)"
+  },
+  {
+    "question": "e Waage, -n",
+    "choices": [
+      "bemutatkozás / előadás (presentation / performance)",
+      "teknősbéka (turtle)",
+      "mérleg (scale)",
+      "környék (surroundings)"
+    ],
+    "answer": 3,
+    "hint": "Die Waage zeigt 70 Kilo an. (B1 - Nomen)"
+  },
+  {
+    "question": "mérleg (scale)",
+    "choices": [
+      "e Konditorei, -en",
+      "e Untersuchung, -en",
+      "e Kunst, -¨e",
+      "e Waage, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Waage zeigt 70 Kilo an. (B1 - Nomen)"
+  },
+  {
+    "question": "e Werbeagentur, -en",
+    "choices": [
+      "tevékenység (activity)",
+      "tézis (thesis)",
+      "időjárás-előrejelzés (weather forecast)",
+      "reklámügynökség (advertising agency)"
+    ],
+    "answer": 4,
+    "hint": "Er arbeitet in einer Werbeagentur. (B2 - Nomen)"
+  },
+  {
+    "question": "reklámügynökség (advertising agency)",
+    "choices": [
+      "e Werbeagentur, -en",
+      "e Sprechstunde, -n",
+      "e Reifeprüfung, -en",
+      "e Süßigkeit, -en"
+    ],
+    "answer": 1,
+    "hint": "Er arbeitet in einer Werbeagentur. (B2 - Nomen)"
+  },
+  {
+    "question": "e Wettervorhersage, -n",
+    "choices": [
+      "fuvola / furulya (flute)",
+      "időjárás-előrejelzés (weather forecast)",
+      "érettségi vizsga (final secondary school exam)",
+      "betegbiztosító (health insurance)"
+    ],
+    "answer": 2,
+    "hint": "Die Wettervorhersage verspricht Regen. (A2 - Nomen)"
+  },
+  {
+    "question": "időjárás-előrejelzés (weather forecast)",
+    "choices": [
+      "e Mine, -n",
+      "e Flöte, -n",
+      "e Wettervorhersage, -n",
+      "e Kräuter (Pl.)"
+    ],
+    "answer": 3,
+    "hint": "Die Wettervorhersage verspricht Regen. (A2 - Nomen)"
+  },
+  {
+    "question": "e Wiege, -n",
+    "choices": [
+      "bölcső (cradle)",
+      "hangulat (mood)",
+      "honvágy (homesickness)",
+      "mimóza (mimosa)"
+    ],
+    "answer": 1,
+    "hint": "Das Kind liegt in der Wiege. (B2 - Nomen)"
+  },
+  {
+    "question": "bölcső (cradle)",
+    "choices": [
+      "e Klingel, -n",
+      "e Wiege, -n",
+      "r Unterschied, -e",
+      "e Gewohnheit, -en"
+    ],
+    "answer": 2,
+    "hint": "Das Kind liegt in der Wiege. (B2 - Nomen)"
+  },
+  {
+    "question": "e Wirksamkeit, -en",
+    "choices": [
+      "hatékonyság (effectiveness)",
+      "hanglemez (vinyl record)",
+      "művészet (art)",
+      "nyaklánc (necklace)"
+    ],
+    "answer": 1,
+    "hint": "Die Wirksamkeit des Medikaments wurde bestätigt. (C1 - Nomen)"
+  },
+  {
+    "question": "hatékonyság (effectiveness)",
+    "choices": [
+      "e Fähigkeit, -en",
+      "e Kammer, -n",
+      "e Wirksamkeit, -en",
+      "e Kündigungsfrist, -en"
+    ],
+    "answer": 3,
+    "hint": "Die Wirksamkeit des Medikaments wurde bestätigt. (C1 - Nomen)"
+  },
+  {
+    "question": "e Zielscheibe, -n",
+    "choices": [
+      "mimóza (mimosa)",
+      "céltábla (target)",
+      "szósz (sauce)",
+      "hanglemez (vinyl record)"
+    ],
+    "answer": 2,
+    "hint": "Er wurde zur Zielscheibe von Kritik. (B2 - Nomen)"
+  },
+  {
+    "question": "céltábla (target)",
+    "choices": [
+      "e Staatsangehörigkeit, -en",
+      "e Hölle",
+      "e Kunst, -¨e",
+      "e Zielscheibe, -n"
+    ],
+    "answer": 4,
+    "hint": "Er wurde zur Zielscheibe von Kritik. (B2 - Nomen)"
+  },
+  {
+    "question": "e Zukunft (Sg.)",
+    "choices": [
+      "jövő (future)",
+      "holttest (corpse)",
+      "pokol (hell)",
+      "orgona (organ)"
+    ],
+    "answer": 1,
+    "hint": "Niemand weiß, was die Zukunft bringt. (A2 - Nomen)"
+  },
+  {
+    "question": "jövő (future)",
+    "choices": [
+      "e Werbeagentur, -en",
+      "e Zukunft (Sg.)",
+      "e Filiale, -n",
+      "e Menschenwürde"
+    ],
+    "answer": 2,
+    "hint": "Niemand weiß, was die Zukunft bringt. (A2 - Nomen)"
+  }
+]

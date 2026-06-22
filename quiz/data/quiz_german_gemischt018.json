@@ -1,0 +1,2202 @@
+[
+  {
+    "question": "e Zunge, -n",
+    "choices": [
+      "éjszakázás / szállás (overnight stay)",
+      "nyilvánosság (public)",
+      "közvetítés / átvitel (transmission)",
+      "nyelv (testrész) (tongue)"
+    ],
+    "answer": 4,
+    "hint": "Zeigen Sie mir bitte Ihre Zunge. (B1 - Nomen)"
+  },
+  {
+    "question": "nyelv (testrész) (tongue)",
+    "choices": [
+      "e Öffentlichkeit (Sg.)",
+      "e Übernachtung, -en",
+      "e Zunge, -n",
+      "r Geschmack, \"-er"
+    ],
+    "answer": 3,
+    "hint": "Zeigen Sie mir bitte Ihre Zunge. (B1 - Nomen)"
+  },
+  {
+    "question": "e Öffentlichkeit (Sg.)",
+    "choices": [
+      "nyelv (testrész) (tongue)",
+      "nyilvánosság (public)",
+      "közvetítés / átvitel (transmission)",
+      "éjszakázás / szállás (overnight stay)"
+    ],
+    "answer": 2,
+    "hint": "Das Thema wurde in der Öffentlichkeit diskutiert. (B2 - Nomen)"
+  },
+  {
+    "question": "nyilvánosság (public)",
+    "choices": [
+      "e Zunge, -n",
+      "r Geschmack, \"-er",
+      "e Öffentlichkeit (Sg.)",
+      "e Übertragung, -en"
+    ],
+    "answer": 3,
+    "hint": "Das Thema wurde in der Öffentlichkeit diskutiert. (B2 - Nomen)"
+  },
+  {
+    "question": "e Übernachtung, -en",
+    "choices": [
+      "közvetítés / átvitel (transmission)",
+      "nyilvánosság (public)",
+      "éjszakázás / szállás (overnight stay)",
+      "nyelv (testrész) (tongue)"
+    ],
+    "answer": 3,
+    "hint": "Wie viel kostet eine Übernachtung im Hotel? (A2 - Nomen)"
+  },
+  {
+    "question": "éjszakázás / szállás (overnight stay)",
+    "choices": [
+      "e Übernachtung, -en",
+      "r Geschmack, \"-er",
+      "e Übertragung, -en",
+      "e Zunge, -n"
+    ],
+    "answer": 1,
+    "hint": "Wie viel kostet eine Übernachtung im Hotel? (A2 - Nomen)"
+  },
+  {
+    "question": "e Übertragung, -en",
+    "choices": [
+      "nyilvánosság (public)",
+      "nyelv (testrész) (tongue)",
+      "éjszakázás / szállás (overnight stay)",
+      "közvetítés / átvitel (transmission)"
+    ],
+    "answer": 4,
+    "hint": "Die Übertragung des Spiels beginnt um 20 Uhr. (B2 - Nomen)"
+  },
+  {
+    "question": "közvetítés / átvitel (transmission)",
+    "choices": [
+      "e Übernachtung, -en",
+      "e Übertragung, -en",
+      "e Zunge, -n",
+      "r Geschmack, \"-er"
+    ],
+    "answer": 2,
+    "hint": "Die Übertragung des Spiels beginnt um 20 Uhr. (B2 - Nomen)"
+  },
+  {
+    "question": "egal",
+    "choices": [
+      "megengedett (allowed)",
+      "mindegy (all the same)",
+      "megszokott (used to)",
+      "közös / együtt (together)"
+    ],
+    "answer": 2,
+    "hint": "Es ist mir egal, was wir heute essen. (A2 - Adjektiv)"
+  },
+  {
+    "question": "mindegy (all the same)",
+    "choices": [
+      "gleich",
+      "flexibel",
+      "gestresst",
+      "egal"
+    ],
+    "answer": 4,
+    "hint": "Es ist mir egal, was wir heute essen. (A2 - Adjektiv)"
+  },
+  {
+    "question": "eigen / eigene",
+    "choices": [
+      "szorgalmas (diligent)",
+      "veszélyes (dangerous)",
+      "idegen (foreign / strange)",
+      "saját (own)"
+    ],
+    "answer": 4,
+    "hint": "Ich hätte gerne mein eigenes Zimmer. (A2 - Adjektiv)"
+  },
+  {
+    "question": "saját (own)",
+    "choices": [
+      "eigen / eigene",
+      "flexibel",
+      "geeignet für + A",
+      "ewig"
+    ],
+    "answer": 1,
+    "hint": "Ich hätte gerne mein eigenes Zimmer. (A2 - Adjektiv)"
+  },
+  {
+    "question": "eigenhändig",
+    "choices": [
+      "saját kezűleg (with one's own hands)",
+      "csodálatos / meglepő (amazing)",
+      "türelmes (patient)",
+      "saját (own)"
+    ],
+    "answer": 1,
+    "hint": "Er hat den Brief eigenhändig unterschrieben. (B2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "saját kezűleg (with one's own hands)",
+    "choices": [
+      "eigenhändig",
+      "eingebildet",
+      "gering",
+      "geduldig"
+    ],
+    "answer": 1,
+    "hint": "Er hat den Brief eigenhändig unterschrieben. (B2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "eigentlich",
+    "choices": [
+      "végre (finally)",
+      "tulajdonképpen (actually)",
+      "egyenesen előre (straight ahead)",
+      "éppen / egyenes (just / straight)"
+    ],
+    "answer": 2,
+    "hint": "Was willst du eigentlich von mir? (A2 - Adverb)"
+  },
+  {
+    "question": "tulajdonképpen (actually)",
+    "choices": [
+      "geradeaus",
+      "gerade",
+      "eigentlich",
+      "endlich"
+    ],
+    "answer": 3,
+    "hint": "Was willst du eigentlich von mir? (A2 - Adverb)"
+  },
+  {
+    "question": "einander",
+    "choices": [
+      "néhány (some)",
+      "egymást / egymásnak (each other)",
+      "történik (to happen)",
+      "ízlés / íz (taste)"
+    ],
+    "answer": 2,
+    "hint": "Sie helfen einander bei der Arbeit. (B1 - Pronomen)"
+  },
+  {
+    "question": "egymást / egymásnak (each other)",
+    "choices": [
+      "einige",
+      "r Geschmack, \"-er",
+      "geschehen",
+      "einander"
+    ],
+    "answer": 4,
+    "hint": "Sie helfen einander bei der Arbeit. (B1 - Pronomen)"
+  },
+  {
+    "question": "ein|fallen (+ D)",
+    "choices": [
+      "fázik (to freeze)",
+      "eszébe jut (to occur to)",
+      "tervez / vázol (to design / draft)",
+      "eltávolít (to remove)"
+    ],
+    "answer": 2,
+    "hint": "Mir ist gerade etwas Wichtiges eingefallen. (A2 - Verb)"
+  },
+  {
+    "question": "eszébe jut (to occur to)",
+    "choices": [
+      "glauben an + A",
+      "entfernen (+ A)",
+      "ein|fallen (+ D)",
+      "fließen"
+    ],
+    "answer": 3,
+    "hint": "Mir ist gerade etwas Wichtiges eingefallen. (A2 - Verb)"
+  },
+  {
+    "question": "einflussreich",
+    "choices": [
+      "rugalmas (flexible)",
+      "befolyásos (influential)",
+      "megengedett (allowed)",
+      "szörnyű (terrible)"
+    ],
+    "answer": 2,
+    "hint": "Er ist ein sehr einflussreicher Politiker. (C1 - Adjektiv)"
+  },
+  {
+    "question": "befolyásos (influential)",
+    "choices": [
+      "flexibel",
+      "erschöpft",
+      "eigenhändig",
+      "einflussreich"
+    ],
+    "answer": 4,
+    "hint": "Er ist ein sehr einflussreicher Politiker. (C1 - Adjektiv)"
+  },
+  {
+    "question": "eingebildet",
+    "choices": [
+      "beképzelt (conceited)",
+      "örökké (eternal)",
+      "csekély / kevés (low / small)",
+      "közös / együtt (together)"
+    ],
+    "answer": 1,
+    "hint": "Sei nicht so eingebildet! (B2 - Adjektiv)"
+  },
+  {
+    "question": "beképzelt (conceited)",
+    "choices": [
+      "gefährlich",
+      "gespannt auf + A",
+      "gleich",
+      "eingebildet"
+    ],
+    "answer": 4,
+    "hint": "Sei nicht so eingebildet! (B2 - Adjektiv)"
+  },
+  {
+    "question": "ein|halten (+ A)",
+    "choices": [
+      "emel / gyűjt (adatot) (to raise / collect)",
+      "betart (to keep / adhere to)",
+      "követ (to follow)",
+      "felkelt (figyelmet) (to excite / arouse)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen die Regeln einhalten. (B1 - Verb)"
+  },
+  {
+    "question": "betart (to keep / adhere to)",
+    "choices": [
+      "ermöglichen (+ D + A)",
+      "erstehen (+ A)",
+      "gehorchen (+ D)",
+      "ein|halten (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Regeln einhalten. (B1 - Verb)"
+  },
+  {
+    "question": "einige",
+    "choices": [
+      "sikerül (to succeed)",
+      "türelmes (patient)",
+      "egymást / egymásnak (each other)",
+      "néhány (some)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe einige Fragen an Sie. (A2 - Pronomen)"
+  },
+  {
+    "question": "néhány (some)",
+    "choices": [
+      "einander",
+      "gelingen (+ D)",
+      "geduldig",
+      "einige"
+    ],
+    "answer": 4,
+    "hint": "Ich habe einige Fragen an Sie. (A2 - Pronomen)"
+  },
+  {
+    "question": "ein|richten (+ A)",
+    "choices": [
+      "berendez / alapít (to set up / furnish)",
+      "megenged (to allow)",
+      "megállapít (to determine / state)",
+      "elér (to reach)"
+    ],
+    "answer": 1,
+    "hint": "Wir müssen die neue Wohnung einrichten. (B1 - Verb)"
+  },
+  {
+    "question": "berendez / alapít (to set up / furnish)",
+    "choices": [
+      "folgen (+ D)",
+      "ein|stecken (+ A)",
+      "ein|richten (+ A)",
+      "erstellen / erschaffen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen die neue Wohnung einrichten. (B1 - Verb)"
+  },
+  {
+    "question": "ein|schlafen",
+    "choices": [
+      "vár / elvár (to expect)",
+      "felgyógyul (to recover)",
+      "elalszik (to fall asleep)",
+      "betart (to keep / adhere to)"
+    ],
+    "answer": 3,
+    "hint": "Ich bin gestern vor dem Fernseher eingeschlafen. (A2 - Verb)"
+  },
+  {
+    "question": "elalszik (to fall asleep)",
+    "choices": [
+      "ein|schlafen",
+      "gehorchen (+ D)",
+      "entdecken (+ A)",
+      "entlassen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Ich bin gestern vor dem Fernseher eingeschlafen. (A2 - Verb)"
+  },
+  {
+    "question": "ein|stecken (+ A)",
+    "choices": [
+      "kínozza magát (to torment oneself)",
+      "elrak / bedug (to pocket / insert)",
+      "átél / tapasztal (to experience)",
+      "megemlít (to mention)"
+    ],
+    "answer": 2,
+    "hint": "Hast du den Schlüssel eingesteckt? (B1 - Verb)"
+  },
+  {
+    "question": "elrak / bedug (to pocket / insert)",
+    "choices": [
+      "erscheinen",
+      "ein|stecken (+ A)",
+      "führen zu + D",
+      "ein|fallen (+ D)"
+    ],
+    "answer": 2,
+    "hint": "Hast du den Schlüssel eingesteckt? (B1 - Verb)"
+  },
+  {
+    "question": "ein|ziehen",
+    "choices": [
+      "eltávolít (to remove)",
+      "létezik (to exist)",
+      "beköltözik (to move in)",
+      "kínozza magát (to torment oneself)"
+    ],
+    "answer": 3,
+    "hint": "Wir ziehen nächste Woche in das neue Haus ein. (A2 - Verb)"
+  },
+  {
+    "question": "beköltözik (to move in)",
+    "choices": [
+      "ermöglichen (+ D + A)",
+      "erfinden (+ A)",
+      "ein|halten (+ A)",
+      "ein|ziehen"
+    ],
+    "answer": 4,
+    "hint": "Wir ziehen nächste Woche in das neue Haus ein. (A2 - Verb)"
+  },
+  {
+    "question": "einzig",
+    "choices": [
+      "beképzelt (conceited)",
+      "tollas (feathered)",
+      "egyetlen (only / single)",
+      "csekély / kevés (low / small)"
+    ],
+    "answer": 3,
+    "hint": "Das war meine einzige Chance. (B1 - Adjektiv)"
+  },
+  {
+    "question": "egyetlen (only / single)",
+    "choices": [
+      "erlaubt",
+      "einflussreich",
+      "erforderlich",
+      "einzig"
+    ],
+    "answer": 4,
+    "hint": "Das war meine einzige Chance. (B1 - Adjektiv)"
+  },
+  {
+    "question": "empfehlen (+ D + A)",
+    "choices": [
+      "felgyógyul (to recover)",
+      "sikerül (to succeed)",
+      "ajánl (to recommend)",
+      "eltávolít (to remove)"
+    ],
+    "answer": 3,
+    "hint": "Können Sie mir ein gutes Restaurant empfehlen? (A2 - Verb)"
+  },
+  {
+    "question": "ajánl (to recommend)",
+    "choices": [
+      "ergänzen (+ A)",
+      "empfehlen (+ D + A)",
+      "glauben an + A",
+      "erledigen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Können Sie mir ein gutes Restaurant empfehlen? (A2 - Verb)"
+  },
+  {
+    "question": "empört sein (über + A)",
+    "choices": [
+      "fel van háborodva (to be outraged)",
+      "komolyan vesz (to take seriously)",
+      "fogságba ejt (to capture)",
+      "pontosan úgy (just like)"
+    ],
+    "answer": 1,
+    "hint": "Sie war empört über sein Verhalten. (B2 - Ausdruck)"
+  },
+  {
+    "question": "fel van háborodva (to be outraged)",
+    "choices": [
+      "gefangen nehmen (+ A)",
+      "genau so",
+      "erst mal",
+      "empört sein (über + A)"
+    ],
+    "answer": 4,
+    "hint": "Sie war empört über sein Verhalten. (B2 - Ausdruck)"
+  },
+  {
+    "question": "endlich",
+    "choices": [
+      "egyenesen előre (straight ahead)",
+      "végre (finally)",
+      "tulajdonképpen (actually)",
+      "éppen / egyenes (just / straight)"
+    ],
+    "answer": 2,
+    "hint": "Endlich sind wir am Ziel angekommen. (A2 - Adverb)"
+  },
+  {
+    "question": "végre (finally)",
+    "choices": [
+      "geradeaus",
+      "gerade",
+      "eigentlich",
+      "endlich"
+    ],
+    "answer": 4,
+    "hint": "Endlich sind wir am Ziel angekommen. (A2 - Adverb)"
+  },
+  {
+    "question": "entdecken (+ A)",
+    "choices": [
+      "teljesít / betölt (to fulfill)",
+      "eltávolít (to remove)",
+      "felfedez (to discover)",
+      "elrak / bedug (to pocket / insert)"
+    ],
+    "answer": 3,
+    "hint": "Kolumbus entdeckte Amerika. (B1 - Verb)"
+  },
+  {
+    "question": "felfedez (to discover)",
+    "choices": [
+      "fest|stellen (+ A)",
+      "entdecken (+ A)",
+      "(sich) gewöhnen an + A",
+      "feiern (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Kolumbus entdeckte Amerika. (B1 - Verb)"
+  },
+  {
+    "question": "entfernen (+ A)",
+    "choices": [
+      "megtud / tapasztal (to experience / find out)",
+      "eltávolít (to remove)",
+      "történik (to happen)",
+      "megjelenik (to appear)"
+    ],
+    "answer": 2,
+    "hint": "Bitte entfernen Sie den Fleck. (B1 - Verb)"
+  },
+  {
+    "question": "eltávolít (to remove)",
+    "choices": [
+      "(sich) gewöhnen an + A",
+      "entfernen (+ A)",
+      "führen zu + D",
+      "gehören zu + D"
+    ],
+    "answer": 2,
+    "hint": "Bitte entfernen Sie den Fleck. (B1 - Verb)"
+  },
+  {
+    "question": "entfernen von + D (aus + D)",
+    "choices": [
+      "elrak / bedug (to pocket / insert)",
+      "történik (to happen)",
+      "eltávolodik / elkerül (to distance from)",
+      "elbocsát (to dismiss / release)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben uns von dem Thema entfernt. (B2 - Verb)"
+  },
+  {
+    "question": "eltávolodik / elkerül (to distance from)",
+    "choices": [
+      "entfernen von + D (aus + D)",
+      "fest|stellen (+ A)",
+      "ein|halten (+ A)",
+      "erfahren (+ A / von + D)"
+    ],
+    "answer": 1,
+    "hint": "Wir haben uns von dem Thema entfernt. (B2 - Verb)"
+  },
+  {
+    "question": "entführen (+ A)",
+    "choices": [
+      "beköltözik (to move in)",
+      "elrabol (to kidnap)",
+      "valakié (to belong to)",
+      "berendez / alapít (to set up / furnish)"
+    ],
+    "answer": 2,
+    "hint": "Das Kind wurde entführt. (B2 - Verb)"
+  },
+  {
+    "question": "elrabol (to kidnap)",
+    "choices": [
+      "führen zu + D",
+      "entlassen (+ A)",
+      "entfernen (+ A)",
+      "entführen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Das Kind wurde entführt. (B2 - Verb)"
+  },
+  {
+    "question": "entlassen (+ A)",
+    "choices": [
+      "elbocsát (to dismiss / release)",
+      "felgyógyul (to recover)",
+      "létezik (to exist)",
+      "felkelt (figyelmet) (to excite / arouse)"
+    ],
+    "answer": 1,
+    "hint": "Die Firma musste viele Mitarbeiter entlassen. (B2 - Verb)"
+  },
+  {
+    "question": "elbocsát (to dismiss / release)",
+    "choices": [
+      "ein|richten (+ A)",
+      "entlassen (+ A)",
+      "erstehen (+ A)",
+      "ein|stecken (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Die Firma musste viele Mitarbeiter entlassen. (B2 - Verb)"
+  },
+  {
+    "question": "(sich) entscheiden (für + A / gegen + A)",
+    "choices": [
+      "eltávolodik / elkerül (to distance from)",
+      "dönt (to decide)",
+      "valakié (to belong to)",
+      "elalszik (to fall asleep)"
+    ],
+    "answer": 2,
+    "hint": "Ich kann mich nicht entscheiden. (B1 - Verb)"
+  },
+  {
+    "question": "dönt (to decide)",
+    "choices": [
+      "glauben an + A",
+      "(sich) entscheiden (für + A / gegen + A)",
+      "entstehen (aus + D)",
+      "entlassen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich kann mich nicht entscheiden. (B1 - Verb)"
+  },
+  {
+    "question": "entstehen (aus + D)",
+    "choices": [
+      "hiányzik (to be missing)",
+      "eltávolodik / elkerül (to distance from)",
+      "keletkezik (to arise from)",
+      "szót fogad (to obey)"
+    ],
+    "answer": 3,
+    "hint": "Hier entsteht ein neues Einkaufszentrum. (B2 - Verb)"
+  },
+  {
+    "question": "keletkezik (to arise from)",
+    "choices": [
+      "entfernen von + D (aus + D)",
+      "entstehen (aus + D)",
+      "fehlen (+ D)",
+      "(sich) quälen"
+    ],
+    "answer": 2,
+    "hint": "Hier entsteht ein neues Einkaufszentrum. (B2 - Verb)"
+  },
+  {
+    "question": "entwerfen (+ A)",
+    "choices": [
+      "tervez / vázol (to design / draft)",
+      "létezik (to exist)",
+      "berendez / alapít (to set up / furnish)",
+      "keletkezik (to arise from)"
+    ],
+    "answer": 1,
+    "hint": "Der Architekt entwirft ein modernes Haus. (B2 - Verb)"
+  },
+  {
+    "question": "tervez / vázol (to design / draft)",
+    "choices": [
+      "entführen (+ A)",
+      "entwerfen (+ A)",
+      "entfernen von + D (aus + D)",
+      "geschehen"
+    ],
+    "answer": 2,
+    "hint": "Der Architekt entwirft ein modernes Haus. (B2 - Verb)"
+  },
+  {
+    "question": "erfahren (+ A / von + D)",
+    "choices": [
+      "ajánl (to recommend)",
+      "megtud / tapasztal (to experience / find out)",
+      "vezet vmihez (to lead to)",
+      "elrabol (to kidnap)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe erst gestern davon erfahren. (B1 - Verb)"
+  },
+  {
+    "question": "megtud / tapasztal (to experience / find out)",
+    "choices": [
+      "ergänzen (+ A)",
+      "erfahren (+ A / von + D)",
+      "gehören (+ D)",
+      "entfernen von + D (aus + D)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe erst gestern davon erfahren. (B1 - Verb)"
+  },
+  {
+    "question": "erfinden (+ A)",
+    "choices": [
+      "kiegészít (to complete)",
+      "eszébe jut (to occur to)",
+      "feltalál (to invent)",
+      "hiányzik (to be missing)"
+    ],
+    "answer": 3,
+    "hint": "Wer hat das Telefon erfunden? (B1 - Verb)"
+  },
+  {
+    "question": "feltalál (to invent)",
+    "choices": [
+      "führen zu + D",
+      "erfahren (+ A / von + D)",
+      "erfinden (+ A)",
+      "erledigen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Wer hat das Telefon erfunden? (B1 - Verb)"
+  },
+  {
+    "question": "erforderlich",
+    "choices": [
+      "törölt (deleted)",
+      "szükséges (required)",
+      "védett vmitől (protected from)",
+      "saját kezűleg (with one's own hands)"
+    ],
+    "answer": 2,
+    "hint": "Fachkenntnisse sind für diesen Job erforderlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "szükséges (required)",
+    "choices": [
+      "erforderlich",
+      "geduldig",
+      "furchtbar",
+      "einzig"
+    ],
+    "answer": 1,
+    "hint": "Fachkenntnisse sind für diesen Job erforderlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "erfüllen (+ A)",
+    "choices": [
+      "hiányzik (to be missing)",
+      "szót fogad (to obey)",
+      "dönt (to decide)",
+      "teljesít / betölt (to fulfill)"
+    ],
+    "answer": 4,
+    "hint": "Er hat alle Voraussetzungen erfüllt. (B1 - Verb)"
+  },
+  {
+    "question": "teljesít / betölt (to fulfill)",
+    "choices": [
+      "erfüllen (+ A)",
+      "ein|fallen (+ D)",
+      "gehorchen (+ D)",
+      "erfinden (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er hat alle Voraussetzungen erfüllt. (B1 - Verb)"
+  },
+  {
+    "question": "ergänzen (+ A)",
+    "choices": [
+      "kiegészít (to complete)",
+      "megjelenik (to appear)",
+      "emel / gyűjt (adatot) (to raise / collect)",
+      "hisz vmiben (to believe in)"
+    ],
+    "answer": 1,
+    "hint": "Bitte ergänzen Sie die fehlenden Wörter. (B1 - Verb)"
+  },
+  {
+    "question": "kiegészít (to complete)",
+    "choices": [
+      "ergänzen (+ A)",
+      "erledigen (+ A)",
+      "existieren",
+      "erwähnen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Bitte ergänzen Sie die fehlenden Wörter. (B1 - Verb)"
+  },
+  {
+    "question": "erhalten (+ A)",
+    "choices": [
+      "megkap / megőriz (to receive / preserve)",
+      "hiányzik (to be missing)",
+      "megtud / tapasztal (to experience / find out)",
+      "hisz vmiben (to believe in)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe Ihren Brief erhalten. (B1 - Verb)"
+  },
+  {
+    "question": "megkap / megőriz (to receive / preserve)",
+    "choices": [
+      "führen zu + D",
+      "gehören (+ D)",
+      "erhalten (+ A)",
+      "erwähnen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe Ihren Brief erhalten. (B1 - Verb)"
+  },
+  {
+    "question": "erheben (+ A)",
+    "choices": [
+      "történik (to happen)",
+      "megvásárol (to purchase)",
+      "eltávolít (to remove)",
+      "emel / gyűjt (adatot) (to raise / collect)"
+    ],
+    "answer": 4,
+    "hint": "Die Daten wurden anonym erhoben. (C1 - Verb)"
+  },
+  {
+    "question": "emel / gyűjt (adatot) (to raise / collect)",
+    "choices": [
+      "führen zu + D",
+      "erleben (+ A)",
+      "erheben (+ A)",
+      "gehören (+ D)"
+    ],
+    "answer": 3,
+    "hint": "Die Daten wurden anonym erhoben. (C1 - Verb)"
+  },
+  {
+    "question": "erlauben (+ D + A)",
+    "choices": [
+      "ünnepel (to celebrate)",
+      "megenged (to allow)",
+      "megvásárol (to purchase)",
+      "megkap / megőriz (to receive / preserve)"
+    ],
+    "answer": 2,
+    "hint": "Meine Eltern erlauben mir die Reise nicht. (A2 - Verb)"
+  },
+  {
+    "question": "megenged (to allow)",
+    "choices": [
+      "ermöglichen (+ D + A)",
+      "erfinden (+ A)",
+      "erlauben (+ D + A)",
+      "ein|halten (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Meine Eltern erlauben mir die Reise nicht. (A2 - Verb)"
+  },
+  {
+    "question": "erlaubt",
+    "choices": [
+      "saját (own)",
+      "szükséges (required)",
+      "veszélyes (dangerous)",
+      "megengedett (allowed)"
+    ],
+    "answer": 4,
+    "hint": "Parken ist hier nicht erlaubt. (A2 - Adjektiv)"
+  },
+  {
+    "question": "megengedett (allowed)",
+    "choices": [
+      "eigenhändig",
+      "gleich",
+      "erlaubt",
+      "gefährlich"
+    ],
+    "answer": 3,
+    "hint": "Parken ist hier nicht erlaubt. (A2 - Adjektiv)"
+  },
+  {
+    "question": "erleben (+ A)",
+    "choices": [
+      "sikerül (to succeed)",
+      "betart (to keep / adhere to)",
+      "átél / tapasztal (to experience)",
+      "elrak / bedug (to pocket / insert)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben im Urlaub viel Schönes erlebt. (B1 - Verb)"
+  },
+  {
+    "question": "átél / tapasztal (to experience)",
+    "choices": [
+      "(sich) gewöhnen an + A",
+      "erstehen (+ A)",
+      "erleben (+ A)",
+      "erheben (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben im Urlaub viel Schönes erlebt. (B1 - Verb)"
+  },
+  {
+    "question": "erledigen (+ A)",
+    "choices": [
+      "elintéz (to deal with)",
+      "kiegészít (to complete)",
+      "megemlít (to mention)",
+      "keletkezik (to arise from)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss noch einige Aufgaben erledigen. (B1 - Verb)"
+  },
+  {
+    "question": "elintéz (to deal with)",
+    "choices": [
+      "entlassen (+ A)",
+      "erledigen (+ A)",
+      "fließen",
+      "erfüllen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss noch einige Aufgaben erledigen. (B1 - Verb)"
+  },
+  {
+    "question": "ermöglichen (+ D + A)",
+    "choices": [
+      "megemlít (to mention)",
+      "folyik (to flow)",
+      "megtud / tapasztal (to experience / find out)",
+      "lehetővé tesz (to make possible)"
+    ],
+    "answer": 4,
+    "hint": "Das Internet ermöglicht schnellen Informationsaustausch. (B2 - Verb)"
+  },
+  {
+    "question": "lehetővé tesz (to make possible)",
+    "choices": [
+      "ermöglichen (+ D + A)",
+      "ein|ziehen",
+      "erfüllen (+ A)",
+      "erreichen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Das Internet ermöglicht schnellen Informationsaustausch. (B2 - Verb)"
+  },
+  {
+    "question": "ernst nehmen (+ A)",
+    "choices": [
+      "fogságba ejt (to capture)",
+      "pontosan úgy (just like)",
+      "először is (first of all)",
+      "komolyan vesz (to take seriously)"
+    ],
+    "answer": 4,
+    "hint": "Man muss dieses Problem ernst nehmen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "komolyan vesz (to take seriously)",
+    "choices": [
+      "ernst nehmen (+ A)",
+      "gefangen nehmen (+ A)",
+      "erst mal",
+      "genau so"
+    ],
+    "answer": 1,
+    "hint": "Man muss dieses Problem ernst nehmen. (B1 - Ausdruck)"
+  },
+  {
+    "question": "erregen (+ A)",
+    "choices": [
+      "teljesít / betölt (to fulfill)",
+      "megkap / megőriz (to receive / preserve)",
+      "felkelt (figyelmet) (to excite / arouse)",
+      "hozzászokik vmihez (to get used to)"
+    ],
+    "answer": 3,
+    "hint": "Er wollte mit seinem Auftritt Aufsehen erregen. (C1 - Verb)"
+  },
+  {
+    "question": "felkelt (figyelmet) (to excite / arouse)",
+    "choices": [
+      "entführen (+ A)",
+      "gehören zu + D",
+      "erregen (+ A)",
+      "ein|ziehen"
+    ],
+    "answer": 3,
+    "hint": "Er wollte mit seinem Auftritt Aufsehen erregen. (C1 - Verb)"
+  },
+  {
+    "question": "erreichen (+ A)",
+    "choices": [
+      "tervez / vázol (to design / draft)",
+      "elér (to reach)",
+      "vár / elvár (to expect)",
+      "felgyógyul (to recover)"
+    ],
+    "answer": 2,
+    "hint": "Wir haben das Ziel pünktlich erreicht. (B1 - Verb)"
+  },
+  {
+    "question": "elér (to reach)",
+    "choices": [
+      "erscheinen",
+      "gehören (+ D)",
+      "entlassen (+ A)",
+      "erreichen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir haben das Ziel pünktlich erreicht. (B1 - Verb)"
+  },
+  {
+    "question": "erscheinen",
+    "choices": [
+      "elér (to reach)",
+      "hiányzik (to be missing)",
+      "megjelenik (to appear)",
+      "megemlít (to mention)"
+    ],
+    "answer": 3,
+    "hint": "Das Buch erscheint nächsten Monat. (B2 - Verb)"
+  },
+  {
+    "question": "megjelenik (to appear)",
+    "choices": [
+      "ein|richten (+ A)",
+      "erstellen / erschaffen (+ A)",
+      "erheben (+ A)",
+      "erscheinen"
+    ],
+    "answer": 4,
+    "hint": "Das Buch erscheint nächsten Monat. (B2 - Verb)"
+  },
+  {
+    "question": "erschöpft",
+    "choices": [
+      "kimerült (exhausted)",
+      "veszélyes (dangerous)",
+      "kíváncsi vmire / izgatott (curious about / excited)",
+      "megszokott (used to)"
+    ],
+    "answer": 1,
+    "hint": "Nach der langen Wanderung war ich erschöpft. (B1 - Adjektiv)"
+  },
+  {
+    "question": "kimerült (exhausted)",
+    "choices": [
+      "geborgen",
+      "flexibel",
+      "eingebildet",
+      "erschöpft"
+    ],
+    "answer": 4,
+    "hint": "Nach der langen Wanderung war ich erschöpft. (B1 - Adjektiv)"
+  },
+  {
+    "question": "erst mal",
+    "choices": [
+      "fel van háborodva (to be outraged)",
+      "komolyan vesz (to take seriously)",
+      "először is (first of all)",
+      "pontosan úgy (just like)"
+    ],
+    "answer": 3,
+    "hint": "Ich muss erst mal ankommen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "először is (first of all)",
+    "choices": [
+      "gefangen nehmen (+ A)",
+      "ernst nehmen (+ A)",
+      "erst mal",
+      "empört sein (über + A)"
+    ],
+    "answer": 3,
+    "hint": "Ich muss erst mal ankommen. (A2 - Ausdruck)"
+  },
+  {
+    "question": "erstaunlich",
+    "choices": [
+      "megszokott (used to)",
+      "rugalmas (flexible)",
+      "csodálatos / meglepő (amazing)",
+      "türelmes (patient)"
+    ],
+    "answer": 3,
+    "hint": "Das Ergebnis ist wirklich erstaunlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "csodálatos / meglepő (amazing)",
+    "choices": [
+      "früh",
+      "geeignet für + A",
+      "geduldig",
+      "erstaunlich"
+    ],
+    "answer": 4,
+    "hint": "Das Ergebnis ist wirklich erstaunlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "erstehen (+ A)",
+    "choices": [
+      "megvásárol (to purchase)",
+      "eszébe jut (to occur to)",
+      "fázik (to freeze)",
+      "ünnepel (to celebrate)"
+    ],
+    "answer": 1,
+    "hint": "Er konnte das Bild günstig erstehen. (C1 - Verb)"
+  },
+  {
+    "question": "megvásárol (to purchase)",
+    "choices": [
+      "erstehen (+ A)",
+      "(sich) gewöhnen an + A",
+      "frieren",
+      "erregen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er konnte das Bild günstig erstehen. (C1 - Verb)"
+  },
+  {
+    "question": "erstellen / erschaffen (+ A)",
+    "choices": [
+      "elkészít / létrehoz (to create)",
+      "sikerül (to succeed)",
+      "eltávolodik / elkerül (to distance from)",
+      "felkelt (figyelmet) (to excite / arouse)"
+    ],
+    "answer": 1,
+    "hint": "Ich erstelle gerade eine Liste. (B1 - Verb)"
+  },
+  {
+    "question": "elkészít / létrehoz (to create)",
+    "choices": [
+      "erfüllen (+ A)",
+      "erstellen / erschaffen (+ A)",
+      "genesen",
+      "erheben (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich erstelle gerade eine Liste. (B1 - Verb)"
+  },
+  {
+    "question": "erwarten (+ A)",
+    "choices": [
+      "átél / tapasztal (to experience)",
+      "kínozza magát (to torment oneself)",
+      "vár / elvár (to expect)",
+      "emel / gyűjt (adatot) (to raise / collect)"
+    ],
+    "answer": 3,
+    "hint": "Wir erwarten Ihren Besuch. (B1 - Verb)"
+  },
+  {
+    "question": "vár / elvár (to expect)",
+    "choices": [
+      "erfahren (+ A / von + D)",
+      "gehören zu + D",
+      "ergänzen (+ A)",
+      "erwarten (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir erwarten Ihren Besuch. (B1 - Verb)"
+  },
+  {
+    "question": "erwähnen (+ A)",
+    "choices": [
+      "megemlít (to mention)",
+      "keletkezik (to arise from)",
+      "elbocsát (to dismiss / release)",
+      "elrak / bedug (to pocket / insert)"
+    ],
+    "answer": 1,
+    "hint": "Er hat diesen Punkt kurz erwähnt. (B2 - Verb)"
+  },
+  {
+    "question": "megemlít (to mention)",
+    "choices": [
+      "ein|fallen (+ D)",
+      "entführen (+ A)",
+      "existieren",
+      "erwähnen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er hat diesen Punkt kurz erwähnt. (B2 - Verb)"
+  },
+  {
+    "question": "ewig",
+    "choices": [
+      "örökké (eternal)",
+      "egyetlen (only / single)",
+      "ízléses (tasteful)",
+      "mindegy (all the same)"
+    ],
+    "answer": 1,
+    "hint": "Das hat eine ewige Zeit gedauert. (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "örökké (eternal)",
+    "choices": [
+      "ewig",
+      "erlaubt",
+      "gefährlich",
+      "geeignet für + A"
+    ],
+    "answer": 1,
+    "hint": "Das hat eine ewige Zeit gedauert. (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "existieren",
+    "choices": [
+      "létezik (to exist)",
+      "hozzászokik vmihez (to get used to)",
+      "eltávolodik / elkerül (to distance from)",
+      "megenged (to allow)"
+    ],
+    "answer": 1,
+    "hint": "Dieses Problem existiert schon lange. (B1 - Verb)"
+  },
+  {
+    "question": "létezik (to exist)",
+    "choices": [
+      "existieren",
+      "entlassen (+ A)",
+      "ein|richten (+ A)",
+      "erleben (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Dieses Problem existiert schon lange. (B1 - Verb)"
+  },
+  {
+    "question": "fehlen (+ D)",
+    "choices": [
+      "berendez / alapít (to set up / furnish)",
+      "hiányzik (to be missing)",
+      "kínozza magát (to torment oneself)",
+      "felfedez (to discover)"
+    ],
+    "answer": 2,
+    "hint": "Mir fehlt mein Schlüssel. (A2 - Verb)"
+  },
+  {
+    "question": "hiányzik (to be missing)",
+    "choices": [
+      "fehlen (+ D)",
+      "entlassen (+ A)",
+      "erfinden (+ A)",
+      "erheben (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Mir fehlt mein Schlüssel. (A2 - Verb)"
+  },
+  {
+    "question": "feiern (+ A)",
+    "choices": [
+      "megállapít (to determine / state)",
+      "ünnepel (to celebrate)",
+      "megtud / tapasztal (to experience / find out)",
+      "hiányzik (to be missing)"
+    ],
+    "answer": 2,
+    "hint": "Wir feiern heute meinen Geburtstag. (A1 - Verb)"
+  },
+  {
+    "question": "ünnepel (to celebrate)",
+    "choices": [
+      "feiern (+ A)",
+      "ein|ziehen",
+      "ermöglichen (+ D + A)",
+      "erlauben (+ D + A)"
+    ],
+    "answer": 1,
+    "hint": "Wir feiern heute meinen Geburtstag. (A1 - Verb)"
+  },
+  {
+    "question": "fest|stellen (+ A)",
+    "choices": [
+      "valakié (to belong to)",
+      "elrabol (to kidnap)",
+      "megállapít (to determine / state)",
+      "megvásárol (to purchase)"
+    ],
+    "answer": 3,
+    "hint": "Der Arzt konnte keine Krankheit feststellen. (B1 - Verb)"
+  },
+  {
+    "question": "megállapít (to determine / state)",
+    "choices": [
+      "fest|stellen (+ A)",
+      "erscheinen",
+      "entdecken (+ A)",
+      "geschehen"
+    ],
+    "answer": 1,
+    "hint": "Der Arzt konnte keine Krankheit feststellen. (B1 - Verb)"
+  },
+  {
+    "question": "feucht",
+    "choices": [
+      "mindegy (all the same)",
+      "türelmes (patient)",
+      "nedves (moist / damp)",
+      "kíváncsi vmire / izgatott (curious about / excited)"
+    ],
+    "answer": 3,
+    "hint": "Das Tuch ist noch feucht. (B1 - Adjektiv)"
+  },
+  {
+    "question": "nedves (moist / damp)",
+    "choices": [
+      "eigenhändig",
+      "gestresst",
+      "feucht",
+      "geborgen"
+    ],
+    "answer": 3,
+    "hint": "Das Tuch ist noch feucht. (B1 - Adjektiv)"
+  },
+  {
+    "question": "fleißig",
+    "choices": [
+      "szorgalmas (diligent)",
+      "rugalmas (flexible)",
+      "szörnyű (terrible)",
+      "csodálatos / meglepő (amazing)"
+    ],
+    "answer": 1,
+    "hint": "Er ist ein sehr fleißiger Schüler. (A1 - Adjektiv)"
+  },
+  {
+    "question": "szorgalmas (diligent)",
+    "choices": [
+      "erlaubt",
+      "eingebildet",
+      "erschöpft",
+      "fleißig"
+    ],
+    "answer": 4,
+    "hint": "Er ist ein sehr fleißiger Schüler. (A1 - Adjektiv)"
+  },
+  {
+    "question": "flexibel",
+    "choices": [
+      "szorgalmas (diligent)",
+      "saját (own)",
+      "rugalmas (flexible)",
+      "megszokott (used to)"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen bei den Terminen flexibel sein. (B1 - Adjektiv)"
+  },
+  {
+    "question": "rugalmas (flexible)",
+    "choices": [
+      "früh",
+      "gelöscht",
+      "flexibel",
+      "geborgen"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen bei den Terminen flexibel sein. (B1 - Adjektiv)"
+  },
+  {
+    "question": "fließen",
+    "choices": [
+      "folyik (to flow)",
+      "felfedez (to discover)",
+      "elrabol (to kidnap)",
+      "történik (to happen)"
+    ],
+    "answer": 1,
+    "hint": "Der Fluss fließt durch die Stadt. (B1 - Verb)"
+  },
+  {
+    "question": "folyik (to flow)",
+    "choices": [
+      "erwähnen (+ A)",
+      "ein|stecken (+ A)",
+      "entstehen (aus + D)",
+      "fließen"
+    ],
+    "answer": 4,
+    "hint": "Der Fluss fließt durch die Stadt. (B1 - Verb)"
+  },
+  {
+    "question": "folgen (+ D)",
+    "choices": [
+      "valakié (to belong to)",
+      "felgyógyul (to recover)",
+      "követ (to follow)",
+      "hisz vmiben (to believe in)"
+    ],
+    "answer": 3,
+    "hint": "Bitte folgen Sie mir. (A2 - Verb)"
+  },
+  {
+    "question": "követ (to follow)",
+    "choices": [
+      "erstehen (+ A)",
+      "erwähnen (+ A)",
+      "erstellen / erschaffen (+ A)",
+      "folgen (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Bitte folgen Sie mir. (A2 - Verb)"
+  },
+  {
+    "question": "fremd",
+    "choices": [
+      "saját kezűleg (with one's own hands)",
+      "ízléses (tasteful)",
+      "kíváncsi vmire / izgatott (curious about / excited)",
+      "idegen (foreign / strange)"
+    ],
+    "answer": 4,
+    "hint": "Ich bin hier fremd. (A2 - Adjektiv)"
+  },
+  {
+    "question": "idegen (foreign / strange)",
+    "choices": [
+      "fürchterlich",
+      "fremd",
+      "gewohnt",
+      "früh"
+    ],
+    "answer": 2,
+    "hint": "Ich bin hier fremd. (A2 - Adjektiv)"
+  },
+  {
+    "question": "frieren",
+    "choices": [
+      "fázik (to freeze)",
+      "vár / elvár (to expect)",
+      "eltávolodik / elkerül (to distance from)",
+      "elintéz (to deal with)"
+    ],
+    "answer": 1,
+    "hint": "Ich friere an den Händen. (A2 - Verb)"
+  },
+  {
+    "question": "fázik (to freeze)",
+    "choices": [
+      "frieren",
+      "ein|stecken (+ A)",
+      "erfinden (+ A)",
+      "erledigen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Ich friere an den Händen. (A2 - Verb)"
+  },
+  {
+    "question": "früh",
+    "choices": [
+      "kíváncsi vmire / izgatott (curious about / excited)",
+      "korán (early)",
+      "szükséges (required)",
+      "biztonságban érzi magát (secure / safe)"
+    ],
+    "answer": 2,
+    "hint": "Ich stehe morgens sehr früh auf. (A1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "korán (early)",
+    "choices": [
+      "geeignet für + A",
+      "erstaunlich",
+      "erlaubt",
+      "früh"
+    ],
+    "answer": 4,
+    "hint": "Ich stehe morgens sehr früh auf. (A1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "furchtbar",
+    "choices": [
+      "csodálatos / meglepő (amazing)",
+      "szörnyű (terrible)",
+      "szükséges (required)",
+      "biztonságban érzi magát (secure / safe)"
+    ],
+    "answer": 2,
+    "hint": "Das Wetter ist heute furchtbar. (B1 - Adjektiv)"
+  },
+  {
+    "question": "szörnyű (terrible)",
+    "choices": [
+      "geschmackvoll",
+      "erforderlich",
+      "eigen / eigene",
+      "furchtbar"
+    ],
+    "answer": 4,
+    "hint": "Das Wetter ist heute furchtbar. (B1 - Adjektiv)"
+  },
+  {
+    "question": "führen zu + D",
+    "choices": [
+      "vezet vmihez (to lead to)",
+      "átél / tapasztal (to experience)",
+      "elbocsát (to dismiss / release)",
+      "tervez / vázol (to design / draft)"
+    ],
+    "answer": 1,
+    "hint": "Das kann zu Problemen führen. (B2 - Verb)"
+  },
+  {
+    "question": "vezet vmihez (to lead to)",
+    "choices": [
+      "fließen",
+      "führen zu + D",
+      "erfüllen (+ A)",
+      "(sich) gewöhnen an + A"
+    ],
+    "answer": 2,
+    "hint": "Das kann zu Problemen führen. (B2 - Verb)"
+  },
+  {
+    "question": "fürchterlich",
+    "choices": [
+      "kíváncsi vmire / izgatott (curious about / excited)",
+      "egyetlen (only / single)",
+      "biztonságban érzi magát (secure / safe)",
+      "rettenetes (dreadful)"
+    ],
+    "answer": 4,
+    "hint": "Er hat fürchterliche Schmerzen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "rettenetes (dreadful)",
+    "choices": [
+      "geeignet für + A",
+      "eingebildet",
+      "geborgen",
+      "fürchterlich"
+    ],
+    "answer": 4,
+    "hint": "Er hat fürchterliche Schmerzen. (B1 - Adjektiv)"
+  },
+  {
+    "question": "geborgen",
+    "choices": [
+      "szörnyű (terrible)",
+      "egészséges (healthy)",
+      "biztonságban érzi magát (secure / safe)",
+      "megszokott (used to)"
+    ],
+    "answer": 3,
+    "hint": "Bei dir fühle ich mich geborgen. (B2 - Adjektiv)"
+  },
+  {
+    "question": "biztonságban érzi magát (secure / safe)",
+    "choices": [
+      "erlaubt",
+      "geborgen",
+      "früh",
+      "feucht"
+    ],
+    "answer": 2,
+    "hint": "Bei dir fühle ich mich geborgen. (B2 - Adjektiv)"
+  },
+  {
+    "question": "geduldig",
+    "choices": [
+      "türelmes (patient)",
+      "stresszes (stressed)",
+      "mindegy (all the same)",
+      "beképzelt (conceited)"
+    ],
+    "answer": 1,
+    "hint": "Man muss bei dieser Arbeit geduldig sein. (B1 - Adjektiv)"
+  },
+  {
+    "question": "türelmes (patient)",
+    "choices": [
+      "erstaunlich",
+      "einzig",
+      "geduldig",
+      "geeignet für + A"
+    ],
+    "answer": 3,
+    "hint": "Man muss bei dieser Arbeit geduldig sein. (B1 - Adjektiv)"
+  },
+  {
+    "question": "geeignet für + A",
+    "choices": [
+      "közös / együtt (together)",
+      "azonos / azonnal (same / immediately)",
+      "alkalmas vmire (suitable for)",
+      "rugalmas (flexible)"
+    ],
+    "answer": 3,
+    "hint": "Der Film ist nicht für Kinder geeignet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "alkalmas vmire (suitable for)",
+    "choices": [
+      "geeignet für + A",
+      "feucht",
+      "egal",
+      "gewohnt"
+    ],
+    "answer": 1,
+    "hint": "Der Film ist nicht für Kinder geeignet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "gefangen nehmen (+ A)",
+    "choices": [
+      "pontosan úgy (just like)",
+      "komolyan vesz (to take seriously)",
+      "fogságba ejt (to capture)",
+      "fel van háborodva (to be outraged)"
+    ],
+    "answer": 3,
+    "hint": "Der Dieb wurde gefangen genommen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "fogságba ejt (to capture)",
+    "choices": [
+      "ernst nehmen (+ A)",
+      "erst mal",
+      "gefangen nehmen (+ A)",
+      "empört sein (über + A)"
+    ],
+    "answer": 3,
+    "hint": "Der Dieb wurde gefangen genommen. (B2 - Ausdruck)"
+  },
+  {
+    "question": "gefiedert",
+    "choices": [
+      "türelmes (patient)",
+      "kíváncsi vmire / izgatott (curious about / excited)",
+      "tollas (feathered)",
+      "korán (early)"
+    ],
+    "answer": 3,
+    "hint": "Der Vogel hat ein bunt gefiedertes Kleid. (C1 - Adjektiv)"
+  },
+  {
+    "question": "tollas (feathered)",
+    "choices": [
+      "eigenhändig",
+      "erschöpft",
+      "einflussreich",
+      "gefiedert"
+    ],
+    "answer": 4,
+    "hint": "Der Vogel hat ein bunt gefiedertes Kleid. (C1 - Adjektiv)"
+  },
+  {
+    "question": "gefährlich",
+    "choices": [
+      "szükséges (required)",
+      "saját (own)",
+      "veszélyes (dangerous)",
+      "törölt (deleted)"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein gefährliches Experiment. (A2 - Adjektiv)"
+  },
+  {
+    "question": "veszélyes (dangerous)",
+    "choices": [
+      "egal",
+      "ewig",
+      "gefährlich",
+      "gelöscht"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein gefährliches Experiment. (A2 - Adjektiv)"
+  },
+  {
+    "question": "gegenüber + D",
+    "choices": [
+      "szemben (opposite)",
+      "fel van háborodva (to be outraged)",
+      "csodálatos / meglepő (amazing)",
+      "szükséges (required)"
+    ],
+    "answer": 1,
+    "hint": "Das Haus liegt gegenüber der Post. (A2 - Präposition)"
+  },
+  {
+    "question": "szemben (opposite)",
+    "choices": [
+      "gegenüber + D",
+      "empört sein (über + A)",
+      "erforderlich",
+      "erstaunlich"
+    ],
+    "answer": 1,
+    "hint": "Das Haus liegt gegenüber der Post. (A2 - Präposition)"
+  },
+  {
+    "question": "gehorchen (+ D)",
+    "choices": [
+      "szót fogad (to obey)",
+      "megállapít (to determine / state)",
+      "dönt (to decide)",
+      "valakié (to belong to)"
+    ],
+    "answer": 1,
+    "hint": "Der Hund gehorcht seinem Besitzer. (B2 - Verb)"
+  },
+  {
+    "question": "szót fogad (to obey)",
+    "choices": [
+      "ein|stecken (+ A)",
+      "gehorchen (+ D)",
+      "genesen",
+      "gelingen (+ D)"
+    ],
+    "answer": 2,
+    "hint": "Der Hund gehorcht seinem Besitzer. (B2 - Verb)"
+  },
+  {
+    "question": "gehören (+ D)",
+    "choices": [
+      "felfedez (to discover)",
+      "fázik (to freeze)",
+      "elalszik (to fall asleep)",
+      "valakié (to belong to)"
+    ],
+    "answer": 4,
+    "hint": "Wem gehört dieses Buch? (A2 - Verb)"
+  },
+  {
+    "question": "valakié (to belong to)",
+    "choices": [
+      "ergänzen (+ A)",
+      "(sich) quälen",
+      "feiern (+ A)",
+      "gehören (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Wem gehört dieses Buch? (A2 - Verb)"
+  },
+  {
+    "question": "gehören zu + D",
+    "choices": [
+      "elkészít / létrehoz (to create)",
+      "ajánl (to recommend)",
+      "hozzászokik vmihez (to get used to)",
+      "tartozik vmihez (to belong to (part of))"
+    ],
+    "answer": 4,
+    "hint": "Österreich gehört zur EU. (B1 - Verb)"
+  },
+  {
+    "question": "tartozik vmihez (to belong to (part of))",
+    "choices": [
+      "glauben an + A",
+      "erhalten (+ A)",
+      "gehorchen (+ D)",
+      "gehören zu + D"
+    ],
+    "answer": 4,
+    "hint": "Österreich gehört zur EU. (B1 - Verb)"
+  },
+  {
+    "question": "geistig",
+    "choices": [
+      "szellemi (mental)",
+      "rugalmas (flexible)",
+      "megszokott (used to)",
+      "türelmes (patient)"
+    ],
+    "answer": 1,
+    "hint": "Er ist geistig sehr fit. (B2 - Adjektiv)"
+  },
+  {
+    "question": "szellemi (mental)",
+    "choices": [
+      "geistig",
+      "einzig",
+      "gesund",
+      "gefährlich"
+    ],
+    "answer": 1,
+    "hint": "Er ist geistig sehr fit. (B2 - Adjektiv)"
+  },
+  {
+    "question": "gelingen (+ D)",
+    "choices": [
+      "beköltözik (to move in)",
+      "sikerül (to succeed)",
+      "elrabol (to kidnap)",
+      "felfedez (to discover)"
+    ],
+    "answer": 2,
+    "hint": "Es ist mir gelungen, die Prüfung zu bestehen. (B1 - Verb)"
+  },
+  {
+    "question": "sikerül (to succeed)",
+    "choices": [
+      "gelingen (+ D)",
+      "erfinden (+ A)",
+      "entfernen von + D (aus + D)",
+      "erscheinen"
+    ],
+    "answer": 1,
+    "hint": "Es ist mir gelungen, die Prüfung zu bestehen. (B1 - Verb)"
+  },
+  {
+    "question": "gelöscht",
+    "choices": [
+      "saját (own)",
+      "kimerült (exhausted)",
+      "törölt (deleted)",
+      "szörnyű (terrible)"
+    ],
+    "answer": 3,
+    "hint": "Die Datei wurde versehentlich gelöscht. (B1 - Adjektiv)"
+  },
+  {
+    "question": "törölt (deleted)",
+    "choices": [
+      "gelöscht",
+      "erschöpft",
+      "flexibel",
+      "geborgen"
+    ],
+    "answer": 1,
+    "hint": "Die Datei wurde versehentlich gelöscht. (B1 - Adjektiv)"
+  },
+  {
+    "question": "gemeinsam",
+    "choices": [
+      "közös / együtt (together)",
+      "rugalmas (flexible)",
+      "ízléses (tasteful)",
+      "törölt (deleted)"
+    ],
+    "answer": 1,
+    "hint": "Wir haben gemeinsam gegessen. (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "közös / együtt (together)",
+    "choices": [
+      "gestresst",
+      "eigenhändig",
+      "gemeinsam",
+      "früh"
+    ],
+    "answer": 3,
+    "hint": "Wir haben gemeinsam gegessen. (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "genau so",
+    "choices": [
+      "fel van háborodva (to be outraged)",
+      "pontosan úgy (just like)",
+      "fogságba ejt (to capture)",
+      "először is (first of all)"
+    ],
+    "answer": 2,
+    "hint": "Ich möchte es genau so haben. (A2 - Ausdruck)"
+  },
+  {
+    "question": "pontosan úgy (just like)",
+    "choices": [
+      "gefangen nehmen (+ A)",
+      "ernst nehmen (+ A)",
+      "empört sein (über + A)",
+      "genau so"
+    ],
+    "answer": 4,
+    "hint": "Ich möchte es genau so haben. (A2 - Ausdruck)"
+  },
+  {
+    "question": "genesen",
+    "choices": [
+      "keletkezik (to arise from)",
+      "elintéz (to deal with)",
+      "felgyógyul (to recover)",
+      "fázik (to freeze)"
+    ],
+    "answer": 3,
+    "hint": "Er ist nach langer Krankheit genesen. (C1 - Verb)"
+  },
+  {
+    "question": "felgyógyul (to recover)",
+    "choices": [
+      "entwerfen (+ A)",
+      "entfernen von + D (aus + D)",
+      "genesen",
+      "entlassen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er ist nach langer Krankheit genesen. (C1 - Verb)"
+  },
+  {
+    "question": "(sich) quälen",
+    "choices": [
+      "kínozza magát (to torment oneself)",
+      "elrabol (to kidnap)",
+      "történik (to happen)",
+      "szót fogad (to obey)"
+    ],
+    "answer": 1,
+    "hint": "Er quält sich mit dem Gedanken. (B2 - Verb)"
+  },
+  {
+    "question": "kínozza magát (to torment oneself)",
+    "choices": [
+      "erheben (+ A)",
+      "(sich) quälen",
+      "ein|stecken (+ A)",
+      "entführen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er quält sich mit dem Gedanken. (B2 - Verb)"
+  },
+  {
+    "question": "gerade",
+    "choices": [
+      "éppen / egyenes (just / straight)",
+      "végre (finally)",
+      "tulajdonképpen (actually)",
+      "egyenesen előre (straight ahead)"
+    ],
+    "answer": 1,
+    "hint": "Ich bin gerade angekommen. (A1 - Adverb)"
+  },
+  {
+    "question": "éppen / egyenes (just / straight)",
+    "choices": [
+      "eigentlich",
+      "endlich",
+      "geradeaus",
+      "gerade"
+    ],
+    "answer": 4,
+    "hint": "Ich bin gerade angekommen. (A1 - Adverb)"
+  },
+  {
+    "question": "geradeaus",
+    "choices": [
+      "éppen / egyenes (just / straight)",
+      "egyenesen előre (straight ahead)",
+      "végre (finally)",
+      "tulajdonképpen (actually)"
+    ],
+    "answer": 2,
+    "hint": "Gehen Sie immer geradeaus. (A1 - Adverb)"
+  },
+  {
+    "question": "egyenesen előre (straight ahead)",
+    "choices": [
+      "gerade",
+      "geradeaus",
+      "endlich",
+      "eigentlich"
+    ],
+    "answer": 2,
+    "hint": "Gehen Sie immer geradeaus. (A1 - Adverb)"
+  },
+  {
+    "question": "gering",
+    "choices": [
+      "mindegy (all the same)",
+      "befolyásos (influential)",
+      "csekély / kevés (low / small)",
+      "egyetlen (only / single)"
+    ],
+    "answer": 3,
+    "hint": "Das Risiko ist sehr gering. (B2 - Adjektiv)"
+  },
+  {
+    "question": "csekély / kevés (low / small)",
+    "choices": [
+      "einzig",
+      "gering",
+      "eigen / eigene",
+      "gefährlich"
+    ],
+    "answer": 2,
+    "hint": "Das Risiko ist sehr gering. (B2 - Adjektiv)"
+  },
+  {
+    "question": "geschehen",
+    "choices": [
+      "megemlít (to mention)",
+      "lehetővé tesz (to make possible)",
+      "történik (to happen)",
+      "vezet vmihez (to lead to)"
+    ],
+    "answer": 3,
+    "hint": "Was ist hier geschehen? (B1 - Verb)"
+  },
+  {
+    "question": "történik (to happen)",
+    "choices": [
+      "ein|richten (+ A)",
+      "geschehen",
+      "(sich) entscheiden (für + A / gegen + A)",
+      "führen zu + D"
+    ],
+    "answer": 2,
+    "hint": "Was ist hier geschehen? (B1 - Verb)"
+  },
+  {
+    "question": "r Geschmack, \"-er",
+    "choices": [
+      "ízlés / íz (taste)",
+      "közvetítés / átvitel (transmission)",
+      "nyelv (testrész) (tongue)",
+      "nyilvánosság (public)"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine Frage des Geschmacks. (B1 - Nomen)"
+  },
+  {
+    "question": "ízlés / íz (taste)",
+    "choices": [
+      "r Geschmack, \"-er",
+      "e Übernachtung, -en",
+      "e Zunge, -n",
+      "e Öffentlichkeit (Sg.)"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine Frage des Geschmacks. (B1 - Nomen)"
+  },
+  {
+    "question": "geschmackvoll",
+    "choices": [
+      "azonos / azonnal (same / immediately)",
+      "szorgalmas (diligent)",
+      "ízléses (tasteful)",
+      "mindegy (all the same)"
+    ],
+    "answer": 3,
+    "hint": "Die Wohnung ist geschmackvoll eingerichtet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "ízléses (tasteful)",
+    "choices": [
+      "erschöpft",
+      "ewig",
+      "eigenhändig",
+      "geschmackvoll"
+    ],
+    "answer": 4,
+    "hint": "Die Wohnung ist geschmackvoll eingerichtet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "geschützt vor + D",
+    "choices": [
+      "csekély / kevés (low / small)",
+      "védett vmitől (protected from)",
+      "idegen (foreign / strange)",
+      "saját kezűleg (with one's own hands)"
+    ],
+    "answer": 2,
+    "hint": "Hier sind wir vor dem Regen geschützt. (B2 - Adjektiv)"
+  },
+  {
+    "question": "védett vmitől (protected from)",
+    "choices": [
+      "ewig",
+      "geschützt vor + D",
+      "geschmackvoll",
+      "furchtbar"
+    ],
+    "answer": 2,
+    "hint": "Hier sind wir vor dem Regen geschützt. (B2 - Adjektiv)"
+  },
+  {
+    "question": "gespannt auf + A",
+    "choices": [
+      "kíváncsi vmire / izgatott (curious about / excited)",
+      "türelmes (patient)",
+      "idegen (foreign / strange)",
+      "ízléses (tasteful)"
+    ],
+    "answer": 1,
+    "hint": "Ich bin gespannt auf deine Antwort. (B1 - Adjektiv)"
+  },
+  {
+    "question": "kíváncsi vmire / izgatott (curious about / excited)",
+    "choices": [
+      "erforderlich",
+      "gefiedert",
+      "ewig",
+      "gespannt auf + A"
+    ],
+    "answer": 4,
+    "hint": "Ich bin gespannt auf deine Antwort. (B1 - Adjektiv)"
+  },
+  {
+    "question": "gestresst",
+    "choices": [
+      "stresszes (stressed)",
+      "tollas (feathered)",
+      "kimerült (exhausted)",
+      "alkalmas vmire (suitable for)"
+    ],
+    "answer": 1,
+    "hint": "Er fühlt sich momentan sehr gestresst. (A2 - Adjektiv)"
+  },
+  {
+    "question": "stresszes (stressed)",
+    "choices": [
+      "gesund",
+      "gering",
+      "gestresst",
+      "gefiedert"
+    ],
+    "answer": 3,
+    "hint": "Er fühlt sich momentan sehr gestresst. (A2 - Adjektiv)"
+  },
+  {
+    "question": "gesund",
+    "choices": [
+      "egészséges (healthy)",
+      "beképzelt (conceited)",
+      "törölt (deleted)",
+      "szükséges (required)"
+    ],
+    "answer": 1,
+    "hint": "Obst ist sehr gesund. (A1 - Adjektiv)"
+  },
+  {
+    "question": "egészséges (healthy)",
+    "choices": [
+      "erschöpft",
+      "früh",
+      "gesund",
+      "erforderlich"
+    ],
+    "answer": 3,
+    "hint": "Obst ist sehr gesund. (A1 - Adjektiv)"
+  },
+  {
+    "question": "gewohnt",
+    "choices": [
+      "örökké (eternal)",
+      "csekély / kevés (low / small)",
+      "megszokott (used to)",
+      "csodálatos / meglepő (amazing)"
+    ],
+    "answer": 3,
+    "hint": "Ich bin das frühe Aufstehen gewohnt. (B1 - Adjektiv)"
+  },
+  {
+    "question": "megszokott (used to)",
+    "choices": [
+      "einflussreich",
+      "gewohnt",
+      "geborgen",
+      "egal"
+    ],
+    "answer": 2,
+    "hint": "Ich bin das frühe Aufstehen gewohnt. (B1 - Adjektiv)"
+  },
+  {
+    "question": "(sich) gewöhnen an + A",
+    "choices": [
+      "tervez / vázol (to design / draft)",
+      "emel / gyűjt (adatot) (to raise / collect)",
+      "elintéz (to deal with)",
+      "hozzászokik vmihez (to get used to)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss mich erst an das Klima gewöhnen. (B1 - Verb)"
+  },
+  {
+    "question": "hozzászokik vmihez (to get used to)",
+    "choices": [
+      "(sich) gewöhnen an + A",
+      "ermöglichen (+ D + A)",
+      "erfahren (+ A / von + D)",
+      "(sich) entscheiden (für + A / gegen + A)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss mich erst an das Klima gewöhnen. (B1 - Verb)"
+  },
+  {
+    "question": "glauben an + A",
+    "choices": [
+      "hisz vmiben (to believe in)",
+      "követ (to follow)",
+      "valakié (to belong to)",
+      "megemlít (to mention)"
+    ],
+    "answer": 1,
+    "hint": "Glaubst du an Wunder? (B1 - Verb)"
+  },
+  {
+    "question": "hisz vmiben (to believe in)",
+    "choices": [
+      "geschehen",
+      "gehorchen (+ D)",
+      "genesen",
+      "glauben an + A"
+    ],
+    "answer": 4,
+    "hint": "Glaubst du an Wunder? (B1 - Verb)"
+  },
+  {
+    "question": "gleich",
+    "choices": [
+      "szellemi (mental)",
+      "rugalmas (flexible)",
+      "rettenetes (dreadful)",
+      "azonos / azonnal (same / immediately)"
+    ],
+    "answer": 4,
+    "hint": "Wir haben das gleiche Auto. / Ich komme gleich. (A1 - Adjektiv / hsz)"
+  },
+  {
+    "question": "azonos / azonnal (same / immediately)",
+    "choices": [
+      "gleich",
+      "erlaubt",
+      "gemeinsam",
+      "erforderlich"
+    ],
+    "answer": 1,
+    "hint": "Wir haben das gleiche Auto. / Ich komme gleich. (A1 - Adjektiv / hsz)"
+  }
+]

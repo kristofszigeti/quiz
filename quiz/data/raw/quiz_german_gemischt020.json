@@ -1,0 +1,2202 @@
+[
+  {
+    "question": "gleichmäßig",
+    "choices": [
+      "évente (yearly)",
+      "ijesztő (creepy / scary)",
+      "egyenletes (even / steady)",
+      "derűs (cheerful / fair)"
+    ],
+    "answer": 3,
+    "hint": "Bitte atmen Sie gleichmäßig. (B2 - Adjektiv)"
+  },
+  {
+    "question": "egyenletes (even / steady)",
+    "choices": [
+      "gnädig",
+      "jung",
+      "glücklich",
+      "gleichmäßig"
+    ],
+    "answer": 4,
+    "hint": "Bitte atmen Sie gleichmäßig. (B2 - Adjektiv)"
+  },
+  {
+    "question": "gleichzeitig",
+    "choices": [
+      "itt (here)",
+      "alig (hardly)",
+      "egyidejűleg (at the same time)",
+      "valaha / per (ever / per)"
+    ],
+    "answer": 3,
+    "hint": "Wir können nicht alles gleichzeitig machen. (B1 - Adverb)"
+  },
+  {
+    "question": "egyidejűleg (at the same time)",
+    "choices": [
+      "heute",
+      "irgendwo",
+      "gleichzeitig",
+      "jetzt"
+    ],
+    "answer": 3,
+    "hint": "Wir können nicht alles gleichzeitig machen. (B1 - Adverb)"
+  },
+  {
+    "question": "glücklich",
+    "choices": [
+      "hőérzékeny (heat-sensitive)",
+      "ijesztő (creepy / scary)",
+      "boldog (happy)",
+      "magas (high)"
+    ],
+    "answer": 3,
+    "hint": "Sie führt ein glückliches Leben. (A1 - Adjektiv)"
+  },
+  {
+    "question": "boldog (happy)",
+    "choices": [
+      "herzlich",
+      "glücklich",
+      "hitzeempfindlich",
+      "gruselig"
+    ],
+    "answer": 2,
+    "hint": "Sie führt ein glückliches Leben. (A1 - Adjektiv)"
+  },
+  {
+    "question": "gnädig",
+    "choices": [
+      "intelligens (intelligent)",
+      "kemény (hard)",
+      "kegyelmes (merciful)",
+      "udvarias (polite)"
+    ],
+    "answer": 3,
+    "hint": "Der König war gnädig. (C1 - Adjektiv)"
+  },
+  {
+    "question": "kegyelmes (merciful)",
+    "choices": [
+      "himmelblau",
+      "kalt",
+      "gnädig",
+      "kernig"
+    ],
+    "answer": 3,
+    "hint": "Der König war gnädig. (C1 - Adjektiv)"
+  },
+  {
+    "question": "graben (+ A)",
+    "choices": [
+      "letölt (to download)",
+      "függ / akaszt (to hang)",
+      "tart / megáll (to hold / stop)",
+      "ás (to dig)"
+    ],
+    "answer": 4,
+    "hint": "Der Hund gräbt ein Loch im Garten. (B1 - Verb)"
+  },
+  {
+    "question": "ás (to dig)",
+    "choices": [
+      "holen (+ A)",
+      "graben (+ A)",
+      "kennen (+ A)",
+      "(sich) her|aus|stellen"
+    ],
+    "answer": 2,
+    "hint": "Der Hund gräbt ein Loch im Garten. (B1 - Verb)"
+  },
+  {
+    "question": "grenzen an + A",
+    "choices": [
+      "érdeklődik vmi iránt (to be interested in)",
+      "határos vmivel (to border on)",
+      "segít vkinek vmiben (to help)",
+      "csiklandoz (to tickle)"
+    ],
+    "answer": 2,
+    "hint": "Deutschland grenzt an neun Länder. (B2 - Verb)"
+  },
+  {
+    "question": "határos vmivel (to border on)",
+    "choices": [
+      "her|aus|fordern (+ A)",
+      "grenzen an + A",
+      "identifizieren (+ A)",
+      "kennen|lernen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Deutschland grenzt an neun Länder. (B2 - Verb)"
+  },
+  {
+    "question": "grob",
+    "choices": [
+      "durva (coarse / rough)",
+      "éhes (hungry)",
+      "nagy (large / tall)",
+      "tönkrement / elromlott (broken)"
+    ],
+    "answer": 1,
+    "hint": "Das ist ein grober Fehler. (B2 - Adjektiv)"
+  },
+  {
+    "question": "durva (coarse / rough)",
+    "choices": [
+      "günstig",
+      "gleichmäßig",
+      "intelligent",
+      "grob"
+    ],
+    "answer": 4,
+    "hint": "Das ist ein grober Fehler. (B2 - Adjektiv)"
+  },
+  {
+    "question": "groß",
+    "choices": [
+      "érdekes (interesting)",
+      "mindenkori (respective)",
+      "nagy (large / tall)",
+      "kegyelmes (merciful)"
+    ],
+    "answer": 3,
+    "hint": "Mein Bruder ist sehr groß. (A1 - Adjektiv)"
+  },
+  {
+    "question": "nagy (large / tall)",
+    "choices": [
+      "hübsch",
+      "groß",
+      "höflich",
+      "kernig"
+    ],
+    "answer": 2,
+    "hint": "Mein Bruder ist sehr groß. (A1 - Adjektiv)"
+  },
+  {
+    "question": "gründlich",
+    "choices": [
+      "mindenkori (respective)",
+      "ijesztő (creepy / scary)",
+      "hőérzékeny (heat-sensitive)",
+      "alapos (thorough)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Wohnung gründlich putzen. (B2 - Adjektiv)"
+  },
+  {
+    "question": "alapos (thorough)",
+    "choices": [
+      "gründlich",
+      "jährlich",
+      "günstig",
+      "heiter"
+    ],
+    "answer": 1,
+    "hint": "Wir müssen die Wohnung gründlich putzen. (B2 - Adjektiv)"
+  },
+  {
+    "question": "gruselig",
+    "choices": [
+      "egyenletes (even / steady)",
+      "ijesztő (creepy / scary)",
+      "érdekes (interesting)",
+      "éhes (hungry)"
+    ],
+    "answer": 2,
+    "hint": "Der Film war wirklich gruselig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "ijesztő (creepy / scary)",
+    "choices": [
+      "gnädig",
+      "gruselig",
+      "heiter",
+      "höflich"
+    ],
+    "answer": 2,
+    "hint": "Der Film war wirklich gruselig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "grüßen (+ A)",
+    "choices": [
+      "üdvözöl / köszön (to greet)",
+      "panaszkodik vmire (to complain about)",
+      "köhög (to cough)",
+      "ás (to dig)"
+    ],
+    "answer": 1,
+    "hint": "Bitte grüßen Sie Ihre Frau von mir. (A1 - Verb)"
+  },
+  {
+    "question": "üdvözöl / köszön (to greet)",
+    "choices": [
+      "her|stellen (+ A)",
+      "graben (+ A)",
+      "grüßen (+ A)",
+      "grenzen an + A"
+    ],
+    "answer": 3,
+    "hint": "Bitte grüßen Sie Ihre Frau von mir. (A1 - Verb)"
+  },
+  {
+    "question": "gut",
+    "choices": [
+      "csúnya (ugly)",
+      "jó (good)",
+      "ijesztő (creepy / scary)",
+      "derűs (cheerful / fair)"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine gute Idee. (A1 - Adjektiv)"
+  },
+  {
+    "question": "jó (good)",
+    "choices": [
+      "grob",
+      "gut",
+      "kernig",
+      "hitzeempfindlich"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine gute Idee. (A1 - Adjektiv)"
+  },
+  {
+    "question": "günstig",
+    "choices": [
+      "csúnya (ugly)",
+      "ijesztő (creepy / scary)",
+      "hőérzékeny (heat-sensitive)",
+      "kedvező / olcsó (favorable / cheap)"
+    ],
+    "answer": 4,
+    "hint": "Wir haben ein günstiges Angebot gefunden. (A2 - Adjektiv)"
+  },
+  {
+    "question": "kedvező / olcsó (favorable / cheap)",
+    "choices": [
+      "günstig",
+      "hässlich",
+      "jährlich",
+      "jung"
+    ],
+    "answer": 1,
+    "hint": "Wir haben ein günstiges Angebot gefunden. (A2 - Adjektiv)"
+  },
+  {
+    "question": "e Haferflocken (Pl.)",
+    "choices": [
+      "július (July)",
+      "zabpehely (oat flakes)",
+      "június (June)",
+      "mindenkori (respective)"
+    ],
+    "answer": 2,
+    "hint": "Ich esse morgens gerne Haferflocken mit Milch. (A2 - Nomen)"
+  },
+  {
+    "question": "zabpehely (oat flakes)",
+    "choices": [
+      "jeweilig",
+      "e Haferflocken (Pl.)",
+      "r Juli",
+      "r Juni"
+    ],
+    "answer": 2,
+    "hint": "Ich esse morgens gerne Haferflocken mit Milch. (A2 - Nomen)"
+  },
+  {
+    "question": "hageln",
+    "choices": [
+      "gyárt / előállít (to produce)",
+      "ás (to dig)",
+      "jégeső esik (to hail)",
+      "rág (to chew)"
+    ],
+    "answer": 3,
+    "hint": "Gestern hat es kurz gehagelt. (B1 - Verb)"
+  },
+  {
+    "question": "jégeső esik (to hail)",
+    "choices": [
+      "hören (+ A)",
+      "her|aus|fordern (+ A)",
+      "heben (+ A)",
+      "hageln"
+    ],
+    "answer": 4,
+    "hint": "Gestern hat es kurz gehagelt. (B1 - Verb)"
+  },
+  {
+    "question": "halten (+ A)",
+    "choices": [
+      "csiklandoz (to tickle)",
+      "ugrál (to hop / jump)",
+      "kiad (to publish / issue)",
+      "tart / megáll (to hold / stop)"
+    ],
+    "answer": 4,
+    "hint": "Der Bus hält an der Ecke. (A2 - Verb)"
+  },
+  {
+    "question": "tart / megáll (to hold / stop)",
+    "choices": [
+      "heben (+ A)",
+      "halten (+ A)",
+      "grenzen an + A",
+      "(sich) her|aus|stellen"
+    ],
+    "answer": 2,
+    "hint": "Der Bus hält an der Ecke. (A2 - Verb)"
+  },
+  {
+    "question": "halten von + D",
+    "choices": [
+      "kiderül (to turn out)",
+      "tart / megáll (to hold / stop)",
+      "kiad (to publish / issue)",
+      "gondol vmiről vmit (to think of)"
+    ],
+    "answer": 4,
+    "hint": "Was hältst du von seinem Vorschlag? (B2 - Verb)"
+  },
+  {
+    "question": "gondol vmiről vmit (to think of)",
+    "choices": [
+      "handeln mit + D",
+      "halten von + D",
+      "hoffen auf + A",
+      "heißen"
+    ],
+    "answer": 2,
+    "hint": "Was hältst du von seinem Vorschlag? (B2 - Verb)"
+  },
+  {
+    "question": "halten für + A",
+    "choices": [
+      "telepít (to install)",
+      "tart vminek (to take for / consider)",
+      "gyűlöl (to hate)",
+      "ismer (to know)"
+    ],
+    "answer": 2,
+    "hint": "Ich halte das für eine gute Lösung. (B2 - Verb)"
+  },
+  {
+    "question": "tart vminek (to take for / consider)",
+    "choices": [
+      "halten von + D",
+      "her|aus|geben (+ A)",
+      "kauen (+ A)",
+      "halten für + A"
+    ],
+    "answer": 4,
+    "hint": "Ich halte das für eine gute Lösung. (B2 - Verb)"
+  },
+  {
+    "question": "handeln von + D",
+    "choices": [
+      "szeg (varrással) (to overlock)",
+      "ismer (to know)",
+      "kiad (to publish / issue)",
+      "szól vmiről (to be about)"
+    ],
+    "answer": 4,
+    "hint": "Das Buch handelt von einer Reise. (B1 - Verb)"
+  },
+  {
+    "question": "szól vmiről (to be about)",
+    "choices": [
+      "hüpfen",
+      "(sich) interessieren für + A",
+      "halten (+ A)",
+      "handeln von + D"
+    ],
+    "answer": 4,
+    "hint": "Das Buch handelt von einer Reise. (B1 - Verb)"
+  },
+  {
+    "question": "handeln mit + D",
+    "choices": [
+      "rámutat vmire (to point out)",
+      "megismer (to get to know)",
+      "üdvözöl / köszön (to greet)",
+      "kereskedik vmivel (to trade in)"
+    ],
+    "answer": 4,
+    "hint": "Die Firma handelt mit Baustoffen. (B2 - Verb)"
+  },
+  {
+    "question": "kereskedik vmivel (to trade in)",
+    "choices": [
+      "her|aus|geben (+ A)",
+      "handeln mit + D",
+      "(sich) interessieren für + A",
+      "hin|weisen auf + A"
+    ],
+    "answer": 2,
+    "hint": "Die Firma handelt mit Baustoffen. (B2 - Verb)"
+  },
+  {
+    "question": "hangen / hängen (+ D / + A)",
+    "choices": [
+      "határos vmivel (to border on)",
+      "jégeső esik (to hail)",
+      "függ / akaszt (to hang)",
+      "gondol vmiről vmit (to think of)"
+    ],
+    "answer": 3,
+    "hint": "Das Bild hängt an der Wand. (A2 - Verb)"
+  },
+  {
+    "question": "függ / akaszt (to hang)",
+    "choices": [
+      "kitzeln (+ A)",
+      "her|aus|geben (+ A)",
+      "graben (+ A)",
+      "hangen / hängen (+ D / + A)"
+    ],
+    "answer": 4,
+    "hint": "Das Bild hängt an der Wand. (A2 - Verb)"
+  },
+  {
+    "question": "hart",
+    "choices": [
+      "kemény (hard)",
+      "velős / erős (robust / pithy)",
+      "kedvező / olcsó (favorable / cheap)",
+      "kegyelmes (merciful)"
+    ],
+    "answer": 1,
+    "hint": "Das Brot ist schon ganz hart. (A2 - Adjektiv)"
+  },
+  {
+    "question": "kemény (hard)",
+    "choices": [
+      "jung",
+      "international",
+      "häufig",
+      "hart"
+    ],
+    "answer": 4,
+    "hint": "Das Brot ist schon ganz hart. (A2 - Adjektiv)"
+  },
+  {
+    "question": "hassen (+ A)",
+    "choices": [
+      "ismer (to know)",
+      "kereskedik vmivel (to trade in)",
+      "gyűlöl (to hate)",
+      "reménykedik vmiben (to hope for)"
+    ],
+    "answer": 3,
+    "hint": "Er hasst Verspätungen. (B1 - Verb)"
+  },
+  {
+    "question": "gyűlöl (to hate)",
+    "choices": [
+      "installieren (+ A)",
+      "identifizieren (+ A)",
+      "hassen (+ A)",
+      "hüpfen"
+    ],
+    "answer": 3,
+    "hint": "Er hasst Verspätungen. (B1 - Verb)"
+  },
+  {
+    "question": "hässlich",
+    "choices": [
+      "boldog (happy)",
+      "nemzetközi (international)",
+      "csúnya (ugly)",
+      "szívélyes (cordial)"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein hässliches Gebäude. (A2 - Adjektiv)"
+  },
+  {
+    "question": "csúnya (ugly)",
+    "choices": [
+      "heftig",
+      "heimlich",
+      "hässlich",
+      "hitzeempfindlich"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein hässliches Gebäude. (A2 - Adjektiv)"
+  },
+  {
+    "question": "häufig",
+    "choices": [
+      "éhes (hungry)",
+      "boldog (happy)",
+      "gyakori (frequent)",
+      "derűs (cheerful / fair)"
+    ],
+    "answer": 3,
+    "hint": "Das kommt sehr häufig vor. (B1 - Adjektiv / hsz)"
+  },
+  {
+    "question": "gyakori (frequent)",
+    "choices": [
+      "intelligent",
+      "hitzeempfindlich",
+      "hart",
+      "häufig"
+    ],
+    "answer": 4,
+    "hint": "Das kommt sehr häufig vor. (B1 - Adjektiv / hsz)"
+  },
+  {
+    "question": "heben (+ A)",
+    "choices": [
+      "ismer (to know)",
+      "megismer (to get to know)",
+      "emel (to lift)",
+      "csiklandoz (to tickle)"
+    ],
+    "answer": 3,
+    "hint": "Er kann das schwere Paket nicht heben. (B1 - Verb)"
+  },
+  {
+    "question": "emel (to lift)",
+    "choices": [
+      "hin|fallen",
+      "halten (+ A)",
+      "heben (+ A)",
+      "her|stellen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er kann das schwere Paket nicht heben. (B1 - Verb)"
+  },
+  {
+    "question": "heftig",
+    "choices": [
+      "heves (violent / intense)",
+      "hideg (cold)",
+      "udvarias (polite)",
+      "jó (good)"
+    ],
+    "answer": 1,
+    "hint": "Es gab einen heftigen Streit. (B2 - Adjektiv)"
+  },
+  {
+    "question": "heves (violent / intense)",
+    "choices": [
+      "heimlich",
+      "heftig",
+      "jung",
+      "hungrig"
+    ],
+    "answer": 2,
+    "hint": "Es gab einen heftigen Streit. (B2 - Adjektiv)"
+  },
+  {
+    "question": "heilen (+ A)",
+    "choices": [
+      "gyógyít (to heal)",
+      "ás (to dig)",
+      "kihív (to challenge)",
+      "kiderül (to turn out)"
+    ],
+    "answer": 1,
+    "hint": "Die Wunde heilt langsam. (B2 - Verb)"
+  },
+  {
+    "question": "gyógyít (to heal)",
+    "choices": [
+      "heilen (+ A)",
+      "(sich) interessieren für + A",
+      "herunter|laden (+ A)",
+      "identifizieren (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Die Wunde heilt langsam. (B2 - Verb)"
+  },
+  {
+    "question": "heimlich",
+    "choices": [
+      "titokban (secret)",
+      "intelligens (intelligent)",
+      "gyakori (frequent)",
+      "mindenkori (respective)"
+    ],
+    "answer": 1,
+    "hint": "Er hat heimlich geraucht. (B2 - Adjektiv / hsz)"
+  },
+  {
+    "question": "titokban (secret)",
+    "choices": [
+      "gründlich",
+      "heimlich",
+      "günstig",
+      "hässlich"
+    ],
+    "answer": 2,
+    "hint": "Er hat heimlich geraucht. (B2 - Adjektiv / hsz)"
+  },
+  {
+    "question": "heiß",
+    "choices": [
+      "közvetett (indirect)",
+      "forró (hot)",
+      "fiatal (young)",
+      "évente (yearly)"
+    ],
+    "answer": 2,
+    "hint": "Im Sommer ist es sehr heiß. (A1 - Adjektiv)"
+  },
+  {
+    "question": "forró (hot)",
+    "choices": [
+      "gleichmäßig",
+      "heiß",
+      "hungrig",
+      "intelligent"
+    ],
+    "answer": 2,
+    "hint": "Im Sommer ist es sehr heiß. (A1 - Adjektiv)"
+  },
+  {
+    "question": "heißen",
+    "choices": [
+      "hívják vhogyan (to be called)",
+      "szól vmiről (to be about)",
+      "elesik (to fall down)",
+      "kihív (to challenge)"
+    ],
+    "answer": 1,
+    "hint": "Wie heißt du? (A1 - Verb)"
+  },
+  {
+    "question": "hívják vhogyan (to be called)",
+    "choices": [
+      "husten",
+      "heißen",
+      "hangen / hängen (+ D / + A)",
+      "hüpfen"
+    ],
+    "answer": 2,
+    "hint": "Wie heißt du? (A1 - Verb)"
+  },
+  {
+    "question": "heiter",
+    "choices": [
+      "kemény (hard)",
+      "egyenletes (even / steady)",
+      "ijesztő (creepy / scary)",
+      "derűs (cheerful / fair)"
+    ],
+    "answer": 4,
+    "hint": "Das Wetter ist heute heiter. (B1 - Adjektiv)"
+  },
+  {
+    "question": "derűs (cheerful / fair)",
+    "choices": [
+      "heiter",
+      "hart",
+      "hungrig",
+      "heftig"
+    ],
+    "answer": 1,
+    "hint": "Das Wetter ist heute heiter. (B1 - Adjektiv)"
+  },
+  {
+    "question": "helfen (+ D) (bei + D)",
+    "choices": [
+      "segít vkinek vmiben (to help)",
+      "tart vminek (to take for / consider)",
+      "kiad (to publish / issue)",
+      "idejön (to come here)"
+    ],
+    "answer": 1,
+    "hint": "Kannst du mir beim Kochen helfen? (A1 - Verb)"
+  },
+  {
+    "question": "segít vkinek vmiben (to help)",
+    "choices": [
+      "helfen (+ D) (bei + D)",
+      "kauen (+ A)",
+      "halten (+ A)",
+      "kitzeln (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Kannst du mir beim Kochen helfen? (A1 - Verb)"
+  },
+  {
+    "question": "hell",
+    "choices": [
+      "érdekes (interesting)",
+      "világos (bright / light)",
+      "velős / erős (robust / pithy)",
+      "heves (violent / intense)"
+    ],
+    "answer": 2,
+    "hint": "Das Zimmer ist sehr hell. (A2 - Adjektiv)"
+  },
+  {
+    "question": "világos (bright / light)",
+    "choices": [
+      "international",
+      "intelligent",
+      "gnädig",
+      "hell"
+    ],
+    "answer": 4,
+    "hint": "Das Zimmer ist sehr hell. (A2 - Adjektiv)"
+  },
+  {
+    "question": "her",
+    "choices": [
+      "mindig (always)",
+      "ide (beszélő felé) (here / towards)",
+      "hátul (at the back)",
+      "valaha / per (ever / per)"
+    ],
+    "answer": 2,
+    "hint": "Komm bitte mal her! (A2 - Adverb)"
+  },
+  {
+    "question": "ide (beszélő felé) (here / towards)",
+    "choices": [
+      "hier",
+      "insgesamt",
+      "her",
+      "irgendwo"
+    ],
+    "answer": 3,
+    "hint": "Komm bitte mal her! (A2 - Adverb)"
+  },
+  {
+    "question": "her|aus|fordern (+ A)",
+    "choices": [
+      "tájékozódik vmiről (to inform oneself)",
+      "ugrál (to hop / jump)",
+      "ismer (to know)",
+      "kihív (to challenge)"
+    ],
+    "answer": 4,
+    "hint": "Er fordert seinen Freund zum Duell heraus. (B2 - Verb)"
+  },
+  {
+    "question": "kihív (to challenge)",
+    "choices": [
+      "hassen (+ A)",
+      "halten für + A",
+      "her|aus|fordern (+ A)",
+      "identifizieren (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er fordert seinen Freund zum Duell heraus. (B2 - Verb)"
+  },
+  {
+    "question": "her|aus|geben (+ A)",
+    "choices": [
+      "hoz / elhoz (to fetch)",
+      "függ / akaszt (to hang)",
+      "kiad (to publish / issue)",
+      "emel (to lift)"
+    ],
+    "answer": 3,
+    "hint": "Die Bank gibt neue Karten heraus. (B2 - Verb)"
+  },
+  {
+    "question": "kiad (to publish / issue)",
+    "choices": [
+      "kennen|lernen (+ A)",
+      "her|aus|geben (+ A)",
+      "heben (+ A)",
+      "heilen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Die Bank gibt neue Karten heraus. (B2 - Verb)"
+  },
+  {
+    "question": "(sich) her|aus|stellen",
+    "choices": [
+      "köhög (to cough)",
+      "kiderül (to turn out)",
+      "azonosít (to identify)",
+      "tart vminek (to take for / consider)"
+    ],
+    "answer": 2,
+    "hint": "Es stellte sich heraus, dass er recht hatte. (B2 - Verb)"
+  },
+  {
+    "question": "kiderül (to turn out)",
+    "choices": [
+      "(sich) her|aus|stellen",
+      "hangen / hängen (+ D / + A)",
+      "installieren (+ A)",
+      "her|aus|geben (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Es stellte sich heraus, dass er recht hatte. (B2 - Verb)"
+  },
+  {
+    "question": "her|kommen",
+    "choices": [
+      "telepít (to install)",
+      "rámutat vmire (to point out)",
+      "hall / hallgat (to hear / listen)",
+      "idejön (to come here)"
+    ],
+    "answer": 4,
+    "hint": "Wo kommst du her? (A2 - Verb)"
+  },
+  {
+    "question": "idejön (to come here)",
+    "choices": [
+      "halten (+ A)",
+      "kennen|lernen (+ A)",
+      "hin|weisen auf + A",
+      "her|kommen"
+    ],
+    "answer": 4,
+    "hint": "Wo kommst du her? (A2 - Verb)"
+  },
+  {
+    "question": "her|stellen (+ A)",
+    "choices": [
+      "reménykedik vmiben (to hope for)",
+      "köhög (to cough)",
+      "gyárt / előállít (to produce)",
+      "letölt (to download)"
+    ],
+    "answer": 3,
+    "hint": "In dieser Fabrik werden Autos hergestellt. (B1 - Verb)"
+  },
+  {
+    "question": "gyárt / előállít (to produce)",
+    "choices": [
+      "halten für + A",
+      "helfen (+ D) (bei + D)",
+      "heben (+ A)",
+      "her|stellen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "In dieser Fabrik werden Autos hergestellt. (B1 - Verb)"
+  },
+  {
+    "question": "herunter|laden (+ A)",
+    "choices": [
+      "letölt (to download)",
+      "telepít (to install)",
+      "gyógyít (to heal)",
+      "ás (to dig)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss die Datei herunterladen. (A2 - Verb)"
+  },
+  {
+    "question": "letölt (to download)",
+    "choices": [
+      "herunter|laden (+ A)",
+      "(sich) informieren über + A",
+      "identifizieren (+ A)",
+      "her|kommen"
+    ],
+    "answer": 1,
+    "hint": "Ich muss die Datei herunterladen. (A2 - Verb)"
+  },
+  {
+    "question": "herzlich",
+    "choices": [
+      "világos (bright / light)",
+      "titokban (secret)",
+      "izolált / szigetelt (isolated)",
+      "szívélyes (cordial)"
+    ],
+    "answer": 4,
+    "hint": "Herzlichen Glückwunsch zum Geburtstag! (B1 - Adjektiv)"
+  },
+  {
+    "question": "szívélyes (cordial)",
+    "choices": [
+      "gnädig",
+      "häufig",
+      "herzlich",
+      "gut"
+    ],
+    "answer": 3,
+    "hint": "Herzlichen Glückwunsch zum Geburtstag! (B1 - Adjektiv)"
+  },
+  {
+    "question": "heute",
+    "choices": [
+      "valamikor (sometime)",
+      "itt (here)",
+      "ma (today)",
+      "hátul (at the back)"
+    ],
+    "answer": 3,
+    "hint": "Heute habe ich keine Zeit. (A1 - Adverb)"
+  },
+  {
+    "question": "ma (today)",
+    "choices": [
+      "jetzt",
+      "heute",
+      "hier",
+      "irgendwann"
+    ],
+    "answer": 2,
+    "hint": "Heute habe ich keine Zeit. (A1 - Adverb)"
+  },
+  {
+    "question": "hier",
+    "choices": [
+      "mindig (always)",
+      "ide (beszélő felé) (here / towards)",
+      "mindenesetre (in any case)",
+      "itt (here)"
+    ],
+    "answer": 4,
+    "hint": "Hier ist dein Schlüssel. (A1 - Adverb)"
+  },
+  {
+    "question": "itt (here)",
+    "choices": [
+      "hier",
+      "jedenfalls",
+      "irgendwo",
+      "hin"
+    ],
+    "answer": 1,
+    "hint": "Hier ist dein Schlüssel. (A1 - Adverb)"
+  },
+  {
+    "question": "hilfreich",
+    "choices": [
+      "fiatal (young)",
+      "segítőkész (helpful)",
+      "magas (high)",
+      "derűs (cheerful / fair)"
+    ],
+    "answer": 2,
+    "hint": "Das war ein hilfreicher Hinweis. (B1 - Adjektiv)"
+  },
+  {
+    "question": "segítőkész (helpful)",
+    "choices": [
+      "glücklich",
+      "international",
+      "hitzeempfindlich",
+      "hilfreich"
+    ],
+    "answer": 4,
+    "hint": "Das war ein hilfreicher Hinweis. (B1 - Adjektiv)"
+  },
+  {
+    "question": "himmelblau",
+    "choices": [
+      "forró (hot)",
+      "csinos (pretty)",
+      "magas (high)",
+      "égszínkék (sky blue)"
+    ],
+    "answer": 4,
+    "hint": "Sie trägt ein himmelblaues Kleid. (A2 - Adjektiv)"
+  },
+  {
+    "question": "égszínkék (sky blue)",
+    "choices": [
+      "jung",
+      "himmelblau",
+      "kernig",
+      "hungrig"
+    ],
+    "answer": 2,
+    "hint": "Sie trägt ein himmelblaues Kleid. (A2 - Adjektiv)"
+  },
+  {
+    "question": "hin",
+    "choices": [
+      "valaha / per (ever / per)",
+      "ma (today)",
+      "hátul (at the back)",
+      "oda (beszélőtől el) (there)"
+    ],
+    "answer": 4,
+    "hint": "Wie komme ich dorthin? (A2 - Adverb)"
+  },
+  {
+    "question": "oda (beszélőtől el) (there)",
+    "choices": [
+      "immer",
+      "hin",
+      "irgendwo",
+      "gleichzeitig"
+    ],
+    "answer": 2,
+    "hint": "Wie komme ich dorthin? (A2 - Adverb)"
+  },
+  {
+    "question": "hin|fallen",
+    "choices": [
+      "gyárt / előállít (to produce)",
+      "elesik (to fall down)",
+      "ismer (to know)",
+      "tart / megáll (to hold / stop)"
+    ],
+    "answer": 2,
+    "hint": "Er ist auf der Straße hingefallen. (A2 - Verb)"
+  },
+  {
+    "question": "elesik (to fall down)",
+    "choices": [
+      "grenzen an + A",
+      "hin|fallen",
+      "(sich) her|aus|stellen",
+      "heben (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er ist auf der Straße hingefallen. (A2 - Verb)"
+  },
+  {
+    "question": "hinten",
+    "choices": [
+      "mindenesetre (in any case)",
+      "hátul (at the back)",
+      "mindig (always)",
+      "egyidejűleg (at the same time)"
+    ],
+    "answer": 2,
+    "hint": "Das Auto steht hinten im Hof. (A1 - Adverb)"
+  },
+  {
+    "question": "hátul (at the back)",
+    "choices": [
+      "gleichzeitig",
+      "heute",
+      "hinten",
+      "jetzt"
+    ],
+    "answer": 3,
+    "hint": "Das Auto steht hinten im Hof. (A1 - Adverb)"
+  },
+  {
+    "question": "hinter + A/D",
+    "choices": [
+      "belül (within)",
+      "kegyelmes (merciful)",
+      "mögött / mögé (behind)",
+      "-ban/-ben, -ba/-be (in / into)"
+    ],
+    "answer": 3,
+    "hint": "Der Garten liegt hinter dem Haus. (A1 - Präposition)"
+  },
+  {
+    "question": "mögött / mögé (behind)",
+    "choices": [
+      "hinter + A/D",
+      "gnädig",
+      "innerhalb + G",
+      "in + A/D"
+    ],
+    "answer": 1,
+    "hint": "Der Garten liegt hinter dem Haus. (A1 - Präposition)"
+  },
+  {
+    "question": "hin|weisen auf + A",
+    "choices": [
+      "azonosít (to identify)",
+      "szól vmiről (to be about)",
+      "rámutat vmire (to point out)",
+      "ás (to dig)"
+    ],
+    "answer": 3,
+    "hint": "Er möchte auf einen Fehler hinweisen. (B2 - Verb)"
+  },
+  {
+    "question": "rámutat vmire (to point out)",
+    "choices": [
+      "hin|weisen auf + A",
+      "hageln",
+      "her|aus|fordern (+ A)",
+      "klagen (über + A)"
+    ],
+    "answer": 1,
+    "hint": "Er möchte auf einen Fehler hinweisen. (B2 - Verb)"
+  },
+  {
+    "question": "hitzeempfindlich",
+    "choices": [
+      "égszínkék (sky blue)",
+      "hőérzékeny (heat-sensitive)",
+      "csinos (pretty)",
+      "hideg (cold)"
+    ],
+    "answer": 2,
+    "hint": "Das Medikament ist hitzeempfindlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "hőérzékeny (heat-sensitive)",
+    "choices": [
+      "kaputt",
+      "günstig",
+      "hitzeempfindlich",
+      "kalt"
+    ],
+    "answer": 3,
+    "hint": "Das Medikament ist hitzeempfindlich. (B2 - Adjektiv)"
+  },
+  {
+    "question": "hoch",
+    "choices": [
+      "hőérzékeny (heat-sensitive)",
+      "hideg (cold)",
+      "magas (high)",
+      "égszínkék (sky blue)"
+    ],
+    "answer": 3,
+    "hint": "Der Berg ist sehr hoch. (A1 - Adjektiv)"
+  },
+  {
+    "question": "magas (high)",
+    "choices": [
+      "interessant",
+      "heimlich",
+      "hoch",
+      "höflich"
+    ],
+    "answer": 3,
+    "hint": "Der Berg ist sehr hoch. (A1 - Adjektiv)"
+  },
+  {
+    "question": "hoffen auf + A",
+    "choices": [
+      "kiderül (to turn out)",
+      "reménykedik vmiben (to hope for)",
+      "határos vmivel (to border on)",
+      "kihív (to challenge)"
+    ],
+    "answer": 2,
+    "hint": "Wir hoffen auf besseres Wetter. (B1 - Verb)"
+  },
+  {
+    "question": "reménykedik vmiben (to hope for)",
+    "choices": [
+      "hoffen auf + A",
+      "ketteln (+ A)",
+      "hören (+ A)",
+      "husten"
+    ],
+    "answer": 1,
+    "hint": "Wir hoffen auf besseres Wetter. (B1 - Verb)"
+  },
+  {
+    "question": "höflich",
+    "choices": [
+      "udvarias (polite)",
+      "csinos (pretty)",
+      "tönkrement / elromlott (broken)",
+      "kegyelmes (merciful)"
+    ],
+    "answer": 1,
+    "hint": "Er ist immer sehr höflich. (A2 - Adjektiv)"
+  },
+  {
+    "question": "udvarias (polite)",
+    "choices": [
+      "höflich",
+      "hässlich",
+      "kalt",
+      "gleichmäßig"
+    ],
+    "answer": 1,
+    "hint": "Er ist immer sehr höflich. (A2 - Adjektiv)"
+  },
+  {
+    "question": "holen (+ A)",
+    "choices": [
+      "idejön (to come here)",
+      "hoz / elhoz (to fetch)",
+      "emel (to lift)",
+      "elesik (to fall down)"
+    ],
+    "answer": 2,
+    "hint": "Kannst du mir bitte ein Glas Wasser holen? (A1 - Verb)"
+  },
+  {
+    "question": "hoz / elhoz (to fetch)",
+    "choices": [
+      "identifizieren (+ A)",
+      "heben (+ A)",
+      "holen (+ A)",
+      "her|stellen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Kannst du mir bitte ein Glas Wasser holen? (A1 - Verb)"
+  },
+  {
+    "question": "hören (+ A)",
+    "choices": [
+      "határos vmivel (to border on)",
+      "hall / hallgat (to hear / listen)",
+      "emel (to lift)",
+      "panaszkodik vmire (to complain about)"
+    ],
+    "answer": 2,
+    "hint": "Ich höre gerne Musik. (A1 - Verb)"
+  },
+  {
+    "question": "hall / hallgat (to hear / listen)",
+    "choices": [
+      "identifizieren (+ A)",
+      "hageln",
+      "hören (+ A)",
+      "(sich) informieren über + A"
+    ],
+    "answer": 3,
+    "hint": "Ich höre gerne Musik. (A1 - Verb)"
+  },
+  {
+    "question": "hübsch",
+    "choices": [
+      "csúnya (ugly)",
+      "ijesztő (creepy / scary)",
+      "mindenkori (respective)",
+      "csinos (pretty)"
+    ],
+    "answer": 4,
+    "hint": "Das ist ein hübsches Haus. (A2 - Adjektiv)"
+  },
+  {
+    "question": "csinos (pretty)",
+    "choices": [
+      "hübsch",
+      "hell",
+      "kaputt",
+      "gründlich"
+    ],
+    "answer": 1,
+    "hint": "Das ist ein hübsches Haus. (A2 - Adjektiv)"
+  },
+  {
+    "question": "hungrig",
+    "choices": [
+      "éhes (hungry)",
+      "izolált / szigetelt (isolated)",
+      "ijesztő (creepy / scary)",
+      "gyakori (frequent)"
+    ],
+    "answer": 1,
+    "hint": "Ich bin sehr hungrig. (A1 - Adjektiv)"
+  },
+  {
+    "question": "éhes (hungry)",
+    "choices": [
+      "hungrig",
+      "hell",
+      "hart",
+      "gleichmäßig"
+    ],
+    "answer": 1,
+    "hint": "Ich bin sehr hungrig. (A1 - Adjektiv)"
+  },
+  {
+    "question": "hüpfen",
+    "choices": [
+      "ugrál (to hop / jump)",
+      "idejön (to come here)",
+      "ismer (to know)",
+      "csiklandoz (to tickle)"
+    ],
+    "answer": 1,
+    "hint": "Die Kinder hüpfen vor Freude. (A2 - Verb)"
+  },
+  {
+    "question": "ugrál (to hop / jump)",
+    "choices": [
+      "hüpfen",
+      "husten",
+      "hassen (+ A)",
+      "grenzen an + A"
+    ],
+    "answer": 1,
+    "hint": "Die Kinder hüpfen vor Freude. (A2 - Verb)"
+  },
+  {
+    "question": "husten",
+    "choices": [
+      "határos vmivel (to border on)",
+      "hívják vhogyan (to be called)",
+      "köhög (to cough)",
+      "letölt (to download)"
+    ],
+    "answer": 3,
+    "hint": "Er muss seit gestern ständig husten. (A2 - Verb)"
+  },
+  {
+    "question": "köhög (to cough)",
+    "choices": [
+      "hüpfen",
+      "husten",
+      "(sich) her|aus|stellen",
+      "kitzeln (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er muss seit gestern ständig husten. (A2 - Verb)"
+  },
+  {
+    "question": "identifizieren (+ A)",
+    "choices": [
+      "tart / megáll (to hold / stop)",
+      "hoz / elhoz (to fetch)",
+      "azonosít (to identify)",
+      "rág (to chew)"
+    ],
+    "answer": 3,
+    "hint": "Er konnte den Täter identifizieren. (B2 - Verb)"
+  },
+  {
+    "question": "azonosít (to identify)",
+    "choices": [
+      "graben (+ A)",
+      "installieren (+ A)",
+      "ketteln (+ A)",
+      "identifizieren (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er konnte den Täter identifizieren. (B2 - Verb)"
+  },
+  {
+    "question": "immer",
+    "choices": [
+      "oda (beszélőtől el) (there)",
+      "mindig (always)",
+      "alig (hardly)",
+      "összesen (altogether)"
+    ],
+    "answer": 2,
+    "hint": "Er ist immer pünktlich. (A1 - Adverb)"
+  },
+  {
+    "question": "mindig (always)",
+    "choices": [
+      "gleichzeitig",
+      "immer",
+      "heute",
+      "kaum"
+    ],
+    "answer": 2,
+    "hint": "Er ist immer pünktlich. (A1 - Adverb)"
+  },
+  {
+    "question": "in + A/D",
+    "choices": [
+      "belül (within)",
+      "emel (to lift)",
+      "-ban/-ben, -ba/-be (in / into)",
+      "mögött / mögé (behind)"
+    ],
+    "answer": 3,
+    "hint": "Ich gehe in die Schule. (A1 - Präposition)"
+  },
+  {
+    "question": "-ban/-ben, -ba/-be (in / into)",
+    "choices": [
+      "hinter + A/D",
+      "heben (+ A)",
+      "in + A/D",
+      "innerhalb + G"
+    ],
+    "answer": 3,
+    "hint": "Ich gehe in die Schule. (A1 - Präposition)"
+  },
+  {
+    "question": "indirekt",
+    "choices": [
+      "mindenkori (respective)",
+      "derűs (cheerful / fair)",
+      "kemény (hard)",
+      "közvetett (indirect)"
+    ],
+    "answer": 4,
+    "hint": "Das war eine indirekte Antwort. (B1 - Adjektiv)"
+  },
+  {
+    "question": "közvetett (indirect)",
+    "choices": [
+      "indirekt",
+      "hilfreich",
+      "günstig",
+      "jeweilig"
+    ],
+    "answer": 1,
+    "hint": "Das war eine indirekte Antwort. (B1 - Adjektiv)"
+  },
+  {
+    "question": "(sich) informieren über + A",
+    "choices": [
+      "kiderül (to turn out)",
+      "függ / akaszt (to hang)",
+      "tájékozódik vmiről (to inform oneself)",
+      "segít vkinek vmiben (to help)"
+    ],
+    "answer": 3,
+    "hint": "Ich möchte mich über den Kurs informieren. (A2 - Verb)"
+  },
+  {
+    "question": "tájékozódik vmiről (to inform oneself)",
+    "choices": [
+      "(sich) informieren über + A",
+      "klagen (über + A)",
+      "ketteln (+ A)",
+      "hin|weisen auf + A"
+    ],
+    "answer": 1,
+    "hint": "Ich möchte mich über den Kurs informieren. (A2 - Verb)"
+  },
+  {
+    "question": "innerhalb + G",
+    "choices": [
+      "belül (within)",
+      "-ban/-ben, -ba/-be (in / into)",
+      "reménykedik vmiben (to hope for)",
+      "mögött / mögé (behind)"
+    ],
+    "answer": 1,
+    "hint": "Die Lieferung erfolgt innerhalb einer Woche. (B1 - Präposition)"
+  },
+  {
+    "question": "belül (within)",
+    "choices": [
+      "hinter + A/D",
+      "innerhalb + G",
+      "hoffen auf + A",
+      "in + A/D"
+    ],
+    "answer": 2,
+    "hint": "Die Lieferung erfolgt innerhalb einer Woche. (B1 - Präposition)"
+  },
+  {
+    "question": "insgesamt",
+    "choices": [
+      "hátul (at the back)",
+      "valahol (somewhere)",
+      "ide (beszélő felé) (here / towards)",
+      "összesen (altogether)"
+    ],
+    "answer": 4,
+    "hint": "Das macht insgesamt 50 Euro. (B1 - Adverb)"
+  },
+  {
+    "question": "összesen (altogether)",
+    "choices": [
+      "jedenfalls",
+      "insgesamt",
+      "hier",
+      "heute"
+    ],
+    "answer": 2,
+    "hint": "Das macht insgesamt 50 Euro. (B1 - Adverb)"
+  },
+  {
+    "question": "installieren (+ A)",
+    "choices": [
+      "érdeklődik vmi iránt (to be interested in)",
+      "telepít (to install)",
+      "szól vmiről (to be about)",
+      "kereskedik vmivel (to trade in)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss die neue Software installieren. (B1 - Verb)"
+  },
+  {
+    "question": "telepít (to install)",
+    "choices": [
+      "kauen (+ A)",
+      "installieren (+ A)",
+      "hangen / hängen (+ D / + A)",
+      "her|stellen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss die neue Software installieren. (B1 - Verb)"
+  },
+  {
+    "question": "intelligent",
+    "choices": [
+      "durva (coarse / rough)",
+      "magas (high)",
+      "nemzetközi (international)",
+      "intelligens (intelligent)"
+    ],
+    "answer": 4,
+    "hint": "Er ist ein intelligenter Junge. (A2 - Adjektiv)"
+  },
+  {
+    "question": "intelligens (intelligent)",
+    "choices": [
+      "höflich",
+      "international",
+      "hässlich",
+      "intelligent"
+    ],
+    "answer": 4,
+    "hint": "Er ist ein intelligenter Junge. (A2 - Adjektiv)"
+  },
+  {
+    "question": "interessant",
+    "choices": [
+      "heves (violent / intense)",
+      "udvarias (polite)",
+      "világos (bright / light)",
+      "érdekes (interesting)"
+    ],
+    "answer": 4,
+    "hint": "Das ist ein interessantes Buch. (A1 - Adjektiv)"
+  },
+  {
+    "question": "érdekes (interesting)",
+    "choices": [
+      "himmelblau",
+      "interessant",
+      "hungrig",
+      "intelligent"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein interessantes Buch. (A1 - Adjektiv)"
+  },
+  {
+    "question": "(sich) interessieren für + A",
+    "choices": [
+      "gyógyít (to heal)",
+      "kiad (to publish / issue)",
+      "érdeklődik vmi iránt (to be interested in)",
+      "tart vminek (to take for / consider)"
+    ],
+    "answer": 3,
+    "hint": "Ich interessiere mich für Kunst. (A2 - Verb)"
+  },
+  {
+    "question": "érdeklődik vmi iránt (to be interested in)",
+    "choices": [
+      "ketteln (+ A)",
+      "(sich) her|aus|stellen",
+      "hangen / hängen (+ D / + A)",
+      "(sich) interessieren für + A"
+    ],
+    "answer": 4,
+    "hint": "Ich interessiere mich für Kunst. (A2 - Verb)"
+  },
+  {
+    "question": "international",
+    "choices": [
+      "nemzetközi (international)",
+      "közvetett (indirect)",
+      "derűs (cheerful / fair)",
+      "hideg (cold)"
+    ],
+    "answer": 1,
+    "hint": "Die firma ist international tätig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "nemzetközi (international)",
+    "choices": [
+      "jung",
+      "isoliert",
+      "international",
+      "höflich"
+    ],
+    "answer": 3,
+    "hint": "Die firma ist international tätig. (B1 - Adjektiv)"
+  },
+  {
+    "question": "irgendwann",
+    "choices": [
+      "valamikor (sometime)",
+      "most (now)",
+      "mindenesetre (in any case)",
+      "ma (today)"
+    ],
+    "answer": 1,
+    "hint": "Irgendwann werde ich dich besuchen. (B1 - Adverb)"
+  },
+  {
+    "question": "valamikor (sometime)",
+    "choices": [
+      "immer",
+      "irgendwann",
+      "jetzt",
+      "kaum"
+    ],
+    "answer": 2,
+    "hint": "Irgendwann werde ich dich besuchen. (B1 - Adverb)"
+  },
+  {
+    "question": "irgendwas",
+    "choices": [
+      "semmi / egyik sem (no / none)",
+      "itt (here)",
+      "valami (something)",
+      "mindenki / minden egyes (everyone / each)"
+    ],
+    "answer": 3,
+    "hint": "Hast du irgendwas gehört? (A2 - Pronomen)"
+  },
+  {
+    "question": "valami (something)",
+    "choices": [
+      "jeder",
+      "hier",
+      "kein",
+      "irgendwas"
+    ],
+    "answer": 4,
+    "hint": "Hast du irgendwas gehört? (A2 - Pronomen)"
+  },
+  {
+    "question": "irgendwo",
+    "choices": [
+      "valahol (somewhere)",
+      "egyidejűleg (at the same time)",
+      "ide (beszélő felé) (here / towards)",
+      "hátul (at the back)"
+    ],
+    "answer": 1,
+    "hint": "Mein Schlüssel muss irgendwo sein. (A2 - Adverb)"
+  },
+  {
+    "question": "valahol (somewhere)",
+    "choices": [
+      "irgendwo",
+      "heute",
+      "gleichzeitig",
+      "jetzt"
+    ],
+    "answer": 1,
+    "hint": "Mein Schlüssel muss irgendwo sein. (A2 - Adverb)"
+  },
+  {
+    "question": "isoliert",
+    "choices": [
+      "udvarias (polite)",
+      "ijesztő (creepy / scary)",
+      "derűs (cheerful / fair)",
+      "izolált / szigetelt (isolated)"
+    ],
+    "answer": 4,
+    "hint": "Das Haus ist gut isoliert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "izolált / szigetelt (isolated)",
+    "choices": [
+      "höflich",
+      "isoliert",
+      "günstig",
+      "hässlich"
+    ],
+    "answer": 2,
+    "hint": "Das Haus ist gut isoliert. (B2 - Adjektiv)"
+  },
+  {
+    "question": "ja",
+    "choices": [
+      "forró (hot)",
+      "igen (yes)",
+      "ijesztő (creepy / scary)",
+      "azonban (however)"
+    ],
+    "answer": 2,
+    "hint": "Ja, das stimmt. (A1 - Partikel)"
+  },
+  {
+    "question": "igen (yes)",
+    "choices": [
+      "gruselig",
+      "heiß",
+      "jedoch",
+      "ja"
+    ],
+    "answer": 4,
+    "hint": "Ja, das stimmt. (A1 - Partikel)"
+  },
+  {
+    "question": "jährlich",
+    "choices": [
+      "évente (yearly)",
+      "szívélyes (cordial)",
+      "ijesztő (creepy / scary)",
+      "heves (violent / intense)"
+    ],
+    "answer": 1,
+    "hint": "Die Versammlung findet jährlich statt. (B1 - Adjektiv / hsz)"
+  },
+  {
+    "question": "évente (yearly)",
+    "choices": [
+      "heiß",
+      "jeweilig",
+      "interessant",
+      "jährlich"
+    ],
+    "answer": 4,
+    "hint": "Die Versammlung findet jährlich statt. (B1 - Adjektiv / hsz)"
+  },
+  {
+    "question": "je",
+    "choices": [
+      "most (now)",
+      "valahol (somewhere)",
+      "valaha / per (ever / per)",
+      "oda (beszélőtől el) (there)"
+    ],
+    "answer": 3,
+    "hint": "Warst du je in Paris? (B1 - Adverb)"
+  },
+  {
+    "question": "valaha / per (ever / per)",
+    "choices": [
+      "jedenfalls",
+      "je",
+      "immer",
+      "irgendwann"
+    ],
+    "answer": 2,
+    "hint": "Warst du je in Paris? (B1 - Adverb)"
+  },
+  {
+    "question": "jedenfalls",
+    "choices": [
+      "ma (today)",
+      "mindenesetre (in any case)",
+      "oda (beszélőtől el) (there)",
+      "összesen (altogether)"
+    ],
+    "answer": 2,
+    "hint": "Ich komme jedenfalls mit. (B2 - Adverb)"
+  },
+  {
+    "question": "mindenesetre (in any case)",
+    "choices": [
+      "gleichzeitig",
+      "immer",
+      "jedenfalls",
+      "jetzt"
+    ],
+    "answer": 3,
+    "hint": "Ich komme jedenfalls mit. (B2 - Adverb)"
+  },
+  {
+    "question": "jeder",
+    "choices": [
+      "valami (something)",
+      "szívélyes (cordial)",
+      "semmi / egyik sem (no / none)",
+      "mindenki / minden egyes (everyone / each)"
+    ],
+    "answer": 4,
+    "hint": "Jeder Mensch ist anders. (A1 - Pronomen)"
+  },
+  {
+    "question": "mindenki / minden egyes (everyone / each)",
+    "choices": [
+      "irgendwas",
+      "jeder",
+      "herzlich",
+      "kein"
+    ],
+    "answer": 2,
+    "hint": "Jeder Mensch ist anders. (A1 - Pronomen)"
+  },
+  {
+    "question": "jedes Mal",
+    "choices": [
+      "minden alkalommal (every time)",
+      "égszínkék (sky blue)",
+      "itt (here)",
+      "június (June)"
+    ],
+    "answer": 1,
+    "hint": "Jedes Mal, wenn er kommt, regnet es. (A2 - Ausdruck)"
+  },
+  {
+    "question": "minden alkalommal (every time)",
+    "choices": [
+      "himmelblau",
+      "r Juni",
+      "jedes Mal",
+      "hier"
+    ],
+    "answer": 3,
+    "hint": "Jedes Mal, wenn er kommt, regnet es. (A2 - Ausdruck)"
+  },
+  {
+    "question": "jedoch",
+    "choices": [
+      "szól vmiről (to be about)",
+      "szeg (varrással) (to overlock)",
+      "nemzetközi (international)",
+      "azonban (however)"
+    ],
+    "answer": 4,
+    "hint": "Er wollte kommen, jedoch war er krank. (B2 - Konjunktion)"
+  },
+  {
+    "question": "azonban (however)",
+    "choices": [
+      "ketteln (+ A)",
+      "jedoch",
+      "international",
+      "handeln von + D"
+    ],
+    "answer": 2,
+    "hint": "Er wollte kommen, jedoch war er krank. (B2 - Konjunktion)"
+  },
+  {
+    "question": "jetzt",
+    "choices": [
+      "mindenesetre (in any case)",
+      "ide (beszélő felé) (here / towards)",
+      "most (now)",
+      "valaha / per (ever / per)"
+    ],
+    "answer": 3,
+    "hint": "Jetzt habe ich keine Zeit. (A1 - Adverb)"
+  },
+  {
+    "question": "most (now)",
+    "choices": [
+      "heute",
+      "jetzt",
+      "insgesamt",
+      "irgendwann"
+    ],
+    "answer": 2,
+    "hint": "Jetzt habe ich keine Zeit. (A1 - Adverb)"
+  },
+  {
+    "question": "jeweilig",
+    "choices": [
+      "mindenkori (respective)",
+      "durva (coarse / rough)",
+      "éhes (hungry)",
+      "segítőkész (helpful)"
+    ],
+    "answer": 1,
+    "hint": "Die jeweiligen Kosten werden berechnet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "mindenkori (respective)",
+    "choices": [
+      "häufig",
+      "kalt",
+      "jeweilig",
+      "indirekt"
+    ],
+    "answer": 3,
+    "hint": "Die jeweiligen Kosten werden berechnet. (B2 - Adjektiv)"
+  },
+  {
+    "question": "jung",
+    "choices": [
+      "alapos (thorough)",
+      "fiatal (young)",
+      "nagy (large / tall)",
+      "világos (bright / light)"
+    ],
+    "answer": 2,
+    "hint": "Sie ist noch sehr jung. (A1 - Adjektiv)"
+  },
+  {
+    "question": "fiatal (young)",
+    "choices": [
+      "jährlich",
+      "heiter",
+      "glücklich",
+      "jung"
+    ],
+    "answer": 4,
+    "hint": "Sie ist noch sehr jung. (A1 - Adjektiv)"
+  },
+  {
+    "question": "r Juni",
+    "choices": [
+      "július (July)",
+      "június (June)",
+      "üdvözöl / köszön (to greet)",
+      "zabpehely (oat flakes)"
+    ],
+    "answer": 2,
+    "hint": "Im Juni beginnen die Sommerferien. (A1 - Nomen)"
+  },
+  {
+    "question": "június (June)",
+    "choices": [
+      "grüßen (+ A)",
+      "r Juni",
+      "r Juli",
+      "e Haferflocken (Pl.)"
+    ],
+    "answer": 2,
+    "hint": "Im Juni beginnen die Sommerferien. (A1 - Nomen)"
+  },
+  {
+    "question": "r Juli",
+    "choices": [
+      "zabpehely (oat flakes)",
+      "titokban (secret)",
+      "június (June)",
+      "július (July)"
+    ],
+    "answer": 4,
+    "hint": "Der Juli ist oft der heißeste Monat. (A1 - Nomen)"
+  },
+  {
+    "question": "július (July)",
+    "choices": [
+      "r Juni",
+      "heimlich",
+      "e Haferflocken (Pl.)",
+      "r Juli"
+    ],
+    "answer": 4,
+    "hint": "Der Juli ist oft der heißeste Monat. (A1 - Nomen)"
+  },
+  {
+    "question": "kalt",
+    "choices": [
+      "egyenletes (even / steady)",
+      "hideg (cold)",
+      "derűs (cheerful / fair)",
+      "kedvező / olcsó (favorable / cheap)"
+    ],
+    "answer": 2,
+    "hint": "Im Winter ist es oft sehr kalt. (A1 - Adjektiv)"
+  },
+  {
+    "question": "hideg (cold)",
+    "choices": [
+      "gut",
+      "kalt",
+      "hilfreich",
+      "gnädig"
+    ],
+    "answer": 2,
+    "hint": "Im Winter ist es oft sehr kalt. (A1 - Adjektiv)"
+  },
+  {
+    "question": "kaputt",
+    "choices": [
+      "tönkrement / elromlott (broken)",
+      "gyakori (frequent)",
+      "forró (hot)",
+      "kegyelmes (merciful)"
+    ],
+    "answer": 1,
+    "hint": "Mein Computer ist kaputt. (A1 - Adjektiv)"
+  },
+  {
+    "question": "tönkrement / elromlott (broken)",
+    "choices": [
+      "international",
+      "himmelblau",
+      "kaputt",
+      "heimlich"
+    ],
+    "answer": 3,
+    "hint": "Mein Computer ist kaputt. (A1 - Adjektiv)"
+  },
+  {
+    "question": "kauen (+ A)",
+    "choices": [
+      "hoz / elhoz (to fetch)",
+      "csiklandoz (to tickle)",
+      "rág (to chew)",
+      "gyógyít (to heal)"
+    ],
+    "answer": 3,
+    "hint": "Du solltest dein Essen besser kauen. (B1 - Verb)"
+  },
+  {
+    "question": "rág (to chew)",
+    "choices": [
+      "kauen (+ A)",
+      "her|kommen",
+      "hören (+ A)",
+      "heben (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Du solltest dein Essen besser kauen. (B1 - Verb)"
+  },
+  {
+    "question": "kaum",
+    "choices": [
+      "alig (hardly)",
+      "összesen (altogether)",
+      "egyidejűleg (at the same time)",
+      "valamikor (sometime)"
+    ],
+    "answer": 1,
+    "hint": "Ich kann dich kaum hören. (B1 - Adverb)"
+  },
+  {
+    "question": "alig (hardly)",
+    "choices": [
+      "heute",
+      "kaum",
+      "her",
+      "irgendwo"
+    ],
+    "answer": 2,
+    "hint": "Ich kann dich kaum hören. (B1 - Adverb)"
+  },
+  {
+    "question": "kein",
+    "choices": [
+      "kereskedik vmivel (to trade in)",
+      "mindenki / minden egyes (everyone / each)",
+      "semmi / egyik sem (no / none)",
+      "valami (something)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe kein Geld. (A1 - Pronomen)"
+  },
+  {
+    "question": "semmi / egyik sem (no / none)",
+    "choices": [
+      "handeln mit + D",
+      "irgendwas",
+      "kein",
+      "jeder"
+    ],
+    "answer": 3,
+    "hint": "Ich habe kein Geld. (A1 - Pronomen)"
+  },
+  {
+    "question": "kennen (+ A)",
+    "choices": [
+      "telepít (to install)",
+      "ugrál (to hop / jump)",
+      "ismer (to know)",
+      "segít vkinek vmiben (to help)"
+    ],
+    "answer": 3,
+    "hint": "Kennst du diesen Mann? (A1 - Verb)"
+  },
+  {
+    "question": "ismer (to know)",
+    "choices": [
+      "halten für + A",
+      "hüpfen",
+      "kennen (+ A)",
+      "kitzeln (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Kennst du diesen Mann? (A1 - Verb)"
+  },
+  {
+    "question": "kennen|lernen (+ A)",
+    "choices": [
+      "függ / akaszt (to hang)",
+      "szól vmiről (to be about)",
+      "megismer (to get to know)",
+      "kiderül (to turn out)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben uns im Urlaub kennengelernt. (A1 - Verb)"
+  },
+  {
+    "question": "megismer (to get to know)",
+    "choices": [
+      "husten",
+      "kennen|lernen (+ A)",
+      "grenzen an + A",
+      "halten von + D"
+    ],
+    "answer": 2,
+    "hint": "Wir haben uns im Urlaub kennengelernt. (A1 - Verb)"
+  },
+  {
+    "question": "kernig",
+    "choices": [
+      "velős / erős (robust / pithy)",
+      "hideg (cold)",
+      "kedvező / olcsó (favorable / cheap)",
+      "segítőkész (helpful)"
+    ],
+    "answer": 1,
+    "hint": "Er hat einen kernigen Humor. (C1 - Adjektiv)"
+  },
+  {
+    "question": "velős / erős (robust / pithy)",
+    "choices": [
+      "kernig",
+      "hart",
+      "hell",
+      "kalt"
+    ],
+    "answer": 1,
+    "hint": "Er hat einen kernigen Humor. (C1 - Adjektiv)"
+  },
+  {
+    "question": "ketteln (+ A)",
+    "choices": [
+      "szeg (varrással) (to overlock)",
+      "ismer (to know)",
+      "ás (to dig)",
+      "tart vminek (to take for / consider)"
+    ],
+    "answer": 1,
+    "hint": "Die Kanten müssen noch gekettelt werden. (B2 - Verb)"
+  },
+  {
+    "question": "szeg (varrással) (to overlock)",
+    "choices": [
+      "ketteln (+ A)",
+      "kitzeln (+ A)",
+      "installieren (+ A)",
+      "her|kommen"
+    ],
+    "answer": 1,
+    "hint": "Die Kanten müssen noch gekettelt werden. (B2 - Verb)"
+  },
+  {
+    "question": "kitzeln (+ A)",
+    "choices": [
+      "érdeklődik vmi iránt (to be interested in)",
+      "gyógyít (to heal)",
+      "csiklandoz (to tickle)",
+      "kiderül (to turn out)"
+    ],
+    "answer": 3,
+    "hint": "Hör auf, mich zu kitzeln! (B1 - Verb)"
+  },
+  {
+    "question": "csiklandoz (to tickle)",
+    "choices": [
+      "klagen (über + A)",
+      "(sich) informieren über + A",
+      "her|kommen",
+      "kitzeln (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Hör auf, mich zu kitzeln! (B1 - Verb)"
+  },
+  {
+    "question": "klagen (über + A)",
+    "choices": [
+      "panaszkodik vmire (to complain about)",
+      "köhög (to cough)",
+      "függ / akaszt (to hang)",
+      "idejön (to come here)"
+    ],
+    "answer": 1,
+    "hint": "Er klagt über Kopfschmerzen. (B1 - Verb)"
+  },
+  {
+    "question": "panaszkodik vmire (to complain about)",
+    "choices": [
+      "hageln",
+      "grüßen (+ A)",
+      "handeln mit + D",
+      "klagen (über + A)"
+    ],
+    "answer": 4,
+    "hint": "Er klagt über Kopfschmerzen. (B1 - Verb)"
+  }
+]

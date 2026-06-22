@@ -1,0 +1,2202 @@
+[
+  {
+    "question": "geräuchert",
+    "choices": [
+      "füstölt (smoked)",
+      "visszaélő / sértő (abusive)",
+      "átlátszatlan / homályos (opaque)",
+      "egyetlen (unique / only)"
+    ],
+    "answer": 1,
+    "hint": "Geräucherter Fisch ist eine Spezialität. (Synonyme: rauchig, s Rauchfleisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "füstölt (smoked)",
+    "choices": [
+      "finanziell",
+      "kitzelig",
+      "undurchsichtig",
+      "geräuchert"
+    ],
+    "answer": 4,
+    "hint": "Geräucherter Fisch ist eine Spezialität. (Synonyme: rauchig, s Rauchfleisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "beziehen (+ A) (von + D)",
+    "choices": [
+      "megzavar / félbeszakít (disrupt)",
+      "beszerez (to obtain / get)",
+      "megtud / tapasztal (to find out / experience)",
+      "elvégez / végrehajt (to carry out)"
+    ],
+    "answer": 2,
+    "hint": "Wir beziehen unsere Waren von einem lokalen Händler. (Synonyme: erhalten, beschaffen, erwerben) (B2 - Verb)"
+  },
+  {
+    "question": "beszerez (to obtain / get)",
+    "choices": [
+      "stören (+ A) / unterbrechen (+ A)",
+      "beziehen (+ A) (von + D)",
+      "vermeiden (+ A)",
+      "beschreiben (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Wir beziehen unsere Waren von einem lokalen Händler. (Synonyme: erhalten, beschaffen, erwerben) (B2 - Verb)"
+  },
+  {
+    "question": "einzig",
+    "choices": [
+      "visszaélő / sértő (abusive)",
+      "egyetlen (unique / only)",
+      "felszerelt (equipped)",
+      "obszcén (obscene)"
+    ],
+    "answer": 2,
+    "hint": "Er war der einzige Gast im Restaurant. (Synonyme: alleinig, bloß, exklusiv) (B1 - Adjektiv)"
+  },
+  {
+    "question": "egyetlen (unique / only)",
+    "choices": [
+      "einzig",
+      "aufhetzend",
+      "kitzelig",
+      "undurchsichtig"
+    ],
+    "answer": 1,
+    "hint": "Er war der einzige Gast im Restaurant. (Synonyme: alleinig, bloß, exklusiv) (B1 - Adjektiv)"
+  },
+  {
+    "question": "einzeln",
+    "choices": [
+      "felszerelt / ellátott (equipped / furnished)",
+      "egyenkénti / külön (individual)",
+      "egyetlen (unique / only)",
+      "visszaélő / sértő (abusive)"
+    ],
+    "answer": 2,
+    "hint": "Jedes Teil muss einzeln geprüft werden. (Synonyme: separat, individuell, isoliert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "egyenkénti / külön (individual)",
+    "choices": [
+      "einzeln",
+      "finanziell",
+      "einschüchternd",
+      "bösartig"
+    ],
+    "answer": 1,
+    "hint": "Jedes Teil muss einzeln geprüft werden. (Synonyme: separat, individuell, isoliert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "hinein",
+    "choices": [
+      "elöl (front / ahead)",
+      "bele / befelé (into)",
+      "egy sorban / inline (inline)",
+      "hátul (behind / in the back)"
+    ],
+    "answer": 2,
+    "hint": "Gehen Sie bitte in das Zimmer hinein. (Synonyme: drinnen, nach innen) (A2 - Adverb)"
+  },
+  {
+    "question": "bele / befelé (into)",
+    "choices": [
+      "in einer Reihe / inline",
+      "offenkundig",
+      "vorne",
+      "hinein"
+    ],
+    "answer": 4,
+    "hint": "Gehen Sie bitte in das Zimmer hinein. (Synonyme: drinnen, nach innen) (A2 - Adverb)"
+  },
+  {
+    "question": "r Geschmack, \"-e",
+    "choices": [
+      "fénykép (photo)",
+      "íz (taste)",
+      "kormányablak (government office)",
+      "tájékozódás (orientation)"
+    ],
+    "answer": 2,
+    "hint": "Über Geschmack lässt sich nicht streiten. (Synonyme: s Aroma, r Genuss, s Gusto) (B1 - Nomen)"
+  },
+  {
+    "question": "íz (taste)",
+    "choices": [
+      "r Bruch, \"-e / e Verletzung, -en",
+      "r Selbstversorger, -",
+      "r Geschmack, \"-e",
+      "s Foto, -s"
+    ],
+    "answer": 3,
+    "hint": "Über Geschmack lässt sich nicht streiten. (Synonyme: s Aroma, r Genuss, s Gusto) (B1 - Nomen)"
+  },
+  {
+    "question": "eine Scheibe Brot",
+    "choices": [
+      "Majd én intézem. (I'll take care of that.)",
+      "egy szelet kenyér (a slice of bread)",
+      "örömömet lelem benne (I enjoy doing...)",
+      "tudnia kell (need to know)"
+    ],
+    "answer": 2,
+    "hint": "Ich hätte gerne eine Scheibe Brot zum Schinken. (Synonyme: r Schnitz, s Stück Brot) (A1 - Ausdruck)"
+  },
+  {
+    "question": "egy szelet kenyér (a slice of bread)",
+    "choices": [
+      "im Namen (+ G / von + D)",
+      "Ich drücke dir die Daumen!",
+      "Warte kurz!",
+      "eine Scheibe Brot"
+    ],
+    "answer": 4,
+    "hint": "Ich hätte gerne eine Scheibe Brot zum Schinken. (Synonyme: r Schnitz, s Stück Brot) (A1 - Ausdruck)"
+  },
+  {
+    "question": "Das kommt nie wieder vor!",
+    "choices": [
+      "Ez soha többé nem fordul elő! (That will never happen again!)",
+      "beoltatja magát (to get vaccinated)",
+      "Mi újság? (What's new?)",
+      "örömömet lelem benne (I enjoy doing...)"
+    ],
+    "answer": 1,
+    "hint": "Es tut mir leid, das kommt nie wieder vor! (Synonyme: Das passiert nicht noch mal) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Ez soha többé nem fordul elő! (That will never happen again!)",
+    "choices": [
+      "im Hintergrund",
+      "in der Mitte (+ G / von + D)",
+      "Das kommt nie wieder vor!",
+      "brauchen zu wissen"
+    ],
+    "answer": 3,
+    "hint": "Es tut mir leid, das kommt nie wieder vor! (Synonyme: Das passiert nicht noch mal) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Ich drücke dir die Daumen!",
+    "choices": [
+      "Várj egy pillanatot! (Wait a second!)",
+      "szándékozik (to intend)",
+      "Szorítok neked! (I'll keep my fingers crossed!)",
+      "igénybe vesz (to make use of)"
+    ],
+    "answer": 3,
+    "hint": "Viel Glück bei der Prüfung, ich drücke dir die Daumen! (Synonyme: Alles Gute, Viel Erfolg) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Szorítok neked! (I'll keep my fingers crossed!)",
+    "choices": [
+      "basierend auf + D",
+      "Ich drücke dir die Daumen!",
+      "impfen lassen (sich)",
+      "in der Mitte (+ G / von + D)"
+    ],
+    "answer": 2,
+    "hint": "Viel Glück bei der Prüfung, ich drücke dir die Daumen! (Synonyme: Alles Gute, Viel Erfolg) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Ich bin dran.",
+    "choices": [
+      "Én jövök. / Én következem. (It's my turn.)",
+      "Szorítok neked! (I'll keep my fingers crossed!)",
+      "Értesítelek. (I'll let you know.)",
+      "Ez soha többé nem fordul elő! (That will never happen again!)"
+    ],
+    "answer": 1,
+    "hint": "Wer ist als Nächster? - Ich bin dran. (Synonyme: Ich bin an der Reihe) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Én jövök. / Én következem. (It's my turn.)",
+    "choices": [
+      "Ich bin dran.",
+      "verlängern lassen",
+      "in der Sonne liegen",
+      "Energie auf|tanken"
+    ],
+    "answer": 1,
+    "hint": "Wer ist als Nächster? - Ich bin dran. (Synonyme: Ich bin an der Reihe) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Ich gebe dir Bescheid (+ D)",
+    "choices": [
+      "a háttérben (in the background)",
+      "meghosszabbíttat (to have extended)",
+      "Értesítelek. (I'll let you know.)",
+      "fényképet készíteni (to take a photo)"
+    ],
+    "answer": 3,
+    "hint": "Sobald ich mehr weiß, gebe ich dir Bescheid. (Synonyme: informieren, mitteilen) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Értesítelek. (I'll let you know.)",
+    "choices": [
+      "Energie auf|tanken",
+      "e Absicht haben (+ zu + Inf)",
+      "Ich gebe dir Bescheid (+ D)",
+      "Ich bin dran."
+    ],
+    "answer": 3,
+    "hint": "Sobald ich mehr weiß, gebe ich dir Bescheid. (Synonyme: informieren, mitteilen) (B1 - Ausdruck)"
+  },
+  {
+    "question": "r Bescheid, -e",
+    "choices": [
+      "változatosság (variety / change)",
+      "megfelelés / betartás (compliance)",
+      "értesítés / válasz (notice / information)",
+      "ellátás (étkezés) (catering / board)"
+    ],
+    "answer": 3,
+    "hint": "Wir warten noch auf einen Bescheid vom Amt. (Synonyme: e Auskunft, e Information, e Nachricht) (B1 - Nomen)"
+  },
+  {
+    "question": "értesítés / válasz (notice / information)",
+    "choices": [
+      "s Gebäude, -",
+      "e Unterkunft, \"-e",
+      "r Bescheid, -e",
+      "s Engagement, -s / e Verpflichtung, -en"
+    ],
+    "answer": 3,
+    "hint": "Wir warten noch auf einen Bescheid vom Amt. (Synonyme: e Auskunft, e Information, e Nachricht) (B1 - Nomen)"
+  },
+  {
+    "question": "Schon gut.",
+    "choices": [
+      "Jól van. / Semmi baj. (It's okay. / Never mind.)",
+      "valamin alapuló (based upon)",
+      "Mindjárt kezdődik! (It's about to start!)",
+      "Értesítelek. (I'll let you know.)"
+    ],
+    "answer": 1,
+    "hint": "Entschuldigung! - Schon gut, kein Problem. (Synonyme: Macht nichts, passt schon) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Jól van. / Semmi baj. (It's okay. / Never mind.)",
+    "choices": [
+      "Schon gut.",
+      "im Vordergrund",
+      "eine Scheibe Brot",
+      "Ich bin dran."
+    ],
+    "answer": 1,
+    "hint": "Entschuldigung! - Schon gut, kein Problem. (Synonyme: Macht nichts, passt schon) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Gleich geht's los!",
+    "choices": [
+      "beoltatja magát (to get vaccinated)",
+      "Várj egy pillanatot! (Wait a second!)",
+      "Mindjárt kezdődik! (It's about to start!)",
+      "Ez soha többé nem fordul elő! (That will never happen again!)"
+    ],
+    "answer": 3,
+    "hint": "Setzt euch hin, gleich geht's los! (Synonyme: Es fängt sofort an) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Mindjárt kezdődik! (It's about to start!)",
+    "choices": [
+      "Ich drücke dir die Daumen!",
+      "Gleich geht's los!",
+      "Ich gebe dir Bescheid (+ D)",
+      "in Anspruch nehmen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Setzt euch hin, gleich geht's los! (Synonyme: Es fängt sofort an) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Was gibt's Neues?",
+    "choices": [
+      "Jól van. / Semmi baj. (It's okay. / Never mind.)",
+      "Majd én intézem. (I'll take care of that.)",
+      "igénybe vesz (to make use of)",
+      "Mi újság? (What's new?)"
+    ],
+    "answer": 4,
+    "hint": "Hallo! Lange nicht gesehen, was gibt's Neues? (Synonyme: Wie läuft's?, Was gibt es Aktuelles?) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Mi újság? (What's new?)",
+    "choices": [
+      "Es macht mir Spaß...",
+      "Was gibt's Neues?",
+      "Keine Sorge!",
+      "in der Mitte (+ G / von + D)"
+    ],
+    "answer": 2,
+    "hint": "Hallo! Lange nicht gesehen, was gibt's Neues? (Synonyme: Wie läuft's?, Was gibt es Aktuelles?) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Warte kurz!",
+    "choices": [
+      "Mi újság? (What's new?)",
+      "Várj egy pillanatot! (Wait a second!)",
+      "Én jövök. / Én következem. (It's my turn.)",
+      "Szorítok neked! (I'll keep my fingers crossed!)"
+    ],
+    "answer": 2,
+    "hint": "Warte kurz, ich habe etwas vergessen! (Synonyme: Moment mal, Sekunde bitte) (A1 - Ausdruck)"
+  },
+  {
+    "question": "Várj egy pillanatot! (Wait a second!)",
+    "choices": [
+      "Was gibt's Neues?",
+      "Warte kurz!",
+      "eine Scheibe Brot",
+      "impfen lassen (sich)"
+    ],
+    "answer": 2,
+    "hint": "Warte kurz, ich habe etwas vergessen! (Synonyme: Moment mal, Sekunde bitte) (A1 - Ausdruck)"
+  },
+  {
+    "question": "Darum kümmere ich mich (+ um + A).",
+    "choices": [
+      "Szorítok neked! (I'll keep my fingers crossed!)",
+      "Majd én intézem. (I'll take care of that.)",
+      "Mi újság? (What's new?)",
+      "Ez soha többé nem fordul elő! (That will never happen again!)"
+    ],
+    "answer": 2,
+    "hint": "Das problem ist bekannt, darum kümmere ich mich. (Synonyme: Das übernehme ich, ich erledige das) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Majd én intézem. (I'll take care of that.)",
+    "choices": [
+      "Darum kümmere ich mich (+ um + A).",
+      "Warte kurz!",
+      "im Vordergrund",
+      "Energie auf|tanken"
+    ],
+    "answer": 1,
+    "hint": "Das problem ist bekannt, darum kümmere ich mich. (Synonyme: Das übernehme ich, ich erledige das) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Keine Sorge!",
+    "choices": [
+      "szándékozik (to intend)",
+      "az előtérben (in the foreground)",
+      "Ne aggódj! (No worries!)",
+      "beoltatja magát (to get vaccinated)"
+    ],
+    "answer": 3,
+    "hint": "Keine Sorge, wir werden pünktlich ankommen. (Synonyme: Beruhige dich, hab keine Angst) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Ne aggódj! (No worries!)",
+    "choices": [
+      "Gleich geht's los!",
+      "Energie auf|tanken",
+      "Ich bin dran.",
+      "Keine Sorge!"
+    ],
+    "answer": 4,
+    "hint": "Keine Sorge, wir werden pünktlich ankommen. (Synonyme: Beruhige dich, hab keine Angst) (A2 - Ausdruck)"
+  },
+  {
+    "question": "im Namen (+ G / von + D)",
+    "choices": [
+      "a háttérben (in the background)",
+      "valaki nevében (on behalf of)",
+      "szándékozik (to intend)",
+      "napozni (to lie in the sun)"
+    ],
+    "answer": 2,
+    "hint": "Er sprach im Namen der ganzen Firma. (Synonyme: im Auftrag von, stellvertretend für) (B2 - Ausdruck)"
+  },
+  {
+    "question": "valaki nevében (on behalf of)",
+    "choices": [
+      "in der Mitte (+ G / von + D)",
+      "im Namen (+ G / von + D)",
+      "Das kommt nie wieder vor!",
+      "e Absicht haben (+ zu + Inf)"
+    ],
+    "answer": 2,
+    "hint": "Er sprach im Namen der ganzen Firma. (Synonyme: im Auftrag von, stellvertretend für) (B2 - Ausdruck)"
+  },
+  {
+    "question": "widersprechen (+ D)",
+    "choices": [
+      "kipiheni magát (to recover / relax)",
+      "megzavar / félbeszakít (disrupt)",
+      "kivált / előidéz (to elicit)",
+      "ellentmond (to contradict)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss dir in diesem Punkt widersprechen. (Synonyme: bestreiten, dagegenreden, opponieren) (B2 - Verb)"
+  },
+  {
+    "question": "ellentmond (to contradict)",
+    "choices": [
+      "beschreiben (+ A)",
+      "widersprechen (+ D)",
+      "ergänzen (+ A)",
+      "mildern (+ A) / abschwächen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Ich muss dir in diesem Punkt widersprechen. (Synonyme: bestreiten, dagegenreden, opponieren) (B2 - Verb)"
+  },
+  {
+    "question": "kitzelig",
+    "choices": [
+      "átlátszatlan / homályos (opaque)",
+      "egyetlen (unique / only)",
+      "csiklandós (ticklish)",
+      "pénzügyi (financial)"
+    ],
+    "answer": 3,
+    "hint": "Die Kinder sind am Bauch sehr kitzelig. (Synonyme: empfindlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "csiklandós (ticklish)",
+    "choices": [
+      "ab|gelaufen",
+      "ausgerüstet (+ mit + D)",
+      "eingeschränkt",
+      "kitzelig"
+    ],
+    "answer": 4,
+    "hint": "Die Kinder sind am Bauch sehr kitzelig. (Synonyme: empfindlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "s Maßband, \"-er",
+    "choices": [
+      "mérőszalag (tape measure)",
+      "menekülés (escape)",
+      "fénykép (photo)",
+      "alapos vizsgálat (scrutiny)"
+    ],
+    "answer": 1,
+    "hint": "Der Handwerker nutzt ein Maßband zum Messen. (Synonyme: s Bandmaß, r Meterstab) (B1 - Nomen)"
+  },
+  {
+    "question": "mérőszalag (tape measure)",
+    "choices": [
+      "e Verpflegung (Sg.)",
+      "e Abwechslung, -en",
+      "r Zweck, -e",
+      "s Maßband, \"-er"
+    ],
+    "answer": 4,
+    "hint": "Der Handwerker nutzt ein Maßband zum Messen. (Synonyme: s Bandmaß, r Meterstab) (B1 - Nomen)"
+  },
+  {
+    "question": "in einer Reihe / inline",
+    "choices": [
+      "egy sorban / inline (inline)",
+      "bele / befelé (into)",
+      "hátul (behind / in the back)",
+      "elöl (front / ahead)"
+    ],
+    "answer": 1,
+    "hint": "Die Elemente sind inline angeordnet. (Synonyme: hintereinander, hinterreihig) (B2 - Adverb)"
+  },
+  {
+    "question": "egy sorban / inline (inline)",
+    "choices": [
+      "in einer Reihe / inline",
+      "offenkundig",
+      "hinein",
+      "hinten"
+    ],
+    "answer": 1,
+    "hint": "Die Elemente sind inline angeordnet. (Synonyme: hintereinander, hinterreihig) (B2 - Adverb)"
+  },
+  {
+    "question": "gelten (+ für + A)",
+    "choices": [
+      "ellentmond (to contradict)",
+      "érvényes vmire (to apply to)",
+      "igényel / igénybe vesz (to claim / demand)",
+      "kiegészít (complement)"
+    ],
+    "answer": 2,
+    "hint": "Diese Regel gilt für alle Mitarbeiter. (Synonyme: zählen, wirksam sein, Gültigkeit haben) (B1 - Verb)"
+  },
+  {
+    "question": "érvényes vmire (to apply to)",
+    "choices": [
+      "gelten (+ für + A)",
+      "lohnen (sich)",
+      "beanspruchen (+ A)",
+      "widersprechen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Diese Regel gilt für alle Mitarbeiter. (Synonyme: zählen, wirksam sein, Gültigkeit haben) (B1 - Verb)"
+  },
+  {
+    "question": "durch|führen (+ A)",
+    "choices": [
+      "elvégez / végrehajt (to carry out)",
+      "érvényes vmire (to apply to)",
+      "kivált / előidéz (to elicit)",
+      "kiderít / rájön (to find out)"
+    ],
+    "answer": 1,
+    "hint": "Wir führen das Experiment morgen durch. (Synonyme: abwickeln, erledigen, realisieren) (B2 - Verb)"
+  },
+  {
+    "question": "elvégez / végrehajt (to carry out)",
+    "choices": [
+      "mildern (+ A) / abschwächen (+ A)",
+      "stören (+ A) / unterbrechen (+ A)",
+      "her|aus|finden (+ A)",
+      "durch|führen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir führen das Experiment morgen durch. (Synonyme: abwickeln, erledigen, realisieren) (B2 - Verb)"
+  },
+  {
+    "question": "e Überabhängigkeit, -en",
+    "choices": [
+      "megszegés / rés (breach)",
+      "túlzott függőség (overreliance)",
+      "útlevél (passport)",
+      "cél / rendeltetés (purpose)"
+    ],
+    "answer": 2,
+    "hint": "Eine Überabhängigkeit von Importen kann riskant sein. (Synonyme: e Unselbstständigkeit, e Hörigkeit) (C1 - Nomen)"
+  },
+  {
+    "question": "túlzott függőség (overreliance)",
+    "choices": [
+      "e Unterkunft, \"-e",
+      "r Bruch, \"-e / e Verletzung, -en",
+      "e Überabhängigkeit, -en",
+      "s Denkmal, \"-er"
+    ],
+    "answer": 3,
+    "hint": "Eine Überabhängigkeit von Importen kann riskant sein. (Synonyme: e Unselbstständigkeit, e Hörigkeit) (C1 - Nomen)"
+  },
+  {
+    "question": "stören (+ A) / unterbrechen (+ A)",
+    "choices": [
+      "leírni (vmit) (to describe)",
+      "enyhít / mérsékel (mitigate)",
+      "megzavar / félbeszakít (disrupt)",
+      "kiegészít (complement)"
+    ],
+    "answer": 3,
+    "hint": "Der Lärm könnte die Konzentration stören. (Synonyme: beeinträchtigen, behindern, irritieren) (B2 - Verb)"
+  },
+  {
+    "question": "megzavar / félbeszakít (disrupt)",
+    "choices": [
+      "her|aus|finden (+ A)",
+      "beziehen (+ A) (von + D)",
+      "stören (+ A) / unterbrechen (+ A)",
+      "vermeiden (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Der Lärm könnte die Konzentration stören. (Synonyme: beeinträchtigen, behindern, irritieren) (B2 - Verb)"
+  },
+  {
+    "question": "basierend auf + D",
+    "choices": [
+      "Várj egy pillanatot! (Wait a second!)",
+      "valamin alapuló (based upon)",
+      "Én jövök. / Én következem. (It's my turn.)",
+      "Értesítelek. (I'll let you know.)"
+    ],
+    "answer": 2,
+    "hint": "Die Entscheidung basiert auf den vorliegenden Daten. (Synonyme: gestützt auf, begründet durch) (B2 - Ausdruck)"
+  },
+  {
+    "question": "valamin alapuló (based upon)",
+    "choices": [
+      "Warte kurz!",
+      "basierend auf + D",
+      "verlängern lassen",
+      "Darum kümmere ich mich (+ um + A)."
+    ],
+    "answer": 2,
+    "hint": "Die Entscheidung basiert auf den vorliegenden Daten. (Synonyme: gestützt auf, begründet durch) (B2 - Ausdruck)"
+  },
+  {
+    "question": "e genaue Prüfung, -en",
+    "choices": [
+      "szállás (accommodation)",
+      "alapos vizsgálat (scrutiny)",
+      "emlékmű (monument)",
+      "fedélzet (en) (on board)"
+    ],
+    "answer": 2,
+    "hint": "Der Plan steht unter genauer Prüfung. (Synonyme: e Analyse, e Inspektion, r Check) (C1 - Nomen)"
+  },
+  {
+    "question": "alapos vizsgálat (scrutiny)",
+    "choices": [
+      "s Maßband, \"-er",
+      "e genaue Prüfung, -en",
+      "e Dienstleistung, -en",
+      "e Abwechslung, -en"
+    ],
+    "answer": 2,
+    "hint": "Der Plan steht unter genauer Prüfung. (Synonyme: e Analyse, e Inspektion, r Check) (C1 - Nomen)"
+  },
+  {
+    "question": "mildern (+ A) / abschwächen (+ A)",
+    "choices": [
+      "kipiheni magát (to recover / relax)",
+      "érvényes vmire (to apply to)",
+      "aggódik (to worry)",
+      "enyhít / mérsékel (mitigate)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Risiken mildern. (Synonyme: lindern, dämpfen, mäßigen) (C1 - Verb)"
+  },
+  {
+    "question": "enyhít / mérsékel (mitigate)",
+    "choices": [
+      "mildern (+ A) / abschwächen (+ A)",
+      "beziehen (+ A) (von + D)",
+      "erfahren (+ A / + von + D)",
+      "widersprechen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Wir müssen die Risiken mildern. (Synonyme: lindern, dämpfen, mäßigen) (C1 - Verb)"
+  },
+  {
+    "question": "r Bruch, \"-e / e Verletzung, -en",
+    "choices": [
+      "változatosság (variety / change)",
+      "megszegés / rés (breach)",
+      "tájékozódás (orientation)",
+      "tengerpart (coast)"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein klarer Bruch des Vertrages. (Synonyme: r Verstoß, e Übertretung, r Riss) (C1 - Nomen)"
+  },
+  {
+    "question": "megszegés / rés (breach)",
+    "choices": [
+      "r Bruch, \"-e / e Verletzung, -en",
+      "e Orientierung (Sg.)",
+      "s Regierungsbüro, -s",
+      "s Maßband, \"-er"
+    ],
+    "answer": 1,
+    "hint": "Das ist ein klarer Bruch des Vertrages. (Synonyme: r Verstoß, e Übertretung, r Riss) (C1 - Nomen)"
+  },
+  {
+    "question": "ergänzen (+ A)",
+    "choices": [
+      "enyhít / mérsékel (mitigate)",
+      "elvégez / végrehajt (to carry out)",
+      "megéri (to be worth it)",
+      "kiegészít (complement)"
+    ],
+    "answer": 4,
+    "hint": "Diese beiden Farben ergänzen sich perfekt. (Synonyme: vervollständigen, beifügen, komplettieren) (B2 - Verb)"
+  },
+  {
+    "question": "kiegészít (complement)",
+    "choices": [
+      "gelten (+ für + A)",
+      "beschreiben (+ A)",
+      "ergänzen (+ A)",
+      "vermeiden (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Diese beiden Farben ergänzen sich perfekt. (Synonyme: vervollständigen, beifügen, komplettieren) (B2 - Verb)"
+  },
+  {
+    "question": "undurchsichtig",
+    "choices": [
+      "felszerelt (equipped)",
+      "korlátozott (restricted)",
+      "átlátszatlan / homályos (opaque)",
+      "obszcén (obscene)"
+    ],
+    "answer": 3,
+    "hint": "Die Entscheidungsprozesse sind oft undurchsichtig. (Synonyme: unklar, kryptisch, opak) (C1 - Adjektiv)"
+  },
+  {
+    "question": "átlátszatlan / homályos (opaque)",
+    "choices": [
+      "aufhetzend",
+      "einzig",
+      "kitzelig",
+      "undurchsichtig"
+    ],
+    "answer": 4,
+    "hint": "Die Entscheidungsprozesse sind oft undurchsichtig. (Synonyme: unklar, kryptisch, opak) (C1 - Adjektiv)"
+  },
+  {
+    "question": "verboten",
+    "choices": [
+      "tilos / tiltott (prohibited)",
+      "rosszindulatú (malicious)",
+      "felszerelt / ellátott (equipped / furnished)",
+      "megfélemlítő (intimidating)"
+    ],
+    "answer": 1,
+    "hint": "Rauchen ist in diesem Bereich streng verboten. (Synonyme: untersagt, unzulässig, tabu) (B1 - Adjektiv)"
+  },
+  {
+    "question": "tilos / tiltott (prohibited)",
+    "choices": [
+      "verboten",
+      "aufhetzend",
+      "anfällig (+ für + A)",
+      "obszön"
+    ],
+    "answer": 1,
+    "hint": "Rauchen ist in diesem Bereich streng verboten. (Synonyme: untersagt, unzulässig, tabu) (B1 - Adjektiv)"
+  },
+  {
+    "question": "eingeschränkt",
+    "choices": [
+      "érvényes (valid)",
+      "korlátozott (restricted)",
+      "megfélemlítő (intimidating)",
+      "uszító / gyulladásos (inflammatory)"
+    ],
+    "answer": 2,
+    "hint": "Der Zugang zu diesen Daten ist eingeschränkt. (Synonyme: limitiert, begrenzt, reduziert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "korlátozott (restricted)",
+    "choices": [
+      "erlaubt / verboten",
+      "verboten",
+      "eingeschränkt",
+      "missbräuchlich"
+    ],
+    "answer": 3,
+    "hint": "Der Zugang zu diesen Daten ist eingeschränkt. (Synonyme: limitiert, begrenzt, reduziert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "anfällig (+ für + A)",
+    "choices": [
+      "felszerelt (equipped)",
+      "fogékony / hajlamos (susceptible)",
+      "obszcén (obscene)",
+      "megfélemlítő (intimidating)"
+    ],
+    "answer": 2,
+    "hint": "Er ist sehr anfällig für Erkältungen. (Synonyme: empfindlich, sensibel, labil) (C1 - Adjektiv)"
+  },
+  {
+    "question": "fogékony / hajlamos (susceptible)",
+    "choices": [
+      "einzig",
+      "anfällig (+ für + A)",
+      "ausgerüstet (+ mit + D)",
+      "missbräuchlich"
+    ],
+    "answer": 2,
+    "hint": "Er ist sehr anfällig für Erkältungen. (Synonyme: empfindlich, sensibel, labil) (C1 - Adjektiv)"
+  },
+  {
+    "question": "hervor|rufen (+ A)",
+    "choices": [
+      "aggódik (to worry)",
+      "kiegészít (complement)",
+      "kivált / előidéz (to elicit)",
+      "ellentmond (to contradict)"
+    ],
+    "answer": 3,
+    "hint": "Seine Bemerkung konnte keine Reaktion hervorrufen. (Synonyme: auslösen, verursachen, entfachen) (C1 - Verb)"
+  },
+  {
+    "question": "kivált / előidéz (to elicit)",
+    "choices": [
+      "durch|führen (+ A)",
+      "sorgen (+ um + A) (sich)",
+      "hervor|rufen (+ A)",
+      "stören (+ A) / unterbrechen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Seine Bemerkung konnte keine Reaktion hervorrufen. (Synonyme: auslösen, verursachen, entfachen) (C1 - Verb)"
+  },
+  {
+    "question": "äußerste / größtmögliche",
+    "choices": [
+      "rosszindulatú (malicious)",
+      "legvégső / legnagyobb (utmost)",
+      "obszcén (obscene)",
+      "uszító / gyulladásos (inflammatory)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen mit äußerster Vorsicht vorgehen. (Synonyme: maximal, extrem, radikal) (C1 - Adjektiv)"
+  },
+  {
+    "question": "legvégső / legnagyobb (utmost)",
+    "choices": [
+      "verboten",
+      "aufhetzend",
+      "bösartig",
+      "äußerste / größtmögliche"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen mit äußerster Vorsicht vorgehen. (Synonyme: maximal, extrem, radikal) (C1 - Adjektiv)"
+  },
+  {
+    "question": "missbräuchlich",
+    "choices": [
+      "rosszindulatú (malicious)",
+      "megengedett / tilos (allowed / forbidden)",
+      "korlátozott (restricted)",
+      "visszaélő / sértő (abusive)"
+    ],
+    "answer": 4,
+    "hint": "Er wurde wegen missbräuchlichen Verhaltens entlassen. (Synonyme: unrechtmäßig, regelwidrig, beleidigend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "visszaélő / sértő (abusive)",
+    "choices": [
+      "ausgestattet (+ mit + D)",
+      "missbräuchlich",
+      "finanziell",
+      "erlaubt / verboten"
+    ],
+    "answer": 2,
+    "hint": "Er wurde wegen missbräuchlichen Verhaltens entlassen. (Synonyme: unrechtmäßig, regelwidrig, beleidigend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "bösartig",
+    "choices": [
+      "egyenkénti / külön (individual)",
+      "rosszindulatú (malicious)",
+      "tilos / tiltott (prohibited)",
+      "visszaélő / sértő (abusive)"
+    ],
+    "answer": 2,
+    "hint": "Die Software enthielt bösartigen Code. (Synonyme: heimtückisch, maligne, böswillig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "rosszindulatú (malicious)",
+    "choices": [
+      "bösartig",
+      "eingeschränkt",
+      "missbräuchlich",
+      "anfällig (+ für + A)"
+    ],
+    "answer": 1,
+    "hint": "Die Software enthielt bösartigen Code. (Synonyme: heimtückisch, maligne, böswillig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "obszön",
+    "choices": [
+      "egyenkénti / külön (individual)",
+      "fogékony / hajlamos (susceptible)",
+      "lejárt (expired)",
+      "obszcén (obscene)"
+    ],
+    "answer": 4,
+    "hint": "Er machte eine obszöne Geste. (Synonyme: unanständig, anstößig, schlüpfrig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "obszcén (obscene)",
+    "choices": [
+      "obszön",
+      "erlaubt / verboten",
+      "aufhetzend",
+      "ab|gelaufen"
+    ],
+    "answer": 1,
+    "hint": "Er machte eine obszöne Geste. (Synonyme: unanständig, anstößig, schlüpfrig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "einschüchternd",
+    "choices": [
+      "csiklandós (ticklish)",
+      "megfélemlítő (intimidating)",
+      "fogékony / hajlamos (susceptible)",
+      "felszerelt (equipped)"
+    ],
+    "answer": 2,
+    "hint": "Seine Größe kann auf andere einschüchternd wirken. (Synonyme: bedrohlich, beängstigend, furchterregend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "megfélemlítő (intimidating)",
+    "choices": [
+      "anfällig (+ für + A)",
+      "einschüchternd",
+      "finanziell",
+      "einzig"
+    ],
+    "answer": 2,
+    "hint": "Seine Größe kann auf andere einschüchternd wirken. (Synonyme: bedrohlich, beängstigend, furchterregend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "aufhetzend",
+    "choices": [
+      "felszerelt / ellátott (equipped / furnished)",
+      "érvényes (valid)",
+      "rosszindulatú (malicious)",
+      "uszító / gyulladásos (inflammatory)"
+    ],
+    "answer": 4,
+    "hint": "Die Rede enthielt aufhetzende Aussagen. (Synonyme: provokant, agitatorisch, aufreizend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "uszító / gyulladásos (inflammatory)",
+    "choices": [
+      "finanziell",
+      "verboten",
+      "ausgestattet (+ mit + D)",
+      "aufhetzend"
+    ],
+    "answer": 4,
+    "hint": "Die Rede enthielt aufhetzende Aussagen. (Synonyme: provokant, agitatorisch, aufreizend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "offenkundig",
+    "choices": [
+      "elöl (front / ahead)",
+      "egy sorban / inline (inline)",
+      "hátul (behind / in the back)",
+      "nyíltan / nyilvánvalóan (overtly)"
+    ],
+    "answer": 4,
+    "hint": "Er verhielt sich offenkundig feindselig. (Synonyme: offensichtlich, evident, ersichtlich) (C1 - Adverb)"
+  },
+  {
+    "question": "nyíltan / nyilvánvalóan (overtly)",
+    "choices": [
+      "offenkundig",
+      "in einer Reihe / inline",
+      "vorne",
+      "hinein"
+    ],
+    "answer": 1,
+    "hint": "Er verhielt sich offenkundig feindselig. (Synonyme: offensichtlich, evident, ersichtlich) (C1 - Adverb)"
+  },
+  {
+    "question": "e Haft (Sg.) / e Festnahme, -n",
+    "choices": [
+      "őrizetbe vétel (detention)",
+      "megszegés / rés (breach)",
+      "hosszúság (length)",
+      "útlevél (passport)"
+    ],
+    "answer": 1,
+    "hint": "Die Polizei ordnete die Untersuchungshaft an. (Synonyme: r Arrest, r Gewahrsam, r Freiheitsentzug) (C1 - Nomen)"
+  },
+  {
+    "question": "őrizetbe vétel (detention)",
+    "choices": [
+      "e Haft (Sg.) / e Festnahme, -n",
+      "s Denkmal, \"-er",
+      "e Küste, -n",
+      "e Flucht, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Polizei ordnete die Untersuchungshaft an. (Synonyme: r Arrest, r Gewahrsam, r Freiheitsentzug) (C1 - Nomen)"
+  },
+  {
+    "question": "s Engagement, -s / e Verpflichtung, -en",
+    "choices": [
+      "szórakozás / kikapcsolódás (distraction / diversion)",
+      "cél / rendeltetés (purpose)",
+      "elkötelezettség (commitment)",
+      "hosszúság (length)"
+    ],
+    "answer": 3,
+    "hint": "Ihr Engagement für das Projekt ist bewundernswert. (Synonyme: r Einsatz, e Hingabe, e Passion) (B2 - Nomen)"
+  },
+  {
+    "question": "elkötelezettség (commitment)",
+    "choices": [
+      "s Engagement, -s / e Verpflichtung, -en",
+      "s schwimmende Hotel, -s",
+      "r Bescheid, -e",
+      "e Flucht, -en"
+    ],
+    "answer": 1,
+    "hint": "Ihr Engagement für das Projekt ist bewundernswert. (Synonyme: r Einsatz, e Hingabe, e Passion) (B2 - Nomen)"
+  },
+  {
+    "question": "e Einhaltung (Sg.)",
+    "choices": [
+      "szobor (statue)",
+      "szórakozás / kikapcsolódás (distraction / diversion)",
+      "menekülés (escape)",
+      "megfelelés / betartás (compliance)"
+    ],
+    "answer": 4,
+    "hint": "Die Einhaltung der Regeln ist obligatorisch. (Synonyme: e Befolgung, e Observanz, e Treue) (C1 - Nomen)"
+  },
+  {
+    "question": "megfelelés / betartás (compliance)",
+    "choices": [
+      "e Abwechslung, -en",
+      "r Bescheid, -e",
+      "an Bord",
+      "e Einhaltung (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Die Einhaltung der Regeln ist obligatorisch. (Synonyme: e Befolgung, e Observanz, e Treue) (C1 - Nomen)"
+  },
+  {
+    "question": "vorne",
+    "choices": [
+      "bele / befelé (into)",
+      "elöl (front / ahead)",
+      "hátul (behind / in the back)",
+      "egy sorban / inline (inline)"
+    ],
+    "answer": 2,
+    "hint": "Der Lehrer steht vorne in der Klasse. (Synonyme: vorderseitig, an der Spitze) (A1 - Adverb)"
+  },
+  {
+    "question": "elöl (front / ahead)",
+    "choices": [
+      "in einer Reihe / inline",
+      "hinein",
+      "vorne",
+      "offenkundig"
+    ],
+    "answer": 3,
+    "hint": "Der Lehrer steht vorne in der Klasse. (Synonyme: vorderseitig, an der Spitze) (A1 - Adverb)"
+  },
+  {
+    "question": "hinten",
+    "choices": [
+      "hátul (behind / in the back)",
+      "egy sorban / inline (inline)",
+      "bele / befelé (into)",
+      "nyíltan / nyilvánvalóan (overtly)"
+    ],
+    "answer": 1,
+    "hint": "Die Kinder sitzen hinten im Auto. (Synonyme: rückseitig, im Heck) (A1 - Adverb)"
+  },
+  {
+    "question": "hátul (behind / in the back)",
+    "choices": [
+      "offenkundig",
+      "hinten",
+      "in einer Reihe / inline",
+      "vorne"
+    ],
+    "answer": 2,
+    "hint": "Die Kinder sitzen hinten im Auto. (Synonyme: rückseitig, im Heck) (A1 - Adverb)"
+  },
+  {
+    "question": "r Rechtsanwalt, \"-e",
+    "choices": [
+      "értesítés / válasz (notice / information)",
+      "ügyvéd (lawyer)",
+      "úszó szálloda (floating hotel)",
+      "megszegés / rés (breach)"
+    ],
+    "answer": 2,
+    "hint": "Der Rechtsanwalt berät seinen Mandanten. (Synonyme: r Jurist, r Advokat, r Verteidiger) (B1 - Nomen)"
+  },
+  {
+    "question": "ügyvéd (lawyer)",
+    "choices": [
+      "r Rechtsanwalt, \"-e",
+      "r Bescheid, -e",
+      "e genaue Prüfung, -en",
+      "s Maßband, \"-er"
+    ],
+    "answer": 1,
+    "hint": "Der Rechtsanwalt berät seinen Mandanten. (Synonyme: r Jurist, r Advokat, r Verteidiger) (B1 - Nomen)"
+  },
+  {
+    "question": "in der Mitte (+ G / von + D)",
+    "choices": [
+      "Mi újság? (What's new?)",
+      "meghosszabbíttat (to have extended)",
+      "középen (in the middle)",
+      "Értesítelek. (I'll let you know.)"
+    ],
+    "answer": 3,
+    "hint": "Der Tisch steht in der Mitte des Zimmers. (Synonyme: zentral, mittig) (A1 - Ausdruck)"
+  },
+  {
+    "question": "középen (in the middle)",
+    "choices": [
+      "in der Mitte (+ G / von + D)",
+      "impfen lassen (sich)",
+      "Gleich geht's los!",
+      "im Hintergrund"
+    ],
+    "answer": 1,
+    "hint": "Der Tisch steht in der Mitte des Zimmers. (Synonyme: zentral, mittig) (A1 - Ausdruck)"
+  },
+  {
+    "question": "e Küste, -n",
+    "choices": [
+      "fénykép (photo)",
+      "tengerpart (coast)",
+      "igazolvány (ID card)",
+      "elkötelezettség (commitment)"
+    ],
+    "answer": 2,
+    "hint": "Wir machen Urlaub an der Küste. (Synonyme: s Gestade, s Ufer, r Meeresrand) (A2 - Nomen)"
+  },
+  {
+    "question": "tengerpart (coast)",
+    "choices": [
+      "e Küste, -n",
+      "e Verarmung (Sg.)",
+      "r Ausweis, -e",
+      "e Flucht, -en"
+    ],
+    "answer": 1,
+    "hint": "Wir machen Urlaub an der Küste. (Synonyme: s Gestade, s Ufer, r Meeresrand) (A2 - Nomen)"
+  },
+  {
+    "question": "in der Sonne liegen",
+    "choices": [
+      "örömömet lelem benne (I enjoy doing...)",
+      "napozni (to lie in the sun)",
+      "Majd én intézem. (I'll take care of that.)",
+      "Én jövök. / Én következem. (It's my turn.)"
+    ],
+    "answer": 2,
+    "hint": "Ich liege gerne in der Sonne. (Synonyme: ein Sonnenbad nehmen) (A1 - Ausdruck)"
+  },
+  {
+    "question": "napozni (to lie in the sun)",
+    "choices": [
+      "in der Sonne liegen",
+      "in Anspruch nehmen (+ A)",
+      "im Namen (+ G / von + D)",
+      "in der Mitte (+ G / von + D)"
+    ],
+    "answer": 1,
+    "hint": "Ich liege gerne in der Sonne. (Synonyme: ein Sonnenbad nehmen) (A1 - Ausdruck)"
+  },
+  {
+    "question": "im Hintergrund",
+    "choices": [
+      "a háttérben (in the background)",
+      "az előtérben (in the foreground)",
+      "középen (in the middle)",
+      "egy szelet kenyér (a slice of bread)"
+    ],
+    "answer": 1,
+    "hint": "Im Hintergrund hört man leise Musik. (Synonyme: dezent, unaufdringlich) (B1 - Ausdruck)"
+  },
+  {
+    "question": "a háttérben (in the background)",
+    "choices": [
+      "Es macht mir Spaß...",
+      "brauchen zu wissen",
+      "im Hintergrund",
+      "in der Sonne liegen"
+    ],
+    "answer": 3,
+    "hint": "Im Hintergrund hört man leise Musik. (Synonyme: dezent, unaufdringlich) (B1 - Ausdruck)"
+  },
+  {
+    "question": "im Vordergrund",
+    "choices": [
+      "szándékozik (to intend)",
+      "fényképet készíteni (to take a photo)",
+      "az előtérben (in the foreground)",
+      "tudnia kell (need to know)"
+    ],
+    "answer": 3,
+    "hint": "Im Vordergrund sieht man ein altes Haus. (Synonyme: prominent, zentral) (B1 - Ausdruck)"
+  },
+  {
+    "question": "az előtérben (in the foreground)",
+    "choices": [
+      "im Vordergrund",
+      "in der Sonne liegen",
+      "in der Mitte (+ G / von + D)",
+      "e Absicht haben (+ zu + Inf)"
+    ],
+    "answer": 1,
+    "hint": "Im Vordergrund sieht man ein altes Haus. (Synonyme: prominent, zentral) (B1 - Ausdruck)"
+  },
+  {
+    "question": "s Foto, -s",
+    "choices": [
+      "megszegés / rés (breach)",
+      "célkitűzés (objective)",
+      "fénykép (photo)",
+      "szolgáltatás (service)"
+    ],
+    "answer": 3,
+    "hint": "Das Foto ist sehr schön geworden. (Synonyme: e Aufnahme, s Bild, e Fotografie) (A1 - Nomen)"
+  },
+  {
+    "question": "fénykép (photo)",
+    "choices": [
+      "s Foto, -s",
+      "r Bescheid, -e",
+      "e Länge, -n",
+      "an Bord"
+    ],
+    "answer": 1,
+    "hint": "Das Foto ist sehr schön geworden. (Synonyme: e Aufnahme, s Bild, e Fotografie) (A1 - Nomen)"
+  },
+  {
+    "question": "ein Foto machen",
+    "choices": [
+      "Mindjárt kezdődik! (It's about to start!)",
+      "fényképet készíteni (to take a photo)",
+      "valaki nevében (on behalf of)",
+      "Várj egy pillanatot! (Wait a second!)"
+    ],
+    "answer": 2,
+    "hint": "Kannst du ein Foto von uns machen? (Synonyme: fotografieren, ablichten) (A1 - Ausdruck)"
+  },
+  {
+    "question": "fényképet készíteni (to take a photo)",
+    "choices": [
+      "ein Foto machen",
+      "im Vordergrund",
+      "in Anspruch nehmen (+ A)",
+      "eine Scheibe Brot"
+    ],
+    "answer": 1,
+    "hint": "Kannst du ein Foto von uns machen? (Synonyme: fotografieren, ablichten) (A1 - Ausdruck)"
+  },
+  {
+    "question": "beschreiben (+ A)",
+    "choices": [
+      "elkerül (to avoid)",
+      "leírni (vmit) (to describe)",
+      "kipiheni magát (to recover / relax)",
+      "kivált / előidéz (to elicit)"
+    ],
+    "answer": 2,
+    "hint": "Bitte beschreiben Sie das Bild im Detail. (Synonyme: schildern, darlegen, charakterisieren) (A2 - Verb)"
+  },
+  {
+    "question": "leírni (vmit) (to describe)",
+    "choices": [
+      "lohnen (sich)",
+      "hervor|rufen (+ A)",
+      "beschreiben (+ A)",
+      "an|legen"
+    ],
+    "answer": 3,
+    "hint": "Bitte beschreiben Sie das Bild im Detail. (Synonyme: schildern, darlegen, charakterisieren) (A2 - Verb)"
+  },
+  {
+    "question": "s Gebäude, -",
+    "choices": [
+      "szobor (statue)",
+      "elszegényedés (impoverishment)",
+      "épület (building)",
+      "önellátó (self-caterer)"
+    ],
+    "answer": 3,
+    "hint": "Das Gebäude ist sehr modern gestaltet. (Synonyme: s Bauwerk, s Haus, s Objekt) (A2 - Nomen)"
+  },
+  {
+    "question": "épület (building)",
+    "choices": [
+      "s schwimmende Hotel, -s",
+      "s Gebäude, -",
+      "s Regierungsbüro, -s",
+      "e Abwechslung, -en"
+    ],
+    "answer": 2,
+    "hint": "Das Gebäude ist sehr modern gestaltet. (Synonyme: s Bauwerk, s Haus, s Objekt) (A2 - Nomen)"
+  },
+  {
+    "question": "erholen (sich)",
+    "choices": [
+      "kipiheni magát (to recover / relax)",
+      "megtud / tapasztal (to find out / experience)",
+      "leírni (vmit) (to describe)",
+      "megzavar / félbeszakít (disrupt)"
+    ],
+    "answer": 1,
+    "hint": "Im Urlaub möchte ich mich richtig erholen. (Synonyme: entspannen, regenerieren, ausruhen) (B1 - Verb)"
+  },
+  {
+    "question": "kipiheni magát (to recover / relax)",
+    "choices": [
+      "erholen (sich)",
+      "sorgen (+ um + A) (sich)",
+      "her|aus|finden (+ A)",
+      "widersprechen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Im Urlaub möchte ich mich richtig erholen. (Synonyme: entspannen, regenerieren, ausruhen) (B1 - Verb)"
+  },
+  {
+    "question": "e Stadtrundfahrt, -en",
+    "choices": [
+      "ellátás (étkezés) (catering / board)",
+      "szolgáltatás (service)",
+      "városnézés (city tour)",
+      "úszó szálloda (floating hotel)"
+    ],
+    "answer": 3,
+    "hint": "Wir machen eine Stadtrundfahrt durch Berlin. (Synonyme: e Sightseeing-Tour, r Stadtrundgang) (A2 - Nomen)"
+  },
+  {
+    "question": "városnézés (city tour)",
+    "choices": [
+      "e Orientierung (Sg.)",
+      "e Stadtrundfahrt, -en",
+      "e Statue, -n",
+      "s Foto, -s"
+    ],
+    "answer": 2,
+    "hint": "Wir machen eine Stadtrundfahrt durch Berlin. (Synonyme: e Sightseeing-Tour, r Stadtrundgang) (A2 - Nomen)"
+  },
+  {
+    "question": "s Denkmal, \"-er",
+    "choices": [
+      "mérőszalag (tape measure)",
+      "szolgáltatás (service)",
+      "emlékmű (monument)",
+      "túlzott függőség (overreliance)"
+    ],
+    "answer": 3,
+    "hint": "Das Denkmal erinnert an ein wichtiges Ereignis. (Synonyme: s Monument, e Gedenkstätte, e Stele) (B1 - Nomen)"
+  },
+  {
+    "question": "emlékmű (monument)",
+    "choices": [
+      "an Bord",
+      "s Denkmal, \"-er",
+      "e Haft (Sg.) / e Festnahme, -n",
+      "r Geschmack, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Das Denkmal erinnert an ein wichtiges Ereignis. (Synonyme: s Monument, e Gedenkstätte, e Stele) (B1 - Nomen)"
+  },
+  {
+    "question": "e Statue, -n",
+    "choices": [
+      "szobor (statue)",
+      "fénykép (photo)",
+      "hosszúság (length)",
+      "célkitűzés (objective)"
+    ],
+    "answer": 1,
+    "hint": "Die Statue steht mitten auf dem Marktplatz. (Synonyme: e Skulptur, e Plastik, s Bildnis) (B1 - Nomen)"
+  },
+  {
+    "question": "szobor (statue)",
+    "choices": [
+      "e genaue Prüfung, -en",
+      "e Verarmung (Sg.)",
+      "s Engagement, -s / e Verpflichtung, -en",
+      "e Statue, -n"
+    ],
+    "answer": 4,
+    "hint": "Die Statue steht mitten auf dem Marktplatz. (Synonyme: e Skulptur, e Plastik, s Bildnis) (B1 - Nomen)"
+  },
+  {
+    "question": "r Selbstversorger, -",
+    "choices": [
+      "megszegés / rés (breach)",
+      "önellátó (self-caterer)",
+      "ügyvéd (lawyer)",
+      "igazolvány (ID card)"
+    ],
+    "answer": 2,
+    "hint": "In der Ferienwohnung sind wir Selbstversorger. (Synonyme: r Eigenversorger) (B2 - Nomen)"
+  },
+  {
+    "question": "önellátó (self-caterer)",
+    "choices": [
+      "s Denkmal, \"-er",
+      "e Zielsetzung, -en",
+      "e Flucht, -en",
+      "r Selbstversorger, -"
+    ],
+    "answer": 4,
+    "hint": "In der Ferienwohnung sind wir Selbstversorger. (Synonyme: r Eigenversorger) (B2 - Nomen)"
+  },
+  {
+    "question": "ausgerüstet (+ mit + D)",
+    "choices": [
+      "felszerelt (equipped)",
+      "visszaélő / sértő (abusive)",
+      "csiklandós (ticklish)",
+      "egyetlen (unique / only)"
+    ],
+    "answer": 1,
+    "hint": "Das Fahrzeug ist mit modernster Technik ausgerüstet. (Synonyme: ausgestattet, bestückt, armiert) (B1 - Adjektiv)"
+  },
+  {
+    "question": "felszerelt (equipped)",
+    "choices": [
+      "ausgerüstet (+ mit + D)",
+      "verboten",
+      "äußerste / größtmögliche",
+      "einzeln"
+    ],
+    "answer": 1,
+    "hint": "Das Fahrzeug ist mit modernster Technik ausgerüstet. (Synonyme: ausgestattet, bestückt, armiert) (B1 - Adjektiv)"
+  },
+  {
+    "question": "ausgestattet (+ mit + D)",
+    "choices": [
+      "tilos / tiltott (prohibited)",
+      "füstölt (smoked)",
+      "uszító / gyulladásos (inflammatory)",
+      "felszerelt / ellátott (equipped / furnished)"
+    ],
+    "answer": 4,
+    "hint": "Die Wohnung ist komplett ausgestattet. (Synonyme: eingerichtet, möbliert, bestückt) (B1 - Adjektiv)"
+  },
+  {
+    "question": "felszerelt / ellátott (equipped / furnished)",
+    "choices": [
+      "missbräuchlich",
+      "einzig",
+      "ausgestattet (+ mit + D)",
+      "anfällig (+ für + A)"
+    ],
+    "answer": 3,
+    "hint": "Die Wohnung ist komplett ausgestattet. (Synonyme: eingerichtet, möbliert, bestückt) (B1 - Adjektiv)"
+  },
+  {
+    "question": "e Unterkunft, \"-e",
+    "choices": [
+      "alapos vizsgálat (scrutiny)",
+      "cél / rendeltetés (purpose)",
+      "szállás (accommodation)",
+      "emlékmű (monument)"
+    ],
+    "answer": 3,
+    "hint": "Wir suchen eine günstige Unterkunft für die Nacht. (Synonyme: e Herberge, s Quartier, e Bleibe) (B1 - Nomen)"
+  },
+  {
+    "question": "szállás (accommodation)",
+    "choices": [
+      "s Denkmal, \"-er",
+      "e Abwechslung, -en",
+      "e Unterkunft, \"-e",
+      "s Engagement, -s / e Verpflichtung, -en"
+    ],
+    "answer": 3,
+    "hint": "Wir suchen eine günstige Unterkunft für die Nacht. (Synonyme: e Herberge, s Quartier, e Bleibe) (B1 - Nomen)"
+  },
+  {
+    "question": "e Dienstleistung, -en",
+    "choices": [
+      "alapos vizsgálat (scrutiny)",
+      "túlzott függőség (overreliance)",
+      "szolgáltatás (service)",
+      "tengerpart (coast)"
+    ],
+    "answer": 3,
+    "hint": "Wir bieten eine breite Palette an Dienstleistungen an. (Synonyme: r Service, s Angebot, e Arbeit) (B2 - Nomen)"
+  },
+  {
+    "question": "szolgáltatás (service)",
+    "choices": [
+      "e Zielsetzung, -en",
+      "s Engagement, -s / e Verpflichtung, -en",
+      "e Dienstleistung, -en",
+      "r Zweck, -e"
+    ],
+    "answer": 3,
+    "hint": "Wir bieten eine breite Palette an Dienstleistungen an. (Synonyme: r Service, s Angebot, e Arbeit) (B2 - Nomen)"
+  },
+  {
+    "question": "in Anspruch nehmen (+ A)",
+    "choices": [
+      "fényképet készíteni (to take a photo)",
+      "Várj egy pillanatot! (Wait a second!)",
+      "az előtérben (in the foreground)",
+      "igénybe vesz (to make use of)"
+    ],
+    "answer": 4,
+    "hint": "Sie können unsere Beratung in Anspruch nehmen. (Synonyme: nutzen, verwenden, beanspruchen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "igénybe vesz (to make use of)",
+    "choices": [
+      "verlängern lassen",
+      "Das kommt nie wieder vor!",
+      "in Anspruch nehmen (+ A)",
+      "in der Mitte (+ G / von + D)"
+    ],
+    "answer": 3,
+    "hint": "Sie können unsere Beratung in Anspruch nehmen. (Synonyme: nutzen, verwenden, beanspruchen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Verpflegung (Sg.)",
+    "choices": [
+      "ellátás (étkezés) (catering / board)",
+      "megszegés / rés (breach)",
+      "emlékmű (monument)",
+      "értesítés / válasz (notice / information)"
+    ],
+    "answer": 1,
+    "hint": "Die Verpflegung im Hotel war ausgezeichnet. (Synonyme: e Beköstigung, e Ernährung, r Proviant) (B1 - Nomen)"
+  },
+  {
+    "question": "ellátás (étkezés) (catering / board)",
+    "choices": [
+      "s schwimmende Hotel, -s",
+      "s Maßband, \"-er",
+      "s Foto, -s",
+      "e Verpflegung (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Die Verpflegung im Hotel war ausgezeichnet. (Synonyme: e Beköstigung, e Ernährung, r Proviant) (B1 - Nomen)"
+  },
+  {
+    "question": "r Ausweis, -e",
+    "choices": [
+      "változatosság (variety / change)",
+      "megszegés / rés (breach)",
+      "fedélzet (en) (on board)",
+      "igazolvány (ID card)"
+    ],
+    "answer": 4,
+    "hint": "Bitte zeigen Sie Ihren Ausweis. (Synonyme: s Dokument, e Identitätskarte, e Legitimation) (A1 - Nomen)"
+  },
+  {
+    "question": "igazolvány (ID card)",
+    "choices": [
+      "e Länge, -n",
+      "e Haft (Sg.) / e Festnahme, -n",
+      "r Ausweis, -e",
+      "r Reisepass, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Bitte zeigen Sie Ihren Ausweis. (Synonyme: s Dokument, e Identitätskarte, e Legitimation) (A1 - Nomen)"
+  },
+  {
+    "question": "r Reisepass, \"-e",
+    "choices": [
+      "elszegényedés (impoverishment)",
+      "útlevél (passport)",
+      "szolgáltatás (service)",
+      "fedélzet (en) (on board)"
+    ],
+    "answer": 2,
+    "hint": "Mein Reisepass ist noch zwei Jahre gültig. (Synonyme: r Pass) (A1 - Nomen)"
+  },
+  {
+    "question": "útlevél (passport)",
+    "choices": [
+      "r Selbstversorger, -",
+      "r Ausweis, -e",
+      "s Engagement, -s / e Verpflichtung, -en",
+      "r Reisepass, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Mein Reisepass ist noch zwei Jahre gültig. (Synonyme: r Pass) (A1 - Nomen)"
+  },
+  {
+    "question": "e Länge, -n",
+    "choices": [
+      "cél / rendeltetés (purpose)",
+      "hosszúság (length)",
+      "túlzott függőség (overreliance)",
+      "szórakozás / kikapcsolódás (distraction / diversion)"
+    ],
+    "answer": 2,
+    "hint": "Die Länge des Tunnels beträgt zwei Kilometer. (Synonyme: s Maß, e Ausdehnung, e Distanz) (B1 - Nomen)"
+  },
+  {
+    "question": "hosszúság (length)",
+    "choices": [
+      "e Überabhängigkeit, -en",
+      "an Bord",
+      "e Länge, -n",
+      "e Zielsetzung, -en"
+    ],
+    "answer": 3,
+    "hint": "Die Länge des Tunnels beträgt zwei Kilometer. (Synonyme: s Maß, e Ausdehnung, e Distanz) (B1 - Nomen)"
+  },
+  {
+    "question": "ab|gelaufen",
+    "choices": [
+      "felszerelt (equipped)",
+      "felszerelt / ellátott (equipped / furnished)",
+      "lejárt (expired)",
+      "visszaélő / sértő (abusive)"
+    ],
+    "answer": 3,
+    "hint": "Mein Parkticket ist leider abgelaufen. (Synonyme: verfallen, ungültig, entwertet) (B1 - Adjektiv)"
+  },
+  {
+    "question": "lejárt (expired)",
+    "choices": [
+      "missbräuchlich",
+      "geräuchert",
+      "verboten",
+      "ab|gelaufen"
+    ],
+    "answer": 4,
+    "hint": "Mein Parkticket ist leider abgelaufen. (Synonyme: verfallen, ungültig, entwertet) (B1 - Adjektiv)"
+  },
+  {
+    "question": "gültig",
+    "choices": [
+      "csiklandós (ticklish)",
+      "megengedett / tilos (allowed / forbidden)",
+      "érvényes (valid)",
+      "felszerelt (equipped)"
+    ],
+    "answer": 3,
+    "hint": "Das Ticket ist nur heute gültig. (Synonyme: wirksam, rechtskräftig, aktuell) (B1 - Adjektiv)"
+  },
+  {
+    "question": "érvényes (valid)",
+    "choices": [
+      "aufhetzend",
+      "ab|gelaufen",
+      "äußerste / größtmögliche",
+      "gültig"
+    ],
+    "answer": 4,
+    "hint": "Das Ticket ist nur heute gültig. (Synonyme: wirksam, rechtskräftig, aktuell) (B1 - Adjektiv)"
+  },
+  {
+    "question": "beanspruchen (+ A)",
+    "choices": [
+      "leírni (vmit) (to describe)",
+      "érvényes vmire (to apply to)",
+      "megtud / tapasztal (to find out / experience)",
+      "igényel / igénybe vesz (to claim / demand)"
+    ],
+    "answer": 4,
+    "hint": "Diese Arbeit beansprucht viel Zeit. (Synonyme: fordern, verlangen, in Anspruch nehmen) (B2 - Verb)"
+  },
+  {
+    "question": "igényel / igénybe vesz (to claim / demand)",
+    "choices": [
+      "gelten (+ für + A)",
+      "lohnen (sich)",
+      "stören (+ A) / unterbrechen (+ A)",
+      "beanspruchen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Diese Arbeit beansprucht viel Zeit. (Synonyme: fordern, verlangen, in Anspruch nehmen) (B2 - Verb)"
+  },
+  {
+    "question": "s Regierungsbüro, -s",
+    "choices": [
+      "ellátás (étkezés) (catering / board)",
+      "szolgáltatás (service)",
+      "íz (taste)",
+      "kormányablak (government office)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss zum Regierungsbüro, um meinen Ausweis zu erneuern. (Synonyme: e Behörde, s Amt) (B2 - Nomen)"
+  },
+  {
+    "question": "kormányablak (government office)",
+    "choices": [
+      "s schwimmende Hotel, -s",
+      "r Reisepass, \"-e",
+      "e Länge, -n",
+      "s Regierungsbüro, -s"
+    ],
+    "answer": 4,
+    "hint": "Ich muss zum Regierungsbüro, um meinen Ausweis zu erneuern. (Synonyme: e Behörde, s Amt) (B2 - Nomen)"
+  },
+  {
+    "question": "impfen lassen (sich)",
+    "choices": [
+      "Mi újság? (What's new?)",
+      "örömömet lelem benne (I enjoy doing...)",
+      "Mindjárt kezdődik! (It's about to start!)",
+      "beoltatja magát (to get vaccinated)"
+    ],
+    "answer": 4,
+    "hint": "Er hat sich gegen Grippe impfen lassen. (Synonyme: e Vakzinierung erhalten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "beoltatja magát (to get vaccinated)",
+    "choices": [
+      "Das kommt nie wieder vor!",
+      "Keine Sorge!",
+      "e Absicht haben (+ zu + Inf)",
+      "impfen lassen (sich)"
+    ],
+    "answer": 4,
+    "hint": "Er hat sich gegen Grippe impfen lassen. (Synonyme: e Vakzinierung erhalten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "verlängern lassen",
+    "choices": [
+      "tudnia kell (need to know)",
+      "valamin alapuló (based upon)",
+      "meghosszabbíttat (to have extended)",
+      "feltöltődik (energiával) (to recharge energy)"
+    ],
+    "answer": 3,
+    "hint": "Ich muss meinen Pass verlängern lassen. (Synonyme: e Gültigkeit ausweiten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "meghosszabbíttat (to have extended)",
+    "choices": [
+      "verlängern lassen",
+      "im Vordergrund",
+      "Ich gebe dir Bescheid (+ D)",
+      "in Anspruch nehmen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss meinen Pass verlängern lassen. (Synonyme: e Gültigkeit ausweiten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "brauchen zu wissen",
+    "choices": [
+      "az előtérben (in the foreground)",
+      "tudnia kell (need to know)",
+      "napozni (to lie in the sun)",
+      "Én jövök. / Én következem. (It's my turn.)"
+    ],
+    "answer": 2,
+    "hint": "Was brauchen wir über das Projekt zu wissen? (Synonyme: Informationen benötigen) (B1 - Ausdruck)"
+  },
+  {
+    "question": "tudnia kell (need to know)",
+    "choices": [
+      "brauchen zu wissen",
+      "Ich gebe dir Bescheid (+ D)",
+      "verlängern lassen",
+      "in der Mitte (+ G / von + D)"
+    ],
+    "answer": 1,
+    "hint": "Was brauchen wir über das Projekt zu wissen? (Synonyme: Informationen benötigen) (B1 - Ausdruck)"
+  },
+  {
+    "question": "her|aus|finden (+ A)",
+    "choices": [
+      "kipiheni magát (to recover / relax)",
+      "igényel / igénybe vesz (to claim / demand)",
+      "aggódik (to worry)",
+      "kiderít / rájön (to find out)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss herausfinden, wie das Gerät funktioniert. (Synonyme: ermitteln, entdecken, entlarven) (B1 - Verb)"
+  },
+  {
+    "question": "kiderít / rájön (to find out)",
+    "choices": [
+      "beanspruchen (+ A)",
+      "an|legen",
+      "vermeiden (+ A)",
+      "her|aus|finden (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss herausfinden, wie das Gerät funktioniert. (Synonyme: ermitteln, entdecken, entlarven) (B1 - Verb)"
+  },
+  {
+    "question": "sorgen (+ um + A) (sich)",
+    "choices": [
+      "ellentmond (to contradict)",
+      "aggódik (to worry)",
+      "kiköt (hajó) (to berth / dock)",
+      "kipiheni magát (to recover / relax)"
+    ],
+    "answer": 2,
+    "hint": "Du musst dir keine Sorgen machen. (Synonyme: beunruhigen, bangen, ängstigen) (B1 - Verb)"
+  },
+  {
+    "question": "aggódik (to worry)",
+    "choices": [
+      "her|aus|finden (+ A)",
+      "widersprechen (+ D)",
+      "hervor|rufen (+ A)",
+      "sorgen (+ um + A) (sich)"
+    ],
+    "answer": 4,
+    "hint": "Du musst dir keine Sorgen machen. (Synonyme: beunruhigen, bangen, ängstigen) (B1 - Verb)"
+  },
+  {
+    "question": "e Orientierung (Sg.)",
+    "choices": [
+      "ellátás (étkezés) (catering / board)",
+      "tengerpart (coast)",
+      "tájékozódás (orientation)",
+      "célkitűzés (objective)"
+    ],
+    "answer": 3,
+    "hint": "Ohne Kompass verliert man leicht die Orientierung. (Synonyme: r Überblick, e Einordnung, e Richtung) (B2 - Nomen)"
+  },
+  {
+    "question": "tájékozódás (orientation)",
+    "choices": [
+      "e Orientierung (Sg.)",
+      "e Überabhängigkeit, -en",
+      "e Dienstleistung, -en",
+      "e Länge, -n"
+    ],
+    "answer": 1,
+    "hint": "Ohne Kompass verliert man leicht die Orientierung. (Synonyme: r Überblick, e Einordnung, e Richtung) (B2 - Nomen)"
+  },
+  {
+    "question": "lohnen (sich)",
+    "choices": [
+      "megéri (to be worth it)",
+      "kiegészít (complement)",
+      "kivált / előidéz (to elicit)",
+      "leírni (vmit) (to describe)"
+    ],
+    "answer": 1,
+    "hint": "Es lohnt sich, früh aufzustehen. (Synonyme: rentieren, auszahlen, wert sein) (B1 - Verb)"
+  },
+  {
+    "question": "megéri (to be worth it)",
+    "choices": [
+      "erholen (sich)",
+      "gelten (+ für + A)",
+      "vermeiden (+ A)",
+      "lohnen (sich)"
+    ],
+    "answer": 4,
+    "hint": "Es lohnt sich, früh aufzustehen. (Synonyme: rentieren, auszahlen, wert sein) (B1 - Verb)"
+  },
+  {
+    "question": "finanziell",
+    "choices": [
+      "felszerelt / ellátott (equipped / furnished)",
+      "átlátszatlan / homályos (opaque)",
+      "fogékony / hajlamos (susceptible)",
+      "pénzügyi (financial)"
+    ],
+    "answer": 4,
+    "hint": "Das Projekt ist finanziell abgesichert. (Synonyme: monetär, geldlich, pekuniär) (B2 - Adjektiv)"
+  },
+  {
+    "question": "pénzügyi (financial)",
+    "choices": [
+      "geräuchert",
+      "ausgerüstet (+ mit + D)",
+      "äußerste / größtmögliche",
+      "finanziell"
+    ],
+    "answer": 4,
+    "hint": "Das Projekt ist finanziell abgesichert. (Synonyme: monetär, geldlich, pekuniär) (B2 - Adjektiv)"
+  },
+  {
+    "question": "vermeiden (+ A)",
+    "choices": [
+      "érvényes vmire (to apply to)",
+      "kivált / előidéz (to elicit)",
+      "elkerül (to avoid)",
+      "enyhít / mérsékel (mitigate)"
+    ],
+    "answer": 3,
+    "hint": "Wir sollten unnötige Kosten vermeiden. (Synonyme: umgehen, meiden, ausweichen) (B2 - Verb)"
+  },
+  {
+    "question": "elkerül (to avoid)",
+    "choices": [
+      "vermeiden (+ A)",
+      "hervor|rufen (+ A)",
+      "beschreiben (+ A)",
+      "lohnen (sich)"
+    ],
+    "answer": 1,
+    "hint": "Wir sollten unnötige Kosten vermeiden. (Synonyme: umgehen, meiden, ausweichen) (B2 - Verb)"
+  },
+  {
+    "question": "e Flucht, -en",
+    "choices": [
+      "úszó szálloda (floating hotel)",
+      "őrizetbe vétel (detention)",
+      "szobor (statue)",
+      "menekülés (escape)"
+    ],
+    "answer": 4,
+    "hint": "Die Flucht aus dem Gefängnis gelang ihm. (Synonyme: s Entkommen, r Ausbruch, r Rückzug) (B2 - Nomen)"
+  },
+  {
+    "question": "menekülés (escape)",
+    "choices": [
+      "r Bescheid, -e",
+      "e Flucht, -en",
+      "e Dienstleistung, -en",
+      "e Verarmung (Sg.)"
+    ],
+    "answer": 2,
+    "hint": "Die Flucht aus dem Gefängnis gelang ihm. (Synonyme: s Entkommen, r Ausbruch, r Rückzug) (B2 - Nomen)"
+  },
+  {
+    "question": "e Verarmung (Sg.)",
+    "choices": [
+      "szolgáltatás (service)",
+      "elszegényedés (impoverishment)",
+      "fedélzet (en) (on board)",
+      "emlékmű (monument)"
+    ],
+    "answer": 2,
+    "hint": "Die Verarmung der Bevölkerung ist ein großes Problem. (Synonyme: r Abstieg, e Pauperisierung) (C1 - Nomen)"
+  },
+  {
+    "question": "elszegényedés (impoverishment)",
+    "choices": [
+      "e Verarmung (Sg.)",
+      "e Haft (Sg.) / e Festnahme, -n",
+      "e Einhaltung (Sg.)",
+      "r Selbstversorger, -"
+    ],
+    "answer": 1,
+    "hint": "Die Verarmung der Bevölkerung ist ein großes Problem. (Synonyme: r Abstieg, e Pauperisierung) (C1 - Nomen)"
+  },
+  {
+    "question": "Energie auf|tanken",
+    "choices": [
+      "valaki nevében (on behalf of)",
+      "feltöltődik (energiával) (to recharge energy)",
+      "Ez soha többé nem fordul elő! (That will never happen again!)",
+      "igénybe vesz (to make use of)"
+    ],
+    "answer": 2,
+    "hint": "Im Urlaub kann ich endlich wieder Energie auftanken. (Synonyme: regenerieren, neue Kraft schöpfen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "feltöltődik (energiával) (to recharge energy)",
+    "choices": [
+      "Energie auf|tanken",
+      "in der Mitte (+ G / von + D)",
+      "Keine Sorge!",
+      "e Absicht haben (+ zu + Inf)"
+    ],
+    "answer": 1,
+    "hint": "Im Urlaub kann ich endlich wieder Energie auftanken. (Synonyme: regenerieren, neue Kraft schöpfen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "erfahren (+ A / + von + D)",
+    "choices": [
+      "megtud / tapasztal (to find out / experience)",
+      "leírni (vmit) (to describe)",
+      "kiderít / rájön (to find out)",
+      "elkerül (to avoid)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe erst gestern davon erfahren. (Synonyme: lernen, mitbekommen, erleben) (B1 - Verb)"
+  },
+  {
+    "question": "megtud / tapasztal (to find out / experience)",
+    "choices": [
+      "erfahren (+ A / + von + D)",
+      "sorgen (+ um + A) (sich)",
+      "an|legen",
+      "stören (+ A) / unterbrechen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe erst gestern davon erfahren. (Synonyme: lernen, mitbekommen, erleben) (B1 - Verb)"
+  },
+  {
+    "question": "e Zerstreuung (Sg.)",
+    "choices": [
+      "alapos vizsgálat (scrutiny)",
+      "ügyvéd (lawyer)",
+      "emlékmű (monument)",
+      "szórakozás / kikapcsolódás (distraction / diversion)"
+    ],
+    "answer": 4,
+    "hint": "Er sucht nach der Arbeit ein wenig Zerstreuung. (Synonyme: s Vergnügen, r Zeitvertreib, e Unterhaltung) (C1 - Nomen)"
+  },
+  {
+    "question": "szórakozás / kikapcsolódás (distraction / diversion)",
+    "choices": [
+      "e Flucht, -en",
+      "r Bruch, \"-e / e Verletzung, -en",
+      "e Zerstreuung (Sg.)",
+      "r Geschmack, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Er sucht nach der Arbeit ein wenig Zerstreuung. (Synonyme: s Vergnügen, r Zeitvertreib, e Unterhaltung) (C1 - Nomen)"
+  },
+  {
+    "question": "e Abwechslung, -en",
+    "choices": [
+      "cél / rendeltetés (purpose)",
+      "kormányablak (government office)",
+      "önellátó (self-caterer)",
+      "változatosság (variety / change)"
+    ],
+    "answer": 4,
+    "hint": "Ein bisschen Abwechslung tut jedem gut. (Synonyme: e Diversität, e Vielfalt, r Kontrast) (B1 - Nomen)"
+  },
+  {
+    "question": "változatosság (variety / change)",
+    "choices": [
+      "e Abwechslung, -en",
+      "s Denkmal, \"-er",
+      "s schwimmende Hotel, -s",
+      "e Haft (Sg.) / e Festnahme, -n"
+    ],
+    "answer": 1,
+    "hint": "Ein bisschen Abwechslung tut jedem gut. (Synonyme: e Diversität, e Vielfalt, r Kontrast) (B1 - Nomen)"
+  },
+  {
+    "question": "Es macht mir Spaß...",
+    "choices": [
+      "örömömet lelem benne (I enjoy doing...)",
+      "Mi újság? (What's new?)",
+      "meghosszabbíttat (to have extended)",
+      "beoltatja magát (to get vaccinated)"
+    ],
+    "answer": 1,
+    "hint": "Es macht mir Spaß, neue Sprachen zu lernen. (Synonyme: Freude bereiten, gefallen) (A2 - Ausdruck)"
+  },
+  {
+    "question": "örömömet lelem benne (I enjoy doing...)",
+    "choices": [
+      "Darum kümmere ich mich (+ um + A).",
+      "verlängern lassen",
+      "Energie auf|tanken",
+      "Es macht mir Spaß..."
+    ],
+    "answer": 4,
+    "hint": "Es macht mir Spaß, neue Sprachen zu lernen. (Synonyme: Freude bereiten, gefallen) (A2 - Ausdruck)"
+  },
+  {
+    "question": "e Absicht haben (+ zu + Inf)",
+    "choices": [
+      "Majd én intézem. (I'll take care of that.)",
+      "a háttérben (in the background)",
+      "szándékozik (to intend)",
+      "Ez soha többé nem fordul elő! (That will never happen again!)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe die Absicht, nächstes Jahr nach Berlin zu ziehen. (Synonyme: planen, beabsichtigen, vorhaben) (B1 - Ausdruck)"
+  },
+  {
+    "question": "szándékozik (to intend)",
+    "choices": [
+      "ein Foto machen",
+      "basierend auf + D",
+      "Ich gebe dir Bescheid (+ D)",
+      "e Absicht haben (+ zu + Inf)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe die Absicht, nächstes Jahr nach Berlin zu ziehen. (Synonyme: planen, beabsichtigen, vorhaben) (B1 - Ausdruck)"
+  },
+  {
+    "question": "erlaubt / verboten",
+    "choices": [
+      "megengedett / tilos (allowed / forbidden)",
+      "uszító / gyulladásos (inflammatory)",
+      "átlátszatlan / homályos (opaque)",
+      "pénzügyi (financial)"
+    ],
+    "answer": 1,
+    "hint": "Rauchen ist hier verboten. (Synonyme: zulässig / untersagt) (A2 - Adjektiv)"
+  },
+  {
+    "question": "megengedett / tilos (allowed / forbidden)",
+    "choices": [
+      "äußerste / größtmögliche",
+      "obszön",
+      "erlaubt / verboten",
+      "einzig"
+    ],
+    "answer": 3,
+    "hint": "Rauchen ist hier verboten. (Synonyme: zulässig / untersagt) (A2 - Adjektiv)"
+  },
+  {
+    "question": "e Zielsetzung, -en",
+    "choices": [
+      "szobor (statue)",
+      "kormányablak (government office)",
+      "célkitűzés (objective)",
+      "őrizetbe vétel (detention)"
+    ],
+    "answer": 3,
+    "hint": "Eine klare Zielsetzung ist wichtig for den Erfolg. (Synonyme: e Intention, e Vorgabe, s Bestreben) (B2 - Nomen)"
+  },
+  {
+    "question": "célkitűzés (objective)",
+    "choices": [
+      "e Unterkunft, \"-e",
+      "e Zielsetzung, -en",
+      "e Überabhängigkeit, -en",
+      "e Flucht, -en"
+    ],
+    "answer": 2,
+    "hint": "Eine klare Zielsetzung ist wichtig for den Erfolg. (Synonyme: e Intention, e Vorgabe, s Bestreben) (B2 - Nomen)"
+  },
+  {
+    "question": "r Zweck, -e",
+    "choices": [
+      "értesítés / válasz (notice / information)",
+      "cél / rendeltetés (purpose)",
+      "városnézés (city tour)",
+      "megszegés / rés (breach)"
+    ],
+    "answer": 2,
+    "hint": "Was ist der Zweck dieses Treffens? (Synonyme: r Grund, s Ziel, e Intention) (B2 - Nomen)"
+  },
+  {
+    "question": "cél / rendeltetés (purpose)",
+    "choices": [
+      "r Zweck, -e",
+      "e Einhaltung (Sg.)",
+      "e genaue Prüfung, -en",
+      "e Stadtrundfahrt, -en"
+    ],
+    "answer": 1,
+    "hint": "Was ist der Zweck dieses Treffens? (Synonyme: r Grund, s Ziel, e Intention) (B2 - Nomen)"
+  },
+  {
+    "question": "s schwimmende Hotel, -s",
+    "choices": [
+      "ügyvéd (lawyer)",
+      "úszó szálloda (floating hotel)",
+      "útlevél (passport)",
+      "emlékmű (monument)"
+    ],
+    "answer": 2,
+    "hint": "Das schwimmende Hotel liegt im Hafen. (Synonyme: s Hotelschiff) (B2 - Nomen)"
+  },
+  {
+    "question": "úszó szálloda (floating hotel)",
+    "choices": [
+      "r Selbstversorger, -",
+      "s schwimmende Hotel, -s",
+      "s Foto, -s",
+      "e Einhaltung (Sg.)"
+    ],
+    "answer": 2,
+    "hint": "Das schwimmende Hotel liegt im Hafen. (Synonyme: s Hotelschiff) (B2 - Nomen)"
+  },
+  {
+    "question": "an|legen",
+    "choices": [
+      "megzavar / félbeszakít (disrupt)",
+      "kiköt (hajó) (to berth / dock)",
+      "enyhít / mérsékel (mitigate)",
+      "beszerez (to obtain / get)"
+    ],
+    "answer": 2,
+    "hint": "Das Schiff wird in Kürze im Hafen anlegen. (Synonyme: festmachen, andocken) (B2 - Verb)"
+  },
+  {
+    "question": "kiköt (hajó) (to berth / dock)",
+    "choices": [
+      "stören (+ A) / unterbrechen (+ A)",
+      "gelten (+ für + A)",
+      "an|legen",
+      "beziehen (+ A) (von + D)"
+    ],
+    "answer": 3,
+    "hint": "Das Schiff wird in Kürze im Hafen anlegen. (Synonyme: festmachen, andocken) (B2 - Verb)"
+  },
+  {
+    "question": "an Bord",
+    "choices": [
+      "cél / rendeltetés (purpose)",
+      "elkötelezettség (commitment)",
+      "alapos vizsgálat (scrutiny)",
+      "fedélzet (en) (on board)"
+    ],
+    "answer": 4,
+    "hint": "Alle Passagiere sind bereits an Bord. (B1 - Nomen)"
+  },
+  {
+    "question": "fedélzet (en) (on board)",
+    "choices": [
+      "an Bord",
+      "e Abwechslung, -en",
+      "s Denkmal, \"-er",
+      "s Maßband, \"-er"
+    ],
+    "answer": 1,
+    "hint": "Alle Passagiere sind bereits an Bord. (B1 - Nomen)"
+  }
+]

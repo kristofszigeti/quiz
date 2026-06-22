@@ -1,0 +1,1652 @@
+[
+  {
+    "question": "e Ähnlichkeit, -en",
+    "choices": [
+      "szorgalom (industriousness)",
+      "örökkévalóság (eternity)",
+      "tervezőiroda (planning office)",
+      "hasonlóság (similarity)"
+    ],
+    "answer": 4,
+    "hint": "Es gibt eine große Ähnlichkeit zwischen den Plänen. (Synonyme: e Übereinstimmung, e Analogie) (B2 - Nomen)"
+  },
+  {
+    "question": "hasonlóság (similarity)",
+    "choices": [
+      "e Anlagendaten (Pl.)",
+      "e Energieleistung, -en",
+      "s Lernen (Sg.)",
+      "e Ähnlichkeit, -en"
+    ],
+    "answer": 4,
+    "hint": "Es gibt eine große Ähnlichkeit zwischen den Plänen. (Synonyme: e Übereinstimmung, e Analogie) (B2 - Nomen)"
+  },
+  {
+    "question": "überein|stimmen (+ mit + D)",
+    "choices": [
+      "támogat / fejleszt (to promote)",
+      "felöltözik (to get dressed)",
+      "megegyezik valamiben (to agree on)",
+      "megkap / kap (to receive)"
+    ],
+    "answer": 3,
+    "hint": "Wir stimmen in diesem Punkt überein. (Synonyme: harmonieren, konformgehen, deckungsgleich sein) (C1 - Verb)"
+  },
+  {
+    "question": "megegyezik valamiben (to agree on)",
+    "choices": [
+      "bewahren (+ A)",
+      "überein|stimmen (+ mit + D)",
+      "(sich) kämmen",
+      "(sich) an|ziehen"
+    ],
+    "answer": 2,
+    "hint": "Wir stimmen in diesem Punkt überein. (Synonyme: harmonieren, konformgehen, deckungsgleich sein) (C1 - Verb)"
+  },
+  {
+    "question": "Pleite gehen",
+    "choices": [
+      "nagy részletességgel (with high depth of detail)",
+      "Az vagy, amit megeszel. (You are what you eat.)",
+      "csődbe megy (to go bankrupt)",
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)"
+    ],
+    "answer": 3,
+    "hint": "Viele kleine Firmen sind während der Krise pleite gegangen. (Synonyme: bankrottgehen, insolvent werden) (B2 - Ausdruck)"
+  },
+  {
+    "question": "csődbe megy (to go bankrupt)",
+    "choices": [
+      "im Rahmen des/der etwas",
+      "von entscheidender Bedeutung sein",
+      "Pleite gehen",
+      "mit hoher Detailtiefe"
+    ],
+    "answer": 3,
+    "hint": "Viele kleine Firmen sind während der Krise pleite gegangen. (Synonyme: bankrottgehen, insolvent werden) (B2 - Ausdruck)"
+  },
+  {
+    "question": "pauschal",
+    "choices": [
+      "világos / érthető (clear / distinct)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+      "kétértelmű (ambiguous)",
+      "folyékony (fluent)"
+    ],
+    "answer": 2,
+    "hint": "Wir haben eine Pauschalreise gebucht. (Synonyme: allgemein, im Ganzen, unbesehen) (B2 - Adjektiv)"
+  },
+  {
+    "question": "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+    "choices": [
+      "unzweideutig",
+      "vorübergehend",
+      "umgangssprachlich",
+      "pauschal"
+    ],
+    "answer": 4,
+    "hint": "Wir haben eine Pauschalreise gebucht. (Synonyme: allgemein, im Ganzen, unbesehen) (B2 - Adjektiv)"
+  },
+  {
+    "question": "(sich) rasieren",
+    "choices": [
+      "megáll / megállít (to stop)",
+      "eredményez / adódik (to result in)",
+      "lever / elnyom (to beat down)",
+      "borotválkozik (to shave)"
+    ],
+    "answer": 4,
+    "hint": "Er rasiert sich jeden Morgen. (Synonyme: s Barthaar entfernen) (A2 - Verb)"
+  },
+  {
+    "question": "borotválkozik (to shave)",
+    "choices": [
+      "(sich) rasieren",
+      "bewahren (+ A)",
+      "(sich) bemühen (+ um + A)",
+      "(sich) an|ziehen"
+    ],
+    "answer": 1,
+    "hint": "Er rasiert sich jeden Morgen. (Synonyme: s Barthaar entfernen) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) kämmen",
+    "choices": [
+      "eredményez / adódik (to result in)",
+      "fésülködik (to comb)",
+      "felöltözik (to get dressed)",
+      "átfogalmaz (to rephrase)"
+    ],
+    "answer": 2,
+    "hint": "Sie kämmt sich die Haare. (Synonyme: s Haar ordnen, bürsten) (A2 - Verb)"
+  },
+  {
+    "question": "fésülködik (to comb)",
+    "choices": [
+      "erschlagen (+ A)",
+      "ab|sagen (+ A)",
+      "(sich) kämmen",
+      "bewahren (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Sie kämmt sich die Haare. (Synonyme: s Haar ordnen, bürsten) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) an|ziehen",
+    "choices": [
+      "támogat / fejleszt (to promote)",
+      "felöltözik (to get dressed)",
+      "lemond (to cancel)",
+      "borotválkozik (to shave)"
+    ],
+    "answer": 2,
+    "hint": "Zieh dich bitte schnell an! (Synonyme: kleiden, anlegen, überstreifen) (A1 - Verb)"
+  },
+  {
+    "question": "felöltözik (to get dressed)",
+    "choices": [
+      "(sich) kämmen",
+      "(sich) an|ziehen",
+      "nieder|schlagen (+ A)",
+      "erhalten (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Zieh dich bitte schnell an! (Synonyme: kleiden, anlegen, überstreifen) (A1 - Verb)"
+  },
+  {
+    "question": "(sich) aus|ziehen",
+    "choices": [
+      "megáll / megállít (to stop)",
+      "felöltözik (to get dressed)",
+      "átfogalmaz (to rephrase)",
+      "levetkőzik (to undress)"
+    ],
+    "answer": 4,
+    "hint": "Er zieht sich vor dem Duschen aus. (Synonyme: entkleiden, ablegen) (A1 - Verb)"
+  },
+  {
+    "question": "levetkőzik (to undress)",
+    "choices": [
+      "überein|stimmen (+ mit + D)",
+      "(sich) rasieren",
+      "(sich) aus|ziehen",
+      "(sich) fühlen"
+    ],
+    "answer": 3,
+    "hint": "Er zieht sich vor dem Duschen aus. (Synonyme: entkleiden, ablegen) (A1 - Verb)"
+  },
+  {
+    "question": "(sich) fühlen",
+    "choices": [
+      "lever / elnyom (to beat down)",
+      "átfogalmaz (to rephrase)",
+      "borotválkozik (to shave)",
+      "érzi magát (to feel)"
+    ],
+    "answer": 4,
+    "hint": "Wie fühlst du dich heute? (Synonyme: spüren, empfinden) (A2 - Verb)"
+  },
+  {
+    "question": "érzi magát (to feel)",
+    "choices": [
+      "erhalten (+ A)",
+      "(sich) fühlen",
+      "fördern (+ A)",
+      "nieder|schlagen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Wie fühlst du dich heute? (Synonyme: spüren, empfinden) (A2 - Verb)"
+  },
+  {
+    "question": "s Kinn, -e",
+    "choices": [
+      "szakácsnő (cook)",
+      "áll (testrész) (chin)",
+      "hibafelismerés (error detection)",
+      "szint / sík (level / plane)"
+    ],
+    "answer": 2,
+    "hint": "Er hat ein markantes Kinn. (B1 - Nomen)"
+  },
+  {
+    "question": "áll (testrész) (chin)",
+    "choices": [
+      "r Facility-Manager, -",
+      "e Plattform, -en",
+      "e Gebäudeanalyse, -n",
+      "s Kinn, -e"
+    ],
+    "answer": 4,
+    "hint": "Er hat ein markantes Kinn. (B1 - Nomen)"
+  },
+  {
+    "question": "s Lernen (Sg.)",
+    "choices": [
+      "átmeneti fázis (transitional phase)",
+      "vizsgálat (investigation)",
+      "tanulás (learning)",
+      "ráfordítás / költség (effort / expense)"
+    ],
+    "answer": 3,
+    "hint": "Das Lernen von Vokabeln ist wichtig. (Synonyme: s Studieren, e Wissensaneignung) (A1 - Nomen)"
+  },
+  {
+    "question": "tanulás (learning)",
+    "choices": [
+      "e Ebene, -n",
+      "r Beteiligte, -n",
+      "r Aufwand, \"-e",
+      "s Lernen (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Das Lernen von Vokabeln ist wichtig. (Synonyme: s Studieren, e Wissensaneignung) (A1 - Nomen)"
+  },
+  {
+    "question": "(sich) bemühen (+ um + A)",
+    "choices": [
+      "lemond (to cancel)",
+      "megáll / megállít (to stop)",
+      "törekszik / fáradozik (to strive for)",
+      "borotválkozik (to shave)"
+    ],
+    "answer": 3,
+    "hint": "Wir bemühen uns um eine schnelle Lösung. (Synonyme: sich anstrengen, streben, eifern) (B2 - Verb)"
+  },
+  {
+    "question": "törekszik / fáradozik (to strive for)",
+    "choices": [
+      "(sich) bemühen (+ um + A)",
+      "an|halten",
+      "erhalten (+ A)",
+      "überein|stimmen (+ mit + D)"
+    ],
+    "answer": 1,
+    "hint": "Wir bemühen uns um eine schnelle Lösung. (Synonyme: sich anstrengen, streben, eifern) (B2 - Verb)"
+  },
+  {
+    "question": "nicht wahr? / oder?",
+    "choices": [
+      "ugyebár (right? / isn't it?)",
+      "megkap / kap (to receive)",
+      "ugye (right?)",
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine tolle Idee, nicht wahr? (Synonyme: gell?, stimmt's?) (B1 - Partikel)"
+  },
+  {
+    "question": "ugyebár (right? / isn't it?)",
+    "choices": [
+      "Jeder Topf findet seinen Deckel.",
+      "erhalten (+ A)",
+      "oder?",
+      "nicht wahr? / oder?"
+    ],
+    "answer": 4,
+    "hint": "Das ist eine tolle Idee, nicht wahr? (Synonyme: gell?, stimmt's?) (B1 - Partikel)"
+  },
+  {
+    "question": "oder?",
+    "choices": [
+      "ugye (right?)",
+      "munkafolyamat (workflow)",
+      "átmeneti fázis (transitional phase)",
+      "ugyebár (right? / isn't it?)"
+    ],
+    "answer": 1,
+    "hint": "Du kommst morgen auch, oder? (Synonyme: nicht wahr?) (A2 - Partikel)"
+  },
+  {
+    "question": "ugye (right?)",
+    "choices": [
+      "oder?",
+      "e Durchgangsphase, -n",
+      "r Arbeitsablauf, \"-e",
+      "nicht wahr? / oder?"
+    ],
+    "answer": 1,
+    "hint": "Du kommst morgen auch, oder? (Synonyme: nicht wahr?) (A2 - Partikel)"
+  },
+  {
+    "question": "e Ewigkeit, -en",
+    "choices": [
+      "tanulás (learning)",
+      "szakácsnő (cook)",
+      "munkafolyamat (workflow)",
+      "örökkévalóság (eternity)"
+    ],
+    "answer": 4,
+    "hint": "Es dauerte eine Ewigkeit, bis er ankam. (Synonyme: e Unendlichkeit, e endlose Zeit) (C1 - Nomen)"
+  },
+  {
+    "question": "örökkévalóság (eternity)",
+    "choices": [
+      "e Einbeziehung, -en",
+      "e Erhaltung (Sg.)",
+      "e Ewigkeit, -en",
+      "e Wartungshistorie, -n"
+    ],
+    "answer": 3,
+    "hint": "Es dauerte eine Ewigkeit, bis er ankam. (Synonyme: e Unendlichkeit, e endlose Zeit) (C1 - Nomen)"
+  },
+  {
+    "question": "e Durchgangsphase, -n",
+    "choices": [
+      "hasonlóság (similarity)",
+      "karbantartási előzmények (maintenance history)",
+      "átmeneti fázis (transitional phase)",
+      "szint / sík (level / plane)"
+    ],
+    "answer": 3,
+    "hint": "Das ist nur eine kurze Durchgangsphase. (Synonyme: e Übergangszeit, r Transitraum) (C1 - Nomen)"
+  },
+  {
+    "question": "átmeneti fázis (transitional phase)",
+    "choices": [
+      "e Baufirma, -firmen",
+      "e Wartungshistorie, -n",
+      "e Durchgangsphase, -n",
+      "e Alarmhistorie, -n"
+    ],
+    "answer": 3,
+    "hint": "Das ist nur eine kurze Durchgangsphase. (Synonyme: e Übergangszeit, r Transitraum) (C1 - Nomen)"
+  },
+  {
+    "question": "vorübergehend",
+    "choices": [
+      "szorgalmas (hardworking)",
+      "egyértelmű (unambiguous)",
+      "átmeneti (temporary)",
+      "kétértelmű (ambiguous)"
+    ],
+    "answer": 3,
+    "hint": "Das ist nur eine vorübergehende Lösung. (Synonyme: zeitweilig, provisorisch, transient) (B2 - Adjektiv)"
+  },
+  {
+    "question": "átmeneti (temporary)",
+    "choices": [
+      "pauschal",
+      "vorübergehend",
+      "umgangssprachlich",
+      "unzweideutig"
+    ],
+    "answer": 2,
+    "hint": "Das ist nur eine vorübergehende Lösung. (Synonyme: zeitweilig, provisorisch, transient) (B2 - Adjektiv)"
+  },
+  {
+    "question": "umgangssprachlich",
+    "choices": [
+      "köznyelvi (colloquial)",
+      "egyértelmű (unambiguous)",
+      "egyértelmű (clear)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)"
+    ],
+    "answer": 1,
+    "hint": "Das Wort wird meist umgangssprachlich verwendet. (Synonyme: mundartlich, informell, alltagssprachlich) (B2 - Adjektiv)"
+  },
+  {
+    "question": "köznyelvi (colloquial)",
+    "choices": [
+      "umgangssprachlich",
+      "deutlich",
+      "fleißig",
+      "prozessual"
+    ],
+    "answer": 1,
+    "hint": "Das Wort wird meist umgangssprachlich verwendet. (Synonyme: mundartlich, informell, alltagssprachlich) (B2 - Adjektiv)"
+  },
+  {
+    "question": "fließend",
+    "choices": [
+      "egyértelmű (unambiguous)",
+      "folyékony (fluent)",
+      "folyamatbeli (procedural)",
+      "világos / érthető (clear / distinct)"
+    ],
+    "answer": 2,
+    "hint": "Er spricht fließend Deutsch. (Synonyme: geläufig, glatt, reibungslos) (B2 - Adjektiv)"
+  },
+  {
+    "question": "folyékony (fluent)",
+    "choices": [
+      "fließend",
+      "zweideutig",
+      "unzweideutig",
+      "gestrig"
+    ],
+    "answer": 1,
+    "hint": "Er spricht fließend Deutsch. (Synonyme: geläufig, glatt, reibungslos) (B2 - Adjektiv)"
+  },
+  {
+    "question": "fördern (+ A)",
+    "choices": [
+      "megkap / kap (to receive)",
+      "támogat / fejleszt (to promote)",
+      "lever / elnyom (to beat down)",
+      "levetkőzik (to undress)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen die Talente der Kinder fördern. (Synonyme: unterstützen, begünstigen, vorantreiben) (B2 - Verb)"
+  },
+  {
+    "question": "támogat / fejleszt (to promote)",
+    "choices": [
+      "(sich) aus|ziehen",
+      "ergeben (+ A)",
+      "(sich) fühlen",
+      "fördern (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Talente der Kinder fördern. (Synonyme: unterstützen, begünstigen, vorantreiben) (B2 - Verb)"
+  },
+  {
+    "question": "eindeutig",
+    "choices": [
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+      "egyértelmű (clear)",
+      "kétértelmű (ambiguous)",
+      "köznyelvi (colloquial)"
+    ],
+    "answer": 2,
+    "hint": "Das Ergebnis ist eindeutig. (Synonyme: klar, unmissverständlich, explizit) (B2 - Adjektiv)"
+  },
+  {
+    "question": "egyértelmű (clear)",
+    "choices": [
+      "fließend",
+      "zweideutig",
+      "eindeutig",
+      "umgangssprachlich"
+    ],
+    "answer": 3,
+    "hint": "Das Ergebnis ist eindeutig. (Synonyme: klar, unmissverständlich, explizit) (B2 - Adjektiv)"
+  },
+  {
+    "question": "deutlich",
+    "choices": [
+      "világos / érthető (clear / distinct)",
+      "kétértelmű (ambiguous)",
+      "szorgalmas (hardworking)",
+      "köznyelvi (colloquial)"
+    ],
+    "answer": 1,
+    "hint": "Bitte sprechen Sie etwas deutlicher. (Synonyme: präzise, verständlich, markant) (B1 - Adjektiv)"
+  },
+  {
+    "question": "világos / érthető (clear / distinct)",
+    "choices": [
+      "umgangssprachlich",
+      "vorübergehend",
+      "deutlich",
+      "fleißig"
+    ],
+    "answer": 3,
+    "hint": "Bitte sprechen Sie etwas deutlicher. (Synonyme: präzise, verständlich, markant) (B1 - Adjektiv)"
+  },
+  {
+    "question": "ab|sagen (+ A)",
+    "choices": [
+      "agyonüt (to strike dead)",
+      "fésülködik (to comb)",
+      "felöltözik (to get dressed)",
+      "lemond (to cancel)"
+    ],
+    "answer": 4,
+    "hint": "Wegen Krankheit muss er den Termin absagen. (Synonyme: stornieren, revidieren, einen Korb geben) (B1 - Verb)"
+  },
+  {
+    "question": "lemond (to cancel)",
+    "choices": [
+      "nieder|schlagen (+ A)",
+      "loben (+ A)",
+      "fördern (+ A)",
+      "ab|sagen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wegen Krankheit muss er den Termin absagen. (Synonyme: stornieren, revidieren, einen Korb geben) (B1 - Verb)"
+  },
+  {
+    "question": "an|halten",
+    "choices": [
+      "átfogalmaz (to rephrase)",
+      "megegyezik valamiben (to agree on)",
+      "lever / elnyom (to beat down)",
+      "megáll / megállít (to stop)"
+    ],
+    "answer": 4,
+    "hint": "Das Auto musste vor der Ampel anhalten. (Synonyme: stoppen, bremsen, pausieren) (A2 - Verb)"
+  },
+  {
+    "question": "megáll / megállít (to stop)",
+    "choices": [
+      "nieder|schlagen (+ A)",
+      "erschlagen (+ A)",
+      "an|halten",
+      "(sich) rasieren"
+    ],
+    "answer": 3,
+    "hint": "Das Auto musste vor der Ampel anhalten. (Synonyme: stoppen, bremsen, pausieren) (A2 - Verb)"
+  },
+  {
+    "question": "erschlagen (+ A)",
+    "choices": [
+      "fésülködik (to comb)",
+      "megkap / kap (to receive)",
+      "agyonüt (to strike dead)",
+      "támogat / fejleszt (to promote)"
+    ],
+    "answer": 3,
+    "hint": "Die Nachricht hat mich fast erschlagen. (Synonyme: töten, überwältigen) (C1 - Verb)"
+  },
+  {
+    "question": "agyonüt (to strike dead)",
+    "choices": [
+      "(sich) fühlen",
+      "(sich) aus|ziehen",
+      "erschlagen (+ A)",
+      "(sich) kämmen"
+    ],
+    "answer": 3,
+    "hint": "Die Nachricht hat mich fast erschlagen. (Synonyme: töten, überwältigen) (C1 - Verb)"
+  },
+  {
+    "question": "nieder|schlagen (+ A)",
+    "choices": [
+      "lever / elnyom (to beat down)",
+      "megegyezik valamiben (to agree on)",
+      "érzi magát (to feel)",
+      "agyonüt (to strike dead)"
+    ],
+    "answer": 1,
+    "hint": "Er konnte die Kritik nicht einfach niederschlagen. (Synonyme: unterdrücken, bekämpfen, dämpfen) (C1 - Verb)"
+  },
+  {
+    "question": "lever / elnyom (to beat down)",
+    "choices": [
+      "(sich) bemühen (+ um + A)",
+      "fördern (+ A)",
+      "nieder|schlagen (+ A)",
+      "(sich) an|ziehen"
+    ],
+    "answer": 3,
+    "hint": "Er konnte die Kritik nicht einfach niederschlagen. (Synonyme: unterdrücken, bekämpfen, dämpfen) (C1 - Verb)"
+  },
+  {
+    "question": "um|formulieren (+ A)",
+    "choices": [
+      "átfogalmaz (to rephrase)",
+      "támogat / fejleszt (to promote)",
+      "borotválkozik (to shave)",
+      "dicsér (to praise)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss den Text noch einmal umformulieren. (Synonyme: umgestalten, anders ausdrücken) (B2 - Verb)"
+  },
+  {
+    "question": "átfogalmaz (to rephrase)",
+    "choices": [
+      "überein|stimmen (+ mit + D)",
+      "bewahren (+ A)",
+      "fördern (+ A)",
+      "um|formulieren (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss den Text noch einmal umformulieren. (Synonyme: umgestalten, anders ausdrücken) (B2 - Verb)"
+  },
+  {
+    "question": "bewahren (+ A)",
+    "choices": [
+      "levetkőzik (to undress)",
+      "megőriz (to preserve)",
+      "megegyezik valamiben (to agree on)",
+      "felöltözik (to get dressed)"
+    ],
+    "answer": 2,
+    "hint": "Wir sollten unsere Traditionen bewahren. (Synonyme: erhalten, schützen, pflegen, konservieren) (B2 - Verb)"
+  },
+  {
+    "question": "megőriz (to preserve)",
+    "choices": [
+      "(sich) bemühen (+ um + A)",
+      "bewahren (+ A)",
+      "ab|sagen (+ A)",
+      "(sich) aus|ziehen"
+    ],
+    "answer": 2,
+    "hint": "Wir sollten unsere Traditionen bewahren. (Synonyme: erhalten, schützen, pflegen, konservieren) (B2 - Verb)"
+  },
+  {
+    "question": "gestrig",
+    "choices": [
+      "folyamatbeli (procedural)",
+      "tegnapi (yesterday's)",
+      "szorgalmas (hardworking)",
+      "kétértelmű (ambiguous)"
+    ],
+    "answer": 2,
+    "hint": "Die gestrige Zeitung liegt noch auf dem Tisch. (Synonyme: von gestern, vergangen) (B1 - Adjektiv)"
+  },
+  {
+    "question": "tegnapi (yesterday's)",
+    "choices": [
+      "unzweideutig",
+      "fließend",
+      "prozessual",
+      "gestrig"
+    ],
+    "answer": 4,
+    "hint": "Die gestrige Zeitung liegt noch auf dem Tisch. (Synonyme: von gestern, vergangen) (B1 - Adjektiv)"
+  },
+  {
+    "question": "im Rahmen des/der etwas",
+    "choices": [
+      "hibás vmiben (to be to blame for)",
+      "minden rendben (everything is fine)",
+      "csődbe megy (to go bankrupt)",
+      "valami keretében (in the context of)"
+    ],
+    "answer": 4,
+    "hint": "Das Projekt findet im Rahmen des Lehrplans statt. (Synonyme: im Kontext von, im Zusammenhang mit) (B2 - Ausdruck)"
+  },
+  {
+    "question": "valami keretében (in the context of)",
+    "choices": [
+      "Jeder Topf findet seinen Deckel.",
+      "im Rahmen des/der etwas",
+      "Pleite gehen",
+      "Alles in Butter"
+    ],
+    "answer": 2,
+    "hint": "Das Projekt findet im Rahmen des Lehrplans statt. (Synonyme: im Kontext von, im Zusammenhang mit) (B2 - Ausdruck)"
+  },
+  {
+    "question": "erhalten (+ A)",
+    "choices": [
+      "felöltözik (to get dressed)",
+      "megegyezik valamiben (to agree on)",
+      "megkap / kap (to receive)",
+      "agyonüt (to strike dead)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe gestern ein wichtiges Paket erhalten. (Synonyme: bekommen, empfangen, annehmen) (B1 - Verb)"
+  },
+  {
+    "question": "megkap / kap (to receive)",
+    "choices": [
+      "um|formulieren (+ A)",
+      "ergeben (+ A)",
+      "erhalten (+ A)",
+      "fördern (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe gestern ein wichtiges Paket erhalten. (Synonyme: bekommen, empfangen, annehmen) (B1 - Verb)"
+  },
+  {
+    "question": "e Erhaltung (Sg.)",
+    "choices": [
+      "fedél / tető (lid)",
+      "hibafelismerés (error detection)",
+      "megőrzés / fenntartás (preservation)",
+      "részletezettség mélysége (depth of detail)"
+    ],
+    "answer": 3,
+    "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
+  },
+  {
+    "question": "megőrzés / fenntartás (preservation)",
+    "choices": [
+      "e Durchgangsphase, -n",
+      "s Schicksal, -e",
+      "s Anlagenmanagement, -s",
+      "e Erhaltung (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
+  },
+  {
+    "question": "e Köchin, -nen",
+    "choices": [
+      "szakácsnő (cook)",
+      "valós idejű elemzés (real-time analysis)",
+      "fedél / tető (lid)",
+      "ráfordítás / költség (effort / expense)"
+    ],
+    "answer": 1,
+    "hint": "Die Köchin bereitet ein köstliches Menü vor. (A2 - Nomen)"
+  },
+  {
+    "question": "szakácsnő (cook)",
+    "choices": [
+      "e Echtzeit-Analyse, -n",
+      "e Köchin, -nen",
+      "s Planungsbüro, -s",
+      "e Detailtiefe, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Köchin bereitet ein köstliches Menü vor. (A2 - Nomen)"
+  },
+  {
+    "question": "Alles in Butter",
+    "choices": [
+      "döntő jelentőségű (to be of crucial importance)",
+      "hibás vmiben (to be to blame for)",
+      "minden rendben (everything is fine)",
+      "csődbe megy (to go bankrupt)"
+    ],
+    "answer": 3,
+    "hint": "Keine Sorge, es ist alles in Butter. (Synonyme: alles okay, alles bestens, alles im grünen Bereich) (B2 - Ausdruck)"
+  },
+  {
+    "question": "minden rendben (everything is fine)",
+    "choices": [
+      "Alles in Butter",
+      "Man ist, was man isst.",
+      "Schuld sein (+ an + D)",
+      "von entscheidender Bedeutung sein"
+    ],
+    "answer": 1,
+    "hint": "Keine Sorge, es ist alles in Butter. (Synonyme: alles okay, alles bestens, alles im grünen Bereich) (B2 - Ausdruck)"
+  },
+  {
+    "question": "Man ist, was man isst.",
+    "choices": [
+      "Az vagy, amit megeszel. (You are what you eat.)",
+      "minden rendben (everything is fine)",
+      "csődbe megy (to go bankrupt)",
+      "döntő jelentőségű (to be of crucial importance)"
+    ],
+    "answer": 1,
+    "hint": "Gesunde Ernährung ist wichtig: Man ist, was man isst. (B1 - Ausdruck)"
+  },
+  {
+    "question": "Az vagy, amit megeszel. (You are what you eat.)",
+    "choices": [
+      "Man ist, was man isst.",
+      "mit hoher Detailtiefe",
+      "Schuld sein (+ an + D)",
+      "Alles in Butter"
+    ],
+    "answer": 1,
+    "hint": "Gesunde Ernährung ist wichtig: Man ist, was man isst. (B1 - Ausdruck)"
+  },
+  {
+    "question": "Jeder Topf findet seinen Deckel.",
+    "choices": [
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)",
+      "csődbe megy (to go bankrupt)",
+      "gyűlöletet érez vki/vmi iránt (to have a hatred for)",
+      "nagy részletességgel (with high depth of detail)"
+    ],
+    "answer": 1,
+    "hint": "Mach dir keine Sorgen, jeder Topf findet seinen Deckel. (Synonyme: Gleich und Gleich gesellt sich gern) (B2 - Ausdruck)"
+  },
+  {
+    "question": "Minden zsák megkeresi a foltját. (Every pot finds its lid.)",
+    "choices": [
+      "von entscheidender Bedeutung sein",
+      "mit hoher Detailtiefe",
+      "Alles in Butter",
+      "Jeder Topf findet seinen Deckel."
+    ],
+    "answer": 4,
+    "hint": "Mach dir keine Sorgen, jeder Topf findet seinen Deckel. (Synonyme: Gleich und Gleich gesellt sich gern) (B2 - Ausdruck)"
+  },
+  {
+    "question": "r Deckel, -",
+    "choices": [
+      "digitális iker (digital twin)",
+      "fedél / tető (lid)",
+      "energiateljesítmény (energy performance)",
+      "résztvevő / érintett (participant)"
+    ],
+    "answer": 2,
+    "hint": "Wo ist der Deckel für diesen Topf? (Synonyme: e Kappe, r Verschluss) (B1 - Nomen)"
+  },
+  {
+    "question": "fedél / tető (lid)",
+    "choices": [
+      "e Echtzeit-Analyse, -n",
+      "r Deckel, -",
+      "e Untersuchung, -en",
+      "e Wartungshistorie, -n"
+    ],
+    "answer": 2,
+    "hint": "Wo ist der Deckel für diesen Topf? (Synonyme: e Kappe, r Verschluss) (B1 - Nomen)"
+  },
+  {
+    "question": "loben (+ A)",
+    "choices": [
+      "agyonüt (to strike dead)",
+      "támogat / fejleszt (to promote)",
+      "lemond (to cancel)",
+      "dicsér (to praise)"
+    ],
+    "answer": 4,
+    "hint": "Die Eltern loben das Kind für die gute Note. (Synonyme: preisen, rühmen, anerkennen) (B1 - Verb)"
+  },
+  {
+    "question": "dicsér (to praise)",
+    "choices": [
+      "erschlagen (+ A)",
+      "(sich) aus|ziehen",
+      "(sich) rasieren",
+      "loben (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Die Eltern loben das Kind für die gute Note. (Synonyme: preisen, rühmen, anerkennen) (B1 - Verb)"
+  },
+  {
+    "question": "s Schicksal, -e",
+    "choices": [
+      "előny (advantage)",
+      "hibafelismerés (error detection)",
+      "sors (fate)",
+      "platform (platform)"
+    ],
+    "answer": 3,
+    "hint": "Man muss sein Schicksal selbst in die Hand nehmen. (Synonyme: s Los, e Vorsehung, e Bestimmung) (B2 - Nomen)"
+  },
+  {
+    "question": "sors (fate)",
+    "choices": [
+      "e Ausdauer (Sg.)",
+      "s Planungsbüro, -s",
+      "s Schicksal, -e",
+      "r Aufwand, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Man muss sein Schicksal selbst in die Hand nehmen. (Synonyme: s Los, e Vorsehung, e Bestimmung) (B2 - Nomen)"
+  },
+  {
+    "question": "r Fleiß (Sg.)",
+    "choices": [
+      "digitális iker (digital twin)",
+      "szorgalom (industriousness)",
+      "eszközkezelés (asset management)",
+      "szorgalom (diligence)"
+    ],
+    "answer": 4,
+    "hint": "Ohne Fleiß kein Preis. (Synonyme: e Emsigkeit, e Zielstrebigkeit) (B2 - Nomen)"
+  },
+  {
+    "question": "szorgalom (diligence)",
+    "choices": [
+      "s Tool, -s",
+      "r Arbeitsablauf, \"-e",
+      "r Fleiß (Sg.)",
+      "r Facility-Manager, -"
+    ],
+    "answer": 3,
+    "hint": "Ohne Fleiß kein Preis. (Synonyme: e Emsigkeit, e Zielstrebigkeit) (B2 - Nomen)"
+  },
+  {
+    "question": "e Fleißigkeit (Sg.)",
+    "choices": [
+      "vizsgálat (investigation)",
+      "digitális iker (digital twin)",
+      "szorgalom (industriousness)",
+      "örökkévalóság (eternity)"
+    ],
+    "answer": 3,
+    "hint": "Ihre Fleißigkeit ist wirklich bewundernswert. (Synonyme: r Arbeitseifer) (B2 - Nomen)"
+  },
+  {
+    "question": "szorgalom (industriousness)",
+    "choices": [
+      "e Alarmhistorie, -n",
+      "e Fleißigkeit (Sg.)",
+      "r Deckel, -",
+      "e Einbeziehung, -en"
+    ],
+    "answer": 2,
+    "hint": "Ihre Fleißigkeit ist wirklich bewundernswert. (Synonyme: r Arbeitseifer) (B2 - Nomen)"
+  },
+  {
+    "question": "fleißig",
+    "choices": [
+      "szorgalmas (hardworking)",
+      "átmeneti (temporary)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+      "egyértelmű (clear)"
+    ],
+    "answer": 1,
+    "hint": "Er ist ein sehr fleißiger Arbeiter. (Synonyme: emsig, arbeitsam, tüchtig) (A2 - Adjektiv)"
+  },
+  {
+    "question": "szorgalmas (hardworking)",
+    "choices": [
+      "fleißig",
+      "umgangssprachlich",
+      "pauschal",
+      "zweideutig"
+    ],
+    "answer": 1,
+    "hint": "Er ist ein sehr fleißiger Arbeiter. (Synonyme: emsig, arbeitsam, tüchtig) (A2 - Adjektiv)"
+  },
+  {
+    "question": "e Ausdauer (Sg.)",
+    "choices": [
+      "kitartás (endurance)",
+      "részletezettség mélysége (depth of detail)",
+      "eszközkezelés (asset management)",
+      "sors (fate)"
+    ],
+    "answer": 1,
+    "hint": "Für einen Marathon braucht man viel Ausdauer. (Synonyme: e Beharrlichkeit, e Zähigkeit, e Geduld) (B2 - Nomen)"
+  },
+  {
+    "question": "kitartás (endurance)",
+    "choices": [
+      "e Erhaltung (Sg.)",
+      "e Wartungshistorie, -n",
+      "e Ausdauer (Sg.)",
+      "e Detailtiefe, -n"
+    ],
+    "answer": 3,
+    "hint": "Für einen Marathon braucht man viel Ausdauer. (Synonyme: e Beharrlichkeit, e Zähigkeit, e Geduld) (B2 - Nomen)"
+  },
+  {
+    "question": "Schuld sein (+ an + D)",
+    "choices": [
+      "minden rendben (everything is fine)",
+      "hibás vmiben (to be to blame for)",
+      "Az vagy, amit megeszel. (You are what you eat.)",
+      "nagy részletességgel (with high depth of detail)"
+    ],
+    "answer": 2,
+    "hint": "Er ist schuld an dem Missverständnis. (Synonyme: verantwortlich sein, die Haftung tragen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "hibás vmiben (to be to blame for)",
+    "choices": [
+      "Pleite gehen",
+      "Man ist, was man isst.",
+      "im Rahmen des/der etwas",
+      "Schuld sein (+ an + D)"
+    ],
+    "answer": 4,
+    "hint": "Er ist schuld an dem Missverständnis. (Synonyme: verantwortlich sein, die Haftung tragen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Untersuchung, -en",
+    "choices": [
+      "szorgalom (diligence)",
+      "vizsgálat (investigation)",
+      "létesítményvezető (facility manager)",
+      "áll (testrész) (chin)"
+    ],
+    "answer": 2,
+    "hint": "Die Untersuchung ergab keine neuen Erkenntnisse. (Synonyme: e Analyse, e Überprüfung, r Test) (B2 - Nomen)"
+  },
+  {
+    "question": "vizsgálat (investigation)",
+    "choices": [
+      "e Erhaltung (Sg.)",
+      "e Ähnlichkeit, -en",
+      "e Alarmhistorie, -n",
+      "e Untersuchung, -en"
+    ],
+    "answer": 4,
+    "hint": "Die Untersuchung ergab keine neuen Erkenntnisse. (Synonyme: e Analyse, e Überprüfung, r Test) (B2 - Nomen)"
+  },
+  {
+    "question": "ergeben (+ A)",
+    "choices": [
+      "érzi magát (to feel)",
+      "felöltözik (to get dressed)",
+      "megkap / kap (to receive)",
+      "eredményez / adódik (to result in)"
+    ],
+    "answer": 4,
+    "hint": "Die Analyse ergab ein klares Ergebnis. (Synonyme: zeigen, aufweisen, belegen) (B2 - Verb)"
+  },
+  {
+    "question": "eredményez / adódik (to result in)",
+    "choices": [
+      "loben (+ A)",
+      "erschlagen (+ A)",
+      "ergeben (+ A)",
+      "(sich) an|ziehen"
+    ],
+    "answer": 3,
+    "hint": "Die Analyse ergab ein klares Ergebnis. (Synonyme: zeigen, aufweisen, belegen) (B2 - Verb)"
+  },
+  {
+    "question": "Hass (+ auf + A) haben",
+    "choices": [
+      "gyűlöletet érez vki/vmi iránt (to have a hatred for)",
+      "csődbe megy (to go bankrupt)",
+      "döntő jelentőségű (to be of crucial importance)",
+      "minden rendben (everything is fine)"
+    ],
+    "answer": 1,
+    "hint": "Er hat einen großen Hass auf Ungerechtigkeit. (Synonyme: Abscheu empfinden, hassen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "gyűlöletet érez vki/vmi iránt (to have a hatred for)",
+    "choices": [
+      "Man ist, was man isst.",
+      "Pleite gehen",
+      "Hass (+ auf + A) haben",
+      "Schuld sein (+ an + D)"
+    ],
+    "answer": 3,
+    "hint": "Er hat einen großen Hass auf Ungerechtigkeit. (Synonyme: Abscheu empfinden, hassen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "überwiegend",
+    "choices": [
+      "megőriz (to preserve)",
+      "túlnyomórészt (predominantly)",
+      "szorgalmas (hardworking)",
+      "fedél / tető (lid)"
+    ],
+    "answer": 2,
+    "hint": "Die Bevölkerung ist überwiegend jung. (Synonyme: vornehmlich, meistenteils, größtenteils) (B2 - Adverb)"
+  },
+  {
+    "question": "túlnyomórészt (predominantly)",
+    "choices": [
+      "überwiegend",
+      "bewahren (+ A)",
+      "fleißig",
+      "r Deckel, -"
+    ],
+    "answer": 1,
+    "hint": "Die Bevölkerung ist überwiegend jung. (Synonyme: vornehmlich, meistenteils, größtenteils) (B2 - Adverb)"
+  },
+  {
+    "question": "prozessual",
+    "choices": [
+      "tegnapi (yesterday's)",
+      "folyamatbeli (procedural)",
+      "világos / érthető (clear / distinct)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine prozessuale Entscheidung. (Synonyme: verfahrensmäßig, ablaufbezogen) (C1 - Adjektiv)"
+  },
+  {
+    "question": "folyamatbeli (procedural)",
+    "choices": [
+      "eindeutig",
+      "pauschal",
+      "vorübergehend",
+      "prozessual"
+    ],
+    "answer": 4,
+    "hint": "Das ist eine prozessuale Entscheidung. (Synonyme: verfahrensmäßig, ablaufbezogen) (C1 - Adjektiv)"
+  },
+  {
+    "question": "r Aufwand, \"-e",
+    "choices": [
+      "létesítményvezető (facility manager)",
+      "energiateljesítmény (energy performance)",
+      "ráfordítás / költség (effort / expense)",
+      "épületelemzés (building analysis)"
+    ],
+    "answer": 3,
+    "hint": "Der finanzielle Aufwand ist groß. (Synonyme: r Einsatz, e Kosten, e Bemühung) (B2 - Nomen)"
+  },
+  {
+    "question": "ráfordítás / költség (effort / expense)",
+    "choices": [
+      "e Erhaltung (Sg.)",
+      "e Baufirma, -firmen",
+      "r Aufwand, \"-e",
+      "e Echtzeit-Analyse, -n"
+    ],
+    "answer": 3,
+    "hint": "Der finanzielle Aufwand ist groß. (Synonyme: r Einsatz, e Kosten, e Bemühung) (B2 - Nomen)"
+  },
+  {
+    "question": "e Ebene, -n",
+    "choices": [
+      "örökkévalóság (eternity)",
+      "szint / sík (level / plane)",
+      "karbantartási előzmények (maintenance history)",
+      "megőrzés / fenntartás (preservation)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen auf dieser Ebene verhandeln. (Synonyme: s Niveau, r Bereich, e Fläche) (B2 - Nomen)"
+  },
+  {
+    "question": "szint / sík (level / plane)",
+    "choices": [
+      "e Untersuchung, -en",
+      "e Echtzeit-Analyse, -n",
+      "s Planungsbüro, -s",
+      "e Ebene, -n"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen auf dieser Ebene verhandeln. (Synonyme: s Niveau, r Bereich, e Fläche) (B2 - Nomen)"
+  },
+  {
+    "question": "zweideutig",
+    "choices": [
+      "köznyelvi (colloquial)",
+      "átalány / mindenre kiterjedő (flat-rate / all-inclusive)",
+      "világos / érthető (clear / distinct)",
+      "kétértelmű (ambiguous)"
+    ],
+    "answer": 4,
+    "hint": "Seine Antwort war zweideutig. (Synonyme: doppeldeutig, unklar, missverständlich) (B2 - Adjektiv)"
+  },
+  {
+    "question": "kétértelmű (ambiguous)",
+    "choices": [
+      "zweideutig",
+      "deutlich",
+      "prozessual",
+      "gestrig"
+    ],
+    "answer": 1,
+    "hint": "Seine Antwort war zweideutig. (Synonyme: doppeldeutig, unklar, missverständlich) (B2 - Adjektiv)"
+  },
+  {
+    "question": "unzweideutig",
+    "choices": [
+      "szorgalmas (hardworking)",
+      "köznyelvi (colloquial)",
+      "egyértelmű (unambiguous)",
+      "tegnapi (yesterday's)"
+    ],
+    "answer": 3,
+    "hint": "Das Signal war unzweideutig. (Synonyme: klar, präzise, unmissverständlich) (B2 - Adjektiv)"
+  },
+  {
+    "question": "egyértelmű (unambiguous)",
+    "choices": [
+      "pauschal",
+      "gestrig",
+      "unzweideutig",
+      "zweideutig"
+    ],
+    "answer": 3,
+    "hint": "Das Signal war unzweideutig. (Synonyme: klar, präzise, unmissverständlich) (B2 - Adjektiv)"
+  },
+  {
+    "question": "e Implementierung, -en",
+    "choices": [
+      "munkafolyamat (workflow)",
+      "bevonás (involvement)",
+      "bevezetés / implementálás (implementation)",
+      "sors (fate)"
+    ],
+    "answer": 3,
+    "hint": "Die Implementierung der Software dauert. (Synonyme: e Einführung, e Umsetzung, e Realisierung) (C1 - Nomen)"
+  },
+  {
+    "question": "bevezetés / implementálás (implementation)",
+    "choices": [
+      "e Implementierung, -en",
+      "r Vorteil, -e",
+      "s Anlagenmanagement, -s",
+      "e Detailtiefe, -n"
+    ],
+    "answer": 1,
+    "hint": "Die Implementierung der Software dauert. (Synonyme: e Einführung, e Umsetzung, e Realisierung) (C1 - Nomen)"
+  },
+  {
+    "question": "s Tool, -s",
+    "choices": [
+      "részletezettség mélysége (depth of detail)",
+      "résztvevő / érintett (participant)",
+      "sors (fate)",
+      "eszköz (szoftveres) (tool)"
+    ],
+    "answer": 4,
+    "hint": "Dieses Tool ist sehr hilfreich. (Synonyme: s Werkzeug, s Instrument, s Hilfsmittel) (B2 - Nomen)"
+  },
+  {
+    "question": "eszköz (szoftveres) (tool)",
+    "choices": [
+      "e Echtzeit-Analyse, -n",
+      "s Kinn, -e",
+      "s Tool, -s",
+      "e Fleißigkeit (Sg.)"
+    ],
+    "answer": 3,
+    "hint": "Dieses Tool ist sehr hilfreich. (Synonyme: s Werkzeug, s Instrument, s Hilfsmittel) (B2 - Nomen)"
+  },
+  {
+    "question": "e Plattform, -en",
+    "choices": [
+      "eszközkezelés (asset management)",
+      "platform (platform)",
+      "szorgalom (industriousness)",
+      "fedél / tető (lid)"
+    ],
+    "answer": 2,
+    "hint": "Die Plattform bietet viele Infos. (Synonyme: s Forum, e Basis) (B2 - Nomen)"
+  },
+  {
+    "question": "platform (platform)",
+    "choices": [
+      "r digitale Zwilling, -e",
+      "e Plattform, -en",
+      "e Fehlererkennung, -en",
+      "e Anlagendaten (Pl.)"
+    ],
+    "answer": 2,
+    "hint": "Die Plattform bietet viele Infos. (Synonyme: s Forum, e Basis) (B2 - Nomen)"
+  },
+  {
+    "question": "r Arbeitsablauf, \"-e",
+    "choices": [
+      "megőrzés / fenntartás (preservation)",
+      "munkafolyamat (workflow)",
+      "eszközkezelés (asset management)",
+      "ráfordítás / költség (effort / expense)"
+    ],
+    "answer": 2,
+    "hint": "Wir optimieren den Arbeitsablauf. (Synonyme: r Workflow, r Prozess, e Prozedur) (B2 - Nomen)"
+  },
+  {
+    "question": "munkafolyamat (workflow)",
+    "choices": [
+      "e Erhaltung (Sg.)",
+      "e Ausdauer (Sg.)",
+      "r Arbeitsablauf, \"-e",
+      "e Baufirma, -firmen"
+    ],
+    "answer": 3,
+    "hint": "Wir optimieren den Arbeitsablauf. (Synonyme: r Workflow, r Prozess, e Prozedur) (B2 - Nomen)"
+  },
+  {
+    "question": "s Planungsbüro, -s",
+    "choices": [
+      "hasonlóság (similarity)",
+      "építőipari cég (construction company)",
+      "eszközkezelés (asset management)",
+      "tervezőiroda (planning office)"
+    ],
+    "answer": 4,
+    "hint": "Das Planungsbüro entwirft das Haus. (Synonyme: s Architekturbüro) (B2 - Nomen)"
+  },
+  {
+    "question": "tervezőiroda (planning office)",
+    "choices": [
+      "r Deckel, -",
+      "s Planungsbüro, -s",
+      "e Durchgangsphase, -n",
+      "r Beteiligte, -n"
+    ],
+    "answer": 2,
+    "hint": "Das Planungsbüro entwirft das Haus. (Synonyme: s Architekturbüro) (B2 - Nomen)"
+  },
+  {
+    "question": "e Baufirma, -firmen",
+    "choices": [
+      "szint / sík (level / plane)",
+      "eszköz (szoftveres) (tool)",
+      "építőipari cég (construction company)",
+      "áll (testrész) (chin)"
+    ],
+    "answer": 3,
+    "hint": "Die Baufirma beginnt morgen. (Synonyme: s Bauunternehmen) (B1 - Nomen)"
+  },
+  {
+    "question": "építőipari cég (construction company)",
+    "choices": [
+      "r Aufwand, \"-e",
+      "r Deckel, -",
+      "e Baufirma, -firmen",
+      "s Kinn, -e"
+    ],
+    "answer": 3,
+    "hint": "Die Baufirma beginnt morgen. (Synonyme: s Bauunternehmen) (B1 - Nomen)"
+  },
+  {
+    "question": "r Facility-Manager, -",
+    "choices": [
+      "létesítményvezető (facility manager)",
+      "eszközkezelés (asset management)",
+      "vizsgálat (investigation)",
+      "eszköz (szoftveres) (tool)"
+    ],
+    "answer": 1,
+    "hint": "Der Facility-Manager prüft die Heizung. (Synonyme: r Hausmeister, r Gebäudeverwalter) (B2 - Nomen)"
+  },
+  {
+    "question": "létesítményvezető (facility manager)",
+    "choices": [
+      "s Kinn, -e",
+      "e Erhaltung (Sg.)",
+      "r Facility-Manager, -",
+      "e Energieleistung, -en"
+    ],
+    "answer": 3,
+    "hint": "Der Facility-Manager prüft die Heizung. (Synonyme: r Hausmeister, r Gebäudeverwalter) (B2 - Nomen)"
+  },
+  {
+    "question": "e Einbeziehung, -en",
+    "choices": [
+      "előny (advantage)",
+      "hibafelismerés (error detection)",
+      "platform (platform)",
+      "bevonás (involvement)"
+    ],
+    "answer": 4,
+    "hint": "Die Einbeziehung aller Partner ist wichtig. (Synonyme: e Beteiligung, e Involvierung, e Integration) (C1 - Nomen)"
+  },
+  {
+    "question": "bevonás (involvement)",
+    "choices": [
+      "s Tool, -s",
+      "e Einbeziehung, -en",
+      "e Echtzeit-Analyse, -n",
+      "e Alarmhistorie, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Einbeziehung aller Partner ist wichtig. (Synonyme: e Beteiligung, e Involvierung, e Integration) (C1 - Nomen)"
+  },
+  {
+    "question": "r Beteiligte, -n",
+    "choices": [
+      "berendezés adatai (plant data)",
+      "résztvevő / érintett (participant)",
+      "örökkévalóság (eternity)",
+      "épületelemzés (building analysis)"
+    ],
+    "answer": 2,
+    "hint": "Alle Beteiligten stimmten zu. (Synonyme: r Teilnehmer, r Akteur, r Betroffene) (B2 - Nomen)"
+  },
+  {
+    "question": "résztvevő / érintett (participant)",
+    "choices": [
+      "e Fehlererkennung, -en",
+      "r Beteiligte, -n",
+      "r Deckel, -",
+      "e Echtzeit-Analyse, -n"
+    ],
+    "answer": 2,
+    "hint": "Alle Beteiligten stimmten zu. (Synonyme: r Teilnehmer, r Akteur, r Betroffene) (B2 - Nomen)"
+  },
+  {
+    "question": "e Detailtiefe, -n",
+    "choices": [
+      "ráfordítás / költség (effort / expense)",
+      "kitartás (endurance)",
+      "részletezettség mélysége (depth of detail)",
+      "előny (advantage)"
+    ],
+    "answer": 3,
+    "hint": "Die Detailtiefe des Modells ist hoch. (Synonyme: r Detaillierungsgrad) (C1 - Nomen)"
+  },
+  {
+    "question": "részletezettség mélysége (depth of detail)",
+    "choices": [
+      "e Detailtiefe, -n",
+      "e Ewigkeit, -en",
+      "r Vorteil, -e",
+      "r Deckel, -"
+    ],
+    "answer": 1,
+    "hint": "Die Detailtiefe des Modells ist hoch. (Synonyme: r Detaillierungsgrad) (C1 - Nomen)"
+  },
+  {
+    "question": "mit hoher Detailtiefe",
+    "choices": [
+      "gyűlöletet érez vki/vmi iránt (to have a hatred for)",
+      "minden rendben (everything is fine)",
+      "nagy részletességgel (with high depth of detail)",
+      "hibás vmiben (to be to blame for)"
+    ],
+    "answer": 3,
+    "hint": "Das Bild wurde mit hoher Detailtiefe erstellt. (Synonyme: detailliert, ausführlich) (C1 - Ausdruck)"
+  },
+  {
+    "question": "nagy részletességgel (with high depth of detail)",
+    "choices": [
+      "Hass (+ auf + A) haben",
+      "mit hoher Detailtiefe",
+      "Pleite gehen",
+      "von entscheidender Bedeutung sein"
+    ],
+    "answer": 2,
+    "hint": "Das Bild wurde mit hoher Detailtiefe erstellt. (Synonyme: detailliert, ausführlich) (C1 - Ausdruck)"
+  },
+  {
+    "question": "r Vorteil, -e",
+    "choices": [
+      "platform (platform)",
+      "szint / sík (level / plane)",
+      "előny (advantage)",
+      "sors (fate)"
+    ],
+    "answer": 3,
+    "hint": "Ein Vorteil ist die Zeitersparnis. (Synonyme: r Nutzen, r Profit, r Pluspunkt) (B1 - Nomen)"
+  },
+  {
+    "question": "előny (advantage)",
+    "choices": [
+      "e Wartungshistorie, -n",
+      "e Plattform, -en",
+      "r Vorteil, -e",
+      "e Ähnlichkeit, -en"
+    ],
+    "answer": 3,
+    "hint": "Ein Vorteil ist die Zeitersparnis. (Synonyme: r Nutzen, r Profit, r Pluspunkt) (B1 - Nomen)"
+  },
+  {
+    "question": "von entscheidender Bedeutung sein",
+    "choices": [
+      "Az vagy, amit megeszel. (You are what you eat.)",
+      "hibás vmiben (to be to blame for)",
+      "döntő jelentőségű (to be of crucial importance)",
+      "Minden zsák megkeresi a foltját. (Every pot finds its lid.)"
+    ],
+    "answer": 3,
+    "hint": "Das ist von entscheidender Bedeutung für uns. (Synonyme: essenziell sein, maßgeblich sein) (B2 - Ausdruck)"
+  },
+  {
+    "question": "döntő jelentőségű (to be of crucial importance)",
+    "choices": [
+      "Jeder Topf findet seinen Deckel.",
+      "Alles in Butter",
+      "von entscheidender Bedeutung sein",
+      "Pleite gehen"
+    ],
+    "answer": 3,
+    "hint": "Das ist von entscheidender Bedeutung für uns. (Synonyme: essenziell sein, maßgeblich sein) (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Fehlererkennung, -en",
+    "choices": [
+      "részletezettség mélysége (depth of detail)",
+      "digitális iker (digital twin)",
+      "hibafelismerés (error detection)",
+      "karbantartási előzmények (maintenance history)"
+    ],
+    "answer": 3,
+    "hint": "Die automatische Fehlererkennung hilft. (Synonyme: e Diagnose, s Identifizieren von Fehlern) (B2 - Nomen)"
+  },
+  {
+    "question": "hibafelismerés (error detection)",
+    "choices": [
+      "s Planungsbüro, -s",
+      "e Fehlererkennung, -en",
+      "s Schicksal, -e",
+      "e Ebene, -n"
+    ],
+    "answer": 2,
+    "hint": "Die automatische Fehlererkennung hilft. (Synonyme: e Diagnose, s Identifizieren von Fehlern) (B2 - Nomen)"
+  },
+  {
+    "question": "e Gebäudeanalyse, -n",
+    "choices": [
+      "fedél / tető (lid)",
+      "áll (testrész) (chin)",
+      "valós idejű elemzés (real-time analysis)",
+      "épületelemzés (building analysis)"
+    ],
+    "answer": 4,
+    "hint": "Die Gebäudeanalyse zeigt Mängel auf. (Synonyme: e Bauuntersuchung) (B2 - Nomen)"
+  },
+  {
+    "question": "épületelemzés (building analysis)",
+    "choices": [
+      "e Energieleistung, -en",
+      "e Gebäudeanalyse, -n",
+      "e Alarmhistorie, -n",
+      "s Tool, -s"
+    ],
+    "answer": 2,
+    "hint": "Die Gebäudeanalyse zeigt Mängel auf. (Synonyme: e Bauuntersuchung) (B2 - Nomen)"
+  },
+  {
+    "question": "e Echtzeit-Analyse, -n",
+    "choices": [
+      "munkafolyamat (workflow)",
+      "hibafelismerés (error detection)",
+      "tanulás (learning)",
+      "valós idejű elemzés (real-time analysis)"
+    ],
+    "answer": 4,
+    "hint": "Wir benötigen eine Echtzeit-Analyse. (Synonyme: Live-Auswertung) (C1 - Nomen)"
+  },
+  {
+    "question": "valós idejű elemzés (real-time analysis)",
+    "choices": [
+      "e Köchin, -nen",
+      "e Ewigkeit, -en",
+      "e Echtzeit-Analyse, -n",
+      "e Fehlererkennung, -en"
+    ],
+    "answer": 3,
+    "hint": "Wir benötigen eine Echtzeit-Analyse. (Synonyme: Live-Auswertung) (C1 - Nomen)"
+  },
+  {
+    "question": "e Alarmhistorie, -n",
+    "choices": [
+      "szint / sík (level / plane)",
+      "riasztási előzmények (alarm history)",
+      "energiateljesítmény (energy performance)",
+      "bevonás (involvement)"
+    ],
+    "answer": 2,
+    "hint": "Prüfen Sie die Alarmhistorie. (Synonyme: s Fehlerprotokoll) (B2 - Nomen)"
+  },
+  {
+    "question": "riasztási előzmények (alarm history)",
+    "choices": [
+      "e Durchgangsphase, -n",
+      "e Erhaltung (Sg.)",
+      "e Alarmhistorie, -n",
+      "e Baufirma, -firmen"
+    ],
+    "answer": 3,
+    "hint": "Prüfen Sie die Alarmhistorie. (Synonyme: s Fehlerprotokoll) (B2 - Nomen)"
+  },
+  {
+    "question": "e Anlagendaten (Pl.)",
+    "choices": [
+      "bevonás (involvement)",
+      "berendezés adatai (plant data)",
+      "szorgalom (industriousness)",
+      "előny (advantage)"
+    ],
+    "answer": 2,
+    "hint": "Die Anlagendaten sind vertraulich. (Synonyme: technische Daten) (B2 - Nomen)"
+  },
+  {
+    "question": "berendezés adatai (plant data)",
+    "choices": [
+      "e Ähnlichkeit, -en",
+      "e Ewigkeit, -en",
+      "e Anlagendaten (Pl.)",
+      "s Kinn, -e"
+    ],
+    "answer": 3,
+    "hint": "Die Anlagendaten sind vertraulich. (Synonyme: technische Daten) (B2 - Nomen)"
+  },
+  {
+    "question": "e Wartungshistorie, -n",
+    "choices": [
+      "karbantartási előzmények (maintenance history)",
+      "eszközkezelés (asset management)",
+      "platform (platform)",
+      "megőrzés / fenntartás (preservation)"
+    ],
+    "answer": 1,
+    "hint": "Die Wartungshistorie ist lückenlos. (Synonyme: s Serviceheft, s Instandhaltungsprotokoll) (B2 - Nomen)"
+  },
+  {
+    "question": "karbantartási előzmények (maintenance history)",
+    "choices": [
+      "e Gebäudeanalyse, -n",
+      "e Köchin, -nen",
+      "e Wartungshistorie, -n",
+      "e Ähnlichkeit, -en"
+    ],
+    "answer": 3,
+    "hint": "Die Wartungshistorie ist lückenlos. (Synonyme: s Serviceheft, s Instandhaltungsprotokoll) (B2 - Nomen)"
+  },
+  {
+    "question": "e Energieleistung, -en",
+    "choices": [
+      "energiateljesítmény (energy performance)",
+      "platform (platform)",
+      "digitális iker (digital twin)",
+      "létesítményvezető (facility manager)"
+    ],
+    "answer": 1,
+    "hint": "Die Energieleistung wurde verbessert. (Synonyme: e Energieeffizienz) (B2 - Nomen)"
+  },
+  {
+    "question": "energiateljesítmény (energy performance)",
+    "choices": [
+      "r Fleiß (Sg.)",
+      "e Energieleistung, -en",
+      "e Ähnlichkeit, -en",
+      "e Detailtiefe, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Energieleistung wurde verbessert. (Synonyme: e Energieeffizienz) (B2 - Nomen)"
+  },
+  {
+    "question": "r digitale Zwilling, -e",
+    "choices": [
+      "szorgalom (industriousness)",
+      "digitális iker (digital twin)",
+      "fedél / tető (lid)",
+      "valós idejű elemzés (real-time analysis)"
+    ],
+    "answer": 2,
+    "hint": "Der digitale Zwilling simuliert den Betrieb. (Synonyme: s digitale Abbild, s Duplikat) (C1 - Nomen)"
+  },
+  {
+    "question": "digitális iker (digital twin)",
+    "choices": [
+      "e Erhaltung (Sg.)",
+      "e Implementierung, -en",
+      "r digitale Zwilling, -e",
+      "e Alarmhistorie, -n"
+    ],
+    "answer": 3,
+    "hint": "Der digitale Zwilling simuliert den Betrieb. (Synonyme: s digitale Abbild, s Duplikat) (C1 - Nomen)"
+  },
+  {
+    "question": "s Anlagenmanagement, -s",
+    "choices": [
+      "szorgalom (industriousness)",
+      "berendezés adatai (plant data)",
+      "eszközkezelés (asset management)",
+      "örökkévalóság (eternity)"
+    ],
+    "answer": 3,
+    "hint": "Das Anlagenmanagement ist effizient. (Synonyme: e Anlagenverwaltung, s Assetmanagement) (B2 - Nomen)"
+  },
+  {
+    "question": "eszközkezelés (asset management)",
+    "choices": [
+      "e Baufirma, -firmen",
+      "s Anlagenmanagement, -s",
+      "s Planungsbüro, -s",
+      "r digitale Zwilling, -e"
+    ],
+    "answer": 2,
+    "hint": "Das Anlagenmanagement ist effizient. (Synonyme: e Anlagenverwaltung, s Assetmanagement) (B2 - Nomen)"
+  }
+]
