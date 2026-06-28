@@ -269,10 +269,10 @@ class Quiz:
             # self.options[val]['fg'] = fontcolor
 
             if self.question_label is None:
-                self.question_label = Label(frame, text=current_question, wraplength=600, # index
+                self.question_label = Label(frame, text=current_question, wraplength=650, # index
                                             font=('Calibri', 16, 'bold'), anchor='center', # https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/img/labelanchor.png
                                             justify='center', fg=fontcolor,
-                                            height=2)
+                                            height=3)
                 self.question_label.place(x=0, y=85, relwidth=1.0)
             else:
                 self.question_label.config(text=current_question, fg=fontcolor)
@@ -518,24 +518,24 @@ deutsch.add_radiobutton(label = 'Deutsch Gemischung 005', variable = choice, val
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt005.json'), 12), quiz.display_deutsch_label(7)))
 deutsch.add_radiobutton(label = 'Deutsch Gemischung 006', variable = choice, value = 14,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt006.json'), 13), quiz.display_deutsch_label(8)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 007', variable = choice, value = 15,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt007.json'), 14), quiz.display_deutsch_label(9)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 008', variable = choice, value = 16,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt008.json'), 15), quiz.display_deutsch_label(10)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 009', variable = choice, value = 17,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt009.json'), 16), quiz.display_deutsch_label(11)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 010', variable = choice, value = 18,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt010.json'), 17), quiz.display_deutsch_label(12)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 011', variable = choice, value = 19,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt011.json'), 18), quiz.display_deutsch_label(13)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 012', variable = choice, value = 20,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt012.json'), 19), quiz.display_deutsch_label(14)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 013', variable = choice, value = 21,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt013.json'), 20), quiz.display_deutsch_label(15)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 014', variable = choice, value = 22,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt014.json'), 21), quiz.display_deutsch_label(16)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 015', variable = choice, value = 23,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt015.json'), 22), quiz.display_deutsch_label(17)))
+deutsch.add_radiobutton(label = 'Deutsch Modelpartikeln', variable = choice, value = 15,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_modalpartikeln.json'), 14), quiz.display_deutsch_label(9)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 008', variable = choice, value = 16,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt008.json'), 15), quiz.display_deutsch_label(10)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 009', variable = choice, value = 17,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt009.json'), 16), quiz.display_deutsch_label(11)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 010', variable = choice, value = 18,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt010.json'), 17), quiz.display_deutsch_label(12)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 011', variable = choice, value = 19,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt011.json'), 18), quiz.display_deutsch_label(13)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 012', variable = choice, value = 20,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt012.json'), 19), quiz.display_deutsch_label(14)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 013', variable = choice, value = 21,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt013.json'), 20), quiz.display_deutsch_label(15)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 014', variable = choice, value = 22,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt014.json'), 21), quiz.display_deutsch_label(16)))
+# deutsch.add_radiobutton(label = 'Deutsch Gemischung 015', variable = choice, value = 23,
+#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt015.json'), 22), quiz.display_deutsch_label(17)))
 # deutsch.add_radiobutton(label = 'Deutsch Gemischung 016', variable = choice, value = 24,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt016.json'), 23), quiz.display_deutsch_label(18)))
 # deutsch.add_radiobutton(label = 'Deutsch Gemischung 017', variable = choice, value = 25,
@@ -579,7 +579,7 @@ logo_t10 = PhotoImage(file = resource_path('./logo/logo_electrical_systems_in_bu
 logo_t11 = PhotoImage(file = resource_path('./logo/logo_hvacbasics.png')).subsample(7,7)
 # logo_t12 = PhotoImage(file = resource_path('./logo/logo_python.png')).subsample(7,7)
 # logo_deutsch_a1 = PhotoImage(file = resource_path('./logo/logo_deutschA1.png')).subsample(14,14)
-# logo_bimdeutschland = PhotoImage(file = resource_path('./logo/logo_bimdeutschland.png')).subsample(5,5)
+logo_bimdeutschland = PhotoImage(file = resource_path('./logo/logo_bimdeutschland.png')).subsample(5,5)
 # logo_deutsch_a2 = PhotoImage(file = resource_path('./logo/logo_deutschA2.png')).subsample(14,14)
 # logo_deutsch_b1 = PhotoImage(file = resource_path('./logo/logo_deutschB1.png')).subsample(14, 14)
 logo_english = PhotoImage(file = resource_path('./logo/logo_english.png')).subsample(7,7)
@@ -600,8 +600,8 @@ topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical syst
 topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
 # topics.entryconfig(11, image=logo_t12, compound= 'left') # bme - hvac basics
 
-# deutsch.entryconfig(0, image= logo_deutsch_a1, compound ='left') # adding icon and position it
-# deutsch.entryconfig(1, image= logo_deutsch_a1, compound ='left')
+deutsch.entryconfig(0, image= logo_bimdeutschland, compound ='left') # adding icon and position it
+deutsch.entryconfig(1, image= logo_bimdeutschland, compound ='left')
 # deutsch.entryconfig(2, image= logo_deutsch_a2, compound ='left')
 # deutsch.entryconfig(3, image= logo_deutsch_b1, compound ='left') # adding icon and position it
 # deutsch.entryconfig(4, image= logo_t13, compound ='left')
@@ -641,5 +641,5 @@ quiz = Quiz()
 
 # https://stackoverflow.com/questions/29158220/tkinter-understanding-mainloop
 # https://stackoverflow.com/questions/43442858/why-my-code-doesnt-open-tkinter-window
-guitop.mainloop() #
+guitop.mainloop() 
 

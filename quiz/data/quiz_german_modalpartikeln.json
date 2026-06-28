@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Das ist _____ nicht wahr! (That is absolutely not true! / Ez egyáltalán nem igaz!)",
+    "choices": [
+      "gar",
+      "schon",
+      "wohl",
+      "ja"
+    ],
+    "answer": 1,
+    "hint": "\"Gar\" wird verwendet, um eine Verneinung (nicht/kein) extrem zu verstärken (absolutely not / egyáltalán nem)."
+  },
+  {
+    "question": "Es ist _____ so. (It's just the way it is. / Ez már csak így van.)",
+    "choices": [
+      "denn",
+      "nun mal",
+      "etwa",
+      "überhaupt"
+    ],
+    "answer": 2,
+    "hint": "\"Nun mal\" ist eine feste Kombination, die genau wie \"halt\" oder \"eben\" eine unveränderliche Tatsache ausdrückt, die man akzeptieren muss."
+  },
+  {
+    "question": "Was hast du dir _____ dabei gedacht? (What on earth were you thinking? / Mégis mit gondoltál ezzel?)",
+    "choices": [
+      "wohl",
+      "halt",
+      "nur",
+      "ja"
+    ],
+    "answer": 3,
+    "hint": "\"Nur\" funktioniert in W-Fragen genau wie \"bloß\" und drückt völlige Ratlosigkeit, Unverständnis oder Verzweiflung aus."
+  },
+  {
+    "question": "Das ist _____ eine Überraschung! (Well, that IS a surprise! / Ez aztán a meglepetés!)",
+    "choices": [
+      "denn",
+      "ja",
+      "mal",
+      "eh"
+    ],
+    "answer": 2,
+    "hint": "Ein Klassiker: \"Ja\" mitten im Satz wird sehr oft genutzt, um Erstaunen oder eine plötzliche Erkenntnis extrem zu betonen."
+  },
+  {
+    "question": "Wer glaubt das _____ ? (Who would even believe that? [No one] / Ugyan ki hinné ezt el?)",
+    "choices": [
+      "schon",
+      "halt",
+      "ruhig",
+      "etwa"
+    ],
+    "answer": 1,
+    "hint": "In rhetorischen Fragen macht \"schon\" deutlich, dass man eigentlich eine negative Antwort erwartet (Niemand glaubt das)."
+  },
+  {
+    "question": "Du kannst mich _____ ! (You can go to hell / bite me! / Elmehetsz a fenébe!)",
+    "choices": [
+      "doch",
+      "bloß",
+      "mal",
+      "eigentlich"
+    ],
+    "answer": 3,
+    "hint": "Eine sehr bekannte, umgangssprachliche Redewendung (kurz für \"Du kannst mich mal kreuzweise\"). Hier schwächt \"mal\" nichts ab, sondern gehört fest zum Ausdruck."
+  },
+  {
+    "question": "Das habe ich dir _____ gleich gesagt! (I TOLD you so right from the start! / Hiszen én rögtön megmondtam neked!)",
+    "choices": [
+      "eben",
+      "vielleicht",
+      "gar",
+      "doch"
+    ],
+    "answer": 4,
+    "hint": "Der ultimative \"Ich hab's dir ja gesagt\"-Verstärker. \"Doch\" erinnert intensiv an einen früheren Widerspruch oder eine ignorierte Warnung."
+  },
+  {
+    "question": "Das ist _____ unmöglich! (That is *simply* impossible! / Ez egyszerűen lehetetlen!)",
+    "choices": [
+      "einfach",
+      "mal",
+      "denn",
+      "schon"
+    ],
+    "answer": 1,
+    "hint": "Als Partikel verstärkt \"einfach\" eine Aussage enorm, oft bei sehr emotionalen oder endgültigen Bewertungen (positiv wie negativ)."
+  },
+  {
+    "question": "Das mag _____ stimmen, aber... (That *may* be true, but... / Ez igaz is lehet ugyan, de...)",
+    "choices": [
+      "gar",
+      "wohl",
+      "halt",
+      "eh"
+    ],
+    "answer": 2,
+    "hint": "\"Wohl\" kann auch ein widerwilliges Zugeständnis ausdrücken. Man räumt ein, dass etwas wahr sein könnte, leitet aber sofort einen Gegenanschlag ein."
+  },
+  {
+    "question": "Gibt es hier _____ WLAN? (Is there even Wi-Fi here? / Van itt egyáltalán Wi-Fi?)",
+    "choices": [
+      "etwa",
+      "ruhig",
+      "überhaupt",
+      "bloß"
+    ],
+    "answer": 3,
+    "hint": "\"Überhaupt\" hinterfragt die absolute Grundvoraussetzung (at all / egyáltalán). Bevor wir über die Qualität des Internets reden: Gibt es das hier überhaupt?"
+  },
+  {
+    "question": "Du kannst _____ noch ein Stück Kuchen nehmen. (You can go ahead and take another piece of cake [no worries]. / Nyugodtan vehetsz még egy szelet tortát.)",
+    "choices": [
+      "ruhig",
+      "bloß",
+      "mal",
+      "halt"
+    ],
+    "answer": 1,
+    "hint": "\"Ruhig\" wird hier als Ermutigung verwendet. Es signalisiert: Mach es, es ist überhaupt kein Problem (feel free / go ahead)."
+  },
+  {
+    "question": "Komm mir _____ nicht zu nahe! (Don't you dare come too close! / Eszedbe ne jusson túl közel jönni!)",
+    "choices": [
+      "denn",
+      "eigentlich",
+      "ja",
+      "eh"
+    ],
+    "answer": 3,
+    "hint": "In einem negativen Befehlssatz funktioniert \"ja\" (oder auch \"bloß\") als sehr scharfe Warnung oder Drohung."
+  },
+  {
+    "question": "Das war _____ ein anstrengender Tag! (That sure was an exhausting day! / Ez aztán fárasztó egy nap volt!)",
+    "choices": [
+      "denn",
+      "aber",
+      "mal",
+      "gar"
+    ],
+    "answer": 2,
+    "hint": "\"Aber\" mitten in einem Ausrufesatz drückt eine starke Überraschung oder große emotionale Betonung aus."
+  },
+  {
+    "question": "Die hat _____ Nerven! (She's got some nerve! / Neki aztán van képe/bátorsága hozzá!)",
+    "choices": [
+      "vielleicht",
+      "ruhig",
+      "eben",
+      "etwa"
+    ],
+    "answer": 1,
+    "hint": "\"Vielleicht\" bedeutet in Aussagesätzen Unsicherheit, aber in *Ausrufesätzen* ist es ein extremer Verstärker für Erstaunen oder Empörung."
+  },
+  {
+    "question": "Wir könnten _____ am Wochenende ins Kino gehen. (We could go to the cinema this weekend [just a casual idea]. / Elmehetnénk esetleg moziba a hétvégén.)",
+    "choices": [
+      "bloß",
+      "ja",
+      "mal",
+      "gar"
+    ],
+    "answer": 3,
+    "hint": "\"Mal\" macht einen Vorschlag viel lockerer und unverbindlicher. Es nimmt den Druck aus der Aussage."
+  },
+  {
+    "question": "Mach dir keine Sorgen, das wird _____ funktionieren. (Don't worry, it will work out fine. / Ne aggódj, menni fog ez.)",
+    "choices": [
+      "halt",
+      "etwa",
+      "überhaupt",
+      "schon"
+    ],
+    "answer": 4,
+    "hint": "Wenn man jemanden beruhigen möchte, ist \"schon\" die perfekte Wahl. Es drückt Zuversicht und Optimismus aus."
+  },
+  {
+    "question": "Woher kommst du _____ genau? (Where exactly do you come from? [friendly interest] / Pontosan honnan is származol?)",
+    "choices": [
+      "denn",
+      "ja",
+      "halt",
+      "wohl"
+    ],
+    "answer": 1,
+    "hint": "\"Denn\" in einer Frage zeigt ehrliches, freundliches Interesse. Ohne \"denn\" klingt die Frage oft wie ein Verhör."
+  },
+  {
+    "question": "Nimm _____ einen Regenschirm mit, es sieht nach Regen aus! (Just take an umbrella, it looks like rain! / Vigyél csak magaddal esernyőt...)",
+    "choices": [
+      "etwa",
+      "überhaupt",
+      "doch",
+      "gar"
+    ],
+    "answer": 3,
+    "hint": "In einem Ratschlag (Imperativ) wirkt \"doch\" drängend, aber gut gemeint. Man möchte den anderen sanft zu etwas überreden."
+  },
+  {
+    "question": "Wenn der Zug ausfällt, müssen wir _____ warten. (If the train is cancelled, we just have to wait. / Ha kimarad a vonat, hát várnunk kell.)",
+    "choices": [
+      "schon",
+      "halt",
+      "bloß",
+      "etwa"
+    ],
+    "answer": 2,
+    "hint": "\"Halt\" (oder synonym \"eben\") drückt aus, dass man eine Situation nicht ändern kann und sie einfach akzeptieren muss."
+  },
+  {
+    "question": "Gefällt dir dieses Buch _____ ? (Do you even like this book at all? / Egyáltalán tetszik neked ez a könyv?)",
+    "choices": [
+      "mal",
+      "ruhig",
+      "gar",
+      "überhaupt"
+    ],
+    "answer": 4,
+    "hint": "\"Überhaupt\" stellt die gesamte Prämisse in Frage (at all). Man zweifelt grundsätzlich an etwas."
+  },
+  {
+    "question": "Hast du das _____ vergessen? (Did you *actually* forget that? [I fear you did] / Csak nem elfelejtetted?)",
+    "choices": [
+      "etwa",
+      "halt",
+      "ruhig",
+      "schon"
+    ],
+    "answer": 1,
+    "hint": "\"Etwa\" in einer Frage drückt Befürchtung, Unglauben oder böse Überraschung aus. Man hofft, dass die Antwort \"Nein\" ist."
+  },
+  {
+    "question": "Brauchen wir diese Funktion _____ ? (Do we need this feature *at all*? / Egyáltalán szükségünk van erre a funkcióra?)",
+    "choices": [
+      "mal",
+      "ja",
+      "überhaupt",
+      "bloß"
+    ],
+    "answer": 3,
+    "hint": "\"Überhaupt\" stellt die grundsätzliche Notwendigkeit oder Gültigkeit von etwas komplett in Frage (at all / egyáltalán)."
+  },
+  {
+    "question": "Du brauchst dich nicht zu beeilen, das Meeting fängt _____ später an. (..., the meeting starts later *anyway*. / ..., a megbeszélés amúgy is később kezdődik.)",
+    "choices": [
+      "denn",
+      "eh",
+      "aber",
+      "mal"
+    ],
+    "answer": 2,
+    "hint": "\"Eh\" ist ein extrem häufiges umgangssprachliches Kurzwort für \"sowieso\" oder \"ohnehin\" (anyway). Sehr typisch in Süddeutschland und Österreich."
+  },
+  {
+    "question": "Das Modell ist _____ detailliert, aber es fehlen wichtige Daten. (The model is detailed *alright*, but... / A modell végül is részletes, de...)",
+    "choices": [
+      "schon",
+      "denn",
+      "halt",
+      "ruhig"
+    ],
+    "answer": 1,
+    "hint": "\"Schon\" kann auch eine Einschränkung ausdrücken. Man stimmt zu, signalisiert aber, dass direkt ein \"aber\" folgt (That may be true, but...)."
+  },
+  {
+    "question": "Wie spät ist es _____ ? (By the way, what time is it? / Mellesleg mennyi az idő?)",
+    "choices": [
+      "ja",
+      "bloß",
+      "eigentlich",
+      "etwa"
+    ],
+    "answer": 3,
+    "hint": "Wenn man das Thema spontan wechselt oder eine neue Frage aufwirft, funktioniert \"eigentlich\" genau wie das englische \"by the way\"."
+  },
+  {
+    "question": "Komm _____ herein! (Do come in! [friendly, welcoming] / Gyere csak be!)",
+    "choices": [
+      "etwa",
+      "doch",
+      "eben",
+      "denn"
+    ],
+    "answer": 2,
+    "hint": "Bei einer Einladung oder Bitte nimmt \"doch\" die Strenge aus dem Befehlston und macht den Satz sehr herzlich, drängend und einladend."
+  },
+  {
+    "question": "Das ist _____ ein Chaos hier! (What an absolute mess this is! / Ez aztán a káosz!)",
+    "choices": [
+      "vielleicht",
+      "etwa",
+      "ruhig",
+      "mal"
+    ],
+    "answer": 1,
+    "hint": "Überraschung! In Ausrufesätzen wird \"vielleicht\" überhaupt nicht für Unsicherheit genutzt, sondern als starker Verstärker (Wie \"aber\")."
+  },
+  {
+    "question": "Sag _____ , hast du am Wochenende schon etwas vor? (Tell me / Hey, do you have plans...? / Mondd csak, van már terved...?)",
+    "choices": [
+      "halt",
+      "denn",
+      "mal",
+      "ja"
+    ],
+    "answer": 3,
+    "hint": "\"Sag mal\" oder \"Hör mal\" sind sehr typische, lockere Gesprächseinstiege. Man nutzt es, um die Aufmerksamkeit auf eine kommende Frage zu lenken."
+  },
+  {
+    "question": "Du spinnst _____ ! (You must be crazy! / Te jó ég, te megőrültél!)",
+    "choices": [
+      "wohl",
+      "denn",
+      "ruhig",
+      "eigentlich"
+    ],
+    "answer": 1,
+    "hint": "In festen Ausrufen wie \"Du spinnst wohl!\" drückt \"wohl\" starke Empörung oder Fassungslosigkeit aus."
+  },
+  {
+    "question": "Wir können jetzt nichts tun, das BIM-Projekt ist _____ gestoppt. (...the project is stopped *anyway*. / ..., a projekt amúgy is leállt.)",
+    "choices": [
+      "etwa",
+      "sowieso",
+      "mal",
+      "bloß"
+    ],
+    "answer": 2,
+    "hint": "\"Sowieso\" bedeutet, dass ein Umstand völlig unabhängig von anderen Faktoren eintreten wird (anyway). Das formellere Synonym zu \"eh\"."
+  },
+  {
+    "question": "Du kannst _____ mein Auto nehmen. (You can go ahead and take my car [no worries]. / Nyugodtan elviheted az autómat.)",
+    "choices": [
+      "ruhig",
+      "bloß",
+      "eigentlich",
+      "denn"
+    ],
+    "answer": 1,
+    "hint": "\"Ruhig\" ermutigt jemanden und nimmt ihm die Bedenken. Es bedeutet: Mach es, das ist absolut kein Problem (go ahead / feel free)."
+  },
+  {
+    "question": "Mach _____! Wir kommen zu spät. (Hurry up! / Csináld már!)",
+    "choices": [
+      "halt",
+      "schon",
+      "wohl",
+      "aber"
+    ],
+    "answer": 2,
+    "hint": "\"Schon\" macht eine Aufforderung dringlicher oder ungeduldiger (Come on / Hurry up)."
+  },
+  {
+    "question": "Er wird _____ im Stau stehen. (He is probably stuck in traffic. / Valószínűleg dugóban áll.)",
+    "choices": [
+      "ja",
+      "mal",
+      "wohl",
+      "bloß"
+    ],
+    "answer": 3,
+    "hint": "\"Wohl\" drückt eine starke Vermutung oder Wahrscheinlichkeit aus. Man ist sich nicht zu 100% sicher, aber es ist die logischste Erklärung."
+  },
+  {
+    "question": "Wenn es nicht funktioniert, kauf _____ ein neues. (If it doesn't work, just buy a new one. / Egyszerűen vegyél egy újat.)",
+    "choices": [
+      "einfach",
+      "denn",
+      "eigentlich",
+      "doch"
+    ],
+    "answer": 1,
+    "hint": "\"Einfach\" schlägt eine unkomplizierte, direkte Lösung vor. (Wie \"just\" im Englischen)."
+  },
+  {
+    "question": "Dann müssen wir _____ zu Fuß gehen. (Then we just have to walk [it is what it is]. / Akkor hát gyalog kell mennünk.)",
+    "choices": [
+      "denn",
+      "eben",
+      "mal",
+      "ja"
+    ],
+    "answer": 2,
+    "hint": "\"Eben\" ist das perfekte Synonym für \"halt\". Es drückt Resignation aus, wenn man eine Situation nicht ändern kann."
+  },
+  {
+    "question": "Frag ihn _____ selbst! (Why don't you just ask him yourself! / Kérdezd meg tőle te magad!)",
+    "choices": [
+      "denn",
+      "doch",
+      "ja",
+      "eigentlich"
+    ],
+    "answer": 2,
+    "hint": "In einem Aufforderungssatz (Imperativ) wirkt \"doch\" wie ein starker, oft leicht genervter Rat. (Gegenteil: In Aussagesätzen drückt es Widerspruch aus)."
+  },
+  {
+    "question": "Das wird _____ klappen! (It'll be fine! / Menni fog az!)",
+    "choices": [
+      "schon",
+      "halt",
+      "bloß",
+      "aber"
+    ],
+    "answer": 1,
+    "hint": "Neben Ungeduld kann \"schon\" auch extrem beruhigend wirken! Es strahlt Zuversicht und Optimismus aus (It will work out)."
+  },
+  {
+    "question": "Pass _____ auf! (You better watch out! / Nagyon vigyázz!)",
+    "choices": [
+      "halt",
+      "mal",
+      "ja",
+      "eigentlich"
+    ],
+    "answer": 3,
+    "hint": "Ähnlich wie \"bloß\" kann \"ja\" in einem Befehl als sehr starke Warnung oder Drohung eingesetzt werden (Tu das bloß/ja nicht!)."
+  },
+  {
+    "question": "Guck _____ , wer da kommt! (Look who's coming! / Nézd csak, ki jön ott!)",
+    "choices": [
+      "denn",
+      "wohl",
+      "mal",
+      "eben"
+    ],
+    "answer": 3,
+    "hint": "\"Mal\" macht Aufforderungen spontaner und lenkt die Aufmerksamkeit auf etwas. Sehr häufig in Kombinationen wie \"Schau mal!\", \"Hör mal!\"."
+  },
+  {
+    "question": "Wo habe ich _____ meine Schlüssel hingelegt? (Where on earth did I put my keys? / Hová a csudába tettem a kulcsomat?)",
+    "choices": [
+      "ja",
+      "bloß",
+      "ruhig",
+      "eben"
+    ],
+    "answer": 2,
+    "hint": "In Fragen drückt \"bloß\" (oder alternativ auch \"nur\") absolute Ratlosigkeit oder sogar Verzweiflung aus (Where on earth...)."
+  },
+  {
+    "question": "Warum funktioniert das ______ nicht? (Why doesn't this actually work? / Miért is nem működik ez tulajdonképpen?)",
+    "choices": [
+      "ja",
+      "halt",
+      "eigentlich",
+      "bloß"
+    ],
+    "answer": 3,
+    "hint": "\"Eigentlich\" nimmt den aggressiven Druck aus der Frage. Es klingt nach Neugier statt Vorwurf."
+  },
+  {
+    "question": "Du weißt ______ , dass wir heute ein Meeting haben. (You know [as we established], that we have a meeting. / Hiszen tudod, hogy ma megbeszélésünk van.)",
+    "choices": [
+      "ja",
+      "denn",
+      "mal",
+      "eigentlich"
+    ],
+    "answer": 1,
+    "hint": "\"Ja\" verweist hier auf gemeinsames Wissen (Shared knowledge). Es bedeutet: Wir sind uns einig / Du weißt es bereits."
+  },
+  {
+    "question": "Ich habe es dir ______ gestern gesagt! (I DID tell you yesterday! / De hiszen tegnap megmondtam neked!)",
+    "choices": [
+      "mal",
+      "doch",
+      "denn",
+      "ja"
+    ],
+    "answer": 2,
+    "hint": "\"Doch\" ist das Gegenteil von \"ja\". Es signalisiert einen Widerspruch oder erinnert jemanden an etwas, das er vergessen hat."
+  },
+  {
+    "question": "Was machst du ______ da? (What are you doing there? [friendly/curious] / Mégis mit csinálsz ott?)",
+    "choices": [
+      "ja",
+      "halt",
+      "aber",
+      "denn"
+    ],
+    "answer": 4,
+    "hint": "\"Denn\" ist in Fragen der \"König der Freundlichkeit\". Es macht die Frage weicher und zeigt ehrliches Interesse."
+  },
+  {
+    "question": "Könntest du mir ______ kurz helfen? (Could you help me for a sec? / Tudnál egy pillanatra segíteni?)",
+    "choices": [
+      "mal",
+      "ja",
+      "doch",
+      "eigentlich"
+    ],
+    "answer": 1,
+    "hint": "\"Mal\" (kurz für einmal) macht eine Bitte lockerer, spontaner und weniger formell. (Wie \"just\" im Englischen)."
+  },
+  {
+    "question": "Du bist ______ schön! (You are indeed beautiful! / De szép vagy!)",
+    "choices": [
+      "denn",
+      "aber",
+      "bloß",
+      "ja"
+    ],
+    "answer": 4,
+    "hint": "Neben dem \"gemeinsamen Wissen\" wird \"ja\" auch oft als emotionaler Verstärker für Überraschung oder Bewunderung genutzt."
+  },
+  {
+    "question": "Mach das ______ nicht! (Don't you dare do that! / Eszedbe ne jusson ezt tenni!)",
+    "choices": [
+      "mal",
+      "denn",
+      "bloß",
+      "eigentlich"
+    ],
+    "answer": 3,
+    "hint": "\"Bloß\" (oder auch \"ja\") wird oft für sehr starke Warnungen benutzt. Es signalisiert: Unter keinen Umständen!"
+  },
+  {
+    "question": "Das Wetter ist heute schlecht. Es ist ______ so. (The weather is bad today. It is what it is. / Rossz ma az idő. Ez van.)",
+    "choices": [
+      "halt",
+      "denn",
+      "ja",
+      "bloß"
+    ],
+    "answer": 1,
+    "hint": "\"Halt\" (oder \"eben\") drückt Resignation aus. Man akzeptiert eine unumstößliche Tatsache. (It is what it is)."
+  },
+  {
+    "question": "Das ist ______ eine tolle Idee! (That is SUCH a great idea! / Ez egy igazán remek ötlet!)",
+    "choices": [
+      "denn",
+      "aber",
+      "bloß",
+      "eigentlich"
+    ],
+    "answer": 2,
+    "hint": "\"Aber\" am Satzanfang ist ein Konjunktion (but), aber mitten im Satz ist es eine Modalpartikel, die große Überraschung ausdrückt."
+  },
+  {
+    "question": "Warum funktioniert das ______ ______ nicht? (Muttersprachler-Bonus: Stacking particles!)",
+    "choices": [
+      "ja doch",
+      "denn eigentlich",
+      "mal halt",
+      "aber bloß"
+    ],
+    "answer": 2,
+    "hint": "Modalpartikeln kann man stapeln! \"denn\" (macht die Frage freundlich) + \"eigentlich\" (nimmt den Vorwurf heraus) = maximal natürlich."
+  }
+]
