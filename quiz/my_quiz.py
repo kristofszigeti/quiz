@@ -520,8 +520,8 @@ deutsch.add_radiobutton(label = 'Deutsch Gemischung 006', variable = choice, val
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt006.json'), 13), quiz.display_deutsch_label(8)))
 deutsch.add_radiobutton(label = 'Deutsch Modelpartikeln', variable = choice, value = 15,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_modalpartikeln.json'), 14), quiz.display_deutsch_label(9)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 008', variable = choice, value = 16,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt008.json'), 15), quiz.display_deutsch_label(10)))
+deutsch.add_radiobutton(label = 'Deutsch Demonstrativpronomen', variable = choice, value = 16,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_demonstrativpronomen.json'), 15), quiz.display_deutsch_label(10)))
 # deutsch.add_radiobutton(label = 'Deutsch Gemischung 009', variable = choice, value = 17,
 #                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt009.json'), 16), quiz.display_deutsch_label(11)))
 # deutsch.add_radiobutton(label = 'Deutsch Gemischung 010', variable = choice, value = 18,

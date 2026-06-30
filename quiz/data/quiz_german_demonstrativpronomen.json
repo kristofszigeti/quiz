@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Das Finale und das Halbfinale finden dieses Jahr ______ (in the very same) Stadion statt.",
+    "answer": 2,
+    "choices": [
+      "im gleichen",
+      "im selben",
+      "in demselben",
+      "in das gleiche"
+    ],
+    "hint": "Egyetlen konkrét stadionról (fizikai épületről) van szó (identitás). A 'Wo?' kérdésre Dativ-val válaszolunk: in + dem = im. Az összeolvadás miatt a 'selben' külön és kisbetűvel áll."
+  },
+  {
+    "question": "Die Spieler von Real Madrid und Leipzig haben heute ______ (the same type/color of) Trikot an, das ist völlig verwirrend!",
+    "answer": 2,
+    "choices": [
+      "dasselbe",
+      "das gleiche",
+      "das Gleiche",
+      "demselben"
+    ],
+    "hint": "A két csapat játékosain külön-külön mezek vannak, amik színre és dizájnra ugyanolyanok (hasonlóság). Mivel a főnév (Trikot) ott áll utána, kisbetűvel és külön írjuk: 'das gleiche'."
+  },
+  {
+    "question": "Wir haben heute beim Auswärtsspiel schon wieder ______ (the exact same, single person) Schiedsrichter wie letzte Woche!",
+    "answer": 3,
+    "choices": [
+      "den gleichen",
+      "den selben",
+      "denselben",
+      "demselben"
+    ],
+    "hint": "Egyetlen konkrét személyről (a bíróról) van szó. Az eset Akkusativ (wen/was haben wir? -> den Schiedsrichter). Mivel nincs prepozíciós összevonás, egybeírjuk: 'denselben'."
+  },
+  {
+    "question": "Tolle neue Fußballschuhe hast du da! Ronaldo trägt übrigens ______ (the exact same type of boots).",
+    "answer": 2,
+    "choices": [
+      "die gleichen",
+      "die Gleichen",
+      "dieselben",
+      "die selben"
+    ],
+    "hint": "Nem Ronaldóval hordanak közösen egy pár cipőt, hanem két ugyanolyan (hasonló) pár cipőjük van. Mivel a 'Schuhe' főnév nincs megismételve a mondat végén, a szó főnevesül és nagybetűt kap: 'die Gleichen'."
+  },
+  {
+    "question": "Die Abwehr hat beim zweiten Gegentor leider ______ (the exact same, identical) Fehler gemacht wie in der ersten Halbzeit.",
+    "answer": 1,
+    "choices": [
+      "denselben",
+      "den gleichen",
+      "den selben",
+      "demselben"
+    ],
+    "hint": "Ha egy elvont, elkövetett hiba (der Fehler -> den Fehler, Akkusativ) tartalmában szóról szóra, pontról pontra megegyezik a korábbival, általában az identitást kifejező egybeírt 'denselben' alakot használjuk."
+  },
+  {
+    "question": "In der kurzen Trinkpause haben beide Stürmer aus ______ (the very same, single) Wasserflasche getrunken.",
+    "answer": 2,
+    "choices": [
+      "der gleichen",
+      "derselben",
+      "der selben",
+      "dieselbe"
+    ],
+    "hint": "Egyetlen közös palackból ittak mindketten (identitás). Az 'aus' prepozíció Dativ-ot vonz (die Flasche -> der Flasche). Mivel nem olvad össze, egybeírjuk: 'derselben'."
+  },
+  {
+    "question": "Ich spiele im Mittelfeld, und mein Bruder spielt bei seinem Verein auf ______ (the same type of) Position.",
+    "answer": 1,
+    "choices": [
+      "der gleichen",
+      "derselben",
+      "der selben",
+      "der Gleichen"
+    ],
+    "hint": "Két különböző csapatban játszanak, tehát ez két külön pozíció, ami feladatkörben megegyezik (hasonlóság). 'auf' + Dativ (der Position). A 'gleiche' szót külön írjuk a névelőtől, kisbetűvel."
+  },
+  {
+    "question": "Die Bayern-Spieler übernachten vor dem wichtigen Derby ______ (in the very same) Hotel wie immer.",
+    "answer": 2,
+    "choices": [
+      "im gleichen",
+      "im selben",
+      "in demselben",
+      "in das gleiche"
+    ],
+    "hint": "Egyetlen konkrét fizikai szállodáról van szó, ahová mindig visszajárnak. 'Wo?' -> in dem = im. Az összeolvadás miatt a 'selben' különíródik."
+  },
+  {
+    "question": "Letztes Jahr haben wir die Meisterschale gewonnen, und dieses Jahr wollen wir ______ (the exact same, specific trophy) wieder holen.",
+    "answer": 2,
+    "choices": [
+      "die gleiche",
+      "dieselbe",
+      "die selbe",
+      "die Gleiche"
+    ],
+    "hint": "A bajnoki trófea (die Schale / vándorkupa) egyetlen konkrét tárgy a valóságban, ami kézről kézre jár (identitás). Akkusativban (wen/was?), egybeírva: 'dieselbe'."
+  },
+  {
+    "question": "Der Trainer hat beim Stand von 0:1 ______ (the exact same thought) wie ich gehabt: Wir müssen sofort wechseln!",
+    "answer": 1,
+    "choices": [
+      "denselben",
+      "den gleichen",
+      "den selben",
+      "dasselbe"
+    ],
+    "hint": "A gondolat (der Gedanke) tartalmának teljes egyezése identitást jelent. Akkusativ esetben (den Gedanken), prepozíció nélkül egybeírva: 'denselben'."
+  },
+  {
+    "question": "Der Innenverteidiger bekam Gelb, und fünf Minuten später flog unser Kapitän für ______ (the same type of offense) vom Platz.",
+    "answer": 3,
+    "choices": [
+      "das gleiche",
+      "dasselbe",
+      "das Gleiche",
+      "denselben"
+    ],
+    "hint": "A 'für' Akkusativ-ot vonz. Két külön (de ugyanolyan jellegű) szabálytalanságról van szó (hasonlóság). Mivel a főnév (Vergehen / Foul) nem szerepel utána, a 'Gleiche' főnevesül, azaz nagybetűs."
+  },
+  {
+    "question": "Borussia Dortmund und Leverkusen haben am Ende der Saison exakt ______ (the same amount of) Punktzahl.",
+    "answer": 1,
+    "choices": [
+      "die gleiche",
+      "dieselbe",
+      "die Gleiche",
+      "die selbe"
+    ],
+    "hint": "A pontszám (die Punktzahl) két különálló csapat két külön matematikai értéke, ami egyenlő (hasonlóság). Mivel a főnév ott áll utána, kisbetűvel és külön írjuk."
+  },
+  {
+    "question": "Der neue Stürmer unterschreibt heute ______ (the exact same, specific) Vertrag, den wir gestern im Büro besprochen haben.",
+    "answer": 2,
+    "choices": [
+      "den gleichen",
+      "denselben",
+      "den selben",
+      "demselben"
+    ],
+    "hint": "Pontosan arról az egy konkrét, megfogható papírról (dokumentumról) van szó, amit tegnap kitárgyaltak (identitás). Akkusativban (der Vertrag -> den), egybeírva: 'denselben'."
+  },
+  {
+    "question": "Achte mal auf den Linienrichter! Der steht schon wieder bei ______ (the very same, single) Eckfahne.",
+    "answer": 2,
+    "choices": [
+      "der gleichen",
+      "derselben",
+      "der selben",
+      "dieselbe"
+    ],
+    "hint": "A pálya négy szögletzászlójából végig egyetlen konkrét zászlónál áll (identitás). A 'bei' Dativ-ot vonz (die Fahne -> der Fahne). Nincs összeolvadás a bei és a der között, így egybeírjuk: 'derselben'."
+  },
+  {
+    "question": "Wir fahren in der Sommervorbereitung ______ (into the very same) Trainingslager wie letztes Jahr.",
+    "answer": 2,
+    "choices": [
+      "in das gleiche",
+      "in dasselbe",
+      "ins selbe",
+      "im selben"
+    ],
+    "hint": "Irány (Wohin? -> Akkusativ, das Lager -> in das). Egyetlen, konkrét edzőtábor-helyszínről van szó (identitás). Bár a köznyelvben létezik az 'ins selbe', a hivatalos, szebb írott forma prepozícióval és egybeírással az 'in dasselbe'."
+  },
+  {
+    "question": "Wir müssen alle urgently in der Cloud arbeiten. Kollaborieren wir aktuell ______ (on the very same, single) BIM-Modell?",
+    "answer": 2,
+    "choices": [
+      "am gleichen",
+      "am selben",
+      "an dasselbe",
+      "im selben"
+    ],
+    "hint": "Mivel egyetlen, közös központi fájlról van szó (identitás), a 'selben' a jó. Az 'an + dem' összeolvad 'am'-má, így a 'selben' külön szóként, kisbetűvel áll mögötte."
+  },
+  {
+    "question": "Mein Revit-Programm ist gerade abgestürzt. Arbeitest du mit ______ (with the exact same type of) Laptop?",
+    "answer": 3,
+    "choices": [
+      "dem selben",
+      "demselben",
+      "dem Gleichen",
+      "dem gleichen"
+    ],
+    "hint": "Két különböző laptopról van szó, amelyek ugyanolyan típusúak (hasonlóság). Mivel a 'Laptop' szó nincs megismételve a mondat végén, a 'Gleichen' főnevesül, ezért külön és NAGY betűvel írjuk: 'mit dem Gleichen'."
+  },
+  {
+    "question": "Die Architektur- und die TGA-Pläne liegen ______ (in the very same) Ordner auf dem Server.",
+    "answer": 2,
+    "choices": [
+      "im gleichen",
+      "im selben",
+      "in denselben",
+      "in das gleiche"
+    ],
+    "hint": "Egyetlen konkrét szervermappáról van szó, amin osztoznak. Az 'in + dem' összevonása miatt 'im' lesz, a 'selben' pedig különíródik."
+  },
+  {
+    "question": "Beide Planungsbüros nutzen ______ (the same type of) CAD-Software, aber verschiedene Versionen.",
+    "answer": 2,
+    "choices": [
+      "dieselbe",
+      "die gleiche",
+      "die Gleiche",
+      "die selbe"
+    ],
+    "hint": "Két külön szoftverpéldányról/licencről van szó, amelyek ugyanolyanok. Mivel ott van mögötte a főnév (Software), ezért kisbetűvel írjuk: 'die gleiche'."
+  },
+  {
+    "question": "Ich habe vorhin einen Fehler im Skript bemerkt. Zwar ist mir ______ eingefallen, aber erst nach dem Deployment.",
+    "answer": 1,
+    "choices": [
+      "dasselbe",
+      "das gleiche",
+      "das Gleiche",
+      "demselben"
+    ],
+    "hint": "Egy konkrét, specifikus gondolatról/észrevételről van szó (arról a bizonyos hibáról), ezért a 'dasselbe' (egybeírva) a legpontosabb kifejezés."
+  },
+  {
+    "question": "Wir wohnen schon seit fünf Jahren ______ (in the very same) Haus.",
+    "answer": 2,
+    "choices": [
+      "im gleichen",
+      "im selben",
+      "in dasselbe",
+      "in demselben"
+    ],
+    "hint": "Egyetlen közös házról (épületről) van szó, amiben mindketten laknak (identitás). Az 'in dem' összeolvad 'im'-re, így a 'selben' külön, kisbetűs szóként áll utána."
+  },
+  {
+    "question": "Deine Jacke ist super! Ich habe mir gestern ______ (the exact same type of jacket) gekauft.",
+    "answer": 2,
+    "choices": [
+      "die gleiche",
+      "die Gleiche",
+      "dieselbe",
+      "die selbe"
+    ],
+    "hint": "Nem a barátod kabátját vetted meg a boltban, hanem egy ugyanolyan típusút (hasonlóság). Mivel a 'Jacke' (kabát) főnév nincs megismételve a mondat végén, a szó főnevesül, ezért külön és NAGYBETŰVEL írjuk: 'die Gleiche'."
+  },
+  {
+    "question": "Treffen wir uns morgen wieder ______ (at the very same) Ort?",
+    "answer": 2,
+    "choices": [
+      "am gleichen",
+      "am selben",
+      "an denselben",
+      "an demselben"
+    ],
+    "hint": "Egyetlen konkrét fizikai helyszínről van szó. A 'Wo?' (Hol?) kérdésre Dativ-val válaszolunk (der Ort -> dem Ort). Az 'an + dem' összevonása 'am' lesz, a 'selben' pedig különíródik."
+  },
+  {
+    "question": "Wir haben leider nicht denselben Geschmack. Er trinkt Kaffee, und ich bestelle meistens ______ (the same type of thing).",
+    "answer": 3,
+    "choices": [
+      "dasselbe",
+      "das gleiche",
+      "das Gleiche",
+      "demselben"
+    ],
+    "hint": "Italoknál minőségi azonosság van (nem ugyanazt az egy csésze kávét szürcsölik ketten). Mivel a főnév nincs ott a végén, nagybetűvel és külön írjuk: 'das Gleiche'."
+  },
+  {
+    "question": "Fährst du jeden Morgen ______ (with the very same, single) Bus zur Arbeit?",
+    "answer": 2,
+    "choices": [
+      "mit dem gleichen",
+      "mit demselben",
+      "mit dem selben",
+      "mit denselben"
+    ],
+    "hint": "Ugyanarra a konkrét járatra, fizikai buszra gondolunk (identitás). A 'mit' elöljárószó Dativ-ot vonz, de nem vonódik össze a névelővel, ezért a szót egybeírjuk: 'mit demselben'."
+  },
+  {
+    "question": "Schau mal, die beiden Mädchen dort tragen ______ (the same type of) Schuhe!",
+    "answer": 1,
+    "choices": [
+      "die gleichen",
+      "die Gleichen",
+      "dieselben",
+      "die selben"
+    ],
+    "hint": "Két különböző pár cipőről van szó a két lányon (hasonlóság). A 'Schuhe' főnév ott áll a mondat végén, így kisbetűvel és különírva használjuk: 'die gleichen'."
+  },
+  {
+    "question": "Ich wollte dich gerade anrufen! Wir haben wohl ______ (the exact same thought) gedacht.",
+    "answer": 3,
+    "choices": [
+      "das gleiche",
+      "das Gleiche",
+      "dasselbe",
+      "denselben"
+    ],
+    "hint": "Gondolatoknál és absztrakt „aha-élményeknél” elvont értelemben a 'dasselbe' (egybeírva) a leggyakoribb, mivel a gondolat tartalmának tökéletes identitását fejezi ki."
+  },
+  {
+    "question": "Mein Bruder und ich arbeiten ______ (at the very same) Firma.",
+    "answer": 2,
+    "choices": [
+      "bei der gleichen",
+      "bei derselben",
+      "bei die selbe",
+      "bei der selben"
+    ],
+    "hint": "Egyetlen közös munkahelyről (cégből) van szó. A 'bei' Dativ-ot vonz (die Firma -> der Firma). Nincs összevonás a prepozíció és a névelő között, ezért egybeírjuk: 'bei derselben'."
+  },
+  {
+    "question": "Wir haben ______ (the same type of) Handy, aber meins ist schwarz und deins ist weiß.",
+    "answer": 2,
+    "choices": [
+      "dasselbe",
+      "das gleiche",
+      "das Gleiche",
+      "denselben"
+    ],
+    "hint": "Két külön telefonkészülék, de azonos típus (hasonlóság). A 'Handy' főnév követi, ezért kisbetűs és különírt alak: 'das gleiche'."
+  },
+  {
+    "question": "Jedes Jahr zu Weihnachten gibt es bei uns ______ (the exact same, specific) Probleme mit dem Tannenbaum.",
+    "answer": 3,
+    "choices": [
+      "die gleichen",
+      "die Gleichen",
+      "dieselben",
+      "die selben"
+    ],
+    "hint": "Többes szám (die Probleme). Ha pontról pontra ugyanazok a konkrét idegesítő szituációk (pl. ferde a fa, rossz az izzósor) ismétlődnek, az identitást jelent: 'dieselben' (egybeírva)."
+  },
+  {
+    "question": "Warum gehen wir immer ______ (into the very same) Restaurant? Lass uns mal was Neues probieren!",
+    "answer": 2,
+    "choices": [
+      "in das gleiche",
+      "in dasselbe",
+      "ins selbe",
+      "im selben"
+    ],
+    "hint": "A mondat irányt fejez ki (Wohin gehen wir? -> Akkusativ, das Restaurant). Mivel egyetlen konkrét étterembe térnek be mindig, a 'dasselbe' a helyes, egybeírva."
+  },
+  {
+    "question": "Zwei Kunden haben sich heute ______ (about the exact same, specific) Verkäufer beschwert.",
+    "answer": 1,
+    "choices": [
+      "über denselben",
+      "über den selben",
+      "über den gleichen",
+      "über den Gleichen"
+    ],
+    "hint": "sich beschweren über + Akkusativ. Egyetlen konkrét eladóra (der Verkäufer -> den Verkäufer) érkezett a két panasz. Nincs összevonás, ezért egybeírjuk: 'über denselben'."
+  },
+  {
+    "question": "Wir können einfach nicht zusammen kochen. Wir greifen immer ______ (for the exact same) Topf.",
+    "answer": 3,
+    "choices": [
+      "nach dem gleichen",
+      "nach dem selben",
+      "nach demselben",
+      "nach denselben"
+    ],
+    "hint": "Egyetlen konkrét fazékért (der Topf) nyúlnak mindketten egyszerre, ebből van a konfliktus. A 'nach' prepozíció Dativ-ot vonz, nincs összevonás, így egybeírjuk: 'nach demselben'."
+  },
+  {
+    "question": "Ich habe gestern einen Kuchen gebacken, und weil er so gut war, mache ich heute ______ (the same kind of thing) noch einmal.",
+    "answer": 3,
+    "choices": [
+      "dasselbe",
+      "das gleiche",
+      "das Gleiche",
+      "denselben"
+    ],
+    "hint": "A tegnapi süteményt már megették, ma egy új, második sütemény (ugyanolyan recept alapján) sül. Ez hasonlóság. Mivel a 'Kuchen' főnév nincs ott, nagy kezdőbetűt kap: 'das Gleiche'."
+  },
+  {
+    "question": "Es ist unglaublich: Er hat mir ______ (the exact same, identical) Geschichte erzählt wie du!",
+    "answer": 3,
+    "choices": [
+      "die gleiche",
+      "die Gleiche",
+      "dieselbe",
+      "die selbe"
+    ],
+    "hint": "Kijelentések, történetek, információk esetén, ha a tartalom szóról szóra azonos (identikus), a 'dieselbe' formát használjuk egybeírva (Akkusativ, die Geschichte)."
+  },
+  {
+    "question": "Wir müssen alle dringend in der Cloud arbeiten. Kollaborieren wir aktuell ______ (on the very same, single) BIM-Modell?",
+    "answer": 2,
+    "choices": [
+      "am gleichen",
+      "am selben",
+      "an dasselbe",
+      "im selben"
+    ],
+    "hint": "Mivel egyetlen, közös központi fájlról van szó (identitás), a 'selben' a jó. Az 'an + dem' összeolvad 'am'-má, így a 'selben' külön szóként, kisbetűvel áll mögötte."
+  },
+  {
+    "question": "Mein Revit-Programm ist gerade abgestürzt. Arbeitest du mit ______ (with the exact same type of) Laptop?",
+    "answer": 3,
+    "choices": [
+      "dem selben",
+      "demselben",
+      "dem Gleichen",
+      "dem gleichen"
+    ],
+    "hint": "Két különböző laptopról van szó, amelyek ugyanolyan típusúak (hasonlóság). Mivel a 'Laptop' szó nincs megismételve a mondat végén, a 'Gleichen' főnevesül, ezért külön és NAGY betűvel írjuk: 'mit dem Gleichen'."
+  },
+  {
+    "question": "Die Architektur- und die TGA-Pläne liegen ______ (in the very same) Ordner auf dem Server.",
+    "answer": 2,
+    "choices": [
+      "im gleichen",
+      "im selben",
+      "in denselben",
+      "in das gleiche"
+    ],
+    "hint": "Egyetlen konkrét szervermappáról van szó, amin osztoznak. Az 'in + dem' összevonása miatt 'im' lesz, a 'selben' pedig különíródik."
+  },
+  {
+    "question": "Beide Planungsbüros nutzen ______ (the same type of) CAD-Software, aber verschiedene Versionen.",
+    "answer": 2,
+    "choices": [
+      "dieselbe",
+      "die gleiche",
+      "die Gleiche",
+      "die selbe"
+    ],
+    "hint": "Két külön szoftverpéldányról/licencről van szó, amelyek ugyanolyanok. Mivel ott van mögötte a főnév (Software), ezért kisbetűvel írjuk: 'die gleiche'."
+  },
+  {
+    "question": "Ich habe vorhin einen Fehler im Skript bemerkt. Zwar ist mir ______ eingefallen, aber erst nach dem Deployment.",
+    "answer": 1,
+    "choices": [
+      "dasselbe",
+      "das gleiche",
+      "das Gleiche",
+      "demselben"
+    ],
+    "hint": "Egy konkrét, specifikus gondolatról/észrevételről van szó (arról a bizonyos hibáról), ezért a 'dasselbe' (egybeírva) a legpontosabb kifejezés."
+  },
+  {
+    "question": "Unsere beiden Teams haben dieses Quartal ______ (the exact same, identical) Fehler bei der Attributierung gemacht.",
+    "answer": 2,
+    "choices": [
+      "die gleichen",
+      "dieselben",
+      "die selben",
+      "denselben"
+    ],
+    "hint": "Többes szám (die Fehler). Mivel pontosan ugyanazokról a konkrét hibákról beszélünk, amiket újra elkövettünk, a 'dieselben' a helyes (egybeírva)."
+  },
+  {
+    "question": "Ich trage heute eine Sicherheitsweste von Würth. Oh, du trägst ja ______ (the same type of) Weste!",
+    "answer": 3,
+    "choices": [
+      "dieselbe",
+      "die selbe",
+      "die gleiche",
+      "die Gleiche"
+    ],
+    "hint": "Két különböző mellényről van szó, de ugyanolyan márkájúak és típusúak. Mivel ott a főnév (Weste), kisbetűvel írjuk és külön: 'die gleiche'."
+  },
+  {
+    "question": "Wir haben das Passwort geändert, aber die Berechtigung läuft immer noch über ______ (the very same, single) Account.",
+    "answer": 1,
+    "choices": [
+      "denselben",
+      "den gleichen",
+      "den selben",
+      "demselben"
+    ],
+    "hint": "A 'über' itt Akkusativ-ot vonz (über wen/was? -> den Account, hímnem). Mivel egyetlen közös fiókról van szó, a 'denselben' a jó, méghozzá egybeírva, mert nincs prepozíciós összevonás."
+  },
+  {
+    "question": "Dein Workflow für die Kollisionsprüfung ist extrem effizient. Ich möchte ab morgen ______ (the same workflow, clone of it) nutzen.",
+    "answer": 2,
+    "choices": [
+      "dasselbe",
+      "den gleichen",
+      "den Gleichen",
+      "denselben"
+    ],
+    "hint": "A 'Workflow' hímnemű (der), Akkusativ-ban áll (Ich möchte wen/was nutzen? -> den...). Mivel te a saját gépeden/projektedben fogod lemásolni az ő folyamatát, ez minőségi azonosság: 'den gleichen'."
+  },
+  {
+    "question": "Der Projektleiter hat mir die Aufgaben zugewiesen. Hat er dir ______ (the exact same things) gesagt?",
+    "answer": 1,
+    "choices": [
+      "dasselbe",
+      "das Gleiche",
+      "das gleiche",
+      "die gleichen"
+    ],
+    "hint": "Ha elhangzott információra, kijelentésre utalunk vissza elvont értelemben, főnév nélkül, a 'dasselbe' fejezi ki, hogy exakt ugyanazok a szavak hangoztak el."
+  },
+  {
+    "question": "Wir sitzen beim heutigen Meeting alle ______ (in the very same) Konferenzraum wie letzte Woche.",
+    "answer": 2,
+    "choices": [
+      "im gleichen",
+      "im selben",
+      "in denselben",
+      "in demselben"
+    ],
+    "hint": "Wo? -> Dativ (in dem Raum -> im). Mivel fizikailag pontosan ugyanarról az egy helyiségről van szó, a 'selben' a helyes, az összevonás miatt különírva: 'im selben'."
+  },
+  {
+    "question": "Unsere Subunternehmer benutzen für den Datenaustausch ______ (the same type of) Plattform wie wir, aber einen anderen Server.",
+    "answer": 1,
+    "choices": [
+      "die gleiche",
+      "die Gleiche",
+      "dieselbe",
+      "die selbe"
+    ],
+    "hint": "Két külön szerveren futó, de ugyanolyan típusú platformról van szó. Mivel a 'Plattform' főnév mögötte van, kisbetűvel írjuk: 'die gleiche'."
+  },
+  {
+    "question": "Ich habe zwei IFC-Exporte gemacht. Beide Dateien stammen ______ (from the very same) Quellmodell.",
+    "answer": 2,
+    "choices": [
+      "von demselben",
+      "vom selben",
+      "vom gleichen",
+      "von gleichem"
+    ],
+    "hint": "von + dem = vom (Dativ, Neutrum). Mivel egyetlen forrásmodellből származnak, a 'selben' a nyerő, a 'vom' miatt különírva."
+  },
+  {
+    "question": "Hast du schon die neuen Richtlinien gelesen? - Ja, wir haben uns gerade eben ______ (about the very same thing) unterhalten.",
+    "answer": 2,
+    "choices": [
+      "über das gleiche",
+      "über dasselbe",
+      "über das Gleiche",
+      "über denselben"
+    ],
+    "hint": "sich unterhalten über + Akkusativ. Egy konkrét témáról/dokumentumról beszéltek, így az identitást kifejező 'dasselbe' (egybeírva) a tökéletes választás."
+  },
+  {
+    "question": "Der neue Zeitplan sieht gut aus. Ich habe für mein Gewerk ______ (for the same type of layout/structure) plädiert.",
+    "answer": 3,
+    "choices": [
+      "für dasselbe",
+      "für das gleiche",
+      "für das Gleiche",
+      "für denselben"
+    ],
+    "hint": "für + Akkusativ (Neutrum). Egy ugyanolyan felépítésű, de különálló időterv mellett érvelt. Mivel nincs ott mögötte a főnév, a 'Gleiche' főnevesül és NAGY kezdőbetűt kap."
+  }
+]
