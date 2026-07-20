@@ -165,7 +165,7 @@
     "hint": "Irány (Wohin? -> Akkusativ, das Lager -> in das). Egyetlen, konkrét edzőtábor-helyszínről van szó (identitás). Bár a köznyelvben létezik az 'ins selbe', a hivatalos, szebb írott forma prepozícióval és egybeírással az 'in dasselbe'."
   },
   {
-    "question": "Wir müssen alle urgently in der Cloud arbeiten. Kollaborieren wir aktuell ______ (on the very same, single) BIM-Modell?",
+    "question": "Wir müssen alle dringend in der Cloud arbeiten. Kollaborieren wir aktuell ______ (on the very same, single) BIM-Modell?",
     "answer": 2,
     "choices": [
       "am gleichen",

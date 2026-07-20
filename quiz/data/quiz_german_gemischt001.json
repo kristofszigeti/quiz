@@ -37442,5 +37442,6517 @@
     ],
     "answer": 2,
     "hint": "Das Anlagenmanagement ist effizient. (Synonyme: e Anlagenverwaltung, s Assetmanagement) (B2 - Nomen)"
+  },
+  {
+    "question": "r Vermieter, -",
+    "choices": [
+      "polgármesteri hivatal (town hall / city hall)",
+      "érzékszerv (sensory organ)",
+      "főbérlő (landlord)",
+      "diploma (degree / diploma)"
+    ],
+    "answer": 3,
+    "hint": "Unser Vermieter ist sehr freundlich und hilfsbereit. (B1 - Nomen)"
+  },
+  {
+    "question": "főbérlő (landlord)",
+    "choices": [
+      "s Geräusch, -e",
+      "r Vorort, -e",
+      "s Zelt, -e",
+      "r Vermieter, -"
+    ],
+    "answer": 4,
+    "hint": "Unser Vermieter ist sehr freundlich und hilfsbereit. (B1 - Nomen)"
+  },
+  {
+    "question": "r Verräter, -",
+    "choices": [
+      "áruló (traitor)",
+      "birodalom (empire)",
+      "tégla (brick)",
+      "orrvérzés (nosebleed)"
+    ],
+    "answer": 1,
+    "hint": "Er wurde von seinen eigenen Leuten als Verräter beschuldigt. (B2 - Nomen)"
+  },
+  {
+    "question": "áruló (traitor)",
+    "choices": [
+      "r Vermieter, -",
+      "r Verräter, -",
+      "s Raumschiff, -e",
+      "s Verb, -en"
+    ],
+    "answer": 2,
+    "hint": "Er wurde von seinen eigenen Leuten als Verräter beschuldigt. (B2 - Nomen)"
+  },
+  {
+    "question": "r Verstand (Sg.)",
+    "choices": [
+      "tenger (sea / ocean)",
+      "ész (mind / reason)",
+      "kísértet (ghost / phantom)",
+      "külváros (suburb)"
+    ],
+    "answer": 2,
+    "hint": "Man muss in schwierigen Situationen den Verstand bewahren. (B2 - Nomen)"
+  },
+  {
+    "question": "ész (mind / reason)",
+    "choices": [
+      "s Gefängnis, -se",
+      "s Gespenst, -er",
+      "r Verstand (Sg.)",
+      "s Mittel, -"
+    ],
+    "answer": 3,
+    "hint": "Man muss in schwierigen Situationen den Verstand bewahren. (B2 - Nomen)"
+  },
+  {
+    "question": "r Vorfall, \"-e",
+    "choices": [
+      "ige (verb)",
+      "eset (incident)",
+      "emlékmű (monument)",
+      "UFO (UFO)"
+    ],
+    "answer": 2,
+    "hint": "Die Polizei untersucht diesen seltsamen Vorfall sehr gründlich. (B2 - Nomen)"
+  },
+  {
+    "question": "eset (incident)",
+    "choices": [
+      "r Vorfall, \"-e",
+      "s Angelwarengeschäft, -e",
+      "s Diplom, -e",
+      "s Erlebnis, -se"
+    ],
+    "answer": 1,
+    "hint": "Die Polizei untersucht diesen seltsamen Vorfall sehr gründlich. (B2 - Nomen)"
+  },
+  {
+    "question": "r Vorort, -e",
+    "choices": [
+      "tábla / pajzs (sign / shield)",
+      "áruló (traitor)",
+      "zenekar (orchestra)",
+      "külváros (suburb)"
+    ],
+    "answer": 4,
+    "hint": "Wir wohnen in einem ruhigen Vorort von München. (B1 - Nomen)"
+  },
+  {
+    "question": "külváros (suburb)",
+    "choices": [
+      "r Vorort, -e",
+      "s Denkmal, \"-er",
+      "s Kinn, -e",
+      "r Vermieter, -"
+    ],
+    "answer": 1,
+    "hint": "Wir wohnen in einem ruhigen Vorort von München. (B1 - Nomen)"
+  },
+  {
+    "question": "r Vorschlag, \"-e",
+    "choices": [
+      "javaslat (suggestion / proposal)",
+      "toronyház (high-rise building)",
+      "földszint (ground floor)",
+      "tégla (brick)"
+    ],
+    "answer": 1,
+    "hint": "Das ist ein hervorragender Vorschlag von dir. (A2 - Nomen)"
+  },
+  {
+    "question": "javaslat (suggestion / proposal)",
+    "choices": [
+      "s UFO, -s",
+      "r Vorort, -e",
+      "s Geräusch, -e",
+      "r Vorschlag, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Das ist ein hervorragender Vorschlag von dir. (A2 - Nomen)"
+  },
+  {
+    "question": "r Werbekaufmann, -leute",
+    "choices": [
+      "reklámügynök (advertising agent)",
+      "akvárium (aquarium)",
+      "egycsaládos ház (single-family house)",
+      "toronyház (high-rise building)"
+    ],
+    "answer": 1,
+    "hint": "Er möchte nach dem Studium als Werbekaufmann arbeiten. (B2 - Nomen)"
+  },
+  {
+    "question": "reklámügynök (advertising agent)",
+    "choices": [
+      "r/e Kranke, -n",
+      "s Wesentliche (Sg.)",
+      "s Geheimnis, -se",
+      "r Werbekaufmann, -leute"
+    ],
+    "answer": 4,
+    "hint": "Er möchte nach dem Studium als Werbekaufmann arbeiten. (B2 - Nomen)"
+  },
+  {
+    "question": "r Wert, -e",
+    "choices": [
+      "érték (value)",
+      "fedett uszoda (indoor swimming pool)",
+      "eset (incident)",
+      "vas (iron)"
+    ],
+    "answer": 1,
+    "hint": "Der Wert dieser Aktie ist im letzten Monat stark gestiegen. (B1 - Nomen)"
+  },
+  {
+    "question": "érték (value)",
+    "choices": [
+      "r Wert, -e",
+      "r/e Kranke, -n",
+      "s Moor, -e",
+      "r Zug, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Der Wert dieser Aktie ist im letzten Monat stark gestiegen. (B1 - Nomen)"
+  },
+  {
+    "question": "r Wickel, -",
+    "choices": [
+      "borogatás (compress / wrap)",
+      "mécses (tealight)",
+      "toronyház (high-rise building)",
+      "eset (incident)"
+    ],
+    "answer": 1,
+    "hint": "Ein feuchter Wickel hilft sehr gut gegen das hohe Fieber. (C1 - Nomen)"
+  },
+  {
+    "question": "borogatás (compress / wrap)",
+    "choices": [
+      "s Fell, -e",
+      "s Märchen, -",
+      "s Sprichwort, \"-er",
+      "r Wickel, -"
+    ],
+    "answer": 4,
+    "hint": "Ein feuchter Wickel hilft sehr gut gegen das hohe Fieber. (C1 - Nomen)"
+  },
+  {
+    "question": "r Ziegel, -",
+    "choices": [
+      "tégla (brick)",
+      "szaküzlet (specialty store)",
+      "vonat (train)",
+      "hordó (barrel)"
+    ],
+    "answer": 1,
+    "hint": "Die Gartenmauer wurde aus roten Ziegeln gemauert. (B2 - Nomen)"
+  },
+  {
+    "question": "tégla (brick)",
+    "choices": [
+      "r Ziegel, -",
+      "s Märchen, -",
+      "s Imperium, Imperien",
+      "s Blech, -e"
+    ],
+    "answer": 1,
+    "hint": "Die Gartenmauer wurde aus roten Ziegeln gemauert. (B2 - Nomen)"
+  },
+  {
+    "question": "r Zug, \"-e",
+    "choices": [
+      "nefelejcs (forget-me-not)",
+      "vonat (train)",
+      "törpe (dwarf / gnome)",
+      "fn. (főnév) (noun)"
+    ],
+    "answer": 2,
+    "hint": "Der Zug kommt pünktlich am Hauptbahnhof an. (A1 - Nomen)"
+  },
+  {
+    "question": "vonat (train)",
+    "choices": [
+      "s Böse (Sg.)",
+      "s Angelwarengeschäft, -e",
+      "r/e Kranke, -n",
+      "r Zug, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Der Zug kommt pünktlich am Hauptbahnhof an. (A1 - Nomen)"
+  },
+  {
+    "question": "r Zusammenhang, \"-e",
+    "choices": [
+      "ima (prayer)",
+      "élmény (experience)",
+      "tenger (sea / ocean)",
+      "összefüggés (connection / context)"
+    ],
+    "answer": 4,
+    "hint": "Es gibt keinen direkten Zusammenhang zwischen diesen Ereignissen. (B2 - Nomen)"
+  },
+  {
+    "question": "összefüggés (connection / context)",
+    "choices": [
+      "s Rind, -er",
+      "r Zusammenhang, \"-e",
+      "r Wert, -e",
+      "r Wickel, -"
+    ],
+    "answer": 2,
+    "hint": "Es gibt keinen direkten Zusammenhang zwischen diesen Ereignissen. (B2 - Nomen)"
+  },
+  {
+    "question": "r Zwerg, -e",
+    "choices": [
+      "törpe (dwarf / gnome)",
+      "por (powder)",
+      "űrhajó (spaceship)",
+      "jövedelem (income)"
+    ],
+    "answer": 1,
+    "hint": "Schneewittchen lebte im Wald mit den sieben Zwergen zusammen. (B1 - Nomen)"
+  },
+  {
+    "question": "törpe (dwarf / gnome)",
+    "choices": [
+      "r Werbekaufmann, -leute",
+      "s Gespräch, -e",
+      "s Pulver, -",
+      "r Zwerg, -e"
+    ],
+    "answer": 4,
+    "hint": "Schneewittchen lebte im Wald mit den sieben Zwergen zusammen. (B1 - Nomen)"
+  },
+  {
+    "question": "r/e Außerirdische, -n",
+    "choices": [
+      "víziló (hippopotamus)",
+      "földönkívüli (alien)",
+      "emlékezet (memory)",
+      "sátor (tent)"
+    ],
+    "answer": 2,
+    "hint": "Sie glaubt fest an die Existenz von Außerirdischen im Weltall. (B2 - Nomen)"
+  },
+  {
+    "question": "földönkívüli (alien)",
+    "choices": [
+      "s Vermögen, -",
+      "r/e Außerirdische, -n",
+      "s UFO, -s",
+      "s Rätsel, -"
+    ],
+    "answer": 2,
+    "hint": "Sie glaubt fest an die Existenz von Außerirdischen im Weltall. (B2 - Nomen)"
+  },
+  {
+    "question": "r/e Kranke, -n",
+    "choices": [
+      "titok (secret)",
+      "sátor (tent)",
+      "beteg (sick person)",
+      "diploma (degree / diploma)"
+    ],
+    "answer": 3,
+    "hint": "Die Krankenschwester kümmert sich rührend um die Kranken. (A2 - Nomen)"
+  },
+  {
+    "question": "beteg (sick person)",
+    "choices": [
+      "s Adjektiv, -e",
+      "s Reh, -e",
+      "r/e Kranke, -n",
+      "s Blut (Sg.)"
+    ],
+    "answer": 3,
+    "hint": "Die Krankenschwester kümmert sich rührend um die Kranken. (A2 - Nomen)"
+  },
+  {
+    "question": "rangieren",
+    "choices": [
+      "(vhányadik) helyen áll (to rank)",
+      "tisztítani (to clean)",
+      "szagolni (to smell)",
+      "száguldozni (to speed / race)"
+    ],
+    "answer": 1,
+    "hint": "Die Universität rangiert unter den besten fünfzig der Welt. (B2 - Verb)"
+  },
+  {
+    "question": "(vhányadik) helyen áll (to rank)",
+    "choices": [
+      "rasen",
+      "rangieren",
+      "riechen (+ A / nach + D)",
+      "reinigen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Die Universität rangiert unter den besten fünfzig der Welt. (B2 - Verb)"
+  },
+  {
+    "question": "rasen",
+    "choices": [
+      "tisztítani (to clean)",
+      "szagolni (to smell)",
+      "száguldozni (to speed / race)",
+      "(vhányadik) helyen áll (to rank)"
+    ],
+    "answer": 3,
+    "hint": "Bitte fahre auf der Autobahn vorsichtig und rase nicht so. (B1 - Verb)"
+  },
+  {
+    "question": "száguldozni (to speed / race)",
+    "choices": [
+      "riechen (+ A / nach + D)",
+      "rangieren",
+      "rasen",
+      "reinigen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Bitte fahre auf der Autobahn vorsichtig und rase nicht so. (B1 - Verb)"
+  },
+  {
+    "question": "regelhaft",
+    "choices": [
+      "őz (deer / roe)",
+      "óriási (huge / gigantic)",
+      "szabályos (regular)",
+      "érett (mature / ripe)"
+    ],
+    "answer": 3,
+    "hint": "Grammatische Strukturen verändern sich nach regelhaften Mustern. (B2 - Adjektiv)"
+  },
+  {
+    "question": "szabályos (regular)",
+    "choices": [
+      "regelhaft",
+      "s Reh, -e",
+      "reif",
+      "riesengroß"
+    ],
+    "answer": 1,
+    "hint": "Grammatische Strukturen verändern sich nach regelhaften Mustern. (B2 - Adjektiv)"
+  },
+  {
+    "question": "reif",
+    "choices": [
+      "óriási (huge / gigantic)",
+      "ima (prayer)",
+      "érett (mature / ripe)",
+      "szabályos (regular)"
+    ],
+    "answer": 3,
+    "hint": "Die Bananen in der Küche sind noch nicht ganz reif. (B2 - Adjektiv)"
+  },
+  {
+    "question": "érett (mature / ripe)",
+    "choices": [
+      "regelhaft",
+      "s Gebet, -e",
+      "reif",
+      "riesengroß"
+    ],
+    "answer": 3,
+    "hint": "Die Bananen in der Küche sind noch nicht ganz reif. (B2 - Adjektiv)"
+  },
+  {
+    "question": "reinigen (+ A)",
+    "choices": [
+      "szagolni (to smell)",
+      "tisztítani (to clean)",
+      "(vhányadik) helyen áll (to rank)",
+      "száguldozni (to speed / race)"
+    ],
+    "answer": 2,
+    "hint": "Sie reinigt das Badezimmer am Wochenende gründlich. (A2 - Verb)"
+  },
+  {
+    "question": "tisztítani (to clean)",
+    "choices": [
+      "rasen",
+      "reinigen (+ A)",
+      "rangieren",
+      "riechen (+ A / nach + D)"
+    ],
+    "answer": 2,
+    "hint": "Sie reinigt das Badezimmer am Wochenende gründlich. (A2 - Verb)"
+  },
+  {
+    "question": "riechen (+ A / nach + D)",
+    "choices": [
+      "(vhányadik) helyen áll (to rank)",
+      "szagolni (to smell)",
+      "tisztítani (to clean)",
+      "száguldozni (to speed / race)"
+    ],
+    "answer": 2,
+    "hint": "Es riecht hier im ganzen Haus wunderbar nach frischem Kaffee. (A2 - Verb)"
+  },
+  {
+    "question": "szagolni (to smell)",
+    "choices": [
+      "rangieren",
+      "rasen",
+      "riechen (+ A / nach + D)",
+      "reinigen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Es riecht hier im ganzen Haus wunderbar nach frischem Kaffee. (A2 - Verb)"
+  },
+  {
+    "question": "riesengroß",
+    "choices": [
+      "óriási (huge / gigantic)",
+      "érett (mature / ripe)",
+      "szabályos (regular)",
+      "vizsga (exam)"
+    ],
+    "answer": 1,
+    "hint": "Er wohnt mit seiner Familie in einem riesengroßen Haus. (A2 - Adjektiv)"
+  },
+  {
+    "question": "óriási (huge / gigantic)",
+    "choices": [
+      "riesengroß",
+      "regelhaft",
+      "s Examen, -",
+      "reif"
+    ],
+    "answer": 1,
+    "hint": "Er wohnt mit seiner Familie in einem riesengroßen Haus. (A2 - Adjektiv)"
+  },
+  {
+    "question": "rund um die Uhr",
+    "choices": [
+      "toronyház (high-rise building)",
+      "éjjel-nappal (round the clock / 24/7)",
+      "bolondokház (madhouse)",
+      "tanulmány (study)"
+    ],
+    "answer": 2,
+    "hint": "Die Tankstelle an der Hauptstraße hat rund um die Uhr geöffnet. (B1 - Ausdruck)"
+  },
+  {
+    "question": "éjjel-nappal (round the clock / 24/7)",
+    "choices": [
+      "s Hochhaus, \"-er",
+      "s Studium, Studien",
+      "s Irrenhaus, \"-er",
+      "rund um die Uhr"
+    ],
+    "answer": 4,
+    "hint": "Die Tankstelle an der Hauptstraße hat rund um die Uhr geöffnet. (B1 - Ausdruck)"
+  },
+  {
+    "question": "s Adjektiv, -e",
+    "choices": [
+      "akvárium (aquarium)",
+      "főbérlő (landlord)",
+      "mn. (melléknév) (adjective)",
+      "érzés (feeling)"
+    ],
+    "answer": 3,
+    "hint": "Das Wort \"schnell\" ist ein bekanntes Adjektiv. (A1 - Nomen)"
+  },
+  {
+    "question": "mn. (melléknév) (adjective)",
+    "choices": [
+      "s Adjektiv, -e",
+      "s Examen, -",
+      "s UFO, -s",
+      "r Werbekaufmann, -leute"
+    ],
+    "answer": 1,
+    "hint": "Das Wort \"schnell\" ist ein bekanntes Adjektiv. (A1 - Nomen)"
+  },
+  {
+    "question": "s Adverb, -ien",
+    "choices": [
+      "határozószó (adverb)",
+      "jövedelem (income)",
+      "marha (beef / cattle)",
+      "eljárás (procedure / process)"
+    ],
+    "answer": 1,
+    "hint": "Adverbien beschreiben Verben oder Adjektive im Satz genauer. (A2 - Nomen)"
+  },
+  {
+    "question": "határozószó (adverb)",
+    "choices": [
+      "r Vermieter, -",
+      "s Adverb, -ien",
+      "s Examen, -",
+      "r Zusammenhang, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Adverbien beschreiben Verben oder Adjektive im Satz genauer. (A2 - Nomen)"
+  },
+  {
+    "question": "s Angelwarengeschäft, -e",
+    "choices": [
+      "beszélgetés (conversation)",
+      "mű (work (of art))",
+      "horgászbolt (tackle shop)",
+      "vagyon (fortune / wealth)"
+    ],
+    "answer": 3,
+    "hint": "Er kaufte eine neue Angelrute im nahen Angelwarengeschäft. (B2 - Nomen)"
+  },
+  {
+    "question": "horgászbolt (tackle shop)",
+    "choices": [
+      "s Reh, -e",
+      "s Fell, -e",
+      "s Angelwarengeschäft, -e",
+      "s Verfahren, -"
+    ],
+    "answer": 3,
+    "hint": "Er kaufte eine neue Angelrute im nahen Angelwarengeschäft. (B2 - Nomen)"
+  },
+  {
+    "question": "s Aquarium, Aquarien",
+    "choices": [
+      "jövedelem (income)",
+      "borogatás (compress / wrap)",
+      "áll (chin)",
+      "akvárium (aquarium)"
+    ],
+    "answer": 4,
+    "hint": "Im Wohnzimmer steht ein großes Aquarium mit bunten Fischen. (A2 - Nomen)"
+  },
+  {
+    "question": "akvárium (aquarium)",
+    "choices": [
+      "s Aquarium, Aquarien",
+      "r Zwerg, -e",
+      "s Examen, -",
+      "s Fass, \"-er"
+    ],
+    "answer": 1,
+    "hint": "Im Wohnzimmer steht ein großes Aquarium mit bunten Fischen. (A2 - Nomen)"
+  },
+  {
+    "question": "s Blech, -e",
+    "choices": [
+      "bádog (sheet metal)",
+      "eljárás (procedure / process)",
+      "part (bank / shore)",
+      "birodalom (empire)"
+    ],
+    "answer": 1,
+    "hint": "Die Kekse werden auf einem großen Blech gebacken. (B2 - Nomen)"
+  },
+  {
+    "question": "bádog (sheet metal)",
+    "choices": [
+      "s Orchester, -",
+      "s Gymnasium, Gymnasien",
+      "s Substantiv, -e",
+      "s Blech, -e"
+    ],
+    "answer": 4,
+    "hint": "Die Kekse werden auf einem großen Blech gebacken. (B2 - Nomen)"
+  },
+  {
+    "question": "s Blut (Sg.)",
+    "choices": [
+      "sátor (tent)",
+      "mn. (melléknév) (adjective)",
+      "zaj (noise)",
+      "vér (blood)"
+    ],
+    "answer": 4,
+    "hint": "Seine Wunde blutete leicht, aber das Blut gerann schnell. (A2 - Nomen)"
+  },
+  {
+    "question": "vér (blood)",
+    "choices": [
+      "s Blut (Sg.)",
+      "s Verfahren, -",
+      "s Diplom, -e",
+      "s Gespräch, -e"
+    ],
+    "answer": 1,
+    "hint": "Seine Wunde blutete leicht, aber das Blut gerann schnell. (A2 - Nomen)"
+  },
+  {
+    "question": "s Brett, -er",
+    "choices": [
+      "borogatás (compress / wrap)",
+      "emlékezet (memory)",
+      "deszka (board / plank)",
+      "marha (beef / cattle)"
+    ],
+    "answer": 3,
+    "hint": "Das neue Wandregal besteht aus drei stabilen hölzernen Brettern. (B1 - Nomen)"
+  },
+  {
+    "question": "deszka (board / plank)",
+    "choices": [
+      "s Brett, -er",
+      "s Gefühl, -e",
+      "s Examen, -",
+      "s Rind, -er"
+    ],
+    "answer": 1,
+    "hint": "Das neue Wandregal besteht aus drei stabilen hölzernen Brettern. (B1 - Nomen)"
+  },
+  {
+    "question": "s Böse (Sg.)",
+    "choices": [
+      "víziló (hippopotamus)",
+      "ösztöndíj (scholarship)",
+      "gonoszság (evilness)",
+      "eszköz (means / tool)"
+    ],
+    "answer": 3,
+    "hint": "In klassischen Märchen kämpft das Gute immer gegen das Böse. (B2 - Nomen)"
+  },
+  {
+    "question": "gonoszság (evilness)",
+    "choices": [
+      "s Böse (Sg.)",
+      "s Herz, -en",
+      "r Zug, \"-e",
+      "r/e Kranke, -n"
+    ],
+    "answer": 1,
+    "hint": "In klassischen Märchen kämpft das Gute immer gegen das Böse. (B2 - Nomen)"
+  },
+  {
+    "question": "s Denkmal, \"-er",
+    "choices": [
+      "emlékmű (monument)",
+      "törpe (dwarf / gnome)",
+      "kísértet (ghost / phantom)",
+      "titok (secret)"
+    ],
+    "answer": 1,
+    "hint": "Das Denkmal im Stadtpark erinnert an ein historisches Ereignis. (B1 - Nomen)"
+  },
+  {
+    "question": "emlékmű (monument)",
+    "choices": [
+      "s Denkmal, \"-er",
+      "s Märchen, -",
+      "s UFO, -s",
+      "s Kinn, -e"
+    ],
+    "answer": 1,
+    "hint": "Das Denkmal im Stadtpark erinnert an ein historisches Ereignis. (B1 - Nomen)"
+  },
+  {
+    "question": "s Diplom, -e",
+    "choices": [
+      "esemény (event)",
+      "diploma (degree / diploma)",
+      "tégla (brick)",
+      "lény (creature / being)"
+    ],
+    "answer": 2,
+    "hint": "Sie hat ihr anspruchsvolles Diplom mit Auszeichnung bestanden. (B1 - Nomen)"
+  },
+  {
+    "question": "diploma (degree / diploma)",
+    "choices": [
+      "s Heilmittel, -",
+      "s Moor, -e",
+      "s Rathaus, \"-er",
+      "s Diplom, -e"
+    ],
+    "answer": 4,
+    "hint": "Sie hat ihr anspruchsvolles Diplom mit Auszeichnung bestanden. (B1 - Nomen)"
+  },
+  {
+    "question": "s Einfamilienhaus, \"-er",
+    "choices": [
+      "vizsga (exam)",
+      "nyúl (rabbit)",
+      "egycsaládos ház (single-family house)",
+      "szaküzlet (specialty store)"
+    ],
+    "answer": 3,
+    "hint": "Sie haben sich ein schönes Einfamilienhaus am Stadtrand gebaut. (A2 - Nomen)"
+  },
+  {
+    "question": "egycsaládos ház (single-family house)",
+    "choices": [
+      "s Schild, -er / r Schild, -e",
+      "s Moor, -e",
+      "s Gesicht, -er",
+      "s Einfamilienhaus, \"-er"
+    ],
+    "answer": 4,
+    "hint": "Sie haben sich ein schönes Einfamilienhaus am Stadtrand gebaut. (A2 - Nomen)"
+  },
+  {
+    "question": "s Einkommen, -",
+    "choices": [
+      "áruló (traitor)",
+      "jövedelem (income)",
+      "mn. (melléknév) (adjective)",
+      "kastély (castle)"
+    ],
+    "answer": 2,
+    "hint": "Sein monatliches Einkommen reicht für die Miete völlig aus. (B1 - Nomen)"
+  },
+  {
+    "question": "jövedelem (income)",
+    "choices": [
+      "s Einkommen, -",
+      "r/e Außerirdische, -n",
+      "s Raumschiff, -e",
+      "r Vorfall, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Sein monatliches Einkommen reicht für die Miete völlig aus. (B1 - Nomen)"
+  },
+  {
+    "question": "s Eisen, -",
+    "choices": [
+      "part (bank / shore)",
+      "akvárium (aquarium)",
+      "jövedelem (income)",
+      "vas (iron)"
+    ],
+    "answer": 4,
+    "hint": "Eisen ist ein sehr wichtiges Metall in der modernen Industrie. (B1 - Nomen)"
+  },
+  {
+    "question": "vas (iron)",
+    "choices": [
+      "s Examen, -",
+      "s Erdgeschoss, -e",
+      "s Gefängnis, -se",
+      "s Eisen, -"
+    ],
+    "answer": 4,
+    "hint": "Eisen ist ein sehr wichtiges Metall in der modernen Industrie. (B1 - Nomen)"
+  },
+  {
+    "question": "s Erdgeschoss, -e",
+    "choices": [
+      "fedett uszoda (indoor swimming pool)",
+      "földszint (ground floor)",
+      "part (bank / shore)",
+      "horgászbolt (tackle shop)"
+    ],
+    "answer": 2,
+    "hint": "Die gemütliche Bäckerei befindet sich direkt im Erdgeschoss. (A2 - Nomen)"
+  },
+  {
+    "question": "földszint (ground floor)",
+    "choices": [
+      "s Eisen, -",
+      "s Reihenhaus, \"-er",
+      "r Vorfall, \"-e",
+      "s Erdgeschoss, -e"
+    ],
+    "answer": 4,
+    "hint": "Die gemütliche Bäckerei befindet sich direkt im Erdgeschoss. (A2 - Nomen)"
+  },
+  {
+    "question": "s Ereignis, -se",
+    "choices": [
+      "élmény (experience)",
+      "esemény (event)",
+      "tenger (sea / ocean)",
+      "toronyház (high-rise building)"
+    ],
+    "answer": 2,
+    "hint": "Die Hochzeit im Sommer war ein unvergessliches Ereignis. (B1 - Nomen)"
+  },
+  {
+    "question": "esemény (event)",
+    "choices": [
+      "s Ereignis, -se",
+      "s Ufer, -",
+      "s Adjektiv, -e",
+      "r Vorschlag, \"-e"
+    ],
+    "answer": 1,
+    "hint": "Die Hochzeit im Sommer war ein unvergessliches Ereignis. (B1 - Nomen)"
+  },
+  {
+    "question": "s Erlebnis, -se",
+    "choices": [
+      "élmény (experience)",
+      "áll (chin)",
+      "határozószó (adverb)",
+      "fedett uszoda (indoor swimming pool)"
+    ],
+    "answer": 1,
+    "hint": "Die gemeinsame Reise nach Island war ein wirklich tolles Erlebnis. (B1 - Nomen)"
+  },
+  {
+    "question": "élmény (experience)",
+    "choices": [
+      "s Gespenst, -er",
+      "s Erlebnis, -se",
+      "s Verfahren, -",
+      "s Sprichwort, \"-er"
+    ],
+    "answer": 2,
+    "hint": "Die gemeinsame Reise nach Island war ein wirklich tolles Erlebnis. (B1 - Nomen)"
+  },
+  {
+    "question": "s Examen, -",
+    "choices": [
+      "szaküzlet (specialty store)",
+      "érték (value)",
+      "vizsga (exam)",
+      "lény (creature / being)"
+    ],
+    "answer": 3,
+    "hint": "Er lernt momentan sehr fleißig für sein medizinisches Examen. (B1 - Nomen)"
+  },
+  {
+    "question": "vizsga (exam)",
+    "choices": [
+      "s Examen, -",
+      "s Erdgeschoss, -e",
+      "s Rind, -er",
+      "s Hochhaus, \"-er"
+    ],
+    "answer": 1,
+    "hint": "Er lernt momentan sehr fleißig für sein medizinisches Examen. (B1 - Nomen)"
+  },
+  {
+    "question": "s Fachgeschäft, -e",
+    "choices": [
+      "eszköz (means / tool)",
+      "vonat (train)",
+      "áll (chin)",
+      "szaküzlet (specialty store)"
+    ],
+    "answer": 4,
+    "hint": "In diesem Fachgeschäft bekommt man stets eine exzellente Beratung. (B2 - Nomen)"
+  },
+  {
+    "question": "szaküzlet (specialty store)",
+    "choices": [
+      "s Ereignis, -se",
+      "s Fachgeschäft, -e",
+      "s Verständnis (Sg.)",
+      "s Einfamilienhaus, \"-er"
+    ],
+    "answer": 2,
+    "hint": "In diesem Fachgeschäft bekommt man stets eine exzellente Beratung. (B2 - Nomen)"
+  },
+  {
+    "question": "s Fass, \"-er",
+    "choices": [
+      "hordó (barrel)",
+      "szaküzlet (specialty store)",
+      "vizsga (exam)",
+      "fedett uszoda (indoor swimming pool)"
+    ],
+    "answer": 1,
+    "hint": "Das kalte Bier wird direkt aus dem hölzernen Fass gezapft. (B1 - Nomen)"
+  },
+  {
+    "question": "hordó (barrel)",
+    "choices": [
+      "s Rätsel, -",
+      "s Verb, -en",
+      "s Fass, \"-er",
+      "r Zug, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Das kalte Bier wird direkt aus dem hölzernen Fass gezapft. (B1 - Nomen)"
+  },
+  {
+    "question": "s Fell, -e",
+    "choices": [
+      "bunda (fur)",
+      "toronyház (high-rise building)",
+      "mese (fairy tale)",
+      "fn. (főnév) (noun)"
+    ],
+    "answer": 1,
+    "hint": "Der kleine Hund hat ein sehr weiches und glänzendes Fell. (B1 - Nomen)"
+  },
+  {
+    "question": "bunda (fur)",
+    "choices": [
+      "s Verfahren, -",
+      "s Rathaus, \"-er",
+      "s Fass, \"-er",
+      "s Fell, -e"
+    ],
+    "answer": 4,
+    "hint": "Der kleine Hund hat ein sehr weiches und glänzendes Fell. (B1 - Nomen)"
+  },
+  {
+    "question": "s Gartenhaus, \"-er",
+    "choices": [
+      "tégla (brick)",
+      "titok (secret)",
+      "kerti ház (garden house)",
+      "part (bank / shore)"
+    ],
+    "answer": 3,
+    "hint": "Wir verbringen die warmen Sommerabende gerne im gemütlichen Gartenhaus. (A2 - Nomen)"
+  },
+  {
+    "question": "kerti ház (garden house)",
+    "choices": [
+      "s Adjektiv, -e",
+      "s Gartenhaus, \"-er",
+      "s Raumschiff, -e",
+      "s Herz, -en"
+    ],
+    "answer": 2,
+    "hint": "Wir verbringen die warmen Sommerabende gerne im gemütlichen Gartenhaus. (A2 - Nomen)"
+  },
+  {
+    "question": "s Gebet, -e",
+    "choices": [
+      "ima (prayer)",
+      "sorház (terraced house)",
+      "ösztöndíj (scholarship)",
+      "érzés (feeling)"
+    ],
+    "answer": 1,
+    "hint": "Vor dem Schlafen spricht das Kind jeden Abend ein kurzes Gebet. (B1 - Nomen)"
+  },
+  {
+    "question": "ima (prayer)",
+    "choices": [
+      "s Gebet, -e",
+      "s Ufer, -",
+      "s Gehirn, -e",
+      "s Rätsel, -"
+    ],
+    "answer": 1,
+    "hint": "Vor dem Schlafen spricht das Kind jeden Abend ein kurzes Gebet. (B1 - Nomen)"
+  },
+  {
+    "question": "s Gedächtnis, -se",
+    "choices": [
+      "víziló (hippopotamus)",
+      "sorház (terraced house)",
+      "szólás / közmondás (proverb)",
+      "emlékezet (memory)"
+    ],
+    "answer": 4,
+    "hint": "Unser Großvater hat immer noch ein hervorragendes Gedächtnis für Zahlen. (B2 - Nomen)"
+  },
+  {
+    "question": "emlékezet (memory)",
+    "choices": [
+      "r Verstand (Sg.)",
+      "s Böse (Sg.)",
+      "s Gedächtnis, -se",
+      "s Gefühl, -e"
+    ],
+    "answer": 3,
+    "hint": "Unser Großvater hat immer noch ein hervorragendes Gedächtnis für Zahlen. (B2 - Nomen)"
+  },
+  {
+    "question": "s Gefängnis, -se",
+    "choices": [
+      "börtön (prison)",
+      "áruló (traitor)",
+      "kísértet (ghost / phantom)",
+      "toronyház (high-rise building)"
+    ],
+    "answer": 1,
+    "hint": "Der Dieb wurde für seine Tat ins Gefängnis gesteckt. (B1 - Nomen)"
+  },
+  {
+    "question": "börtön (prison)",
+    "choices": [
+      "s Herz, -en",
+      "s Blut (Sg.)",
+      "r Vermieter, -",
+      "s Gefängnis, -se"
+    ],
+    "answer": 4,
+    "hint": "Der Dieb wurde für seine Tat ins Gefängnis gesteckt. (B1 - Nomen)"
+  },
+  {
+    "question": "s Gefühl, -e",
+    "choices": [
+      "akvárium (aquarium)",
+      "érzés (feeling)",
+      "tábla / pajzs (sign / shield)",
+      "mocsár (swamp)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe das gute Gefühl, dass heute ein erfolgreicher Tag wird. (A2 - Nomen)"
+  },
+  {
+    "question": "érzés (feeling)",
+    "choices": [
+      "s Herz, -en",
+      "s Gefühl, -e",
+      "s Erlebnis, -se",
+      "s Geräusch, -e"
+    ],
+    "answer": 2,
+    "hint": "Ich habe das gute Gefühl, dass heute ein erfolgreicher Tag wird. (A2 - Nomen)"
+  },
+  {
+    "question": "s Geheimnis, -se",
+    "choices": [
+      "víziló (hippopotamus)",
+      "orrvérzés (nosebleed)",
+      "beszélgetés (conversation)",
+      "titok (secret)"
+    ],
+    "answer": 4,
+    "hint": "Kannst du dieses wichtige Geheimnis bitte für dich behalten? (B1 - Nomen)"
+  },
+  {
+    "question": "titok (secret)",
+    "choices": [
+      "s Geheimnis, -se",
+      "r Wickel, -",
+      "r Vermieter, -",
+      "s Wesen, -"
+    ],
+    "answer": 1,
+    "hint": "Kannst du dieses wichtige Geheimnis bitte für dich behalten? (B1 - Nomen)"
+  },
+  {
+    "question": "s Gehirn, -e",
+    "choices": [
+      "lény (creature / being)",
+      "agy (brain)",
+      "fn. (főnév) (noun)",
+      "sátor (tent)"
+    ],
+    "answer": 2,
+    "hint": "Das Gehirn steuert alle lebenswichtigen Funktionen des Körpers. (B1 - Nomen)"
+  },
+  {
+    "question": "agy (brain)",
+    "choices": [
+      "s Hochhaus, \"-er",
+      "r Zwerg, -e",
+      "s Gehirn, -e",
+      "s Ereignis, -se"
+    ],
+    "answer": 3,
+    "hint": "Das Gehirn steuert alle lebenswichtigen Funktionen des Körpers. (B1 - Nomen)"
+  },
+  {
+    "question": "s Geräusch, -e",
+    "choices": [
+      "vas (iron)",
+      "gimnázium (grammar school)",
+      "zaj (noise)",
+      "nyúl (rabbit)"
+    ],
+    "answer": 3,
+    "hint": "Ich habe mitten in der Nacht ein seltsames Geräusch gehört. (A2 - Nomen)"
+  },
+  {
+    "question": "zaj (noise)",
+    "choices": [
+      "s Geräusch, -e",
+      "r Zwerg, -e",
+      "s Gefühl, -e",
+      "r Vorort, -e"
+    ],
+    "answer": 1,
+    "hint": "Ich habe mitten in der Nacht ein seltsames Geräusch gehört. (A2 - Nomen)"
+  },
+  {
+    "question": "s Gesicht, -er",
+    "choices": [
+      "birodalom (empire)",
+      "lényeg (the main thing / essence)",
+      "arc (face)",
+      "élmény (experience)"
+    ],
+    "answer": 3,
+    "hint": "Ein glückliches Lächeln lag auf ihrem müden Gesicht. (A2 - Nomen)"
+  },
+  {
+    "question": "arc (face)",
+    "choices": [
+      "r Werbekaufmann, -leute",
+      "s Gesicht, -er",
+      "s Imperium, Imperien",
+      "s Rind, -er"
+    ],
+    "answer": 2,
+    "hint": "Ein glückliches Lächeln lag auf ihrem müden Gesicht. (A2 - Nomen)"
+  },
+  {
+    "question": "s Gespenst, -er",
+    "choices": [
+      "bolondokház (madhouse)",
+      "kísértet (ghost / phantom)",
+      "érzés (feeling)",
+      "sorház (terraced house)"
+    ],
+    "answer": 2,
+    "hint": "Die Kinder verkleideten sich an Halloween als weiße Gespenster. (B1 - Nomen)"
+  },
+  {
+    "question": "kísértet (ghost / phantom)",
+    "choices": [
+      "s Wesen, -",
+      "s Denkmal, \"-er",
+      "s Gespenst, -er",
+      "s Reihenhaus, \"-er"
+    ],
+    "answer": 3,
+    "hint": "Die Kinder verkleideten sich an Halloween als weiße Gespenster. (B1 - Nomen)"
+  },
+  {
+    "question": "s Gespräch, -e",
+    "choices": [
+      "bolondokház (madhouse)",
+      "nyúl (rabbit)",
+      "beszélgetés (conversation)",
+      "összefüggés (connection / context)"
+    ],
+    "answer": 3,
+    "hint": "Das vertrauliche Gespräch mit meinem Chef verlief sehr positiv. (A2 - Nomen)"
+  },
+  {
+    "question": "beszélgetés (conversation)",
+    "choices": [
+      "s Sprichwort, \"-er",
+      "s Gespräch, -e",
+      "s Rathaus, \"-er",
+      "s Kaninchen, -"
+    ],
+    "answer": 2,
+    "hint": "Das vertrauliche Gespräch mit meinem Chef verlief sehr positiv. (A2 - Nomen)"
+  },
+  {
+    "question": "s Gymnasium, Gymnasien",
+    "choices": [
+      "esemény (event)",
+      "gyógymód (cure / remedy)",
+      "gimnázium (grammar school)",
+      "érték (value)"
+    ],
+    "answer": 3,
+    "hint": "Nach der vierjährigen Grundschule wechselte er aufs Gymnasium. (A2 - Nomen)"
+  },
+  {
+    "question": "gimnázium (grammar school)",
+    "choices": [
+      "s Gymnasium, Gymnasien",
+      "r Vermieter, -",
+      "s Rind, -er",
+      "s Geheimnis, -se"
+    ],
+    "answer": 1,
+    "hint": "Nach der vierjährigen Grundschule wechselte er aufs Gymnasium. (A2 - Nomen)"
+  },
+  {
+    "question": "s Hackfleisch (Sg.)",
+    "choices": [
+      "darálthús (minced meat)",
+      "határozószó (adverb)",
+      "érték (value)",
+      "vizsga (exam)"
+    ],
+    "answer": 1,
+    "hint": "Das frische Hackfleisch muss heute noch gebraten werden. (A2 - Nomen)"
+  },
+  {
+    "question": "darálthús (minced meat)",
+    "choices": [
+      "r Ziegel, -",
+      "s Hackfleisch (Sg.)",
+      "s Gehirn, -e",
+      "r Verstand (Sg.)"
+    ],
+    "answer": 2,
+    "hint": "Das frische Hackfleisch muss heute noch gebraten werden. (A2 - Nomen)"
+  },
+  {
+    "question": "s Hallenbad, \"-er",
+    "choices": [
+      "fedett uszoda (indoor swimming pool)",
+      "vas (iron)",
+      "gyógymód (cure / remedy)",
+      "felfogás, értelem (understanding)"
+    ],
+    "answer": 1,
+    "hint": "Im kalten Winter gehen wir oft im warmen Hallenbad schwimmen. (A2 - Nomen)"
+  },
+  {
+    "question": "fedett uszoda (indoor swimming pool)",
+    "choices": [
+      "s Hallenbad, \"-er",
+      "s Vergissmeinnicht, -e",
+      "s Kinn, -e",
+      "s Nilpferd, -e"
+    ],
+    "answer": 1,
+    "hint": "Im kalten Winter gehen wir oft im warmen Hallenbad schwimmen. (A2 - Nomen)"
+  },
+  {
+    "question": "s Heilmittel, -",
+    "choices": [
+      "kísértet (ghost / phantom)",
+      "ima (prayer)",
+      "emlékezet (memory)",
+      "gyógymód (cure / remedy)"
+    ],
+    "answer": 4,
+    "hint": "Knoblauch gilt seit langem als natürliches Heilmittel gegen Erkältung. (B2 - Nomen)"
+  },
+  {
+    "question": "gyógymód (cure / remedy)",
+    "choices": [
+      "s Orchester, -",
+      "s Heilmittel, -",
+      "s Gefängnis, -se",
+      "r Werbekaufmann, -leute"
+    ],
+    "answer": 2,
+    "hint": "Knoblauch gilt seit langem als natürliches Heilmittel gegen Erkältung. (B2 - Nomen)"
+  },
+  {
+    "question": "s Herz, -en",
+    "choices": [
+      "akvárium (aquarium)",
+      "szív (heart)",
+      "zenekar (orchestra)",
+      "élmény (experience)"
+    ],
+    "answer": 2,
+    "hint": "Mein Herz schlägt vor großer Aufregung merklich schneller. (A2 - Nomen)"
+  },
+  {
+    "question": "szív (heart)",
+    "choices": [
+      "s Sprichwort, \"-er",
+      "s Gartenhaus, \"-er",
+      "s Schild, -er / r Schild, -e",
+      "s Herz, -en"
+    ],
+    "answer": 4,
+    "hint": "Mein Herz schlägt vor großer Aufregung merklich schneller. (A2 - Nomen)"
+  },
+  {
+    "question": "s Hochhaus, \"-er",
+    "choices": [
+      "tenger (sea / ocean)",
+      "vas (iron)",
+      "zenekar (orchestra)",
+      "toronyház (high-rise building)"
+    ],
+    "answer": 4,
+    "hint": "In New York gibt es unglaublich viele und moderne Hochhäuser. (A2 - Nomen)"
+  },
+  {
+    "question": "toronyház (high-rise building)",
+    "choices": [
+      "s Hochhaus, \"-er",
+      "s Gedächtnis, -se",
+      "r Wert, -e",
+      "s Examen, -"
+    ],
+    "answer": 1,
+    "hint": "In New York gibt es unglaublich viele und moderne Hochhäuser. (A2 - Nomen)"
+  },
+  {
+    "question": "s Imperium, Imperien",
+    "choices": [
+      "fn. (főnév) (noun)",
+      "akvárium (aquarium)",
+      "vas (iron)",
+      "birodalom (empire)"
+    ],
+    "answer": 4,
+    "hint": "Das Römische Imperium erstreckte sich über weite Teile Europas. (B2 - Nomen)"
+  },
+  {
+    "question": "birodalom (empire)",
+    "choices": [
+      "s Aquarium, Aquarien",
+      "s Verständnis (Sg.)",
+      "r Zwerg, -e",
+      "s Imperium, Imperien"
+    ],
+    "answer": 4,
+    "hint": "Das Römische Imperium erstreckte sich über weite Teile Europas. (B2 - Nomen)"
+  },
+  {
+    "question": "s Irrenhaus, \"-er",
+    "choices": [
+      "esemény (event)",
+      "por (powder)",
+      "part (bank / shore)",
+      "bolondokház (madhouse)"
+    ],
+    "answer": 4,
+    "hint": "Bei diesem Lärm im Büro wird man ja verrückt wie im Irrenhaus! (C1 - Nomen)"
+  },
+  {
+    "question": "bolondokház (madhouse)",
+    "choices": [
+      "s Gespräch, -e",
+      "s Irrenhaus, \"-er",
+      "s Geheimnis, -se",
+      "s Substantiv, -e"
+    ],
+    "answer": 2,
+    "hint": "Bei diesem Lärm im Büro wird man ja verrückt wie im Irrenhaus! (C1 - Nomen)"
+  },
+  {
+    "question": "s Kaninchen, -",
+    "choices": [
+      "borogatás (compress / wrap)",
+      "nyúl (rabbit)",
+      "beteg (sick person)",
+      "érték (value)"
+    ],
+    "answer": 2,
+    "hint": "Das kleine Kaninchen hoppelt fröhlich durch das grüne Gras. (A2 - Nomen)"
+  },
+  {
+    "question": "nyúl (rabbit)",
+    "choices": [
+      "r Verräter, -",
+      "s Meer, -e / e See, -n",
+      "s Kaninchen, -",
+      "s Gefühl, -e"
+    ],
+    "answer": 3,
+    "hint": "Das kleine Kaninchen hoppelt fröhlich durch das grüne Gras. (A2 - Nomen)"
+  },
+  {
+    "question": "s Kinn, -e",
+    "choices": [
+      "víziló (hippopotamus)",
+      "bolondokház (madhouse)",
+      "áll (chin)",
+      "ösztöndíj (scholarship)"
+    ],
+    "answer": 3,
+    "hint": "Er strich sich während des Überlegens nachdenklich über das Kinn. (B1 - Nomen)"
+  },
+  {
+    "question": "áll (chin)",
+    "choices": [
+      "r Werbekaufmann, -leute",
+      "s Kinn, -e",
+      "s Fell, -e",
+      "s Moor, -e"
+    ],
+    "answer": 2,
+    "hint": "Er strich sich während des Überlegens nachdenklich über das Kinn. (B1 - Nomen)"
+  },
+  {
+    "question": "s Meer, -e / e See, -n",
+    "choices": [
+      "toronyház (high-rise building)",
+      "tenger (sea / ocean)",
+      "orrvérzés (nosebleed)",
+      "diploma (degree / diploma)"
+    ],
+    "answer": 2,
+    "hint": "Sie wollen ihren Urlaub dieses Jahr unbedingt am blauen Meer verbringen. (A2 - Nomen)"
+  },
+  {
+    "question": "tenger (sea / ocean)",
+    "choices": [
+      "s Einkommen, -",
+      "s Verfahren, -",
+      "s Meer, -e / e See, -n",
+      "s Pulver, -"
+    ],
+    "answer": 3,
+    "hint": "Sie wollen ihren Urlaub dieses Jahr unbedingt am blauen Meer verbringen. (A2 - Nomen)"
+  },
+  {
+    "question": "s Mittel, -",
+    "choices": [
+      "deszka (board / plank)",
+      "eszköz (means / tool)",
+      "törpe (dwarf / gnome)",
+      "esemény (event)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen ein geeignetes Mittel gegen diese Krankheit finden. (B1 - Nomen)"
+  },
+  {
+    "question": "eszköz (means / tool)",
+    "choices": [
+      "s Adjektiv, -e",
+      "r/e Kranke, -n",
+      "s Mittel, -",
+      "r/e Außerirdische, -n"
+    ],
+    "answer": 3,
+    "hint": "Wir müssen ein geeignetes Mittel gegen diese Krankheit finden. (B1 - Nomen)"
+  },
+  {
+    "question": "s Moor, -e",
+    "choices": [
+      "érzés (feeling)",
+      "mocsár (swamp)",
+      "sorház (terraced house)",
+      "ösztöndíj (scholarship)"
+    ],
+    "answer": 2,
+    "hint": "Der schmale Weg führt direkt durch ein nebliges Moor. (B2 - Nomen)"
+  },
+  {
+    "question": "mocsár (swamp)",
+    "choices": [
+      "s Orchester, -",
+      "s Vergissmeinnicht, -e",
+      "s Stockwerk, -e",
+      "s Moor, -e"
+    ],
+    "answer": 4,
+    "hint": "Der schmale Weg führt direkt durch ein nebliges Moor. (B2 - Nomen)"
+  },
+  {
+    "question": "s Märchen, -",
+    "choices": [
+      "mn. (melléknév) (adjective)",
+      "ima (prayer)",
+      "fedett uszoda (indoor swimming pool)",
+      "mese (fairy tale)"
+    ],
+    "answer": 4,
+    "hint": "Meine Oma hat mir früher abends oft spannende Märchen vorgelesen. (A2 - Nomen)"
+  },
+  {
+    "question": "mese (fairy tale)",
+    "choices": [
+      "s Nasenbluten (Sg.)",
+      "s Wesen, -",
+      "s Märchen, -",
+      "s Heilmittel, -"
+    ],
+    "answer": 3,
+    "hint": "Meine Oma hat mir früher abends oft spannende Märchen vorgelesen. (A2 - Nomen)"
+  },
+  {
+    "question": "s Nasenbluten (Sg.)",
+    "choices": [
+      "arc (face)",
+      "zenekar (orchestra)",
+      "orrvérzés (nosebleed)",
+      "tábla / pajzs (sign / shield)"
+    ],
+    "answer": 3,
+    "hint": "Durch den leichten Sturz auf der Straße bekam er Nasenbluten. (B1 - Nomen)"
+  },
+  {
+    "question": "orrvérzés (nosebleed)",
+    "choices": [
+      "s Nasenbluten (Sg.)",
+      "s Vermögen, -",
+      "s Rind, -er",
+      "s Brett, -er"
+    ],
+    "answer": 1,
+    "hint": "Durch den leichten Sturz auf der Straße bekam er Nasenbluten. (B1 - Nomen)"
+  },
+  {
+    "question": "s Nilpferd, -e",
+    "choices": [
+      "mű (work (of art))",
+      "agy (brain)",
+      "víziló (hippopotamus)",
+      "diploma (degree / diploma)"
+    ],
+    "answer": 3,
+    "hint": "Das schwere Nilpferd badet stundenlang im schlammigen Fluss. (A2 - Nomen)"
+  },
+  {
+    "question": "víziló (hippopotamus)",
+    "choices": [
+      "s Verständnis (Sg.)",
+      "s Ereignis, -se",
+      "s Nilpferd, -e",
+      "r Zug, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Das schwere Nilpferd badet stundenlang im schlammigen Fluss. (A2 - Nomen)"
+  },
+  {
+    "question": "s Orchester, -",
+    "choices": [
+      "zenekar (orchestra)",
+      "összefüggés (connection / context)",
+      "fedett uszoda (indoor swimming pool)",
+      "áruló (traitor)"
+    ],
+    "answer": 1,
+    "hint": "Das große Orchester spielte eine wunderbare Symphonie von Beethoven. (B1 - Nomen)"
+  },
+  {
+    "question": "zenekar (orchestra)",
+    "choices": [
+      "r Vorschlag, \"-e",
+      "s Orchester, -",
+      "s Teelicht, -er",
+      "r Zusammenhang, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Das große Orchester spielte eine wunderbare Symphonie von Beethoven. (B1 - Nomen)"
+  },
+  {
+    "question": "s Pulver, -",
+    "choices": [
+      "por (powder)",
+      "vagyon (fortune / wealth)",
+      "felfogás, értelem (understanding)",
+      "ige (verb)"
+    ],
+    "answer": 1,
+    "hint": "Er rührt das weiße Pulver vorsichtig in ein Glas Wasser ein. (B1 - Nomen)"
+  },
+  {
+    "question": "por (powder)",
+    "choices": [
+      "s Schloss, \"-er",
+      "s Pulver, -",
+      "s Fachgeschäft, -e",
+      "s Angelwarengeschäft, -e"
+    ],
+    "answer": 2,
+    "hint": "Er rührt das weiße Pulver vorsichtig in ein Glas Wasser ein. (B1 - Nomen)"
+  },
+  {
+    "question": "s Rathaus, \"-er",
+    "choices": [
+      "szólás / közmondás (proverb)",
+      "polgármesteri hivatal (town hall / city hall)",
+      "mocsár (swamp)",
+      "fn. (főnév) (noun)"
+    ],
+    "answer": 2,
+    "hint": "Das historische Rathaus befindet sich mitten auf dem Marktplatz. (A2 - Nomen)"
+  },
+  {
+    "question": "polgármesteri hivatal (town hall / city hall)",
+    "choices": [
+      "s Rathaus, \"-er",
+      "s Adverb, -ien",
+      "s Herz, -en",
+      "r Vermieter, -"
+    ],
+    "answer": 1,
+    "hint": "Das historische Rathaus befindet sich mitten auf dem Marktplatz. (A2 - Nomen)"
+  },
+  {
+    "question": "s Raumschiff, -e",
+    "choices": [
+      "emlékezet (memory)",
+      "bolondokház (madhouse)",
+      "főbérlő (landlord)",
+      "űrhajó (spaceship)"
+    ],
+    "answer": 4,
+    "hint": "Das Raumschiff landete nach einer langen Reise sicher auf dem Mond. (B1 - Nomen)"
+  },
+  {
+    "question": "űrhajó (spaceship)",
+    "choices": [
+      "s Raumschiff, -e",
+      "s Gehirn, -e",
+      "s Gebet, -e",
+      "s Blech, -e"
+    ],
+    "answer": 1,
+    "hint": "Das Raumschiff landete nach einer langen Reise sicher auf dem Mond. (B1 - Nomen)"
+  },
+  {
+    "question": "s Reh, -e",
+    "choices": [
+      "ige (verb)",
+      "eljárás (procedure / process)",
+      "földszint (ground floor)",
+      "őz (deer / roe)"
+    ],
+    "answer": 4,
+    "hint": "Im Wald stand plötzlich ein kleines, scheues Reh direkt vor uns. (B1 - Nomen)"
+  },
+  {
+    "question": "őz (deer / roe)",
+    "choices": [
+      "s Schild, -er / r Schild, -e",
+      "s Pulver, -",
+      "s Reh, -e",
+      "s Diplom, -e"
+    ],
+    "answer": 3,
+    "hint": "Im Wald stand plötzlich ein kleines, scheues Reh direkt vor uns. (B1 - Nomen)"
+  },
+  {
+    "question": "s Reihenhaus, \"-er",
+    "choices": [
+      "tenger (sea / ocean)",
+      "diploma (degree / diploma)",
+      "beteg (sick person)",
+      "sorház (terraced house)"
+    ],
+    "answer": 4,
+    "hint": "Sie wohnen seit kurzem in einem modernen Reihenhaus am Stadtrand. (B1 - Nomen)"
+  },
+  {
+    "question": "sorház (terraced house)",
+    "choices": [
+      "s Verfahren, -",
+      "s Reihenhaus, \"-er",
+      "r Verstand (Sg.)",
+      "s Studium, Studien"
+    ],
+    "answer": 2,
+    "hint": "Sie wohnen seit kurzem in einem modernen Reihenhaus am Stadtrand. (B1 - Nomen)"
+  },
+  {
+    "question": "s Rind, -er",
+    "choices": [
+      "marha (beef / cattle)",
+      "földönkívüli (alien)",
+      "börtön (prison)",
+      "orrvérzés (nosebleed)"
+    ],
+    "answer": 1,
+    "hint": "Auf der großen grünen Weide grasen viele Kühe und Rinder. (A2 - Nomen)"
+  },
+  {
+    "question": "marha (beef / cattle)",
+    "choices": [
+      "s Ufer, -",
+      "r Zug, \"-e",
+      "s UFO, -s",
+      "s Rind, -er"
+    ],
+    "answer": 4,
+    "hint": "Auf der großen grünen Weide grasen viele Kühe und Rinder. (A2 - Nomen)"
+  },
+  {
+    "question": "s Rätsel, -",
+    "choices": [
+      "rejtvény (puzzle / riddle)",
+      "ösztöndíj (scholarship)",
+      "kerti ház (garden house)",
+      "főbérlő (landlord)"
+    ],
+    "answer": 1,
+    "hint": "Am Sonntag lösen wir beim Kaffeetrinken gerne schwierige Rätsel. (B1 - Nomen)"
+  },
+  {
+    "question": "rejtvény (puzzle / riddle)",
+    "choices": [
+      "s Rätsel, -",
+      "s Rind, -er",
+      "s Blech, -e",
+      "s Erlebnis, -se"
+    ],
+    "answer": 1,
+    "hint": "Am Sonntag lösen wir beim Kaffeetrinken gerne schwierige Rätsel. (B1 - Nomen)"
+  },
+  {
+    "question": "s Schild, -er / r Schild, -e",
+    "choices": [
+      "tábla / pajzs (sign / shield)",
+      "kastély (castle)",
+      "mű (work (of art))",
+      "hordó (barrel)"
+    ],
+    "answer": 1,
+    "hint": "Das Schild zeigt den Weg an. / Der Ritter hielt den Schild hoch. (B1 - Nomen / m.)"
+  },
+  {
+    "question": "tábla / pajzs (sign / shield)",
+    "choices": [
+      "s Fachgeschäft, -e",
+      "s Verfahren, -",
+      "s Stipendium, Stipendien",
+      "s Schild, -er / r Schild, -e"
+    ],
+    "answer": 4,
+    "hint": "Das Schild zeigt den Weg an. / Der Ritter hielt den Schild hoch. (B1 - Nomen / m.)"
+  },
+  {
+    "question": "s Schloss, \"-er",
+    "choices": [
+      "beszélgetés (conversation)",
+      "por (powder)",
+      "érzés (feeling)",
+      "kastély (castle)"
+    ],
+    "answer": 4,
+    "hint": "Das prächtige Schloss des Königs liegt malerisch oben auf dem Berg. (A2 - Nomen)"
+  },
+  {
+    "question": "kastély (castle)",
+    "choices": [
+      "s Verständnis (Sg.)",
+      "s Rathaus, \"-er",
+      "s Erdgeschoss, -e",
+      "s Schloss, \"-er"
+    ],
+    "answer": 4,
+    "hint": "Das prächtige Schloss des Königs liegt malerisch oben auf dem Berg. (A2 - Nomen)"
+  },
+  {
+    "question": "s Sinnesorgan, -e",
+    "choices": [
+      "eszköz (means / tool)",
+      "toronyház (high-rise building)",
+      "érzékszerv (sensory organ)",
+      "ösztöndíj (scholarship)"
+    ],
+    "answer": 3,
+    "hint": "Die Augen sind unser wichtigstes Sinnesorgan für das Sehen. (B2 - Nomen)"
+  },
+  {
+    "question": "érzékszerv (sensory organ)",
+    "choices": [
+      "s Sinnesorgan, -e",
+      "s Verb, -en",
+      "s Imperium, Imperien",
+      "s Kaninchen, -"
+    ],
+    "answer": 1,
+    "hint": "Die Augen sind unser wichtigstes Sinnesorgan für das Sehen. (B2 - Nomen)"
+  },
+  {
+    "question": "s Sprichwort, \"-er",
+    "choices": [
+      "kerti ház (garden house)",
+      "fn. (főnév) (noun)",
+      "élmény (experience)",
+      "szólás / közmondás (proverb)"
+    ],
+    "answer": 4,
+    "hint": "Lügen haben kurze Beine ist ein im Deutschen bekanntes Sprichwort. (B1 - Nomen)"
+  },
+  {
+    "question": "szólás / közmondás (proverb)",
+    "choices": [
+      "s Sprichwort, \"-er",
+      "s Blut (Sg.)",
+      "r/e Außerirdische, -n",
+      "s Geheimnis, -se"
+    ],
+    "answer": 1,
+    "hint": "Lügen haben kurze Beine ist ein im Deutschen bekanntes Sprichwort. (B1 - Nomen)"
+  },
+  {
+    "question": "s Stipendium, Stipendien",
+    "choices": [
+      "ösztöndíj (scholarship)",
+      "emelet (floor / story)",
+      "nyúl (rabbit)",
+      "zenekar (orchestra)"
+    ],
+    "answer": 1,
+    "hint": "Sie hat ein begehrtes Stipendium für ein Auslandsstudium erhalten. (B1 - Nomen)"
+  },
+  {
+    "question": "ösztöndíj (scholarship)",
+    "choices": [
+      "s Stipendium, Stipendien",
+      "s Diplom, -e",
+      "r Wickel, -",
+      "s Eisen, -"
+    ],
+    "answer": 1,
+    "hint": "Sie hat ein begehrtes Stipendium für ein Auslandsstudium erhalten. (B1 - Nomen)"
+  },
+  {
+    "question": "s Stockwerk, -e",
+    "choices": [
+      "nefelejcs (forget-me-not)",
+      "por (powder)",
+      "külváros (suburb)",
+      "emelet (floor / story)"
+    ],
+    "answer": 4,
+    "hint": "Mein neues Apartment liegt im vierten Stockwerk des Gebäudes. (A2 - Nomen)"
+  },
+  {
+    "question": "emelet (floor / story)",
+    "choices": [
+      "s Sinnesorgan, -e",
+      "s Stockwerk, -e",
+      "s Nasenbluten (Sg.)",
+      "s Einkommen, -"
+    ],
+    "answer": 2,
+    "hint": "Mein neues Apartment liegt im vierten Stockwerk des Gebäudes. (A2 - Nomen)"
+  },
+  {
+    "question": "s Studium, Studien",
+    "choices": [
+      "ige (verb)",
+      "földönkívüli (alien)",
+      "őz (deer / roe)",
+      "tanulmány (study)"
+    ],
+    "answer": 4,
+    "hint": "Nach dem Abitur beginnt sie ihr Studium der Rechtswissenschaften. (B1 - Nomen)"
+  },
+  {
+    "question": "tanulmány (study)",
+    "choices": [
+      "s Studium, Studien",
+      "s Sinnesorgan, -e",
+      "s Ereignis, -se",
+      "s Aquarium, Aquarien"
+    ],
+    "answer": 1,
+    "hint": "Nach dem Abitur beginnt sie ihr Studium der Rechtswissenschaften. (B1 - Nomen)"
+  },
+  {
+    "question": "s Substantiv, -e",
+    "choices": [
+      "javaslat (suggestion / proposal)",
+      "kerti ház (garden house)",
+      "fn. (főnév) (noun)",
+      "hordó (barrel)"
+    ],
+    "answer": 3,
+    "hint": "Substantive werden im Deutschen grammatikalisch immer großgeschrieben. (A1 - Nomen)"
+  },
+  {
+    "question": "fn. (főnév) (noun)",
+    "choices": [
+      "s Sprichwort, \"-er",
+      "s Substantiv, -e",
+      "s Blech, -e",
+      "s Wesentliche (Sg.)"
+    ],
+    "answer": 2,
+    "hint": "Substantive werden im Deutschen grammatikalisch immer großgeschrieben. (A1 - Nomen)"
+  },
+  {
+    "question": "s Teelicht, -er",
+    "choices": [
+      "deszka (board / plank)",
+      "tanulmány (study)",
+      "mécses (tealight)",
+      "agy (brain)"
+    ],
+    "answer": 3,
+    "hint": "Ein kleines Teelicht brennt im Windlicht auf dem Gartentisch. (B1 - Nomen)"
+  },
+  {
+    "question": "mécses (tealight)",
+    "choices": [
+      "s Teelicht, -er",
+      "s Adjektiv, -e",
+      "s Ufer, -",
+      "s Stipendium, Stipendien"
+    ],
+    "answer": 1,
+    "hint": "Ein kleines Teelicht brennt im Windlicht auf dem Gartentisch. (B1 - Nomen)"
+  },
+  {
+    "question": "s UFO, -s",
+    "choices": [
+      "érték (value)",
+      "mű (work (of art))",
+      "UFO (UFO)",
+      "fn. (főnév) (noun)"
+    ],
+    "answer": 3,
+    "hint": "Sie glaubt fest daran, ein echtes UFO am Nachthimmel gesehen zu haben. (B1 - Nomen)"
+  },
+  {
+    "question": "UFO (UFO)",
+    "choices": [
+      "s Raumschiff, -e",
+      "s Aquarium, Aquarien",
+      "s UFO, -s",
+      "s Gebet, -e"
+    ],
+    "answer": 3,
+    "hint": "Sie glaubt fest daran, ein echtes UFO am Nachthimmel gesehen zu haben. (B1 - Nomen)"
+  },
+  {
+    "question": "s Ufer, -",
+    "choices": [
+      "felfogás, értelem (understanding)",
+      "gyógymód (cure / remedy)",
+      "part (bank / shore)",
+      "érzékszerv (sensory organ)"
+    ],
+    "answer": 3,
+    "hint": "Wir spazierten entspannt am grünen Ufer des breiten Flusses entlang. (A2 - Nomen)"
+  },
+  {
+    "question": "part (bank / shore)",
+    "choices": [
+      "s Ufer, -",
+      "s Böse (Sg.)",
+      "s Rathaus, \"-er",
+      "s Einkommen, -"
+    ],
+    "answer": 1,
+    "hint": "Wir spazierten entspannt am grünen Ufer des breiten Flusses entlang. (A2 - Nomen)"
+  },
+  {
+    "question": "s Verb, -en",
+    "choices": [
+      "eset (incident)",
+      "bádog (sheet metal)",
+      "ige (verb)",
+      "földönkívüli (alien)"
+    ],
+    "answer": 3,
+    "hint": "Verben drücken eine Handlung, einen Zustand oder einen Vorgang aus. (A1 - Nomen)"
+  },
+  {
+    "question": "ige (verb)",
+    "choices": [
+      "s Verb, -en",
+      "s Wesentliche (Sg.)",
+      "s Reh, -e",
+      "s Vermögen, -"
+    ],
+    "answer": 1,
+    "hint": "Verben drücken eine Handlung, einen Zustand oder einen Vorgang aus. (A1 - Nomen)"
+  },
+  {
+    "question": "s Verfahren, -",
+    "choices": [
+      "eljárás (procedure / process)",
+      "agy (brain)",
+      "kerti ház (garden house)",
+      "por (powder)"
+    ],
+    "answer": 1,
+    "hint": "Das neue technische Verfahren spart viel wertvolle Zeit und Kosten ein. (B2 - Nomen)"
+  },
+  {
+    "question": "eljárás (procedure / process)",
+    "choices": [
+      "r Verräter, -",
+      "s Gedächtnis, -se",
+      "s Gebet, -e",
+      "s Verfahren, -"
+    ],
+    "answer": 4,
+    "hint": "Das neue technische Verfahren spart viel wertvolle Zeit und Kosten ein. (B2 - Nomen)"
+  },
+  {
+    "question": "s Vergissmeinnicht, -e",
+    "choices": [
+      "tanulmány (study)",
+      "törpe (dwarf / gnome)",
+      "nefelejcs (forget-me-not)",
+      "rejtvény (puzzle / riddle)"
+    ],
+    "answer": 3,
+    "hint": "Das Vergissmeinnicht blüht blau im Garten. (C1 - Nomen)"
+  },
+  {
+    "question": "nefelejcs (forget-me-not)",
+    "choices": [
+      "s Rind, -er",
+      "s Vergissmeinnicht, -e",
+      "s Gedächtnis, -se",
+      "s Gefühl, -e"
+    ],
+    "answer": 2,
+    "hint": "Das Vergissmeinnicht blüht blau im Garten. (C1 - Nomen)"
+  },
+  {
+    "question": "s Vermögen, -",
+    "choices": [
+      "vagyon (fortune / wealth)",
+      "vas (iron)",
+      "vonat (train)",
+      "földönkívüli (alien)"
+    ],
+    "answer": 1,
+    "hint": "Er besitzt ein großes Vermögen. (B2 - Nomen)"
+  },
+  {
+    "question": "vagyon (fortune / wealth)",
+    "choices": [
+      "s Vermögen, -",
+      "s Herz, -en",
+      "s Verb, -en",
+      "s Schild, -er / r Schild, -e"
+    ],
+    "answer": 1,
+    "hint": "Er besitzt ein großes Vermögen. (B2 - Nomen)"
+  },
+  {
+    "question": "s Verständnis (Sg.)",
+    "choices": [
+      "felfogás, értelem (understanding)",
+      "toronyház (high-rise building)",
+      "egycsaládos ház (single-family house)",
+      "birodalom (empire)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe volles Verständnis für deine Situation. (B1 - Nomen)"
+  },
+  {
+    "question": "felfogás, értelem (understanding)",
+    "choices": [
+      "s Verständnis (Sg.)",
+      "s Einkommen, -",
+      "s Reh, -e",
+      "r Verräter, -"
+    ],
+    "answer": 1,
+    "hint": "Ich habe volles Verständnis für deine Situation. (B1 - Nomen)"
+  },
+  {
+    "question": "s Werk, -e",
+    "choices": [
+      "beszélgetés (conversation)",
+      "főbérlő (landlord)",
+      "mű (work (of art))",
+      "ösztöndíj (scholarship)"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein bedeutendes Werk der Literatur. (B1 - Nomen)"
+  },
+  {
+    "question": "mű (work (of art))",
+    "choices": [
+      "s Werk, -e",
+      "s Verfahren, -",
+      "s Eisen, -",
+      "s Einfamilienhaus, \"-er"
+    ],
+    "answer": 1,
+    "hint": "Das ist ein bedeutendes Werk der Literatur. (B1 - Nomen)"
+  },
+  {
+    "question": "s Wesen, -",
+    "choices": [
+      "sorház (terraced house)",
+      "bunda (fur)",
+      "lény (creature / being)",
+      "bádog (sheet metal)"
+    ],
+    "answer": 3,
+    "hint": "Er hat ein sehr freundliches Wesen. (B2 - Nomen)"
+  },
+  {
+    "question": "lény (creature / being)",
+    "choices": [
+      "s Pulver, -",
+      "r Wert, -e",
+      "s Wesen, -",
+      "r Vorfall, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Er hat ein sehr freundliches Wesen. (B2 - Nomen)"
+  },
+  {
+    "question": "s Wesentliche (Sg.)",
+    "choices": [
+      "horgászbolt (tackle shop)",
+      "lényeg (the main thing / essence)",
+      "darálthús (minced meat)",
+      "zenekar (orchestra)"
+    ],
+    "answer": 2,
+    "hint": "Wir sollten uns auf das Wesentliche konzentrieren. (B2 - Nomen)"
+  },
+  {
+    "question": "lényeg (the main thing / essence)",
+    "choices": [
+      "s Denkmal, \"-er",
+      "s Geheimnis, -se",
+      "s Stockwerk, -e",
+      "s Wesentliche (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Wir sollten uns auf das Wesentliche konzentrieren. (B2 - Nomen)"
+  },
+  {
+    "question": "s Zelt, -e",
+    "choices": [
+      "kísértet (ghost / phantom)",
+      "sátor (tent)",
+      "érzés (feeling)",
+      "tábla / pajzs (sign / shield)"
+    ],
+    "answer": 2,
+    "hint": "Wir schlafen im Urlaub in einem großen Zelt. (A2 - Nomen)"
+  },
+  {
+    "question": "sátor (tent)",
+    "choices": [
+      "s Erlebnis, -se",
+      "s Gehirn, -e",
+      "s Zelt, -e",
+      "s Nilpferd, -e"
+    ],
+    "answer": 3,
+    "hint": "Wir schlafen im Urlaub in einem großen Zelt. (A2 - Nomen)"
+  },
+  {
+    "question": "streng",
+    "choices": [
+      "óránként (hourly)",
+      "száraz (dry)",
+      "szokásos (usual / common)",
+      "szigorú (strict)"
+    ],
+    "answer": 4,
+    "hint": "Er hat eine sehr strenge Lehrerin. (Synonyme: hart, strikt, unnachgiebig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "szigorú (strict)",
+    "choices": [
+      "streng",
+      "tapfer",
+      "unangenehm",
+      "tief"
+    ],
+    "answer": 1,
+    "hint": "Er hat eine sehr strenge Lehrerin. (Synonyme: hart, strikt, unnachgiebig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "stressig",
+    "choices": [
+      "udvarias (impolite)",
+      "szomorú (sad)",
+      "néma (mute / silent)",
+      "stresszes (stressful)"
+    ],
+    "answer": 4,
+    "hint": "Mein Job ist momentan sehr stressig. (Synonyme: anstrengend, belastend, hektisch) (A2 - Adjektiv)"
+  },
+  {
+    "question": "stresszes (stressful)",
+    "choices": [
+      "total",
+      "übrig",
+      "stressig",
+      "stumm"
+    ],
+    "answer": 3,
+    "hint": "Mein Job ist momentan sehr stressig. (Synonyme: anstrengend, belastend, hektisch) (A2 - Adjektiv)"
+  },
+  {
+    "question": "stricken (+ A)",
+    "choices": [
+      "meggyőzni vmiről (convince of)",
+      "kötni (ruha) (knit)",
+      "merülni, búvárkodni (dive)",
+      "keresni vmit (search for)"
+    ],
+    "answer": 2,
+    "hint": "Meine Oma strickt mir einen warmen Pullover. (Synonyme: wirken, weben) (B1 - Verb)"
+  },
+  {
+    "question": "kötni (ruha) (knit)",
+    "choices": [
+      "stürzen",
+      "tanzen",
+      "um|tauschen (+ A)",
+      "stricken (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Meine Oma strickt mir einen warmen Pullover. (Synonyme: wirken, weben) (B1 - Verb)"
+  },
+  {
+    "question": "strikt",
+    "choices": [
+      "toleráns (tolerant)",
+      "viharos (stormy)",
+      "végtelen (infinite / endless)",
+      "szigorú (strict)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen uns an strikte Regeln halten. (Synonyme: genau, präzise, streng) (B2 - Adjektiv)"
+  },
+  {
+    "question": "szigorú (strict)",
+    "choices": [
+      "tot",
+      "unendlich",
+      "unangenehm",
+      "strikt"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen uns an strikte Regeln halten. (Synonyme: genau, präzise, streng) (B2 - Adjektiv)"
+  },
+  {
+    "question": "studieren (+ A)",
+    "choices": [
+      "kötni (ruha) (knit)",
+      "hordani, vinni (wear / carry)",
+      "dúdolni, zümmögni (hum / buzz)",
+      "egyetemen tanulni (study (at university))"
+    ],
+    "answer": 4,
+    "hint": "Er möchte in Berlin Medizin studieren. (Synonyme: lernen, akademisch arbeiten) (A2 - Verb)"
+  },
+  {
+    "question": "egyetemen tanulni (study (at university))",
+    "choices": [
+      "summen (+ A)",
+      "studieren (+ A)",
+      "tragen (+ A)",
+      "um|drehen (+ A / sich)"
+    ],
+    "answer": 2,
+    "hint": "Er möchte in Berlin Medizin studieren. (Synonyme: lernen, akademisch arbeiten) (A2 - Verb)"
+  },
+  {
+    "question": "stufenweise",
+    "choices": [
+      "feltétlenül (absolutely)",
+      "egyébként (by the way)",
+      "fokozatosan (gradually)",
+      "valójában, ténylegesen (actually / indeed)"
+    ],
+    "answer": 3,
+    "hint": "Der Plan wird stufenweise umgesetzt. (Synonyme: schrittweise, sukzessive, nach und nach) (B2 - Adverb)"
+  },
+  {
+    "question": "fokozatosan (gradually)",
+    "choices": [
+      "unbedingt",
+      "stufenweise",
+      "übermorgen",
+      "unten"
+    ],
+    "answer": 2,
+    "hint": "Der Plan wird stufenweise umgesetzt. (Synonyme: schrittweise, sukzessive, nach und nach) (B2 - Adverb)"
+  },
+  {
+    "question": "stumm",
+    "choices": [
+      "szomorú (sad)",
+      "lehetetlen (impossible)",
+      "néma (mute / silent)",
+      "hűséges vkihez (loyal to)"
+    ],
+    "answer": 3,
+    "hint": "Er blieb den ganzen Abend stumm. (Synonyme: lautlos, sprachlos, schweigsam) (B1 - Adjektiv)"
+  },
+  {
+    "question": "néma (mute / silent)",
+    "choices": [
+      "stürmisch",
+      "sympathisch",
+      "stumm",
+      "tief"
+    ],
+    "answer": 3,
+    "hint": "Er blieb den ganzen Abend stumm. (Synonyme: lautlos, sprachlos, schweigsam) (B1 - Adjektiv)"
+  },
+  {
+    "question": "stündlich",
+    "choices": [
+      "stresszes (stressful)",
+      "óránként (hourly)",
+      "néma (mute / silent)",
+      "viharos (stormy)"
+    ],
+    "answer": 2,
+    "hint": "Der Bus fährt hier stündlich ab. (Synonyme: jede Stunde) (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "óránként (hourly)",
+    "choices": [
+      "unheimlich",
+      "sympathisch",
+      "stündlich",
+      "unmittelbar"
+    ],
+    "answer": 3,
+    "hint": "Der Bus fährt hier stündlich ab. (Synonyme: jede Stunde) (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "stürmisch",
+    "choices": [
+      "hihetetlen (unbelievable)",
+      "szomorú (sad)",
+      "hátborzongató (uncanny / eerie)",
+      "viharos (stormy)"
+    ],
+    "answer": 4,
+    "hint": "Heute herrscht ein sehr stürmisches Wetter. (Synonyme: windig, ungestüm, heftig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "viharos (stormy)",
+    "choices": [
+      "typisch (für + A)",
+      "unangenehm",
+      "stürmisch",
+      "toll"
+    ],
+    "answer": 3,
+    "hint": "Heute herrscht ein sehr stürmisches Wetter. (Synonyme: windig, ungestüm, heftig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "stürzen",
+    "choices": [
+      "leesni, zuhanni (fall / crash)",
+      "átöltözni, elköltözni (change clothes / move)",
+      "osztani, megosztani (share / divide)",
+      "átfogalmazni (rephrase)"
+    ],
+    "answer": 1,
+    "hint": "Er ist beim Skifahren schwer gestürzt. (Synonyme: fallen, strampeln, purzeln) (B1 - Verb)"
+  },
+  {
+    "question": "leesni, zuhanni (fall / crash)",
+    "choices": [
+      "treffen (+ A) (sich mit + D)",
+      "überreden (zu + D)",
+      "stürzen",
+      "umarmen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er ist beim Skifahren schwer gestürzt. (Synonyme: fallen, strampeln, purzeln) (B1 - Verb)"
+  },
+  {
+    "question": "suchen (nach + D)",
+    "choices": [
+      "cserélni (exchange / swap)",
+      "űzni, hajtani (pl. sportot) (drive / practice (sport))",
+      "dobolni (drum)",
+      "keresni vmit (search for)"
+    ],
+    "answer": 4,
+    "hint": "Ich suche nach meinem Schlüssel. (Synonyme: fahnden, stöbern) (A1 - Verb)"
+  },
+  {
+    "question": "keresni vmit (search for)",
+    "choices": [
+      "um|bauen (+ A)",
+      "treffen (+ A) (sich mit + D)",
+      "suchen (nach + D)",
+      "um|fallen"
+    ],
+    "answer": 3,
+    "hint": "Ich suche nach meinem Schlüssel. (Synonyme: fahnden, stöbern) (A1 - Verb)"
+  },
+  {
+    "question": "summen (+ A)",
+    "choices": [
+      "átkapcsolni (switch / change (channel))",
+      "körülvenni (surround)",
+      "dúdolni, zümmögni (hum / buzz)",
+      "lefordítani (translate)"
+    ],
+    "answer": 3,
+    "hint": "Die Bienen summen im Garten. (Synonyme: brummen, surren) (B1 - Verb)"
+  },
+  {
+    "question": "dúdolni, zümmögni (hum / buzz)",
+    "choices": [
+      "überwinden (+ A)",
+      "summen (+ A)",
+      "über|kochen",
+      "tanzen"
+    ],
+    "answer": 2,
+    "hint": "Die Bienen summen im Garten. (Synonyme: brummen, surren) (B1 - Verb)"
+  },
+  {
+    "question": "sympathisch",
+    "choices": [
+      "szomorú (sad)",
+      "szigorú (strict)",
+      "szimpatikus (likable / sympathetic)",
+      "nyugtalan (restless)"
+    ],
+    "answer": 3,
+    "hint": "Dein neuer Kollege wirkt sehr sympathisch. (Synonyme: nett, freundlich, ansprechend) (A2 - Adjektiv)"
+  },
+  {
+    "question": "szimpatikus (likable / sympathetic)",
+    "choices": [
+      "unfair",
+      "stumm",
+      "sympathisch",
+      "trocken"
+    ],
+    "answer": 3,
+    "hint": "Dein neuer Kollege wirkt sehr sympathisch. (Synonyme: nett, freundlich, ansprechend) (A2 - Adjektiv)"
+  },
+  {
+    "question": "tanken (+ A)",
+    "choices": [
+      "leesni, zuhanni (fall / crash)",
+      "eltúlozni (exaggerate)",
+      "tankolni (refuel / gas up)",
+      "merülni, búvárkodni (dive)"
+    ],
+    "answer": 3,
+    "hint": "Ich muss vor der Reise noch tanken. (Synonyme: Kraftstoff nachfüllen) (A2 - Verb)"
+  },
+  {
+    "question": "tankolni (refuel / gas up)",
+    "choices": [
+      "trösten (+ A)",
+      "tauen",
+      "täuschen (+ A / sich)",
+      "tanken (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss vor der Reise noch tanken. (Synonyme: Kraftstoff nachfüllen) (A2 - Verb)"
+  },
+  {
+    "question": "tanzen",
+    "choices": [
+      "álmodni vmiről (dream of)",
+      "inni (drink)",
+      "táncolni (dance)",
+      "átöltözni, elköltözni (change clothes / move)"
+    ],
+    "answer": 3,
+    "hint": "Wollen wir heute Abend tanzen gehen? (Synonyme: sich rhythmisch bewegen) (A1 - Verb)"
+  },
+  {
+    "question": "táncolni (dance)",
+    "choices": [
+      "tragen (+ A)",
+      "teilen (+ A) (mit + D)",
+      "trennen (von + D / sich)",
+      "tanzen"
+    ],
+    "answer": 4,
+    "hint": "Wollen wir heute Abend tanzen gehen? (Synonyme: sich rhythmisch bewegen) (A1 - Verb)"
+  },
+  {
+    "question": "tapfer",
+    "choices": [
+      "bátor (brave)",
+      "óránként (hourly)",
+      "szomorú (sad)",
+      "jellemző vmire (typical of)"
+    ],
+    "answer": 1,
+    "hint": "Das Kind war beim Arzt sehr tapfer. (Synonyme: mutig, kühn, furchtlos) (B1 - Adjektiv)"
+  },
+  {
+    "question": "bátor (brave)",
+    "choices": [
+      "stündlich",
+      "unfair",
+      "traurig",
+      "tapfer"
+    ],
+    "answer": 4,
+    "hint": "Das Kind war beim Arzt sehr tapfer. (Synonyme: mutig, kühn, furchtlos) (B1 - Adjektiv)"
+  },
+  {
+    "question": "tatsächlich",
+    "choices": [
+      "holnapután (the day after tomorrow)",
+      "lent (below / downstairs)",
+      "egyébként (by the way)",
+      "valójában, ténylegesen (actually / indeed)"
+    ],
+    "answer": 4,
+    "hint": "Es hat heute tatsächlich geregnet. (Synonyme: wirklich, wahrhaftig, in der Tat) (B1 - Adverb)"
+  },
+  {
+    "question": "valójában, ténylegesen (actually / indeed)",
+    "choices": [
+      "unten",
+      "übermorgen",
+      "tatsächlich",
+      "überhaupt"
+    ],
+    "answer": 3,
+    "hint": "Es hat heute tatsächlich geregnet. (Synonyme: wirklich, wahrhaftig, in der Tat) (B1 - Adverb)"
+  },
+  {
+    "question": "tauchen",
+    "choices": [
+      "merülni, búvárkodni (dive)",
+      "telefonálni vkivel (talk on the phone with)",
+      "leesni, zuhanni (fall / crash)",
+      "ellenőrizni (check / verify)"
+    ],
+    "answer": 1,
+    "hint": "Wir sind im Urlaub im Roten Meer getaucht. (Synonyme: untertauchen) (A2 - Verb)"
+  },
+  {
+    "question": "merülni, búvárkodni (dive)",
+    "choices": [
+      "um|bauen (+ A)",
+      "tauchen",
+      "teil|nehmen (an + D)",
+      "um|drehen (+ A / sich)"
+    ],
+    "answer": 2,
+    "hint": "Wir sind im Urlaub im Roten Meer getaucht. (Synonyme: untertauchen) (A2 - Verb)"
+  },
+  {
+    "question": "tauen",
+    "choices": [
+      "olvadni (thaw / melt)",
+      "tenni (do)",
+      "eltúlozni (exaggerate)",
+      "gyászolni vkit (mourn for)"
+    ],
+    "answer": 1,
+    "hint": "Der Schnee taut bei der warmen Sonne. (Synonyme: schmelzen, flüssig werden) (B2 - Verb)"
+  },
+  {
+    "question": "olvadni (thaw / melt)",
+    "choices": [
+      "um|steigen",
+      "tauen",
+      "trauern (um + A)",
+      "über|kochen"
+    ],
+    "answer": 2,
+    "hint": "Der Schnee taut bei der warmen Sonne. (Synonyme: schmelzen, flüssig werden) (B2 - Verb)"
+  },
+  {
+    "question": "tauschen (+ A) (mit + D)",
+    "choices": [
+      "ölni (kill)",
+      "bízni vkiben (trust)",
+      "inni (drink)",
+      "cserélni (exchange / swap)"
+    ],
+    "answer": 4,
+    "hint": "Können wir unsere Plätze tauschen? (Synonyme: auswechseln, ersetzen) (A2 - Verb)"
+  },
+  {
+    "question": "cserélni (exchange / swap)",
+    "choices": [
+      "summen (+ A)",
+      "um|rühren (+ A)",
+      "übernehmen (+ A)",
+      "tauschen (+ A) (mit + D)"
+    ],
+    "answer": 4,
+    "hint": "Können wir unsere Plätze tauschen? (Synonyme: auswechseln, ersetzen) (A2 - Verb)"
+  },
+  {
+    "question": "teilen (+ A) (mit + D)",
+    "choices": [
+      "átutalni (transfer (money))",
+      "lefordítani (translate)",
+      "osztani, megosztani (share / divide)",
+      "rábeszélni vmire (persuade to)"
+    ],
+    "answer": 3,
+    "hint": "Wir teilen uns die Kosten für die Wohnung. (Synonyme: trennen, splitten, gemeinsam nutzen) (A2 - Verb)"
+  },
+  {
+    "question": "osztani, megosztani (share / divide)",
+    "choices": [
+      "über|kochen",
+      "um|rühren (+ A)",
+      "übernachten",
+      "teilen (+ A) (mit + D)"
+    ],
+    "answer": 4,
+    "hint": "Wir teilen uns die Kosten für die Wohnung. (Synonyme: trennen, splitten, gemeinsam nutzen) (A2 - Verb)"
+  },
+  {
+    "question": "teil|nehmen (an + D)",
+    "choices": [
+      "elterelni (divert)",
+      "gyászolni vkit (mourn for)",
+      "részt venni vmin (participate in)",
+      "vigasztalni (comfort)"
+    ],
+    "answer": 3,
+    "hint": "Möchtest du an dem Kurs teilnehmen? (Synonyme: mitmachen, dabei sein) (B1 - Verb)"
+  },
+  {
+    "question": "részt venni vmin (participate in)",
+    "choices": [
+      "teil|nehmen (an + D)",
+      "toben",
+      "töten (+ A)",
+      "umformulieren (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Möchtest du an dem Kurs teilnehmen? (Synonyme: mitmachen, dabei sein) (B1 - Verb)"
+  },
+  {
+    "question": "telefonieren (mit + D)",
+    "choices": [
+      "edzeni (train / exercise)",
+      "telefonálni vkivel (talk on the phone with)",
+      "kifutni (étel) (boil over)",
+      "meggyőzni vmiről (convince of)"
+    ],
+    "answer": 2,
+    "hint": "Ich telefoniere gerade mit meiner Mutter. (Synonyme: anrufen, sprechen) (A1 - Verb)"
+  },
+  {
+    "question": "telefonálni vkivel (talk on the phone with)",
+    "choices": [
+      "treiben (+ A)",
+      "tauschen (+ A) (mit + D)",
+      "telefonieren (mit + D)",
+      "überweisen (+ A / + D)"
+    ],
+    "answer": 3,
+    "hint": "Ich telefoniere gerade mit meiner Mutter. (Synonyme: anrufen, sprechen) (A1 - Verb)"
+  },
+  {
+    "question": "theoretisch",
+    "choices": [
+      "mély (deep)",
+      "bátor (brave)",
+      "elméleti (theoretical)",
+      "maradék (remaining / left over)"
+    ],
+    "answer": 3,
+    "hint": "Theoretisch ist das möglich, aber schwer umsetzbar. (Synonyme: hypothetisch, abstrakt) (B2 - Adjektiv)"
+  },
+  {
+    "question": "elméleti (theoretical)",
+    "choices": [
+      "theoretisch",
+      "übermütig",
+      "strikt",
+      "tolerant"
+    ],
+    "answer": 1,
+    "hint": "Theoretisch ist das möglich, aber schwer umsetzbar. (Synonyme: hypothetisch, abstrakt) (B2 - Adjektiv)"
+  },
+  {
+    "question": "tief",
+    "choices": [
+      "száraz (dry)",
+      "nyugtalan (restless)",
+      "mély (deep)",
+      "elméleti (theoretical)"
+    ],
+    "answer": 3,
+    "hint": "Der See ist an dieser Stelle sehr tief. (Synonyme: bodenlos, abgründig) (A2 - Adjektiv)"
+  },
+  {
+    "question": "mély (deep)",
+    "choices": [
+      "traurig",
+      "tief",
+      "typisch (für + A)",
+      "unendlich"
+    ],
+    "answer": 2,
+    "hint": "Der See ist an dieser Stelle sehr tief. (Synonyme: bodenlos, abgründig) (A2 - Adjektiv)"
+  },
+  {
+    "question": "tippen (+ A)",
+    "choices": [
+      "táncolni (dance)",
+      "dobolni (drum)",
+      "megkeverni (stir)",
+      "gépelni, tippelni (type / guess)"
+    ],
+    "answer": 4,
+    "hint": "Er kann sehr schnell auf der Tastatur tippen. (Synonyme: schreiben, vermuten) (A2 - Verb)"
+  },
+  {
+    "question": "gépelni, tippelni (type / guess)",
+    "choices": [
+      "trommeln",
+      "tippen (+ A)",
+      "tauen",
+      "um|leiten (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Er kann sehr schnell auf der Tastatur tippen. (Synonyme: schreiben, vermuten) (A2 - Verb)"
+  },
+  {
+    "question": "toben",
+    "choices": [
+      "tankolni (refuel / gas up)",
+      "tombolni (rave / romp)",
+      "megfordulni (turn around)",
+      "kötni (ruha) (knit)"
+    ],
+    "answer": 2,
+    "hint": "Die Kinder toben wild im Garten. (Synonyme: wüten, rasen, lärmen) (B2 - Verb)"
+  },
+  {
+    "question": "tombolni (rave / romp)",
+    "choices": [
+      "überprüfen (+ A)",
+      "toben",
+      "um|kehren",
+      "übersetzen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Die Kinder toben wild im Garten. (Synonyme: wüten, rasen, lärmen) (B2 - Verb)"
+  },
+  {
+    "question": "tolerant",
+    "choices": [
+      "halott (dead)",
+      "igazságtalan (unfair)",
+      "néma (mute / silent)",
+      "toleráns (tolerant)"
+    ],
+    "answer": 4,
+    "hint": "Wir sollten gegenüber anderen Meinungen tolerant sein. (Synonyme: duldsam, offen, großzügig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "toleráns (tolerant)",
+    "choices": [
+      "üblich",
+      "stürmisch",
+      "tolerant",
+      "unruhig"
+    ],
+    "answer": 3,
+    "hint": "Wir sollten gegenüber anderen Meinungen tolerant sein. (Synonyme: duldsam, offen, großzügig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "toll",
+    "choices": [
+      "bátor (brave)",
+      "lehetetlen (impossible)",
+      "remek, klassz (great / terrific)",
+      "szokásos (usual / common)"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine tolle Neuigkeit! (Synonyme: super, großartig, fantastisch) (A1 - Adjektiv)"
+  },
+  {
+    "question": "remek, klassz (great / terrific)",
+    "choices": [
+      "überrascht (von + D / über + A)",
+      "toll",
+      "total",
+      "strikt"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine tolle Neuigkeit! (Synonyme: super, großartig, fantastisch) (A1 - Adjektiv)"
+  },
+  {
+    "question": "tot",
+    "choices": [
+      "szigorú (strict)",
+      "meglepett vmi miatt (surprised by)",
+      "viharos (stormy)",
+      "halott (dead)"
+    ],
+    "answer": 4,
+    "hint": "Die Pflanze ist leider schon tot. (Synonyme: verstorben, leblos) (A2 - Adjektiv)"
+  },
+  {
+    "question": "halott (dead)",
+    "choices": [
+      "unmittelbar",
+      "typisch (für + A)",
+      "streng",
+      "tot"
+    ],
+    "answer": 4,
+    "hint": "Die Pflanze ist leider schon tot. (Synonyme: verstorben, leblos) (A2 - Adjektiv)"
+  },
+  {
+    "question": "total",
+    "choices": [
+      "szimpatikus (likable / sympathetic)",
+      "száraz (dry)",
+      "toleráns (tolerant)",
+      "teljesen (total / complete)"
+    ],
+    "answer": 4,
+    "hint": "Das ist totaler Unsinn. (Synonyme: völlig, komplett, ganz und gar) (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "teljesen (total / complete)",
+    "choices": [
+      "stürmisch",
+      "total",
+      "unmöglich",
+      "tapfer"
+    ],
+    "answer": 2,
+    "hint": "Das ist totaler Unsinn. (Synonyme: völlig, komplett, ganz und gar) (A2 - Adjektiv/hsz)"
+  },
+  {
+    "question": "tragen (+ A)",
+    "choices": [
+      "hordani, vinni (wear / carry)",
+      "felborulni, elesik (fall over)",
+      "keresni vmit (search for)",
+      "éjszakázni (stay overnight)"
+    ],
+    "answer": 1,
+    "hint": "Sie trägt heute ein schönes Kleid. (Synonyme: anhaben, schleppen, stützen) (A1 - Verb)"
+  },
+  {
+    "question": "hordani, vinni (wear / carry)",
+    "choices": [
+      "tippen (+ A)",
+      "um|kehren",
+      "tauen",
+      "tragen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Sie trägt heute ein schönes Kleid. (Synonyme: anhaben, schleppen, stützen) (A1 - Verb)"
+  },
+  {
+    "question": "trainieren (+ A)",
+    "choices": [
+      "keresni vmit (search for)",
+      "inni (drink)",
+      "edzeni (train / exercise)",
+      "megfordulni (turn around)"
+    ],
+    "answer": 3,
+    "hint": "Er trainiert dreimal pro Woche im Fitnessstudio. (Synonyme: üben, proben, sich vorbereiten) (A2 - Verb)"
+  },
+  {
+    "question": "edzeni (train / exercise)",
+    "choices": [
+      "treffen (+ A) (sich mit + D)",
+      "um|fallen",
+      "tauchen",
+      "trainieren (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er trainiert dreimal pro Woche im Fitnessstudio. (Synonyme: üben, proben, sich vorbereiten) (A2 - Verb)"
+  },
+  {
+    "question": "trauen (+ D)",
+    "choices": [
+      "átfogalmazni (rephrase)",
+      "éjszakázni (stay overnight)",
+      "osztani, megosztani (share / divide)",
+      "bízni vkiben (trust)"
+    ],
+    "answer": 4,
+    "hint": "Ich traue ihm nicht über den Weg. (Synonyme: vertrauen, glauben) (B1 - Verb)"
+  },
+  {
+    "question": "bízni vkiben (trust)",
+    "choices": [
+      "tauschen (+ A) (mit + D)",
+      "überzeugen (von + D / + A)",
+      "tauchen",
+      "trauen (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Ich traue ihm nicht über den Weg. (Synonyme: vertrauen, glauben) (B1 - Verb)"
+  },
+  {
+    "question": "trauern (um + A)",
+    "choices": [
+      "gépelni, tippelni (type / guess)",
+      "cserélni (exchange / swap)",
+      "körülvenni (surround)",
+      "gyászolni vkit (mourn for)"
+    ],
+    "answer": 4,
+    "hint": "Die Familie trauert um den Verstorbenen. (Synonyme: weinen, beklagen) (B2 - Verb)"
+  },
+  {
+    "question": "gyászolni vkit (mourn for)",
+    "choices": [
+      "trommeln",
+      "üben (+ A)",
+      "trauern (um + A)",
+      "übersetzen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Die Familie trauert um den Verstorbenen. (Synonyme: weinen, beklagen) (B2 - Verb)"
+  },
+  {
+    "question": "träumen (von + D)",
+    "choices": [
+      "dobolni (drum)",
+      "kicserélni (exchange)",
+      "álmodni vmiről (dream of)",
+      "tankolni (refuel / gas up)"
+    ],
+    "answer": 3,
+    "hint": "Ich träume oft von einem Haus am Meer. (Synonyme: fantasieren, sich ausmalen) (A2 - Verb)"
+  },
+  {
+    "question": "álmodni vmiről (dream of)",
+    "choices": [
+      "träumen (von + D)",
+      "um|leiten (+ A)",
+      "umarmen (+ A)",
+      "suchen (nach + D)"
+    ],
+    "answer": 1,
+    "hint": "Ich träume oft von einem Haus am Meer. (Synonyme: fantasieren, sich ausmalen) (A2 - Verb)"
+  },
+  {
+    "question": "traurig",
+    "choices": [
+      "jellemző vmire (typical of)",
+      "hihetetlen (unbelievable)",
+      "igazságtalan (unfair)",
+      "szomorú (sad)"
+    ],
+    "answer": 4,
+    "hint": "Warum bist du heute so traurig? (Synonyme: deprimiert, unglücklich, betrübt) (A1 - Adjektiv)"
+  },
+  {
+    "question": "szomorú (sad)",
+    "choices": [
+      "traurig",
+      "übel",
+      "toll",
+      "überrascht (von + D / über + A)"
+    ],
+    "answer": 1,
+    "hint": "Warum bist du heute so traurig? (Synonyme: deprimiert, unglücklich, betrübt) (A1 - Adjektiv)"
+  },
+  {
+    "question": "treffen (+ A) (sich mit + D)",
+    "choices": [
+      "kifutni (étel) (boil over)",
+      "vigasztalni (comfort)",
+      "gyakorolni (practice)",
+      "találkozni vkivel (meet)"
+    ],
+    "answer": 4,
+    "hint": "Wir treffen uns morgen um acht Uhr. (Synonyme: begegnen, zusammenkommen) (A1 - Verb)"
+  },
+  {
+    "question": "találkozni vkivel (meet)",
+    "choices": [
+      "um|tauschen (+ A)",
+      "treffen (+ A) (sich mit + D)",
+      "tauchen",
+      "überzeugen (von + D / + A)"
+    ],
+    "answer": 2,
+    "hint": "Wir treffen uns morgen um acht Uhr. (Synonyme: begegnen, zusammenkommen) (A1 - Verb)"
+  },
+  {
+    "question": "treiben (+ A)",
+    "choices": [
+      "űzni, hajtani (pl. sportot) (drive / practice (sport))",
+      "kifutni (étel) (boil over)",
+      "tombolni (rave / romp)",
+      "átutalni (transfer (money))"
+    ],
+    "answer": 1,
+    "hint": "Treibst du regelmäßig Sport? (Synonyme: ausüben, betreiben, forcieren) (B1 - Verb)"
+  },
+  {
+    "question": "űzni, hajtani (pl. sportot) (drive / practice (sport))",
+    "choices": [
+      "um|steigen",
+      "treiben (+ A)",
+      "um|kommen",
+      "suchen (nach + D)"
+    ],
+    "answer": 2,
+    "hint": "Treibst du regelmäßig Sport? (Synonyme: ausüben, betreiben, forcieren) (B1 - Verb)"
+  },
+  {
+    "question": "trennen (von + D / sich)",
+    "choices": [
+      "részt venni vmin (participate in)",
+      "ölni (kill)",
+      "elválasztani (separate from)",
+      "átkapcsolni (switch / change (channel))"
+    ],
+    "answer": 3,
+    "hint": "Die Mauer trennt die beiden Grundstücke. (Synonyme: absondern, teilen, scheiden) (B1 - Verb)"
+  },
+  {
+    "question": "elválasztani (separate from)",
+    "choices": [
+      "trennen (von + D / sich)",
+      "trauen (+ D)",
+      "tragen (+ A)",
+      "suchen (nach + D)"
+    ],
+    "answer": 1,
+    "hint": "Die Mauer trennt die beiden Grundstücke. (Synonyme: absondern, teilen, scheiden) (B1 - Verb)"
+  },
+  {
+    "question": "treu (+ D)",
+    "choices": [
+      "óránként (hourly)",
+      "közvetlen (immediate / direct)",
+      "hihetetlen (unbelievable)",
+      "hűséges vkihez (loyal to)"
+    ],
+    "answer": 4,
+    "hint": "Er ist seinem Verein seit Jahren treu. (Synonyme: loyal, ergeben, beständig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "hűséges vkihez (loyal to)",
+    "choices": [
+      "treu (+ D)",
+      "übel",
+      "tolerant",
+      "unhöflich"
+    ],
+    "answer": 1,
+    "hint": "Er ist seinem Verein seit Jahren treu. (Synonyme: loyal, ergeben, beständig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "trinken (+ A)",
+    "choices": [
+      "meghalni (balesetben) (perish / die)",
+      "kötni (ruha) (knit)",
+      "inni (drink)",
+      "ölni (kill)"
+    ],
+    "answer": 3,
+    "hint": "Möchtest du etwas Wasser trinken? (Synonyme: konsumieren, schlucken) (A1 - Verb)"
+  },
+  {
+    "question": "inni (drink)",
+    "choices": [
+      "teil|nehmen (an + D)",
+      "trinken (+ A)",
+      "trösten (+ A)",
+      "um|ziehen (sich / in + A)"
+    ],
+    "answer": 2,
+    "hint": "Möchtest du etwas Wasser trinken? (Synonyme: konsumieren, schlucken) (A1 - Verb)"
+  },
+  {
+    "question": "trocken",
+    "choices": [
+      "szokásos (usual / common)",
+      "hátborzongató (uncanny / eerie)",
+      "végtelen (infinite / endless)",
+      "száraz (dry)"
+    ],
+    "answer": 4,
+    "hint": "Die Wäsche ist schon fast trocken. (Synonyme: wasserarm, dürr, arid) (A2 - Adjektiv)"
+  },
+  {
+    "question": "száraz (dry)",
+    "choices": [
+      "trocken",
+      "typisch (für + A)",
+      "total",
+      "überrascht (von + D / über + A)"
+    ],
+    "answer": 1,
+    "hint": "Die Wäsche ist schon fast trocken. (Synonyme: wasserarm, dürr, arid) (A2 - Adjektiv)"
+  },
+  {
+    "question": "trommeln",
+    "choices": [
+      "dúdolni, zümmögni (hum / buzz)",
+      "űzni, hajtani (pl. sportot) (drive / practice (sport))",
+      "kicserélni (exchange)",
+      "dobolni (drum)"
+    ],
+    "answer": 4,
+    "hint": "Der Regen trommelt gegen das Fenster. (Synonyme: klopfen, schlagen) (B1 - Verb)"
+  },
+  {
+    "question": "dobolni (drum)",
+    "choices": [
+      "tauschen (+ A) (mit + D)",
+      "üben (+ A)",
+      "trommeln",
+      "trinken (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Der Regen trommelt gegen das Fenster. (Synonyme: klopfen, schlagen) (B1 - Verb)"
+  },
+  {
+    "question": "trösten (+ A)",
+    "choices": [
+      "keresni vmit (search for)",
+      "vigasztalni (comfort)",
+      "kötni (ruha) (knit)",
+      "átöltözni, elköltözni (change clothes / move)"
+    ],
+    "answer": 2,
+    "hint": "Die Mutter tröstet das weinende Kind. (Synonyme: aufheitern, ermutigen) (B1 - Verb)"
+  },
+  {
+    "question": "vigasztalni (comfort)",
+    "choices": [
+      "tanken (+ A)",
+      "trauen (+ D)",
+      "trösten (+ A)",
+      "suchen (nach + D)"
+    ],
+    "answer": 3,
+    "hint": "Die Mutter tröstet das weinende Kind. (Synonyme: aufheitern, ermutigen) (B1 - Verb)"
+  },
+  {
+    "question": "tun (+ A)",
+    "choices": [
+      "megkeverni (stir)",
+      "keresni vmit (search for)",
+      "tenni (do)",
+      "átvenni (take over)"
+    ],
+    "answer": 3,
+    "hint": "Was kann ich für Sie tun? (Synonyme: machen, erledigen, handeln) (A1 - Verb)"
+  },
+  {
+    "question": "tenni (do)",
+    "choices": [
+      "tanken (+ A)",
+      "trommeln",
+      "trauen (+ D)",
+      "tun (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Was kann ich für Sie tun? (Synonyme: machen, erledigen, handeln) (A1 - Verb)"
+  },
+  {
+    "question": "typisch (für + A)",
+    "choices": [
+      "nyugtalan (restless)",
+      "lehetetlen (impossible)",
+      "jellemző vmire (typical of)",
+      "halott (dead)"
+    ],
+    "answer": 3,
+    "hint": "Das ist typisch für ihn. (Synonyme: charakteristisch, bezeichnend) (B1 - Adjektiv)"
+  },
+  {
+    "question": "jellemző vmire (typical of)",
+    "choices": [
+      "typisch (für + A)",
+      "strikt",
+      "stündlich",
+      "stürmisch"
+    ],
+    "answer": 1,
+    "hint": "Das ist typisch für ihn. (Synonyme: charakteristisch, bezeichnend) (B1 - Adjektiv)"
+  },
+  {
+    "question": "täuschen (+ A / sich)",
+    "choices": [
+      "becsapni (magát) (deceive / be mistaken)",
+      "vigasztalni (comfort)",
+      "osztani, megosztani (share / divide)",
+      "rábeszélni vmire (persuade to)"
+    ],
+    "answer": 1,
+    "hint": "Du täuschst dich gewaltig. (Synonyme: belügen, irren, mogeln) (B2 - Verb)"
+  },
+  {
+    "question": "becsapni (magát) (deceive / be mistaken)",
+    "choices": [
+      "um|ziehen (sich / in + A)",
+      "überwinden (+ A)",
+      "täuschen (+ A / sich)",
+      "trauen (+ D)"
+    ],
+    "answer": 3,
+    "hint": "Du täuschst dich gewaltig. (Synonyme: belügen, irren, mogeln) (B2 - Verb)"
+  },
+  {
+    "question": "töten (+ A)",
+    "choices": [
+      "ölni (kill)",
+      "kötni (ruha) (knit)",
+      "dúdolni, zümmögni (hum / buzz)",
+      "álmodni vmiről (dream of)"
+    ],
+    "answer": 1,
+    "hint": "Der Jäger hat ein Reh getötet. (Synonyme: umbringen, erledigen) (B1 - Verb)"
+  },
+  {
+    "question": "ölni (kill)",
+    "choices": [
+      "töten (+ A)",
+      "übertreiben (+ A)",
+      "um|kehren",
+      "umgeben (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Der Jäger hat ein Reh getötet. (Synonyme: umbringen, erledigen) (B1 - Verb)"
+  },
+  {
+    "question": "übel",
+    "choices": [
+      "rossz, émelyítő (sick / evil)",
+      "kellemetlen (unpleasant)",
+      "száraz (dry)",
+      "teljesen (total / complete)"
+    ],
+    "answer": 1,
+    "hint": "Mir ist plötzlich ganz übel geworden. (Synonyme: schlecht, mies, bösartig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "rossz, émelyítő (sick / evil)",
+    "choices": [
+      "sympathisch",
+      "übel",
+      "unmittelbar",
+      "stürmisch"
+    ],
+    "answer": 2,
+    "hint": "Mir ist plötzlich ganz übel geworden. (Synonyme: schlecht, mies, bösartig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "über (+ A/D)",
+    "choices": [
+      "szigorú (strict)",
+      "felett, fölé (over / above)",
+      "remek, klassz (great / terrific)",
+      "körül, -kor (idő) (around / at)"
+    ],
+    "answer": 2,
+    "hint": "Das Bild hängt über dem Sofa. (Synonyme: oberhalb) (A1 - Präposition)"
+  },
+  {
+    "question": "felett, fölé (over / above)",
+    "choices": [
+      "strikt",
+      "toll",
+      "über (+ A/D)",
+      "um (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Das Bild hängt über dem Sofa. (Synonyme: oberhalb) (A1 - Präposition)"
+  },
+  {
+    "question": "überall",
+    "choices": [
+      "feltétlenül (absolutely)",
+      "egyébként (by the way)",
+      "ingyen, hiába (for free / in vain)",
+      "mindenhol (everywhere)"
+    ],
+    "answer": 4,
+    "hint": "Ich habe überall nach meinem Schlüssel gesucht. (Synonyme: an jedem Ort, allenthalben) (A2 - Adverb)"
+  },
+  {
+    "question": "mindenhol (everywhere)",
+    "choices": [
+      "tatsächlich",
+      "unbedingt",
+      "übrigens",
+      "überall"
+    ],
+    "answer": 4,
+    "hint": "Ich habe überall nach meinem Schlüssel gesucht. (Synonyme: an jedem Ort, allenthalben) (A2 - Adverb)"
+  },
+  {
+    "question": "überhaupt",
+    "choices": [
+      "egyáltalán (at all)",
+      "lent (below / downstairs)",
+      "valójában, ténylegesen (actually / indeed)",
+      "holnapután (the day after tomorrow)"
+    ],
+    "answer": 1,
+    "hint": "Ich habe überhaupt keine Zeit. (Synonyme: gänzlich, absolut) (A2 - Adverb)"
+  },
+  {
+    "question": "egyáltalán (at all)",
+    "choices": [
+      "überhaupt",
+      "übrigens",
+      "tatsächlich",
+      "stufenweise"
+    ],
+    "answer": 1,
+    "hint": "Ich habe überhaupt keine Zeit. (Synonyme: gänzlich, absolut) (A2 - Adverb)"
+  },
+  {
+    "question": "über|kochen",
+    "choices": [
+      "ellenőrizni (check / verify)",
+      "dobolni (drum)",
+      "űzni, hajtani (pl. sportot) (drive / practice (sport))",
+      "kifutni (étel) (boil over)"
+    ],
+    "answer": 4,
+    "hint": "Pass auf, die Milch kocht gleich über! (Synonyme: heraussprudeln) (B1 - Verb)"
+  },
+  {
+    "question": "kifutni (étel) (boil over)",
+    "choices": [
+      "um|leiten (+ A)",
+      "träumen (von + D)",
+      "um|schalten",
+      "über|kochen"
+    ],
+    "answer": 4,
+    "hint": "Pass auf, die Milch kocht gleich über! (Synonyme: heraussprudeln) (B1 - Verb)"
+  },
+  {
+    "question": "übermorgen",
+    "choices": [
+      "holnapután (the day after tomorrow)",
+      "mindenhol (everywhere)",
+      "egyáltalán (at all)",
+      "fokozatosan (gradually)"
+    ],
+    "answer": 1,
+    "hint": "Ich besuche dich übermorgen. (A2 - Adverb)"
+  },
+  {
+    "question": "holnapután (the day after tomorrow)",
+    "choices": [
+      "überhaupt",
+      "unbedingt",
+      "überall",
+      "übermorgen"
+    ],
+    "answer": 4,
+    "hint": "Ich besuche dich übermorgen. (A2 - Adverb)"
+  },
+  {
+    "question": "übermütig",
+    "choices": [
+      "udvarias (impolite)",
+      "remek, klassz (great / terrific)",
+      "elbizakodott (high-spirited / cocky)",
+      "szigorú (strict)"
+    ],
+    "answer": 3,
+    "hint": "Sei nicht so übermütig, das ist gefährlich. (Synonyme: ausgelassen, leichtsinnig, keck) (B2 - Adjektiv)"
+  },
+  {
+    "question": "elbizakodott (high-spirited / cocky)",
+    "choices": [
+      "übel",
+      "üblich",
+      "übermütig",
+      "traurig"
+    ],
+    "answer": 3,
+    "hint": "Sei nicht so übermütig, das ist gefährlich. (Synonyme: ausgelassen, leichtsinnig, keck) (B2 - Adjektiv)"
+  },
+  {
+    "question": "übernachten",
+    "choices": [
+      "ölni (kill)",
+      "találkozni vkivel (meet)",
+      "éjszakázni (stay overnight)",
+      "meggyőzni vmiről (convince of)"
+    ],
+    "answer": 3,
+    "hint": "Wir übernachten in einer kleinen Pension. (Synonyme: nächtigen, schlafen) (A2 - Verb)"
+  },
+  {
+    "question": "éjszakázni (stay overnight)",
+    "choices": [
+      "übernachten",
+      "stricken (+ A)",
+      "trainieren (+ A)",
+      "überprüfen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Wir übernachten in einer kleinen Pension. (Synonyme: nächtigen, schlafen) (A2 - Verb)"
+  },
+  {
+    "question": "übernehmen (+ A)",
+    "choices": [
+      "ellenőrizni (check / verify)",
+      "átvenni (take over)",
+      "leküzdeni (overcome)",
+      "űzni, hajtani (pl. sportot) (drive / practice (sport))"
+    ],
+    "answer": 2,
+    "hint": "Er übernimmt die Leitung der Abteilung. (Synonyme: akzeptieren, auf sich nehmen) (B2 - Verb)"
+  },
+  {
+    "question": "átvenni (take over)",
+    "choices": [
+      "um|fallen",
+      "übernachten",
+      "überprüfen (+ A)",
+      "übernehmen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er übernimmt die Leitung der Abteilung. (Synonyme: akzeptieren, auf sich nehmen) (B2 - Verb)"
+  },
+  {
+    "question": "überprüfen (+ A)",
+    "choices": [
+      "tankolni (refuel / gas up)",
+      "kicserélni (exchange)",
+      "átírni (rewrite)",
+      "ellenőrizni (check / verify)"
+    ],
+    "answer": 4,
+    "hint": "Bitte überprüfen Sie die Rechnung noch einmal. (Synonyme: kontrollieren, untersuchen, testen) (B2 - Verb)"
+  },
+  {
+    "question": "ellenőrizni (check / verify)",
+    "choices": [
+      "um|leiten (+ A)",
+      "überprüfen (+ A)",
+      "übernehmen (+ A)",
+      "umformulieren (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Bitte überprüfen Sie die Rechnung noch einmal. (Synonyme: kontrollieren, untersuchen, testen) (B2 - Verb)"
+  },
+  {
+    "question": "überrascht (von + D / über + A)",
+    "choices": [
+      "elbizakodott (high-spirited / cocky)",
+      "végtelen (infinite / endless)",
+      "igazságtalan (unfair)",
+      "meglepett vmi miatt (surprised by)"
+    ],
+    "answer": 4,
+    "hint": "Ich war sehr überrascht über das Geschenk. (Synonyme: erstaunt, verblüfft) (B1 - Adjektiv)"
+  },
+  {
+    "question": "meglepett vmi miatt (surprised by)",
+    "choices": [
+      "stürmisch",
+      "unfair",
+      "üblich",
+      "überrascht (von + D / über + A)"
+    ],
+    "answer": 4,
+    "hint": "Ich war sehr überrascht über das Geschenk. (Synonyme: erstaunt, verblüfft) (B1 - Adjektiv)"
+  },
+  {
+    "question": "überreden (zu + D)",
+    "choices": [
+      "felborulni, elesik (fall over)",
+      "rábeszélni vmire (persuade to)",
+      "megölelni (hug)",
+      "részt venni vmin (participate in)"
+    ],
+    "answer": 2,
+    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
+  },
+  {
+    "question": "rábeszélni vmire (persuade to)",
+    "choices": [
+      "um|fallen",
+      "trösten (+ A)",
+      "um|leiten (+ A)",
+      "überreden (zu + D)"
+    ],
+    "answer": 4,
+    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
+  },
+  {
+    "question": "übersetzen (+ A)",
+    "choices": [
+      "űzni, hajtani (pl. sportot) (drive / practice (sport))",
+      "dobolni (drum)",
+      "lefordítani (translate)",
+      "megölelni (hug)"
+    ],
+    "answer": 3,
+    "hint": "Können Sie diesen Text ins Deutsche übersetzen? (Synonyme: übertragen, dolmetschen) (B1 - Verb)"
+  },
+  {
+    "question": "lefordítani (translate)",
+    "choices": [
+      "umgeben (+ A)",
+      "übersetzen (+ A)",
+      "trainieren (+ A)",
+      "überreden (zu + D)"
+    ],
+    "answer": 2,
+    "hint": "Können Sie diesen Text ins Deutsche übersetzen? (Synonyme: übertragen, dolmetschen) (B1 - Verb)"
+  },
+  {
+    "question": "übertreiben (+ A)",
+    "choices": [
+      "táncolni (dance)",
+      "gépelni, tippelni (type / guess)",
+      "részt venni vmin (participate in)",
+      "eltúlozni (exaggerate)"
+    ],
+    "answer": 4,
+    "hint": "Du solltest nicht immer so übertreiben. (Synonyme: aufbauschen, dramatisieren) (B2 - Verb)"
+  },
+  {
+    "question": "eltúlozni (exaggerate)",
+    "choices": [
+      "stricken (+ A)",
+      "überprüfen (+ A)",
+      "übertreiben (+ A)",
+      "übersetzen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Du solltest nicht immer so übertreiben. (Synonyme: aufbauschen, dramatisieren) (B2 - Verb)"
+  },
+  {
+    "question": "überweisen (+ A / + D)",
+    "choices": [
+      "átutalni (transfer (money))",
+      "lefordítani (translate)",
+      "eltúlozni (exaggerate)",
+      "cserélni (exchange / swap)"
+    ],
+    "answer": 1,
+    "hint": "Ich überweise das Geld morgen auf Ihr Konto. (Synonyme: transferieren, senden) (B1 - Verb)"
+  },
+  {
+    "question": "átutalni (transfer (money))",
+    "choices": [
+      "übernachten",
+      "überprüfen (+ A)",
+      "überweisen (+ A / + D)",
+      "trainieren (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Ich überweise das Geld morgen auf Ihr Konto. (Synonyme: transferieren, senden) (B1 - Verb)"
+  },
+  {
+    "question": "überwinden (+ A)",
+    "choices": [
+      "megkeverni (stir)",
+      "leküzdeni (overcome)",
+      "osztani, megosztani (share / divide)",
+      "álmodni vmiről (dream of)"
+    ],
+    "answer": 2,
+    "hint": "Sie musste ihre Angst vor Hunden überwinden. (Synonyme: bewältigen, meistern, besiegen) (C1 - Verb)"
+  },
+  {
+    "question": "leküzdeni (overcome)",
+    "choices": [
+      "über|kochen",
+      "töten (+ A)",
+      "überwinden (+ A)",
+      "träumen (von + D)"
+    ],
+    "answer": 3,
+    "hint": "Sie musste ihre Angst vor Hunden überwinden. (Synonyme: bewältigen, meistern, besiegen) (C1 - Verb)"
+  },
+  {
+    "question": "überzeugen (von + D / + A)",
+    "choices": [
+      "kifutni (étel) (boil over)",
+      "körülvenni (surround)",
+      "átírni (rewrite)",
+      "meggyőzni vmiről (convince of)"
+    ],
+    "answer": 4,
+    "hint": "Deine Argumente haben mich überzeugt. (Synonyme: bekehren, gewinnen für) (B1 - Verb)"
+  },
+  {
+    "question": "meggyőzni vmiről (convince of)",
+    "choices": [
+      "um|steigen",
+      "überzeugen (von + D / + A)",
+      "umarmen (+ A)",
+      "tun (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Deine Argumente haben mich überzeugt. (Synonyme: bekehren, gewinnen für) (B1 - Verb)"
+  },
+  {
+    "question": "üblich",
+    "choices": [
+      "elméleti (theoretical)",
+      "szokásos (usual / common)",
+      "végtelen (infinite / endless)",
+      "szigorú (strict)"
+    ],
+    "answer": 2,
+    "hint": "Das ist hier so üblich. (Synonyme: normal, gewöhnlich, geläufig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "szokásos (usual / common)",
+    "choices": [
+      "unglaublich",
+      "üblich",
+      "unfair",
+      "streng"
+    ],
+    "answer": 2,
+    "hint": "Das ist hier so üblich. (Synonyme: normal, gewöhnlich, geläufig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "übrig",
+    "choices": [
+      "maradék (remaining / left over)",
+      "szokásos (usual / common)",
+      "néma (mute / silent)",
+      "stresszes (stressful)"
+    ],
+    "answer": 1,
+    "hint": "Ist noch etwas von der Pizza übrig? (Synonyme: verbleibend, restlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "maradék (remaining / left over)",
+    "choices": [
+      "übrig",
+      "tolerant",
+      "traurig",
+      "unangenehm"
+    ],
+    "answer": 1,
+    "hint": "Ist noch etwas von der Pizza übrig? (Synonyme: verbleibend, restlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "übrigens",
+    "choices": [
+      "feltétlenül (absolutely)",
+      "egyébként (by the way)",
+      "fokozatosan (gradually)",
+      "körülbelül (approximately)"
+    ],
+    "answer": 2,
+    "hint": "Übrigens, hast du schon von der Party gehört? (Synonyme: nebenbei bemerkt, apropos) (B1 - Adverb)"
+  },
+  {
+    "question": "egyébként (by the way)",
+    "choices": [
+      "übermorgen",
+      "überhaupt",
+      "überall",
+      "übrigens"
+    ],
+    "answer": 4,
+    "hint": "Übrigens, hast du schon von der Party gehört? (Synonyme: nebenbei bemerkt, apropos) (B1 - Adverb)"
+  },
+  {
+    "question": "üben (+ A)",
+    "choices": [
+      "ellenőrizni (check / verify)",
+      "lefordítani (translate)",
+      "átfogalmazni (rephrase)",
+      "gyakorolni (practice)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss jeden Tag Klavier üben. (Synonyme: trainieren, einstudieren) (A1 - Verb)"
+  },
+  {
+    "question": "gyakorolni (practice)",
+    "choices": [
+      "teil|nehmen (an + D)",
+      "um|schalten",
+      "übertreiben (+ A)",
+      "üben (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ich muss jeden Tag Klavier üben. (Synonyme: trainieren, einstudieren) (A1 - Verb)"
+  },
+  {
+    "question": "um (+ A)",
+    "choices": [
+      "elbizakodott (high-spirited / cocky)",
+      "meglepett vmi miatt (surprised by)",
+      "körül, -kor (idő) (around / at)",
+      "felett, fölé (over / above)"
+    ],
+    "answer": 3,
+    "hint": "Der Film beginnt um acht Uhr. (A1 - Präposition)"
+  },
+  {
+    "question": "körül, -kor (idő) (around / at)",
+    "choices": [
+      "über (+ A/D)",
+      "überrascht (von + D / über + A)",
+      "übermütig",
+      "um (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Der Film beginnt um acht Uhr. (A1 - Präposition)"
+  },
+  {
+    "question": "umarmen (+ A)",
+    "choices": [
+      "átírni (rewrite)",
+      "egyetemen tanulni (study (at university))",
+      "megölelni (hug)",
+      "gépelni, tippelni (type / guess)"
+    ],
+    "answer": 3,
+    "hint": "Sie umarmte ihren Freund herzlich. (Synonyme: herzen, drücken) (B1 - Verb)"
+  },
+  {
+    "question": "megölelni (hug)",
+    "choices": [
+      "umformulieren (+ A)",
+      "umarmen (+ A)",
+      "um|fallen",
+      "tauschen (+ A) (mit + D)"
+    ],
+    "answer": 2,
+    "hint": "Sie umarmte ihren Freund herzlich. (Synonyme: herzen, drücken) (B1 - Verb)"
+  },
+  {
+    "question": "um|bauen (+ A)",
+    "choices": [
+      "kifutni (étel) (boil over)",
+      "álmodni vmiről (dream of)",
+      "tombolni (rave / romp)",
+      "átépíteni (remodel / rebuild)"
+    ],
+    "answer": 4,
+    "hint": "Wir wollen das Dachgeschoss umbauen. (Synonyme: renovieren, sanieren, umgestalten) (B2 - Verb)"
+  },
+  {
+    "question": "átépíteni (remodel / rebuild)",
+    "choices": [
+      "um|bauen (+ A)",
+      "träumen (von + D)",
+      "tanken (+ A)",
+      "trauen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Wir wollen das Dachgeschoss umbauen. (Synonyme: renovieren, sanieren, umgestalten) (B2 - Verb)"
+  },
+  {
+    "question": "um|drehen (+ A / sich)",
+    "choices": [
+      "táncolni (dance)",
+      "becsapni (magát) (deceive / be mistaken)",
+      "gépelni, tippelni (type / guess)",
+      "megfordulni (turn around)"
+    ],
+    "answer": 4,
+    "hint": "Dreh dich mal um! (Synonyme: wenden, rotieren) (B1 - Verb)"
+  },
+  {
+    "question": "megfordulni (turn around)",
+    "choices": [
+      "um|drehen (+ A / sich)",
+      "übernachten",
+      "teil|nehmen (an + D)",
+      "summen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Dreh dich mal um! (Synonyme: wenden, rotieren) (B1 - Verb)"
+  },
+  {
+    "question": "um|fallen",
+    "choices": [
+      "táncolni (dance)",
+      "gyászolni vkit (mourn for)",
+      "felborulni, elesik (fall over)",
+      "tombolni (rave / romp)"
+    ],
+    "answer": 3,
+    "hint": "Der Baum ist beim Sturm umgefallen. (Synonyme: stürzen, kippen) (A2 - Verb)"
+  },
+  {
+    "question": "felborulni, elesik (fall over)",
+    "choices": [
+      "tragen (+ A)",
+      "tauschen (+ A) (mit + D)",
+      "um|leiten (+ A)",
+      "um|fallen"
+    ],
+    "answer": 4,
+    "hint": "Der Baum ist beim Sturm umgefallen. (Synonyme: stürzen, kippen) (A2 - Verb)"
+  },
+  {
+    "question": "umformulieren (+ A)",
+    "choices": [
+      "lefordítani (translate)",
+      "átfogalmazni (rephrase)",
+      "felborulni, elesik (fall over)",
+      "keresni vmit (search for)"
+    ],
+    "answer": 2,
+    "hint": "Kannst du diesen Satz bitte umformulieren? (Synonyme: umschreiben, anders ausdrücken) (B2 - Verb)"
+  },
+  {
+    "question": "átfogalmazni (rephrase)",
+    "choices": [
+      "überweisen (+ A / + D)",
+      "tanken (+ A)",
+      "trauen (+ D)",
+      "umformulieren (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Kannst du diesen Satz bitte umformulieren? (Synonyme: umschreiben, anders ausdrücken) (B2 - Verb)"
+  },
+  {
+    "question": "umgeben (+ A)",
+    "choices": [
+      "átutalni (transfer (money))",
+      "átkapcsolni (switch / change (channel))",
+      "kötni (ruha) (knit)",
+      "körülvenni (surround)"
+    ],
+    "answer": 4,
+    "hint": "Ein schöner Garten umgibt das Haus. (Synonyme: einschließen, umzingeln) (B2 - Verb)"
+  },
+  {
+    "question": "körülvenni (surround)",
+    "choices": [
+      "um|kehren",
+      "um|drehen (+ A / sich)",
+      "tippen (+ A)",
+      "umgeben (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ein schöner Garten umgibt das Haus. (Synonyme: einschließen, umzingeln) (B2 - Verb)"
+  },
+  {
+    "question": "um|kehren",
+    "choices": [
+      "meggyőzni vmiről (convince of)",
+      "visszafordulni (turn back)",
+      "átszállni (change (trains/buses))",
+      "részt venni vmin (participate in)"
+    ],
+    "answer": 2,
+    "hint": "Wir mussten wegen des Wetters umkehren. (Synonyme: zurückgehen, kehrtmachen) (B1 - Verb)"
+  },
+  {
+    "question": "visszafordulni (turn back)",
+    "choices": [
+      "übersetzen (+ A)",
+      "um|kehren",
+      "trainieren (+ A)",
+      "trauen (+ D)"
+    ],
+    "answer": 2,
+    "hint": "Wir mussten wegen des Wetters umkehren. (Synonyme: zurückgehen, kehrtmachen) (B1 - Verb)"
+  },
+  {
+    "question": "um|kommen",
+    "choices": [
+      "átszállni (change (trains/buses))",
+      "átkapcsolni (switch / change (channel))",
+      "megkeverni (stir)",
+      "meghalni (balesetben) (perish / die)"
+    ],
+    "answer": 4,
+    "hint": "Bei dem Unfall sind drei Menschen umgekommen. (Synonyme: sterben, verunglücken) (B2 - Verb)"
+  },
+  {
+    "question": "meghalni (balesetben) (perish / die)",
+    "choices": [
+      "treffen (+ A) (sich mit + D)",
+      "überprüfen (+ A)",
+      "studieren (+ A)",
+      "um|kommen"
+    ],
+    "answer": 4,
+    "hint": "Bei dem Unfall sind drei Menschen umgekommen. (Synonyme: sterben, verunglücken) (B2 - Verb)"
+  },
+  {
+    "question": "um|leiten (+ A)",
+    "choices": [
+      "álmodni vmiről (dream of)",
+      "tankolni (refuel / gas up)",
+      "telefonálni vkivel (talk on the phone with)",
+      "elterelni (divert)"
+    ],
+    "answer": 4,
+    "hint": "Der Verkehr wurde wegen der Baustelle umgeleitet. (Synonyme: ablenken, umschiffen) (B2 - Verb)"
+  },
+  {
+    "question": "elterelni (divert)",
+    "choices": [
+      "übernachten",
+      "teilen (+ A) (mit + D)",
+      "um|leiten (+ A)",
+      "überreden (zu + D)"
+    ],
+    "answer": 3,
+    "hint": "Der Verkehr wurde wegen der Baustelle umgeleitet. (Synonyme: ablenken, umschiffen) (B2 - Verb)"
+  },
+  {
+    "question": "um|rühren (+ A)",
+    "choices": [
+      "megkeverni (stir)",
+      "átírni (rewrite)",
+      "bízni vkiben (trust)",
+      "gyakorolni (practice)"
+    ],
+    "answer": 1,
+    "hint": "Rühren Sie die Suppe vorsichtig um. (Synonyme: mischen, mengen) (B1 - Verb)"
+  },
+  {
+    "question": "megkeverni (stir)",
+    "choices": [
+      "tauen",
+      "studieren (+ A)",
+      "um|rühren (+ A)",
+      "überreden (zu + D)"
+    ],
+    "answer": 3,
+    "hint": "Rühren Sie die Suppe vorsichtig um. (Synonyme: mischen, mengen) (B1 - Verb)"
+  },
+  {
+    "question": "um|schalten",
+    "choices": [
+      "gyászolni vkit (mourn for)",
+      "körülvenni (surround)",
+      "átkapcsolni (switch / change (channel))",
+      "átírni (rewrite)"
+    ],
+    "answer": 3,
+    "hint": "Schalte bitte mal auf ein anderes Programm um. (Synonyme: wechseln, verändern) (B1 - Verb)"
+  },
+  {
+    "question": "átkapcsolni (switch / change (channel))",
+    "choices": [
+      "trauen (+ D)",
+      "um|schalten",
+      "übertreiben (+ A)",
+      "trauern (um + A)"
+    ],
+    "answer": 2,
+    "hint": "Schalte bitte mal auf ein anderes Programm um. (Synonyme: wechseln, verändern) (B1 - Verb)"
+  },
+  {
+    "question": "umschreiben (+ A)",
+    "choices": [
+      "átírni (rewrite)",
+      "gyakorolni (practice)",
+      "meghalni (balesetben) (perish / die)",
+      "visszafordulni (turn back)"
+    ],
+    "answer": 1,
+    "hint": "Er musste den gesamten Bericht umschreiben. (Synonyme: neu fassen, paraphrasieren) (B2 - Verb)"
+  },
+  {
+    "question": "átírni (rewrite)",
+    "choices": [
+      "teil|nehmen (an + D)",
+      "umschreiben (+ A)",
+      "um|fallen",
+      "toben"
+    ],
+    "answer": 2,
+    "hint": "Er musste den gesamten Bericht umschreiben. (Synonyme: neu fassen, paraphrasieren) (B2 - Verb)"
+  },
+  {
+    "question": "umsonst",
+    "choices": [
+      "ingyen, hiába (for free / in vain)",
+      "lent (below / downstairs)",
+      "valójában, ténylegesen (actually / indeed)",
+      "mindenhol (everywhere)"
+    ],
+    "answer": 1,
+    "hint": "Der Eintritt war umsonst. (Synonyme: kostenlos, gratis / vergeblich) (A2 - Adverb)"
+  },
+  {
+    "question": "ingyen, hiába (for free / in vain)",
+    "choices": [
+      "unbedingt",
+      "ungefähr",
+      "umsonst",
+      "unten"
+    ],
+    "answer": 3,
+    "hint": "Der Eintritt war umsonst. (Synonyme: kostenlos, gratis / vergeblich) (A2 - Adverb)"
+  },
+  {
+    "question": "um|steigen",
+    "choices": [
+      "dobolni (drum)",
+      "lefordítani (translate)",
+      "átszállni (change (trains/buses))",
+      "egyetemen tanulni (study (at university))"
+    ],
+    "answer": 3,
+    "hint": "In Frankfurt müssen wir in den ICE umsteigen. (Synonyme: wechseln) (A2 - Verb)"
+  },
+  {
+    "question": "átszállni (change (trains/buses))",
+    "choices": [
+      "trösten (+ A)",
+      "um|steigen",
+      "umgeben (+ A)",
+      "treffen (+ A) (sich mit + D)"
+    ],
+    "answer": 2,
+    "hint": "In Frankfurt müssen wir in den ICE umsteigen. (Synonyme: wechseln) (A2 - Verb)"
+  },
+  {
+    "question": "um|tauschen (+ A)",
+    "choices": [
+      "visszafordulni (turn back)",
+      "meggyőzni vmiről (convince of)",
+      "kicserélni (exchange)",
+      "átírni (rewrite)"
+    ],
+    "answer": 3,
+    "hint": "Ich möchte die Hose gerne umtauschen. (Synonyme: wechseln, ersetzen) (A2 - Verb)"
+  },
+  {
+    "question": "kicserélni (exchange)",
+    "choices": [
+      "umgeben (+ A)",
+      "suchen (nach + D)",
+      "um|tauschen (+ A)",
+      "telefonieren (mit + D)"
+    ],
+    "answer": 3,
+    "hint": "Ich möchte die Hose gerne umtauschen. (Synonyme: wechseln, ersetzen) (A2 - Verb)"
+  },
+  {
+    "question": "um|ziehen (sich / in + A)",
+    "choices": [
+      "átöltözni, elköltözni (change clothes / move)",
+      "dobolni (drum)",
+      "felborulni, elesik (fall over)",
+      "körülvenni (surround)"
+    ],
+    "answer": 1,
+    "hint": "Wir ziehen nächsten Monat in eine neue Wohnung um. (Synonyme: die Kleidung wechseln / siedeln) (A1 - Verb)"
+  },
+  {
+    "question": "átöltözni, elköltözni (change clothes / move)",
+    "choices": [
+      "um|kehren",
+      "um|ziehen (sich / in + A)",
+      "über|kochen",
+      "studieren (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Wir ziehen nächsten Monat in eine neue Wohnung um. (Synonyme: die Kleidung wechseln / siedeln) (A1 - Verb)"
+  },
+  {
+    "question": "unangenehm",
+    "choices": [
+      "hátborzongató (uncanny / eerie)",
+      "néma (mute / silent)",
+      "szigorú (strict)",
+      "kellemetlen (unpleasant)"
+    ],
+    "answer": 4,
+    "hint": "Der Geruch im Keller war sehr unangenehm. (Synonyme: peinlich, ungemütlich, widrig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "kellemetlen (unpleasant)",
+    "choices": [
+      "unmöglich",
+      "traurig",
+      "unangenehm",
+      "trocken"
+    ],
+    "answer": 3,
+    "hint": "Der Geruch im Keller war sehr unangenehm. (Synonyme: peinlich, ungemütlich, widrig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "unbedingt",
+    "choices": [
+      "feltétlenül (absolutely)",
+      "lent (below / downstairs)",
+      "mindenhol (everywhere)",
+      "valójában, ténylegesen (actually / indeed)"
+    ],
+    "answer": 1,
+    "hint": "Ich muss dich unbedingt sprechen. (Synonyme: zwingend, auf jeden Fall) (B1 - Adverb)"
+  },
+  {
+    "question": "feltétlenül (absolutely)",
+    "choices": [
+      "tatsächlich",
+      "unbedingt",
+      "überhaupt",
+      "umsonst"
+    ],
+    "answer": 2,
+    "hint": "Ich muss dich unbedingt sprechen. (Synonyme: zwingend, auf jeden Fall) (B1 - Adverb)"
+  },
+  {
+    "question": "und",
+    "choices": [
+      "végtelen (infinite / endless)",
+      "és (and)",
+      "lehetetlen (impossible)",
+      "elméleti (theoretical)"
+    ],
+    "answer": 2,
+    "hint": "Ich hätte gerne Kaffee und Kuchen. (A1 - Konjunktion)"
+  },
+  {
+    "question": "és (and)",
+    "choices": [
+      "und",
+      "theoretisch",
+      "unendlich",
+      "unmöglich"
+    ],
+    "answer": 1,
+    "hint": "Ich hätte gerne Kaffee und Kuchen. (A1 - Konjunktion)"
+  },
+  {
+    "question": "unendlich",
+    "choices": [
+      "végtelen (infinite / endless)",
+      "óránként (hourly)",
+      "mély (deep)",
+      "jellemző vmire (typical of)"
+    ],
+    "answer": 1,
+    "hint": "Die Möglichkeiten im Internet sind fast unendlich. (Synonyme: grenzenlos, ewig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "végtelen (infinite / endless)",
+    "choices": [
+      "unendlich",
+      "tapfer",
+      "unfair",
+      "überrascht (von + D / über + A)"
+    ],
+    "answer": 1,
+    "hint": "Die Möglichkeiten im Internet sind fast unendlich. (Synonyme: grenzenlos, ewig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "unfair",
+    "choices": [
+      "nyugtalan (restless)",
+      "igazságtalan (unfair)",
+      "udvarias (impolite)",
+      "halott (dead)"
+    ],
+    "answer": 2,
+    "hint": "Das war eine unfaire Entscheidung des Schiedsrichters. (Synonyme: ungerecht, parteiisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "igazságtalan (unfair)",
+    "choices": [
+      "übel",
+      "sympathisch",
+      "unendlich",
+      "unfair"
+    ],
+    "answer": 4,
+    "hint": "Das war eine unfaire Entscheidung des Schiedsrichters. (Synonyme: ungerecht, parteiisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "ungefähr",
+    "choices": [
+      "valójában, ténylegesen (actually / indeed)",
+      "körülbelül (approximately)",
+      "egyáltalán (at all)",
+      "egyébként (by the way)"
+    ],
+    "answer": 2,
+    "hint": "Die Reise dauert ungefähr drei Stunden. (Synonyme: etwa, circa, rund) (A1 - Adverb)"
+  },
+  {
+    "question": "körülbelül (approximately)",
+    "choices": [
+      "unten",
+      "ungefähr",
+      "überhaupt",
+      "übrigens"
+    ],
+    "answer": 2,
+    "hint": "Die Reise dauert ungefähr drei Stunden. (Synonyme: etwa, circa, rund) (A1 - Adverb)"
+  },
+  {
+    "question": "unglaublich",
+    "choices": [
+      "toleráns (tolerant)",
+      "jellemző vmire (typical of)",
+      "hihetetlen (unbelievable)",
+      "szokásos (usual / common)"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine unglaubliche Geschichte. (Synonyme: fabelhaft, phänomenal) (B1 - Adjektiv)"
+  },
+  {
+    "question": "hihetetlen (unbelievable)",
+    "choices": [
+      "streng",
+      "unglaublich",
+      "übermütig",
+      "theoretisch"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine unglaubliche Geschichte. (Synonyme: fabelhaft, phänomenal) (B1 - Adjektiv)"
+  },
+  {
+    "question": "unheimlich",
+    "choices": [
+      "száraz (dry)",
+      "hűséges vkihez (loyal to)",
+      "hátborzongató (uncanny / eerie)",
+      "teljesen (total / complete)"
+    ],
+    "answer": 3,
+    "hint": "Im Wald war es nachts unheimlich. (Synonyme: gruselig, schaurig, gespenstisch) (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "hátborzongató (uncanny / eerie)",
+    "choices": [
+      "stressig",
+      "strikt",
+      "unheimlich",
+      "überrascht (von + D / über + A)"
+    ],
+    "answer": 3,
+    "hint": "Im Wald war es nachts unheimlich. (Synonyme: gruselig, schaurig, gespenstisch) (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "unhöflich",
+    "choices": [
+      "udvarias (impolite)",
+      "igazságtalan (unfair)",
+      "hihetetlen (unbelievable)",
+      "közvetlen (immediate / direct)"
+    ],
+    "answer": 1,
+    "hint": "Es ist unhöflich, mit vollem Mund zu sprechen. (Synonyme: rüde, grob, taktlos) (B1 - Adjektiv)"
+  },
+  {
+    "question": "udvarias (impolite)",
+    "choices": [
+      "überrascht (von + D / über + A)",
+      "strikt",
+      "unhöflich",
+      "total"
+    ],
+    "answer": 3,
+    "hint": "Es ist unhöflich, mit vollem Mund zu sprechen. (Synonyme: rüde, grob, taktlos) (B1 - Adjektiv)"
+  },
+  {
+    "question": "unmittelbar",
+    "choices": [
+      "közvetlen (immediate / direct)",
+      "igazságtalan (unfair)",
+      "teljesen (total / complete)",
+      "elméleti (theoretical)"
+    ],
+    "answer": 1,
+    "hint": "Das Hotel liegt unmittelbar am Strand. (Synonyme: direkt, schlagartig, instinktiv) (C1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "közvetlen (immediate / direct)",
+    "choices": [
+      "traurig",
+      "streng",
+      "unmittelbar",
+      "tot"
+    ],
+    "answer": 3,
+    "hint": "Das Hotel liegt unmittelbar am Strand. (Synonyme: direkt, schlagartig, instinktiv) (C1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "unmöglich",
+    "choices": [
+      "toleráns (tolerant)",
+      "elméleti (theoretical)",
+      "száraz (dry)",
+      "lehetetlen (impossible)"
+    ],
+    "answer": 4,
+    "hint": "Es ist unmöglich, es allen recht zu machen. (Synonyme: ausgeschlossen, undurchführbar) (B1 - Adjektiv)"
+  },
+  {
+    "question": "lehetetlen (impossible)",
+    "choices": [
+      "unheimlich",
+      "unmöglich",
+      "üblich",
+      "strikt"
+    ],
+    "answer": 2,
+    "hint": "Es ist unmöglich, es allen recht zu machen. (Synonyme: ausgeschlossen, undurchführbar) (B1 - Adjektiv)"
+  },
+  {
+    "question": "unruhig",
+    "choices": [
+      "szomorú (sad)",
+      "nyugtalan (restless)",
+      "bátor (brave)",
+      "mély (deep)"
+    ],
+    "answer": 2,
+    "hint": "Das Kind schlief heute Nacht sehr unruhig. (Synonyme: nervös, agitiert, hektisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "nyugtalan (restless)",
+    "choices": [
+      "tapfer",
+      "tief",
+      "total",
+      "unruhig"
+    ],
+    "answer": 4,
+    "hint": "Das Kind schlief heute Nacht sehr unruhig. (Synonyme: nervös, agitiert, hektisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "unten",
+    "choices": [
+      "fokozatosan (gradually)",
+      "lent (below / downstairs)",
+      "ingyen, hiába (for free / in vain)",
+      "valójában, ténylegesen (actually / indeed)"
+    ],
+    "answer": 2,
+    "hint": "Meine Großeltern wohnen im Haus unten. (Synonyme: unterhalb, im Erdgeschoss) (A1 - Adverb)"
+  },
+  {
+    "question": "lent (below / downstairs)",
+    "choices": [
+      "ungefähr",
+      "unten",
+      "tatsächlich",
+      "übrigens"
+    ],
+    "answer": 2,
+    "hint": "Meine Großeltern wohnen im Haus unten. (Synonyme: unterhalb, im Erdgeschoss) (A1 - Adverb)"
+  },
+  {
+    "question": "s Ökohaus, \"-er",
+    "choices": [
+      "visszavonulni (retreat / retire)",
+      "ízlelni (taste)",
+      "természetbarát ház (eco-house)",
+      "szédülő (dizzy)"
+    ],
+    "answer": 3,
+    "hint": "Unser neues Haus ist ein Ökohaus. (Synonyme: s Passivhaus, s Biohaus) (B2 - Nomen)"
+  },
+  {
+    "question": "természetbarát ház (eco-house)",
+    "choices": [
+      "(sich) zurück|ziehen",
+      "schmecken (+ D / nach + D)",
+      "s Ökohaus, \"-er",
+      "schwindlig"
+    ],
+    "answer": 3,
+    "hint": "Unser neues Haus ist ein Ökohaus. (Synonyme: s Passivhaus, s Biohaus) (B2 - Nomen)"
+  },
+  {
+    "question": "(sich) an|passen (+ D)",
+    "choices": [
+      "ráz (shake)",
+      "érdeklődni (vmi felől) (inquire about)",
+      "alkalmazkodik vkihez (adapt to someone)",
+      "visszavonulni (retreat / retire)"
+    ],
+    "answer": 3,
+    "hint": "Er kann sich neuen Situationen gut anpassen. (Synonyme: sich angleichen, sich fügen, sich akkommodieren) (B2 - Verb)"
+  },
+  {
+    "question": "alkalmazkodik vkihez (adapt to someone)",
+    "choices": [
+      "(sich) an|passen (+ D)",
+      "schwitzen",
+      "stehen|bleiben",
+      "stehlen (+ D + A)"
+    ],
+    "answer": 1,
+    "hint": "Er kann sich neuen Situationen gut anpassen. (Synonyme: sich angleichen, sich fügen, sich akkommodieren) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) an|schließen (+ D)",
+    "choices": [
+      "megegyezni (agree upon)",
+      "csatlakozik vkihez (join someone)",
+      "közeledik vmihez (approach something)",
+      "magázni (address formally / use \"Sie\")"
+    ],
+    "answer": 2,
+    "hint": "Darf ich mich euch anschließen? (Synonyme: beitreten, mitmachen, folgen) (B1 - Verb)"
+  },
+  {
+    "question": "csatlakozik vkihez (join someone)",
+    "choices": [
+      "staunen (über + A)",
+      "(sich) auf|drängen (+ D)",
+      "schießen",
+      "(sich) an|schließen (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Darf ich mich euch anschließen? (Synonyme: beitreten, mitmachen, folgen) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) auf|drängen (+ D)",
+    "choices": [
+      "ráerőlteti magát (impose oneself on)",
+      "emlékezni vmire (remember something)",
+      "érezni (testileg/lelkileg) (feel / sense)",
+      "megörül vminek (rejoice in something)"
+    ],
+    "answer": 1,
+    "hint": "Er will sich niemandem aufdrängen. (Synonyme: sich aufnötigen, sich aufzwingen) (B2 - Verb)"
+  },
+  {
+    "question": "ráerőlteti magát (impose oneself on)",
+    "choices": [
+      "segeln",
+      "(sich) auf|drängen (+ D)",
+      "schmücken (+ A)",
+      "(sich) erkundigen (nach + D)"
+    ],
+    "answer": 2,
+    "hint": "Er will sich niemandem aufdrängen. (Synonyme: sich aufnötigen, sich aufzwingen) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) aus|toben",
+    "choices": [
+      "kitombolja magát (let off steam)",
+      "létrehoz (create / accomplish)",
+      "meghalni vmiben (die of)",
+      "eldönteni (decide)"
+    ],
+    "answer": 1,
+    "hint": "Die Kinder müssen sich auf dem Spielplatz austoben. (Synonyme: sich auslassen, sich auspowern) (B2 - Verb)"
+  },
+  {
+    "question": "kitombolja magát (let off steam)",
+    "choices": [
+      "(sich) interessieren für + A",
+      "(sich) vor|stellen (+ D + A)",
+      "siezen (+ A)",
+      "(sich) aus|toben"
+    ],
+    "answer": 4,
+    "hint": "Die Kinder müssen sich auf dem Spielplatz austoben. (Synonyme: sich auslassen, sich auspowern) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) beschweren (über + A)",
+    "choices": [
+      "különbözni (differ)",
+      "elbúcsúzik (say goodbye)",
+      "panaszkodni (complain)",
+      "permetezni (spray)"
+    ],
+    "answer": 3,
+    "hint": "Sie beschweren sich über den Lärm. (Synonyme: klagen, reklamieren, nörgeln) (B1 - Verb)"
+  },
+  {
+    "question": "panaszkodni (complain)",
+    "choices": [
+      "(sich) einigen (auf + A)",
+      "(sich) beschweren (über + A)",
+      "schütteln (+ A)",
+      "streichen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Sie beschweren sich über den Lärm. (Synonyme: klagen, reklamieren, nörgeln) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) die Beine vertreten",
+    "choices": [
+      "megnyújtóztatja a lábait (stretch one's legs)",
+      "valami olyasmi, mint (something like)",
+      "fontossá tenni magát (make oneself important)",
+      "szó van (vmiről) (concern / be about)"
+    ],
+    "answer": 1,
+    "hint": "Nach der langen Fahrt muss ich mir die Beine vertreten. (Synonyme: spazieren gehen, einen Spaziergang machen) (B1 - Ausdruck)"
+  },
+  {
+    "question": "megnyújtóztatja a lábait (stretch one's legs)",
+    "choices": [
+      "(sich) die Beine vertreten",
+      "sowas wie",
+      "(es) handelt sich um (+ A)",
+      "(sich) wichtig machen"
+    ],
+    "answer": 1,
+    "hint": "Nach der langen Fahrt muss ich mir die Beine vertreten. (Synonyme: spazieren gehen, einen Spaziergang machen) (B1 - Ausdruck)"
+  },
+  {
+    "question": "(sich) einigen (auf + A)",
+    "choices": [
+      "sugározni (beam / radiate)",
+      "érdeklődni (inquire)",
+      "informálódni (get informed)",
+      "megegyezni (agree upon)"
+    ],
+    "answer": 4,
+    "hint": "Wir konnten uns auf einen Termin einigen. (Synonyme: übereinkommen, verständigen, abmachen) (B2 - Verb)"
+  },
+  {
+    "question": "megegyezni (agree upon)",
+    "choices": [
+      "(sich) einigen (auf + A)",
+      "schwitzen",
+      "schaffen (+ A)",
+      "strecken (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Wir konnten uns auf einen Termin einigen. (Synonyme: übereinkommen, verständigen, abmachen) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) entschließen (zu + D)",
+    "choices": [
+      "eldönteni (decide)",
+      "félti magát (be afraid / fear)",
+      "érezni (testileg/lelkileg) (feel / sense)",
+      "állni (stand)"
+    ],
+    "answer": 1,
+    "hint": "Er hat sich dazu entschlossen, den Job zu kündigen. (Synonyme: sich festlegen, beschließen) (B1 - Verb)"
+  },
+  {
+    "question": "eldönteni (decide)",
+    "choices": [
+      "(sich) bewegen",
+      "(sich) erfreuen (+ G / an + D)",
+      "sterben (an + D)",
+      "(sich) entschließen (zu + D)"
+    ],
+    "answer": 4,
+    "hint": "Er hat sich dazu entschlossen, den Job zu kündigen. (Synonyme: sich festlegen, beschließen) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) erfreuen (+ G / an + D)",
+    "choices": [
+      "érezni (testileg/lelkileg) (feel / sense)",
+      "dugni, van vhol (stick / put)",
+      "permetezni (spray)",
+      "megörül vminek (rejoice in something)"
+    ],
+    "answer": 4,
+    "hint": "Er erfreut sich bester Gesundheit. (Synonyme: genießen, sich freuen) (B2 - Verb)"
+  },
+  {
+    "question": "megörül vminek (rejoice in something)",
+    "choices": [
+      "(sich) verlassen (auf + A)",
+      "(sich) fürchten (vor + D)",
+      "staunen (über + A)",
+      "(sich) erfreuen (+ G / an + D)"
+    ],
+    "answer": 4,
+    "hint": "Er erfreut sich bester Gesundheit. (Synonyme: genießen, sich freuen) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) erinnern (an + A)",
+    "choices": [
+      "emlékezni vmire (remember something)",
+      "szégyellni magát (be ashamed)",
+      "ráz (shake)",
+      "bezár / köt (tie / conclude (e.g. peace))"
+    ],
+    "answer": 1,
+    "hint": "Ich erinnere mich gerne an meinen Urlaub. (Synonyme: zurückdenken, gedenken) (A2 - Verb)"
+  },
+  {
+    "question": "emlékezni vmire (remember something)",
+    "choices": [
+      "(sich) erinnern (an + A)",
+      "stecken (+ Dir / + Loc)",
+      "schützen (+ A) (vor + D)",
+      "(sich) unterhalten (mit + D / über + A)"
+    ],
+    "answer": 1,
+    "hint": "Ich erinnere mich gerne an meinen Urlaub. (Synonyme: zurückdenken, gedenken) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) erkundigen (nach + D)",
+    "choices": [
+      "szégyellni magát (be ashamed)",
+      "állítani (place / set)",
+      "veszekedni (argue / fight)",
+      "érdeklődni (inquire)"
+    ],
+    "answer": 4,
+    "hint": "Ich möchte mich nach dem Preis erkundigen. (Synonyme: nachfragen, fragen, sich informieren) (B1 - Verb)"
+  },
+  {
+    "question": "érdeklődni (inquire)",
+    "choices": [
+      "(sich) melden (bei + D)",
+      "(sich) erkundigen (nach + D)",
+      "stammeln (+ A)",
+      "schießen"
+    ],
+    "answer": 2,
+    "hint": "Ich möchte mich nach dem Preis erkundigen. (Synonyme: nachfragen, fragen, sich informieren) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) freuen (auf + A / über + A)",
+    "choices": [
+      "félti magát (be afraid / fear)",
+      "díszíteni (decorate / adorn)",
+      "örül vminek előre / utólag (look forward to / be happy about)",
+      "hallgatni (csendben lenni) (be silent)"
+    ],
+    "answer": 3,
+    "hint": "Ich freue mich auf das Wochenende. (Synonyme: sich beglücken, jubeln) (A2 - Verb)"
+  },
+  {
+    "question": "örül vminek előre / utólag (look forward to / be happy about)",
+    "choices": [
+      "schmücken (+ A)",
+      "siezen (+ A)",
+      "stehen",
+      "(sich) freuen (auf + A / über + A)"
+    ],
+    "answer": 4,
+    "hint": "Ich freue mich auf das Wochenende. (Synonyme: sich beglücken, jubeln) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) fürchten (vor + D)",
+    "choices": [
+      "félti magát (be afraid / fear)",
+      "származni vhonnan (stem from / originate from)",
+      "blamálni magát, felsülni (embarrass oneself)",
+      "emelkedni, mászni (climb / rise)"
+    ],
+    "answer": 1,
+    "hint": "Er fürchtet sich vor der Dunkelheit. (Synonyme: Angst haben, sich ängstigen) (B1 - Verb)"
+  },
+  {
+    "question": "félti magát (be afraid / fear)",
+    "choices": [
+      "(sich) fürchten (vor + D)",
+      "segeln",
+      "(sich) kümmern um + A",
+      "(sich) entschließen (zu + D)"
+    ],
+    "answer": 1,
+    "hint": "Er fürchtet sich vor der Dunkelheit. (Synonyme: Angst haben, sich ängstigen) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) informieren (über + A)",
+    "choices": [
+      "érdeklődni (vmi iránt) (be interested (in))",
+      "informálódni (get informed)",
+      "kitombolja magát (let off steam)",
+      "elválni, elválasztani (separate)"
+    ],
+    "answer": 2,
+    "hint": "Man sollte sich vor dem Kauf gut informieren. (Synonyme: sich kundig machen, recherchieren) (A2 - Verb)"
+  },
+  {
+    "question": "informálódni (get informed)",
+    "choices": [
+      "strecken (+ A)",
+      "sterben (an + D)",
+      "(sich) informieren (über + A)",
+      "stören (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Man sollte sich vor dem Kauf gut informieren. (Synonyme: sich kundig machen, recherchieren) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) melden (bei + D)",
+    "choices": [
+      "jelentkezni (report / apply)",
+      "érdeklődni (vmi felől) (inquire about)",
+      "örül vminek előre / utólag (look forward to / be happy about)",
+      "hallgatni (vmiről) (keep silent about)"
+    ],
+    "answer": 1,
+    "hint": "Bitte melde dich morgen bei mir. (Synonyme: Kontakt aufnehmen, Bescheid geben) (A2 - Verb)"
+  },
+  {
+    "question": "jelentkezni (report / apply)",
+    "choices": [
+      "(sich) kümmern (um + A)",
+      "(sich) nähern (+ D)",
+      "strecken (+ A)",
+      "(sich) melden (bei + D)"
+    ],
+    "answer": 4,
+    "hint": "Bitte melde dich morgen bei mir. (Synonyme: Kontakt aufnehmen, Bescheid geben) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) nähern (+ D)",
+    "choices": [
+      "dugni, van vhol (stick / put)",
+      "lopni (steal)",
+      "közeledik vmihez (approach something)",
+      "panaszkodni (complain)"
+    ],
+    "answer": 3,
+    "hint": "Das Schiff nähert sich dem Hafen. (Synonyme: herankommen, näher kommen) (B2 - Verb)"
+  },
+  {
+    "question": "közeledik vmihez (approach something)",
+    "choices": [
+      "(sich) verlassen (auf + A)",
+      "(sich) auf|drängen (+ D)",
+      "schießen",
+      "(sich) nähern (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Das Schiff nähert sich dem Hafen. (Synonyme: herankommen, näher kommen) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) trennen (von + D)",
+    "choices": [
+      "közeledik vmihez (approach something)",
+      "emlékezni vmire (remember something)",
+      "elválni, elválasztani (separate)",
+      "simogatni (pet / stroke)"
+    ],
+    "answer": 3,
+    "hint": "Sie haben sich nach vielen Jahren getrennt. (Synonyme: sich scheiden lassen, auseinandergehen) (B1 - Verb)"
+  },
+  {
+    "question": "elválni, elválasztani (separate)",
+    "choices": [
+      "(sich) interessieren (für + A)",
+      "(sich) kümmern um + A",
+      "(sich) trennen (von + D)",
+      "(sich) nähern (+ D)"
+    ],
+    "answer": 3,
+    "hint": "Sie haben sich nach vielen Jahren getrennt. (Synonyme: sich scheiden lassen, auseinandergehen) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) unterhalten (mit + D / über + A)",
+    "choices": [
+      "beszélgetni (chat / converse)",
+      "magázni (address formally / use \"Sie\")",
+      "emelkedni, mászni (climb / rise)",
+      "érezni (testileg/lelkileg) (feel / sense)"
+    ],
+    "answer": 1,
+    "hint": "Wir haben uns lange über den Film unterhalten. (Synonyme: plaudern, schwatzen, reden) (A2 - Verb)"
+  },
+  {
+    "question": "beszélgetni (chat / converse)",
+    "choices": [
+      "(sich) unterscheiden (von + D)",
+      "(sich) blamieren",
+      "(sich) unterhalten (mit + D / über + A)",
+      "(sich) verlassen (auf + A)"
+    ],
+    "answer": 3,
+    "hint": "Wir haben uns lange über den Film unterhalten. (Synonyme: plaudern, schwatzen, reden) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) unterscheiden (von + D)",
+    "choices": [
+      "érdeklődni (vmi iránt) (be interested (in))",
+      "díszíteni (decorate / adorn)",
+      "veszekedni (argue / fight)",
+      "különbözni (differ)"
+    ],
+    "answer": 4,
+    "hint": "Die beiden Produkte unterscheiden sich kaum. (Synonyme: abweichen, differieren) (B1 - Verb)"
+  },
+  {
+    "question": "különbözni (differ)",
+    "choices": [
+      "stehen",
+      "spüren (+ A)",
+      "(sich) unterscheiden (von + D)",
+      "staunen (über + A)"
+    ],
+    "answer": 3,
+    "hint": "Die beiden Produkte unterscheiden sich kaum. (Synonyme: abweichen, differieren) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) verabschieden (von + D)",
+    "choices": [
+      "bemutatkozni, elképzelni (introduce oneself / imagine)",
+      "dadogni (stammer)",
+      "festeni, törölni, kenegetni (paint / cancel / stroke)",
+      "elbúcsúzik (say goodbye)"
+    ],
+    "answer": 4,
+    "hint": "Er hat sich höflich von seinen Gästen verabschiedet. (Synonyme: Adieu sagen, gehen) (A2 - Verb)"
+  },
+  {
+    "question": "elbúcsúzik (say goodbye)",
+    "choices": [
+      "(sich) verabschieden (von + D)",
+      "(sich) melden (bei + D)",
+      "streichen (+ A)",
+      "(sich) unterscheiden (von + D)"
+    ],
+    "answer": 1,
+    "hint": "Er hat sich höflich von seinen Gästen verabschiedet. (Synonyme: Adieu sagen, gehen) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) verlassen (auf + A)",
+    "choices": [
+      "állni (stand)",
+      "megbízni vkiben (trust someone)",
+      "szégyellni magát (vmi miatt) (be ashamed of)",
+      "ízlelni (taste)"
+    ],
+    "answer": 2,
+    "hint": "Du kannst dich voll und ganz auf mich verlassen. (Synonyme: vertrauen, bauen auf) (B1 - Verb)"
+  },
+  {
+    "question": "megbízni vkiben (trust someone)",
+    "choices": [
+      "(sich) blamieren",
+      "stammeln (+ A)",
+      "(sich) an|passen (+ D)",
+      "(sich) verlassen (auf + A)"
+    ],
+    "answer": 4,
+    "hint": "Du kannst dich voll und ganz auf mich verlassen. (Synonyme: vertrauen, bauen auf) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) vor|stellen (+ D + A)",
+    "choices": [
+      "lőni (vkire/vmire) (shoot at)",
+      "bemutatkozni, elképzelni (introduce oneself / imagine)",
+      "díszíteni (decorate / adorn)",
+      "örül vminek előre / utólag (look forward to / be happy about)"
+    ],
+    "answer": 2,
+    "hint": "Darf ich mich vorstellen? (Synonyme: präsentieren, imaginieren) (A2 - Verb)"
+  },
+  {
+    "question": "bemutatkozni, elképzelni (introduce oneself / imagine)",
+    "choices": [
+      "streicheln (+ A)",
+      "(sich) einigen (auf + A)",
+      "stehen|bleiben",
+      "(sich) vor|stellen (+ D + A)"
+    ],
+    "answer": 4,
+    "hint": "Darf ich mich vorstellen? (Synonyme: präsentieren, imaginieren) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) wichtig machen",
+    "choices": [
+      "valami olyasmi, mint (something like)",
+      "megnyújtóztatja a lábait (stretch one's legs)",
+      "szó van (vmiről) (concern / be about)",
+      "fontossá tenni magát (make oneself important)"
+    ],
+    "answer": 4,
+    "hint": "Er versucht immer, sich wichtig zu machen. (Synonyme: angeben, sich profilieren) (C1 - Ausdruck)"
+  },
+  {
+    "question": "fontossá tenni magát (make oneself important)",
+    "choices": [
+      "sowas wie",
+      "(es) handelt sich um (+ A)",
+      "(sich) die Beine vertreten",
+      "(sich) wichtig machen"
+    ],
+    "answer": 4,
+    "hint": "Er versucht immer, sich wichtig zu machen. (Synonyme: angeben, sich profilieren) (C1 - Ausdruck)"
+  },
+  {
+    "question": "sachlich",
+    "choices": [
+      "ferde, hibás, téves (crooked / wrong)",
+      "tárgyilagos (objective / factual)",
+      "állandóan (constantly)",
+      "spontán (spontaneous)"
+    ],
+    "answer": 2,
+    "hint": "Bitte bleiben Sie bei der Diskussion sachlich. (Synonyme: objektiv, neutral, faktenbasiert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "tárgyilagos (objective / factual)",
+    "choices": [
+      "schlimm",
+      "spießig",
+      "sachlich",
+      "sichtbar"
+    ],
+    "answer": 3,
+    "hint": "Bitte bleiben Sie bei der Diskussion sachlich. (Synonyme: objektiv, neutral, faktenbasiert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "satt",
+    "choices": [
+      "spontán (spontaneous)",
+      "folyamatos, töretlen (steady / continuous)",
+      "jóllakott (full / satiated)",
+      "ugyanaz (the same)"
+    ],
+    "answer": 3,
+    "hint": "Ich bin satt, ich kann nichts mehr essen. (Synonyme: gesättigt, voll) (A2 - Adjektiv)"
+  },
+  {
+    "question": "jóllakott (full / satiated)",
+    "choices": [
+      "satt",
+      "schwindlig",
+      "sachlich",
+      "selben"
+    ],
+    "answer": 1,
+    "hint": "Ich bin satt, ich kann nichts mehr essen. (Synonyme: gesättigt, voll) (A2 - Adjektiv)"
+  },
+  {
+    "question": "schaffen (+ A)",
+    "choices": [
+      "tárolni (save / store)",
+      "létrehoz (create / accomplish)",
+      "nyújtani (stretch)",
+      "beszélgetni (chat / converse)"
+    ],
+    "answer": 2,
+    "hint": "Gott schuf die Welt in sechs Tagen. (Synonyme: kreieren, erschaffen, vollbringen) (A2 - Verb)"
+  },
+  {
+    "question": "létrehoz (create / accomplish)",
+    "choices": [
+      "(sich) trennen (von + D)",
+      "schütteln (+ A)",
+      "schaffen (+ A)",
+      "stehen|bleiben"
+    ],
+    "answer": 3,
+    "hint": "Gott schuf die Welt in sechs Tagen. (Synonyme: kreieren, erschaffen, vollbringen) (A2 - Verb)"
+  },
+  {
+    "question": "scharf",
+    "choices": [
+      "csípős, éles (spicy / sharp)",
+      "spontán (spontaneous)",
+      "értelmetlen (senseless / pointless)",
+      "hasznos, értelmes (meaningful / sensible)"
+    ],
+    "answer": 1,
+    "hint": "Das Messer ist sehr scharf. (Synonyme: pikant, schneidend) (A2 - Adjektiv)"
+  },
+  {
+    "question": "csípős, éles (spicy / sharp)",
+    "choices": [
+      "steil",
+      "stetig",
+      "scharf",
+      "sinnlos"
+    ],
+    "answer": 3,
+    "hint": "Das Messer ist sehr scharf. (Synonyme: pikant, schneidend) (A2 - Adjektiv)"
+  },
+  {
+    "question": "schief",
+    "choices": [
+      "büszke vmire (proud of)",
+      "meredek (steep)",
+      "ferde, hibás, téves (crooked / wrong)",
+      "látható (visible)"
+    ],
+    "answer": 3,
+    "hint": "Das Bild hängt schief an der Wand. (Synonyme: krumm, asymmetrisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "ferde, hibás, téves (crooked / wrong)",
+    "choices": [
+      "satt",
+      "ständig",
+      "schief",
+      "stolz (auf + A)"
+    ],
+    "answer": 3,
+    "hint": "Das Bild hängt schief an der Wand. (Synonyme: krumm, asymmetrisch) (B1 - Adjektiv)"
+  },
+  {
+    "question": "schießen",
+    "choices": [
+      "emlékezni vmire (remember something)",
+      "lő / lőni (shoot)",
+      "díszíteni (decorate / adorn)",
+      "megbízni vkiben (trust someone)"
+    ],
+    "answer": 2,
+    "hint": "Er schoss auf das Tor. (Synonyme: abfeuern, ballern) (B1 - Verb)"
+  },
+  {
+    "question": "lő / lőni (shoot)",
+    "choices": [
+      "(sich) einigen (auf + A)",
+      "steigen",
+      "schießen",
+      "strecken (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Er schoss auf das Tor. (Synonyme: abfeuern, ballern) (B1 - Verb)"
+  },
+  {
+    "question": "schießen auf + A",
+    "choices": [
+      "törődni (vkivel/vmivel) (care for / look after)",
+      "lőni (vkire/vmire) (shoot at)",
+      "magázni (address formally / use \"Sie\")",
+      "közeledik vmihez (approach something)"
+    ],
+    "answer": 2,
+    "hint": "Die Jäger schießen auf Hirsche. (Synonyme: anvisieren, treffen) (B1 - Verb)"
+  },
+  {
+    "question": "lőni (vkire/vmire) (shoot at)",
+    "choices": [
+      "(sich) aus|toben",
+      "schießen auf + A",
+      "schneiden (+ A)",
+      "(sich) nähern (+ D)"
+    ],
+    "answer": 2,
+    "hint": "Die Jäger schießen auf Hirsche. (Synonyme: anvisieren, treffen) (B1 - Verb)"
+  },
+  {
+    "question": "schließen (+ A)",
+    "choices": [
+      "ízlelni (taste)",
+      "bezár / köt (tie / conclude (e.g. peace))",
+      "érezni (testileg/lelkileg) (feel / sense)",
+      "meghalni vmiben (die of)"
+    ],
+    "answer": 2,
+    "hint": "Bitte schließen Sie die Tür. (Synonyme: zumachen, beenden, abschließen) (A2 - Verb)"
+  },
+  {
+    "question": "bezár / köt (tie / conclude (e.g. peace))",
+    "choices": [
+      "(sich) beschweren (über + A)",
+      "schließen (+ A)",
+      "stecken (+ Dir / + Loc)",
+      "stechen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Bitte schließen Sie die Tür. (Synonyme: zumachen, beenden, abschließen) (A2 - Verb)"
+  },
+  {
+    "question": "schlimm",
+    "choices": [
+      "feszes (tight / firm)",
+      "erős (strong)",
+      "rossz (bad / bad (health))",
+      "félénk (shy)"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine schlimme Nachricht. (Synonyme: böse, furchtbar, arg) (A2 - Adjektiv)"
+  },
+  {
+    "question": "rossz (bad / bad (health))",
+    "choices": [
+      "schlimm",
+      "sachlich",
+      "steil",
+      "satt"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine schlimme Nachricht. (Synonyme: böse, furchtbar, arg) (A2 - Adjektiv)"
+  },
+  {
+    "question": "schmecken (+ D / nach + D)",
+    "choices": [
+      "hallgatni (vmiről) (keep silent about)",
+      "ízlelni (taste)",
+      "szégyellni magát (be ashamed)",
+      "veszekedni (argue / fight)"
+    ],
+    "answer": 2,
+    "hint": "Das Essen schmeckt ausgezeichnet. (Synonyme: munden) (A1 - Verb)"
+  },
+  {
+    "question": "ízlelni (taste)",
+    "choices": [
+      "segeln",
+      "schmecken (+ D / nach + D)",
+      "(sich) entschließen (zu + D)",
+      "stehen"
+    ],
+    "answer": 2,
+    "hint": "Das Essen schmeckt ausgezeichnet. (Synonyme: munden) (A1 - Verb)"
+  },
+  {
+    "question": "schmücken (+ A)",
+    "choices": [
+      "panaszkodni (complain)",
+      "törődni (vkivel/vmivel) (care for / look after)",
+      "díszíteni (decorate / adorn)",
+      "izzadni (sweat)"
+    ],
+    "answer": 3,
+    "hint": "Wir schmücken den Tannenbaum. (Synonyme: dekorieren, verzieren) (B1 - Verb)"
+  },
+  {
+    "question": "díszíteni (decorate / adorn)",
+    "choices": [
+      "schmücken (+ A)",
+      "(sich) erkundigen nach + D",
+      "(sich) unterhalten (mit + D / über + A)",
+      "(sich) verabschieden (von + D)"
+    ],
+    "answer": 1,
+    "hint": "Wir schmücken den Tannenbaum. (Synonyme: dekorieren, verzieren) (B1 - Verb)"
+  },
+  {
+    "question": "schneiden (+ A)",
+    "choices": [
+      "elbúcsúzik (say goodbye)",
+      "dadogni (stammer)",
+      "vágni (cut)",
+      "megállni (stop / stay standing)"
+    ],
+    "answer": 3,
+    "hint": "Er schneidet das Brot in Scheiben. (Synonyme: zerteilen, sägen) (A2 - Verb)"
+  },
+  {
+    "question": "vágni (cut)",
+    "choices": [
+      "streicheln (+ A)",
+      "(sich) aus|toben",
+      "schneiden (+ A)",
+      "(sich) bewegen"
+    ],
+    "answer": 3,
+    "hint": "Er schneidet das Brot in Scheiben. (Synonyme: zerteilen, sägen) (A2 - Verb)"
+  },
+  {
+    "question": "schweigen",
+    "choices": [
+      "visszavonulni (retreat / retire)",
+      "hallgatni (csendben lenni) (be silent)",
+      "ráerőlteti magát (impose oneself on)",
+      "blamálni magát, felsülni (embarrass oneself)"
+    ],
+    "answer": 2,
+    "hint": "In der Bibliothek muss man schweigen. (Synonyme: still sein, verstummen) (B1 - Verb)"
+  },
+  {
+    "question": "hallgatni (csendben lenni) (be silent)",
+    "choices": [
+      "(sich) auf|drängen (+ D)",
+      "steigen",
+      "schweigen",
+      "stellen (+ A + Dir)"
+    ],
+    "answer": 3,
+    "hint": "In der Bibliothek muss man schweigen. (Synonyme: still sein, verstummen) (B1 - Verb)"
+  },
+  {
+    "question": "schweigen über + A",
+    "choices": [
+      "visszavonulni (retreat / retire)",
+      "bemutatkozni, elképzelni (introduce oneself / imagine)",
+      "hallgatni (vmiről) (keep silent about)",
+      "elválni, elválasztani (separate)"
+    ],
+    "answer": 3,
+    "hint": "Er schweigt über seine Vergangenheit. (Synonyme: verschweigen, totschweigen) (B2 - Verb)"
+  },
+  {
+    "question": "hallgatni (vmiről) (keep silent about)",
+    "choices": [
+      "schweigen über + A",
+      "(sich) auf|drängen (+ D)",
+      "schmecken (+ D / nach + D)",
+      "schaffen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er schweigt über seine Vergangenheit. (Synonyme: verschweigen, totschweigen) (B2 - Verb)"
+  },
+  {
+    "question": "schwindlig",
+    "choices": [
+      "erős (strong)",
+      "szédülő (dizzy)",
+      "ferde, hibás, téves (crooked / wrong)",
+      "különös (strange / weird)"
+    ],
+    "answer": 2,
+    "hint": "Mir ist schwindlig. (Synonyme: benommen, taumelig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "szédülő (dizzy)",
+    "choices": [
+      "stramm",
+      "schwindlig",
+      "seltsam",
+      "schüchtern"
+    ],
+    "answer": 2,
+    "hint": "Mir ist schwindlig. (Synonyme: benommen, taumelig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "schwitzen",
+    "choices": [
+      "vágni (cut)",
+      "érdeklődni (vmi iránt) (be interested (in))",
+      "hallgatni (vmiről) (keep silent about)",
+      "izzadni (sweat)"
+    ],
+    "answer": 4,
+    "hint": "Beim Sport kommt man schnell ins Schwitzen. (Synonyme: transpirieren, feucht werden) (B1 - Verb)"
+  },
+  {
+    "question": "izzadni (sweat)",
+    "choices": [
+      "spritzen (+ A)",
+      "schwitzen",
+      "(sich) kümmern um + A",
+      "schließen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Beim Sport kommt man schnell ins Schwitzen. (Synonyme: transpirieren, feucht werden) (B1 - Verb)"
+  },
+  {
+    "question": "schüchtern",
+    "choices": [
+      "állandóan (constantly)",
+      "spontán (spontaneous)",
+      "látható (visible)",
+      "félénk (shy)"
+    ],
+    "answer": 4,
+    "hint": "Das Kind ist sehr schüchtern gegenüber Fremden. (Synonyme: zurückhaltend, gehemmt, scheu) (A2 - Adjektiv)"
+  },
+  {
+    "question": "félénk (shy)",
+    "choices": [
+      "stark",
+      "schüchtern",
+      "schwindlig",
+      "sichtbar"
+    ],
+    "answer": 2,
+    "hint": "Das Kind ist sehr schüchtern gegenüber Fremden. (Synonyme: zurückhaltend, gehemmt, scheu) (A2 - Adjektiv)"
+  },
+  {
+    "question": "schütteln (+ A)",
+    "choices": [
+      "létrehoz (create / accomplish)",
+      "ráz (shake)",
+      "megörül vminek (rejoice in something)",
+      "megállni (stop / stay standing)"
+    ],
+    "answer": 2,
+    "hint": "Er schüttelte den Kopf. (Synonyme: rütteln, erschüttern) (B1 - Verb)"
+  },
+  {
+    "question": "ráz (shake)",
+    "choices": [
+      "strahlen",
+      "schütteln (+ A)",
+      "(sich) schämen",
+      "(sich) vor|stellen (+ D + A)"
+    ],
+    "answer": 2,
+    "hint": "Er schüttelte den Kopf. (Synonyme: rütteln, erschüttern) (B1 - Verb)"
+  },
+  {
+    "question": "schützen (+ A) (vor + D)",
+    "choices": [
+      "hallgatni (csendben lenni) (be silent)",
+      "hallgatni (vmiről) (keep silent about)",
+      "dugni, van vhol (stick / put)",
+      "véd (protect)"
+    ],
+    "answer": 4,
+    "hint": "Diese Creme schützt vor Sonnenbrand. (Synonyme: bewahren, abschirmen, verteidigen) (B1 - Verb)"
+  },
+  {
+    "question": "véd (protect)",
+    "choices": [
+      "(sich) vor|stellen (+ D + A)",
+      "schießen",
+      "strahlen",
+      "schützen (+ A) (vor + D)"
+    ],
+    "answer": 4,
+    "hint": "Diese Creme schützt vor Sonnenbrand. (Synonyme: bewahren, abschirmen, verteidigen) (B1 - Verb)"
+  },
+  {
+    "question": "segeln",
+    "choices": [
+      "alkalmazkodik vkihez (adapt to someone)",
+      "vitorlázik (sail)",
+      "lő / lőni (shoot)",
+      "nyújtani (stretch)"
+    ],
+    "answer": 2,
+    "hint": "Wir segeln im Sommer oft auf dem See. (Synonyme: bootfahren, schippern) (A2 - Verb)"
+  },
+  {
+    "question": "vitorlázik (sail)",
+    "choices": [
+      "segeln",
+      "(sich) aus|toben",
+      "(sich) erkundigen nach + D",
+      "stehlen (+ D + A)"
+    ],
+    "answer": 1,
+    "hint": "Wir segeln im Sommer oft auf dem See. (Synonyme: bootfahren, schippern) (A2 - Verb)"
+  },
+  {
+    "question": "seitdem",
+    "choices": [
+      "azóta (since then)",
+      "hanem (but (rather))",
+      "érezni (testileg/lelkileg) (feel / sense)",
+      "folyamatos, töretlen (steady / continuous)"
+    ],
+    "answer": 1,
+    "hint": "Er ist weggezogen und seitdem haben wir uns nicht gesehen. (Synonyme: von da an, seither) (B1 - Konjunktion/hsz)"
+  },
+  {
+    "question": "azóta (since then)",
+    "choices": [
+      "spüren (+ A)",
+      "seitdem",
+      "sondern",
+      "stetig"
+    ],
+    "answer": 2,
+    "hint": "Er ist weggezogen und seitdem haben wir uns nicht gesehen. (Synonyme: von da an, seither) (B1 - Konjunktion/hsz)"
+  },
+  {
+    "question": "selben",
+    "choices": [
+      "ugyanaz (the same)",
+      "meredek (steep)",
+      "egyéb, más (other)",
+      "szédülő (dizzy)"
+    ],
+    "answer": 1,
+    "hint": "Wir tragen heute das selbe Hemd. (Synonyme: identisch, gleich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "ugyanaz (the same)",
+    "choices": [
+      "sachlich",
+      "scharf",
+      "stark",
+      "selben"
+    ],
+    "answer": 4,
+    "hint": "Wir tragen heute das selbe Hemd. (Synonyme: identisch, gleich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "seltsam",
+    "choices": [
+      "különös (strange / weird)",
+      "folyamatos, töretlen (steady / continuous)",
+      "rossz (bad / bad (health))",
+      "büszke vmire (proud of)"
+    ],
+    "answer": 1,
+    "hint": "Das ist eine seltsame Geschichte. (Synonyme: komisch, kurios, eigenartig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "különös (strange / weird)",
+    "choices": [
+      "scharf",
+      "seltsam",
+      "schüchtern",
+      "ständig"
+    ],
+    "answer": 2,
+    "hint": "Das ist eine seltsame Geschichte. (Synonyme: komisch, kurios, eigenartig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "(sich) bewegen",
+    "choices": [
+      "fecskendezni, fröcskölni (spray / inject)",
+      "jelentkezni (report / apply)",
+      "mozogni (move)",
+      "törődni (care / look after)"
+    ],
+    "answer": 3,
+    "hint": "Pflanzen können sich nicht bewegen. (Synonyme: rühren, agieren) (A2 - Verb)"
+  },
+  {
+    "question": "mozogni (move)",
+    "choices": [
+      "(sich) bewegen",
+      "stehen|bleiben",
+      "schütteln (+ A)",
+      "(sich) auf|drängen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Pflanzen können sich nicht bewegen. (Synonyme: rühren, agieren) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) blamieren",
+    "choices": [
+      "visszavonulni (retreat / retire)",
+      "meghalni vmiben (die of)",
+      "blamálni magát, felsülni (embarrass oneself)",
+      "beszélgetni (chat / converse)"
+    ],
+    "answer": 3,
+    "hint": "Ich wollte mich vor meinen Freunden nicht blamieren. (Synonyme: sich lächerlich machen, sich bloßstellen) (B2 - Verb)"
+  },
+  {
+    "question": "blamálni magát, felsülni (embarrass oneself)",
+    "choices": [
+      "(sich) unterscheiden (von + D)",
+      "(sich) an|schließen (+ D)",
+      "(sich) einigen (auf + A)",
+      "(sich) blamieren"
+    ],
+    "answer": 4,
+    "hint": "Ich wollte mich vor meinen Freunden nicht blamieren. (Synonyme: sich lächerlich machen, sich bloßstellen) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) erkundigen nach + D",
+    "choices": [
+      "érdeklődni (vmi felől) (inquire about)",
+      "jelentkezni (report / apply)",
+      "emelkedni, mászni (climb / rise)",
+      "ráz (shake)"
+    ],
+    "answer": 1,
+    "hint": "Er hat sich nach deinem Wohlbefinden erkundigt. (B1 - Verb)"
+  },
+  {
+    "question": "érdeklődni (vmi felől) (inquire about)",
+    "choices": [
+      "(sich) erkundigen nach + D",
+      "(sich) erinnern (an + A)",
+      "steigen",
+      "(sich) bewegen"
+    ],
+    "answer": 1,
+    "hint": "Er hat sich nach deinem Wohlbefinden erkundigt. (B1 - Verb)"
+  },
+  {
+    "question": "(es) handelt sich um (+ A)",
+    "choices": [
+      "megnyújtóztatja a lábait (stretch one's legs)",
+      "valami olyasmi, mint (something like)",
+      "szó van (vmiről) (concern / be about)",
+      "fontossá tenni magát (make oneself important)"
+    ],
+    "answer": 3,
+    "hint": "Es handelt sich um ein Missverständnis. (Synonyme: es geht um, es ist) (B1 - Ausdruck)"
+  },
+  {
+    "question": "szó van (vmiről) (concern / be about)",
+    "choices": [
+      "sowas wie",
+      "(sich) wichtig machen",
+      "(es) handelt sich um (+ A)",
+      "(sich) die Beine vertreten"
+    ],
+    "answer": 3,
+    "hint": "Es handelt sich um ein Missverständnis. (Synonyme: es geht um, es ist) (B1 - Ausdruck)"
+  },
+  {
+    "question": "(sich) interessieren (für + A)",
+    "choices": [
+      "állni (stand)",
+      "dugni, van vhol (stick / put)",
+      "magázni (address formally / use \"Sie\")",
+      "érdeklődni (vmi iránt) (be interested (in))"
+    ],
+    "answer": 4,
+    "hint": "Interessierst du dich für Politik? (Synonyme: Anteil nehmen, Neugier zeigen) (A2 - Verb)"
+  },
+  {
+    "question": "érdeklődni (vmi iránt) (be interested (in))",
+    "choices": [
+      "(sich) melden (bei + D)",
+      "stellen (+ A + Dir)",
+      "(sich) fürchten (vor + D)",
+      "(sich) interessieren (für + A)"
+    ],
+    "answer": 4,
+    "hint": "Interessierst du dich für Politik? (Synonyme: Anteil nehmen, Neugier zeigen) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) interessieren für + A",
+    "choices": [
+      "simogatni (pet / stroke)",
+      "vitorlázik (sail)",
+      "érdeklődni (vmi iránt) (be interested in)",
+      "bezár / köt (tie / conclude (e.g. peace))"
+    ],
+    "answer": 3,
+    "hint": "Ich interessiere mich sehr für alte Autos. (A2 - Verb)"
+  },
+  {
+    "question": "érdeklődni (vmi iránt) (be interested in)",
+    "choices": [
+      "(sich) interessieren für + A",
+      "schneiden (+ A)",
+      "(sich) vor|stellen (+ D + A)",
+      "(sich) bewegen"
+    ],
+    "answer": 1,
+    "hint": "Ich interessiere mich sehr für alte Autos. (A2 - Verb)"
+  },
+  {
+    "question": "(sich) kümmern (um + A)",
+    "choices": [
+      "meghalni vmiben (die of)",
+      "törődni (care / look after)",
+      "szégyellni magát (vmi miatt) (be ashamed of)",
+      "érdeklődni (vmi felől) (inquire about)"
+    ],
+    "answer": 2,
+    "hint": "Wer kümmert sich um die Katze? (Synonyme: sorgen für, betreuen, pflegen) (A2 - Verb)"
+  },
+  {
+    "question": "törődni (care / look after)",
+    "choices": [
+      "(sich) kümmern (um + A)",
+      "(sich) schämen für + A",
+      "(sich) fürchten (vor + D)",
+      "(sich) schämen"
+    ],
+    "answer": 1,
+    "hint": "Wer kümmert sich um die Katze? (Synonyme: sorgen für, betreuen, pflegen) (A2 - Verb)"
+  },
+  {
+    "question": "(sich) kümmern um + A",
+    "choices": [
+      "megbízni vkiben (trust someone)",
+      "csodálkozni vmin (be amazed at)",
+      "félti magát (be afraid / fear)",
+      "törődni (vkivel/vmivel) (care for / look after)"
+    ],
+    "answer": 4,
+    "hint": "Sie kümmert sich rührend um ihre kranke Mutter. (A2 - Verb)"
+  },
+  {
+    "question": "törődni (vkivel/vmivel) (care for / look after)",
+    "choices": [
+      "schweigen",
+      "(sich) kümmern um + A",
+      "(sich) streiten (mit + D / über + A)",
+      "(sich) erkundigen (nach + D)"
+    ],
+    "answer": 2,
+    "hint": "Sie kümmert sich rührend um ihre kranke Mutter. (A2 - Verb)"
+  },
+  {
+    "question": "(sich) schämen",
+    "choices": [
+      "szégyellni magát (be ashamed)",
+      "törődni (care / look after)",
+      "izzadni (sweat)",
+      "dugni, van vhol (stick / put)"
+    ],
+    "answer": 1,
+    "hint": "Du solltest dich für dein Verhalten schämen. (Synonyme: Reue empfinden, sich genieren) (B1 - Verb)"
+  },
+  {
+    "question": "szégyellni magát (be ashamed)",
+    "choices": [
+      "(sich) schämen",
+      "spritzen (+ A)",
+      "(sich) unterscheiden (von + D)",
+      "stören (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Du solltest dich für dein Verhalten schämen. (Synonyme: Reue empfinden, sich genieren) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) schämen für + A",
+    "choices": [
+      "állítani (place / set)",
+      "megörül vminek (rejoice in something)",
+      "vágni (cut)",
+      "szégyellni magát (vmi miatt) (be ashamed of)"
+    ],
+    "answer": 4,
+    "hint": "Er schämt sich für seine schlechten Noten. (B1 - Verb)"
+  },
+  {
+    "question": "szégyellni magát (vmi miatt) (be ashamed of)",
+    "choices": [
+      "(sich) schämen für + A",
+      "schaffen (+ A)",
+      "(sich) erkundigen nach + D",
+      "(sich) unterhalten (mit + D / über + A)"
+    ],
+    "answer": 1,
+    "hint": "Er schämt sich für seine schlechten Noten. (B1 - Verb)"
+  },
+  {
+    "question": "(sich) zurück|ziehen",
+    "choices": [
+      "mozogni (move)",
+      "ráerőlteti magát (impose oneself on)",
+      "visszavonulni (retreat / retire)",
+      "zavarni vkit (disturb)"
+    ],
+    "answer": 3,
+    "hint": "Der General befahl den Truppen, sich zurückzuziehen. (Synonyme: weichen, flüchten, abdanken) (B2 - Verb)"
+  },
+  {
+    "question": "visszavonulni (retreat / retire)",
+    "choices": [
+      "(sich) zurück|ziehen",
+      "stecken (+ Dir / + Loc)",
+      "speichern (+ A)",
+      "schießen"
+    ],
+    "answer": 1,
+    "hint": "Der General befahl den Truppen, sich zurückzuziehen. (Synonyme: weichen, flüchten, abdanken) (B2 - Verb)"
+  },
+  {
+    "question": "sichtbar",
+    "choices": [
+      "jóllakott (full / satiated)",
+      "értelmetlen (senseless / pointless)",
+      "látható (visible)",
+      "egyéb, más (other)"
+    ],
+    "answer": 3,
+    "hint": "Die Berge sind heute gut sichtbar. (Synonyme: erkennbar, deutlich, ersichtlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "látható (visible)",
+    "choices": [
+      "seltsam",
+      "schwindlig",
+      "sichtbar",
+      "stramm"
+    ],
+    "answer": 3,
+    "hint": "Die Berge sind heute gut sichtbar. (Synonyme: erkennbar, deutlich, ersichtlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "siezen (+ A)",
+    "choices": [
+      "ráerőlteti magát (impose oneself on)",
+      "magázni (address formally / use \"Sie\")",
+      "dadogni (stammer)",
+      "eldönteni (decide)"
+    ],
+    "answer": 2,
+    "hint": "In Deutschland siezt man seinen Chef normalerweise. (Synonyme: förmlich ansprechen) (A2 - Verb)"
+  },
+  {
+    "question": "magázni (address formally / use \"Sie\")",
+    "choices": [
+      "schmecken (+ D / nach + D)",
+      "siezen (+ A)",
+      "strahlen",
+      "schwitzen"
+    ],
+    "answer": 2,
+    "hint": "In Deutschland siezt man seinen Chef normalerweise. (Synonyme: förmlich ansprechen) (A2 - Verb)"
+  },
+  {
+    "question": "sinnlos",
+    "choices": [
+      "állandóan (constantly)",
+      "csípős, éles (spicy / sharp)",
+      "értelmetlen (senseless / pointless)",
+      "egyéb, más (other)"
+    ],
+    "answer": 3,
+    "hint": "Es ist sinnlos, darüber zu streiten. (Synonyme: zwecklos, unnütz, absurd) (B1 - Adjektiv)"
+  },
+  {
+    "question": "értelmetlen (senseless / pointless)",
+    "choices": [
+      "stolz (auf + A)",
+      "schlimm",
+      "spießig",
+      "sinnlos"
+    ],
+    "answer": 4,
+    "hint": "Es ist sinnlos, darüber zu streiten. (Synonyme: zwecklos, unnütz, absurd) (B1 - Adjektiv)"
+  },
+  {
+    "question": "sinnvoll",
+    "choices": [
+      "állandóan (constantly)",
+      "hasznos, értelmes (meaningful / sensible)",
+      "meredek (steep)",
+      "folyamatos, töretlen (steady / continuous)"
+    ],
+    "answer": 2,
+    "hint": "Das ist ein sinnvoller Vorschlag. (Synonyme: vernünftig, zweckmäßig, nützlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "hasznos, értelmes (meaningful / sensible)",
+    "choices": [
+      "scharf",
+      "schwindlig",
+      "sinnvoll",
+      "stark"
+    ],
+    "answer": 3,
+    "hint": "Das ist ein sinnvoller Vorschlag. (Synonyme: vernünftig, zweckmäßig, nützlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "sondern",
+    "choices": [
+      "állandóan (constantly)",
+      "törődni (care / look after)",
+      "azóta (since then)",
+      "hanem (but (rather))"
+    ],
+    "answer": 4,
+    "hint": "Ich trinke keinen Kaffee, sondern Tee. (Synonyme: vielmehr) (A2 - Konjunktion)"
+  },
+  {
+    "question": "hanem (but (rather))",
+    "choices": [
+      "sondern",
+      "ständig",
+      "seitdem",
+      "(sich) kümmern (um + A)"
+    ],
+    "answer": 1,
+    "hint": "Ich trinke keinen Kaffee, sondern Tee. (Synonyme: vielmehr) (A2 - Konjunktion)"
+  },
+  {
+    "question": "sonst",
+    "choices": [
+      "máskülönben (otherwise)",
+      "állni (stand)",
+      "eldönteni (decide)",
+      "máshol (somewhere else)"
+    ],
+    "answer": 1,
+    "hint": "Beeil dich, sonst kommen wir zu spät. (Synonyme: andernfalls, ansonsten) (A2 - Adverb)"
+  },
+  {
+    "question": "máskülönben (otherwise)",
+    "choices": [
+      "(sich) entschließen (zu + D)",
+      "sonst",
+      "stehen",
+      "sonstwo"
+    ],
+    "answer": 2,
+    "hint": "Beeil dich, sonst kommen wir zu spät. (Synonyme: andernfalls, ansonsten) (A2 - Adverb)"
+  },
+  {
+    "question": "sonstig",
+    "choices": [
+      "szédülő (dizzy)",
+      "merev (stiff / rigid)",
+      "egyéb, más (other)",
+      "különös (strange / weird)"
+    ],
+    "answer": 3,
+    "hint": "Haben Sie sonstige Wünsche? (Synonyme: anderweitig, verbleibend, üblich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "egyéb, más (other)",
+    "choices": [
+      "stolz (auf + A)",
+      "sinnlos",
+      "spießig",
+      "sonstig"
+    ],
+    "answer": 4,
+    "hint": "Haben Sie sonstige Wünsche? (Synonyme: anderweitig, verbleibend, üblich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "sonstwo",
+    "choices": [
+      "természetbarát ház (eco-house)",
+      "máshol (somewhere else)",
+      "máskülönben (otherwise)",
+      "véd (protect)"
+    ],
+    "answer": 2,
+    "hint": "Wenn es hier nicht ist, muss es sonstwo sein. (Synonyme: anderswo, an einem anderen Ort) (B2 - Adverb)"
+  },
+  {
+    "question": "máshol (somewhere else)",
+    "choices": [
+      "s Ökohaus, \"-er",
+      "sonstwo",
+      "schützen (+ A) (vor + D)",
+      "sonst"
+    ],
+    "answer": 2,
+    "hint": "Wenn es hier nicht ist, muss es sonstwo sein. (Synonyme: anderswo, an einem anderen Ort) (B2 - Adverb)"
+  },
+  {
+    "question": "sowas wie",
+    "choices": [
+      "megnyújtóztatja a lábait (stretch one's legs)",
+      "szó van (vmiről) (concern / be about)",
+      "fontossá tenni magát (make oneself important)",
+      "valami olyasmi, mint (something like)"
+    ],
+    "answer": 4,
+    "hint": "Das ist sowas wie ein Hobby for mich. (Synonyme: so etwas wie, ähnlich wie) (B1 - Ausdruck)"
+  },
+  {
+    "question": "valami olyasmi, mint (something like)",
+    "choices": [
+      "(sich) wichtig machen",
+      "sowas wie",
+      "(sich) die Beine vertreten",
+      "(es) handelt sich um (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Das ist sowas wie ein Hobby for mich. (Synonyme: so etwas wie, ähnlich wie) (B1 - Ausdruck)"
+  },
+  {
+    "question": "speichern (+ A)",
+    "choices": [
+      "tárolni (save / store)",
+      "szégyellni magát (vmi miatt) (be ashamed of)",
+      "állni (stand)",
+      "vitorlázik (sail)"
+    ],
+    "answer": 1,
+    "hint": "Vergessen Sie nicht, das Dokument zu speichern. (Synonyme: sichern, aufbewahren, registrieren) (B1 - Verb)"
+  },
+  {
+    "question": "tárolni (save / store)",
+    "choices": [
+      "segeln",
+      "speichern (+ A)",
+      "(sich) verlassen (auf + A)",
+      "(sich) erfreuen (+ G / an + D)"
+    ],
+    "answer": 2,
+    "hint": "Vergessen Sie nicht, das Dokument zu speichern. (Synonyme: sichern, aufbewahren, registrieren) (B1 - Verb)"
+  },
+  {
+    "question": "spießig",
+    "choices": [
+      "nyárspolgár (bourgeois / philistine)",
+      "feszes (tight / firm)",
+      "meredek (steep)",
+      "erős (strong)"
+    ],
+    "answer": 1,
+    "hint": "Er hat sehr spießige Ansichten. (Synonyme: kleinbürgerlich, konservativ, engstirnig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "nyárspolgár (bourgeois / philistine)",
+    "choices": [
+      "spießig",
+      "schwindlig",
+      "seltsam",
+      "spontan"
+    ],
+    "answer": 1,
+    "hint": "Er hat sehr spießige Ansichten. (Synonyme: kleinbürgerlich, konservativ, engstirnig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "spontan",
+    "choices": [
+      "spontán (spontaneous)",
+      "jóllakott (full / satiated)",
+      "ugyanaz (the same)",
+      "látható (visible)"
+    ],
+    "answer": 1,
+    "hint": "Das war eine spontane Entscheidung. (Synonyme: impulsiv, unvorbereitet, aus dem Bauch heraus) (B1 - Adjektiv)"
+  },
+  {
+    "question": "spontán (spontaneous)",
+    "choices": [
+      "scharf",
+      "spontan",
+      "sichtbar",
+      "stolz (auf + A)"
+    ],
+    "answer": 2,
+    "hint": "Das war eine spontane Entscheidung. (Synonyme: impulsiv, unvorbereitet, aus dem Bauch heraus) (B1 - Adjektiv)"
+  },
+  {
+    "question": "spritzen (+ A)",
+    "choices": [
+      "törődni (care / look after)",
+      "fecskendezni, fröcskölni (spray / inject)",
+      "jelentkezni (report / apply)",
+      "vágni (cut)"
+    ],
+    "answer": 2,
+    "hint": "Das Wasser spritzt in alle Richtungen. (Synonyme: sprühen, injizieren, kleckern) (B2 - Verb)"
+  },
+  {
+    "question": "fecskendezni, fröcskölni (spray / inject)",
+    "choices": [
+      "spritzen (+ A)",
+      "(sich) schämen",
+      "(sich) erinnern (an + A)",
+      "strecken (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Das Wasser spritzt in alle Richtungen. (Synonyme: sprühen, injizieren, kleckern) (B2 - Verb)"
+  },
+  {
+    "question": "sprühen (+ A)",
+    "choices": [
+      "permetezni (spray)",
+      "megegyezni (agree upon)",
+      "érezni (testileg/lelkileg) (feel / sense)",
+      "érdeklődni (inquire)"
+    ],
+    "answer": 1,
+    "hint": "Er sprühte Parfüm auf sein Handgelenk. (Synonyme: vernebeln, zerstäuben) (B2 - Verb)"
+  },
+  {
+    "question": "permetezni (spray)",
+    "choices": [
+      "stören (+ A)",
+      "schützen (+ A) (vor + D)",
+      "streicheln (+ A)",
+      "sprühen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er sprühte Parfüm auf sein Handgelenk. (Synonyme: vernebeln, zerstäuben) (B2 - Verb)"
+  },
+  {
+    "question": "spüren (+ A)",
+    "choices": [
+      "dugni, van vhol (stick / put)",
+      "szégyellni magát (vmi miatt) (be ashamed of)",
+      "érezni (testileg/lelkileg) (feel / sense)",
+      "elválni, elválasztani (separate)"
+    ],
+    "answer": 3,
+    "hint": "Ich spüre die Kälte kaum noch. (Synonyme: fühlen, empfinden, wahrnehmen) (B1 - Verb)"
+  },
+  {
+    "question": "érezni (testileg/lelkileg) (feel / sense)",
+    "choices": [
+      "(sich) aus|toben",
+      "schützen (+ A) (vor + D)",
+      "spüren (+ A)",
+      "schließen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Ich spüre die Kälte kaum noch. (Synonyme: fühlen, empfinden, wahrnehmen) (B1 - Verb)"
+  },
+  {
+    "question": "stammeln (+ A)",
+    "choices": [
+      "permetezni (spray)",
+      "emlékezni vmire (remember something)",
+      "dadogni (stammer)",
+      "fecskendezni, fröcskölni (spray / inject)"
+    ],
+    "answer": 3,
+    "hint": "Er stammelte ein paar Worte der Entschuldigung. (Synonyme: stottern, lallen) (B2 - Verb)"
+  },
+  {
+    "question": "dadogni (stammer)",
+    "choices": [
+      "stammeln (+ A)",
+      "(sich) auf|drängen (+ D)",
+      "(sich) bewegen",
+      "schließen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Er stammelte ein paar Worte der Entschuldigung. (Synonyme: stottern, lallen) (B2 - Verb)"
+  },
+  {
+    "question": "stammen (aus + D)",
+    "choices": [
+      "szégyellni magát (vmi miatt) (be ashamed of)",
+      "érdeklődni (inquire)",
+      "sugározni (beam / radiate)",
+      "származni vhonnan (stem from / originate from)"
+    ],
+    "answer": 4,
+    "hint": "Diese Tradition stammt aus dem Mittelalter. (Synonyme: herkommen, entspringen, basieren) (B1 - Verb)"
+  },
+  {
+    "question": "származni vhonnan (stem from / originate from)",
+    "choices": [
+      "(sich) fürchten (vor + D)",
+      "stammen (aus + D)",
+      "(sich) interessieren (für + A)",
+      "schmecken (+ D / nach + D)"
+    ],
+    "answer": 2,
+    "hint": "Diese Tradition stammt aus dem Mittelalter. (Synonyme: herkommen, entspringen, basieren) (B1 - Verb)"
+  },
+  {
+    "question": "ständig",
+    "choices": [
+      "tárgyilagos (objective / factual)",
+      "merev (stiff / rigid)",
+      "állandóan (constantly)",
+      "spontán (spontaneous)"
+    ],
+    "answer": 3,
+    "hint": "Er ist ständig unterwegs. (Synonyme: permanent, dauernd, fortwährend) (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "állandóan (constantly)",
+    "choices": [
+      "seltsam",
+      "stolz (auf + A)",
+      "schüchtern",
+      "ständig"
+    ],
+    "answer": 4,
+    "hint": "Er ist ständig unterwegs. (Synonyme: permanent, dauernd, fortwährend) (B1 - Adjektiv/hsz)"
+  },
+  {
+    "question": "stark",
+    "choices": [
+      "tárgyilagos (objective / factual)",
+      "erős (strong)",
+      "különös (strange / weird)",
+      "szédülő (dizzy)"
+    ],
+    "answer": 2,
+    "hint": "Er ist ein starker Mann. (Synonyme: kräftig, mächtig, intensiv) (A1 - Adjektiv)"
+  },
+  {
+    "question": "erős (strong)",
+    "choices": [
+      "stolz (auf + A)",
+      "schief",
+      "stark",
+      "spontan"
+    ],
+    "answer": 3,
+    "hint": "Er ist ein starker Mann. (Synonyme: kräftig, mächtig, intensiv) (A1 - Adjektiv)"
+  },
+  {
+    "question": "starr",
+    "choices": [
+      "jóllakott (full / satiated)",
+      "merev (stiff / rigid)",
+      "meredek (steep)",
+      "folyamatos, töretlen (steady / continuous)"
+    ],
+    "answer": 2,
+    "hint": "Er blickte mit starrem Blick aus dem Fenster. (Synonyme: unbeweglich, steif, unflexibel) (B2 - Adjektiv)"
+  },
+  {
+    "question": "merev (stiff / rigid)",
+    "choices": [
+      "spießig",
+      "sichtbar",
+      "starr",
+      "sonstig"
+    ],
+    "answer": 3,
+    "hint": "Er blickte mit starrem Blick aus dem Fenster. (Synonyme: unbeweglich, steif, unflexibel) (B2 - Adjektiv)"
+  },
+  {
+    "question": "statt (+ G)",
+    "choices": [
+      "érdeklődni (inquire)",
+      "helyett (instead of)",
+      "félti magát (be afraid / fear)",
+      "elbúcsúzik (say goodbye)"
+    ],
+    "answer": 2,
+    "hint": "Statt eines Autos kaufte er sich ein Fahrrad. (Synonyme: anstelle von, anstatt) (B1 - Präposition)"
+  },
+  {
+    "question": "helyett (instead of)",
+    "choices": [
+      "statt (+ G)",
+      "(sich) erkundigen (nach + D)",
+      "(sich) fürchten (vor + D)",
+      "(sich) verabschieden (von + D)"
+    ],
+    "answer": 1,
+    "hint": "Statt eines Autos kaufte er sich ein Fahrrad. (Synonyme: anstelle von, anstatt) (B1 - Präposition)"
+  },
+  {
+    "question": "staunen (über + A)",
+    "choices": [
+      "örül vminek előre / utólag (look forward to / be happy about)",
+      "csodálkozni vmin (be amazed at)",
+      "jelentkezni (report / apply)",
+      "visszavonulni (retreat / retire)"
+    ],
+    "answer": 2,
+    "hint": "Sie staunten über die Schönheit der Landschaft. (Synonyme: sich wundern, bewundern) (B1 - Verb)"
+  },
+  {
+    "question": "csodálkozni vmin (be amazed at)",
+    "choices": [
+      "segeln",
+      "(sich) fürchten (vor + D)",
+      "staunen (über + A)",
+      "schießen"
+    ],
+    "answer": 3,
+    "hint": "Sie staunten über die Schönheit der Landschaft. (Synonyme: sich wundern, bewundern) (B1 - Verb)"
+  },
+  {
+    "question": "stechen (+ A)",
+    "choices": [
+      "szégyellni magát (be ashamed)",
+      "szúrni, csípni (sting / prick)",
+      "emlékezni vmire (remember something)",
+      "szégyellni magát (vmi miatt) (be ashamed of)"
+    ],
+    "answer": 2,
+    "hint": "Eine Wespe hat mich in den Arm gestochen. (Synonyme: pieksen, punktieren) (B1 - Verb)"
+  },
+  {
+    "question": "szúrni, csípni (sting / prick)",
+    "choices": [
+      "stechen (+ A)",
+      "(sich) bewegen",
+      "(sich) auf|drängen (+ D)",
+      "(sich) an|schließen (+ D)"
+    ],
+    "answer": 1,
+    "hint": "Eine Wespe hat mich in den Arm gestochen. (Synonyme: pieksen, punktieren) (B1 - Verb)"
+  },
+  {
+    "question": "stecken (+ Dir / + Loc)",
+    "choices": [
+      "panaszkodni (complain)",
+      "származni vhonnan (stem from / originate from)",
+      "vitorlázik (sail)",
+      "dugni, van vhol (stick / put)"
+    ],
+    "answer": 4,
+    "hint": "Er steckte den Schlüssel in die Tasche. (Synonyme: schieben, platzieren, befinden) (B1 - Verb)"
+  },
+  {
+    "question": "dugni, van vhol (stick / put)",
+    "choices": [
+      "(sich) an|passen (+ D)",
+      "(sich) verabschieden (von + D)",
+      "(sich) erkundigen (nach + D)",
+      "stecken (+ Dir / + Loc)"
+    ],
+    "answer": 4,
+    "hint": "Er steckte den Schlüssel in die Tasche. (Synonyme: schieben, platzieren, befinden) (B1 - Verb)"
+  },
+  {
+    "question": "stehen",
+    "choices": [
+      "törődni (vkivel/vmivel) (care for / look after)",
+      "meghalni vmiben (die of)",
+      "létrehoz (create / accomplish)",
+      "állni (stand)"
+    ],
+    "answer": 4,
+    "hint": "Er steht vor dem Haus. (Synonyme: sich befinden, ragen) (A1 - Verb)"
+  },
+  {
+    "question": "állni (stand)",
+    "choices": [
+      "speichern (+ A)",
+      "stehen",
+      "spritzen (+ A)",
+      "stehlen (+ D + A)"
+    ],
+    "answer": 2,
+    "hint": "Er steht vor dem Haus. (Synonyme: sich befinden, ragen) (A1 - Verb)"
+  },
+  {
+    "question": "stehen|bleiben",
+    "choices": [
+      "megállni (stop / stay standing)",
+      "elválni, elválasztani (separate)",
+      "csodálkozni vmin (be amazed at)",
+      "kitombolja magát (let off steam)"
+    ],
+    "answer": 1,
+    "hint": "Plötzlich blieb er stehen. (Synonyme: anhalten, stoppen, verweilen) (A2 - Verb)"
+  },
+  {
+    "question": "megállni (stop / stay standing)",
+    "choices": [
+      "staunen (über + A)",
+      "stehen|bleiben",
+      "streichen (+ A)",
+      "spüren (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Plötzlich blieb er stehen. (Synonyme: anhalten, stoppen, verweilen) (A2 - Verb)"
+  },
+  {
+    "question": "stehlen (+ D + A)",
+    "choices": [
+      "érdeklődni (vmi felől) (inquire about)",
+      "hallgatni (csendben lenni) (be silent)",
+      "lopni (steal)",
+      "dadogni (stammer)"
+    ],
+    "answer": 3,
+    "hint": "Jemand hat mir mein Handy gestohlen. (Synonyme: entwenden, rauben, klauen) (B1 - Verb)"
+  },
+  {
+    "question": "lopni (steal)",
+    "choices": [
+      "(sich) informieren (über + A)",
+      "stehlen (+ D + A)",
+      "(sich) fürchten (vor + D)",
+      "(sich) einigen (auf + A)"
+    ],
+    "answer": 2,
+    "hint": "Jemand hat mir mein Handy gestohlen. (Synonyme: entwenden, rauben, klauen) (B1 - Verb)"
+  },
+  {
+    "question": "steigen",
+    "choices": [
+      "emelkedni, mászni (climb / rise)",
+      "veszekedni (argue / fight)",
+      "megegyezni (agree upon)",
+      "ízlelni (taste)"
+    ],
+    "answer": 1,
+    "hint": "Die Preise steigen jedes Jahr. (Synonyme: klettern, zunehmen, wachsen) (A2 - Verb)"
+  },
+  {
+    "question": "emelkedni, mászni (climb / rise)",
+    "choices": [
+      "steigen",
+      "schweigen über + A",
+      "speichern (+ A)",
+      "(sich) unterscheiden (von + D)"
+    ],
+    "answer": 1,
+    "hint": "Die Preise steigen jedes Jahr. (Synonyme: klettern, zunehmen, wachsen) (A2 - Verb)"
+  },
+  {
+    "question": "steil",
+    "choices": [
+      "csípős, éles (spicy / sharp)",
+      "erős (strong)",
+      "ugyanaz (the same)",
+      "meredek (steep)"
+    ],
+    "answer": 4,
+    "hint": "Der Weg nach oben ist sehr steil. (Synonyme: abschüssig, jäh) (B1 - Adjektiv)"
+  },
+  {
+    "question": "meredek (steep)",
+    "choices": [
+      "seltsam",
+      "satt",
+      "steil",
+      "schüchtern"
+    ],
+    "answer": 3,
+    "hint": "Der Weg nach oben ist sehr steil. (Synonyme: abschüssig, jäh) (B1 - Adjektiv)"
+  },
+  {
+    "question": "stellen (+ A + Dir)",
+    "choices": [
+      "állítani (place / set)",
+      "származni vhonnan (stem from / originate from)",
+      "díszíteni (decorate / adorn)",
+      "ráerőlteti magát (impose oneself on)"
+    ],
+    "answer": 1,
+    "hint": "Er stellt die Vase auf den Tisch. (Synonyme: platzieren, setzen, hinstellen) (A1 - Verb)"
+  },
+  {
+    "question": "állítani (place / set)",
+    "choices": [
+      "stellen (+ A + Dir)",
+      "(sich) fürchten (vor + D)",
+      "(sich) verabschieden (von + D)",
+      "(sich) blamieren"
+    ],
+    "answer": 1,
+    "hint": "Er stellt die Vase auf den Tisch. (Synonyme: platzieren, setzen, hinstellen) (A1 - Verb)"
+  },
+  {
+    "question": "sterben (an + D)",
+    "choices": [
+      "meghalni vmiben (die of)",
+      "dugni, van vhol (stick / put)",
+      "nyújtani (stretch)",
+      "érezni (testileg/lelkileg) (feel / sense)"
+    ],
+    "answer": 1,
+    "hint": "Er starb an einer schweren Krankheit. (Synonyme: verscheiden, umkommen, ableben) (A2 - Verb)"
+  },
+  {
+    "question": "meghalni vmiben (die of)",
+    "choices": [
+      "(sich) einigen (auf + A)",
+      "schmücken (+ A)",
+      "sterben (an + D)",
+      "steigen"
+    ],
+    "answer": 3,
+    "hint": "Er starb an einer schweren Krankheit. (Synonyme: verscheiden, umkommen, ableben) (A2 - Verb)"
+  },
+  {
+    "question": "stetig",
+    "choices": [
+      "folyamatos, töretlen (steady / continuous)",
+      "feszes (tight / firm)",
+      "jóllakott (full / satiated)",
+      "büszke vmire (proud of)"
+    ],
+    "answer": 1,
+    "hint": "Die Wirtschaft wächst stetig. (Synonyme: konstant, ununterbrochen, gleichmäßig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "folyamatos, töretlen (steady / continuous)",
+    "choices": [
+      "steil",
+      "sinnlos",
+      "ständig",
+      "stetig"
+    ],
+    "answer": 4,
+    "hint": "Die Wirtschaft wächst stetig. (Synonyme: konstant, ununterbrochen, gleichmäßig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "stolz (auf + A)",
+    "choices": [
+      "büszke vmire (proud of)",
+      "csípős, éles (spicy / sharp)",
+      "állandóan (constantly)",
+      "jóllakott (full / satiated)"
+    ],
+    "answer": 1,
+    "hint": "Sie ist sehr stolz auf ihren Erfolg. (Synonyme: hochmütig, selbstbewusst) (B1 - Adjektiv)"
+  },
+  {
+    "question": "büszke vmire (proud of)",
+    "choices": [
+      "seltsam",
+      "ständig",
+      "stolz (auf + A)",
+      "steil"
+    ],
+    "answer": 3,
+    "hint": "Sie ist sehr stolz auf ihren Erfolg. (Synonyme: hochmütig, selbstbewusst) (B1 - Adjektiv)"
+  },
+  {
+    "question": "stören (+ A)",
+    "choices": [
+      "létrehoz (create / accomplish)",
+      "nyújtani (stretch)",
+      "hallgatni (csendben lenni) (be silent)",
+      "zavarni vkit (disturb)"
+    ],
+    "answer": 4,
+    "hint": "Bitte stören Sie mich jetzt nicht. (Synonyme: belästigen, behindern, unterbrechen) (A2 - Verb)"
+  },
+  {
+    "question": "zavarni vkit (disturb)",
+    "choices": [
+      "stellen (+ A + Dir)",
+      "stechen (+ A)",
+      "stören (+ A)",
+      "sprühen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Bitte stören Sie mich jetzt nicht. (Synonyme: belästigen, behindern, unterbrechen) (A2 - Verb)"
+  },
+  {
+    "question": "strahlen",
+    "choices": [
+      "panaszkodni (complain)",
+      "sugározni (beam / radiate)",
+      "ízlelni (taste)",
+      "félti magát (be afraid / fear)"
+    ],
+    "answer": 2,
+    "hint": "Die Sonne strahlt heute besonders hell. (Synonyme: glänzen, leuchten, funkeln) (B1 - Verb)"
+  },
+  {
+    "question": "sugározni (beam / radiate)",
+    "choices": [
+      "(sich) verabschieden (von + D)",
+      "schießen",
+      "strahlen",
+      "stammen (aus + D)"
+    ],
+    "answer": 3,
+    "hint": "Die Sonne strahlt heute besonders hell. (Synonyme: glänzen, leuchten, funkeln) (B1 - Verb)"
+  },
+  {
+    "question": "stramm",
+    "choices": [
+      "félénk (shy)",
+      "merev (stiff / rigid)",
+      "látható (visible)",
+      "feszes (tight / firm)"
+    ],
+    "answer": 4,
+    "hint": "Er zog das Seil stramm. (Synonyme: straff, fest, gespannt) (B2 - Adjektiv)"
+  },
+  {
+    "question": "feszes (tight / firm)",
+    "choices": [
+      "spießig",
+      "stramm",
+      "seltsam",
+      "satt"
+    ],
+    "answer": 2,
+    "hint": "Er zog das Seil stramm. (Synonyme: straff, fest, gespannt) (B2 - Adjektiv)"
+  },
+  {
+    "question": "strecken (+ A)",
+    "choices": [
+      "félti magát (be afraid / fear)",
+      "létrehoz (create / accomplish)",
+      "emelkedni, mászni (climb / rise)",
+      "nyújtani (stretch)"
+    ],
+    "answer": 4,
+    "hint": "Er streckte die Arme in die Höhe. (Synonyme: dehnen, ausdehnen, verlängern) (B1 - Verb)"
+  },
+  {
+    "question": "nyújtani (stretch)",
+    "choices": [
+      "sprühen (+ A)",
+      "strecken (+ A)",
+      "stammen (aus + D)",
+      "sterben (an + D)"
+    ],
+    "answer": 2,
+    "hint": "Er streckte die Arme in die Höhe. (Synonyme: dehnen, ausdehnen, verlängern) (B1 - Verb)"
+  },
+  {
+    "question": "streicheln (+ A)",
+    "choices": [
+      "simogatni (pet / stroke)",
+      "csatlakozik vkihez (join someone)",
+      "bezár / köt (tie / conclude (e.g. peace))",
+      "lő / lőni (shoot)"
+    ],
+    "answer": 1,
+    "hint": "Sie streichelt sanft den Hund. (Synonyme: kosen, hätscheln) (A2 - Verb)"
+  },
+  {
+    "question": "simogatni (pet / stroke)",
+    "choices": [
+      "segeln",
+      "schießen",
+      "stechen (+ A)",
+      "streicheln (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Sie streichelt sanft den Hund. (Synonyme: kosen, hätscheln) (A2 - Verb)"
+  },
+  {
+    "question": "streichen (+ A)",
+    "choices": [
+      "visszavonulni (retreat / retire)",
+      "csodálkozni vmin (be amazed at)",
+      "lőni (vkire/vmire) (shoot at)",
+      "festeni, törölni, kenegetni (paint / cancel / stroke)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Wände neu streichen. (Synonyme: pinseln, anstreichen, annullieren) (B1 - Verb)"
+  },
+  {
+    "question": "festeni, törölni, kenegetni (paint / cancel / stroke)",
+    "choices": [
+      "streicheln (+ A)",
+      "(sich) erfreuen (+ G / an + D)",
+      "sterben (an + D)",
+      "streichen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die Wände neu streichen. (Synonyme: pinseln, anstreichen, annullieren) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) streiten (mit + D / über + A)",
+    "choices": [
+      "állítani (place / set)",
+      "elválni, elválasztani (separate)",
+      "megállni (stop / stay standing)",
+      "veszekedni (argue / fight)"
+    ],
+    "answer": 4,
+    "hint": "Die Geschwister streiten sich oft über Kleinigkeiten. (Synonyme: zanken, debattieren, kämpfen) (A2 - Verb)"
+  },
+  {
+    "question": "veszekedni (argue / fight)",
+    "choices": [
+      "(sich) blamieren",
+      "schießen",
+      "(sich) erinnern (an + A)",
+      "(sich) streiten (mit + D / über + A)"
+    ],
+    "answer": 4,
+    "hint": "Die Geschwister streiten sich oft über Kleinigkeiten. (Synonyme: zanken, debattieren, kämpfen) (A2 - Verb)"
   }
 ]
