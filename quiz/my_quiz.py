@@ -510,40 +510,12 @@ deutsch.add_radiobutton(label = 'Deutsch Gemischung 001', variable = choice, val
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt001.json'), 8), quiz.display_deutsch_label(3)))
 deutsch.add_radiobutton(label = 'Deutsch Gemischung 002', variable = choice, value = 10,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt002.json'), 9), quiz.display_deutsch_label(4)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 003', variable = choice, value = 11,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt003.json'), 10), quiz.display_deutsch_label(5)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 004', variable = choice, value = 12,
+deutsch.add_radiobutton(label = 'Deutsch Gemischung 004', variable = choice, value = 11,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt004.json'), 11), quiz.display_deutsch_label(6)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 005', variable = choice, value = 13,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt005.json'), 12), quiz.display_deutsch_label(7)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 006', variable = choice, value = 14,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt006.json'), 13), quiz.display_deutsch_label(8)))
-deutsch.add_radiobutton(label = 'Deutsch Modelpartikeln', variable = choice, value = 15,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_modalpartikeln.json'), 14), quiz.display_deutsch_label(9)))
-deutsch.add_radiobutton(label = 'Deutsch Demonstrativpronomen', variable = choice, value = 16,
-                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_demonstrativpronomen.json'), 15), quiz.display_deutsch_label(10)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 009', variable = choice, value = 17,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt009.json'), 16), quiz.display_deutsch_label(11)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 010', variable = choice, value = 18,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt010.json'), 17), quiz.display_deutsch_label(12)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 011', variable = choice, value = 19,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt011.json'), 18), quiz.display_deutsch_label(13)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 012', variable = choice, value = 20,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt012.json'), 19), quiz.display_deutsch_label(14)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 013', variable = choice, value = 21,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt013.json'), 20), quiz.display_deutsch_label(15)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 014', variable = choice, value = 22,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt014.json'), 21), quiz.display_deutsch_label(16)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 015', variable = choice, value = 23,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt015.json'), 22), quiz.display_deutsch_label(17)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 016', variable = choice, value = 24,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt016.json'), 23), quiz.display_deutsch_label(18)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 017', variable = choice, value = 25,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt017.json'), 24), quiz.display_deutsch_label(19)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 018', variable = choice, value = 26,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt018.json'), 25), quiz.display_deutsch_label(20)))
-# deutsch.add_radiobutton(label = 'Deutsch Gemischung 019', variable = choice, value = 27,
-#                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt019.json'), 26), quiz.display_deutsch_label(21)))
+deutsch.add_radiobutton(label = 'Deutsch Modelpartikeln', variable = choice, value = 12,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_modalpartikeln.json'), 12),quiz.display_deutsch_label(7)))
+deutsch.add_radiobutton(label = 'Deutsch Demonstrativpronomen', variable = choice, value = 13,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_demonstrativpronomen.json'), 13),quiz.display_deutsch_label(8)))
 
 # ENGLISH MENUBAR
 choice = IntVar()
