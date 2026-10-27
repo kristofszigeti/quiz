@@ -234056,5 +234056,3085 @@
     ],
     "answer": 4,
     "hint": "Keine Sorge, es ist alles in Butter. Synonyme: alles okay, alles bestens. (B2 - Ausdruck)"
+  },
+  {
+    "question": "nach (+ D)",
+    "choices": [
+      "szemben vmivel (opposite / towards)",
+      "vmi miatt / alapján (due to / based on)",
+      "után / szerint (after / according to)",
+      "vmitől függően (depending on)"
+    ],
+    "answer": 3,
+    "hint": "Meiner Meinung nach ist das keine gute Idee. (Synonyme: gemäß, laut) (A1 - Präposition)"
+  },
+  {
+    "question": "után / szerint (after / according to)",
+    "choices": [
+      "je nach (+ D)",
+      "laut (+ G / + D)",
+      "aufgrund (+ G)",
+      "nach (+ D)"
+    ],
+    "answer": 4,
+    "hint": "Meiner Meinung nach ist das keine gute Idee. (Synonyme: gemäß, laut) (A1 - Präposition)"
+  },
+  {
+    "question": "je nach (+ D)",
+    "choices": [
+      "vmi szerint (according to)",
+      "vmitől függően (depending on)",
+      "vmi miatt / alapján (due to / based on)",
+      "szemben vmivel (opposite / towards)"
+    ],
+    "answer": 2,
+    "hint": "Die Preise für die Tickets variieren je nach Saison. (Synonyme: abhängig von) (B2 - Präposition)"
+  },
+  {
+    "question": "vmitől függően (depending on)",
+    "choices": [
+      "gegenüber (+ D)",
+      "je nach (+ D)",
+      "nach (+ D)",
+      "aufgrund (+ G)"
+    ],
+    "answer": 2,
+    "hint": "Die Preise für die Tickets variieren je nach Saison. (Synonyme: abhängig von) (B2 - Präposition)"
+  },
+  {
+    "question": "je nachdem",
+    "choices": [
+      "attól függően (depending on (whether))",
+      "valamint / csakúgy mint (as well as)",
+      "annál (inkább) (all the more / the more)",
+      "és így tovább (and so on and so forth)"
+    ],
+    "answer": 1,
+    "hint": "Wir gehen spazieren, je nachdem, wie das Wetter wird. (Synonyme: in Abhängigkeit davon) (B2 - Konjunktion)"
+  },
+  {
+    "question": "attól függően (depending on (whether))",
+    "choices": [
+      "je nachdem",
+      "umso",
+      "sowie",
+      "und so weiter und so fort (usw. usf.)"
+    ],
+    "answer": 1,
+    "hint": "Wir gehen spazieren, je nachdem, wie das Wetter wird. (Synonyme: in Abhängigkeit davon) (B2 - Konjunktion)"
+  },
+  {
+    "question": "vor|hersagen (+ A)",
+    "choices": [
+      "kiteljesedik / kibontakozik (to unfold / to develop)",
+      "leleplez / felfed (to unveil)",
+      "fókuszál vmire (to focus on)",
+      "megjósol / előrejelez (to predict)"
+    ],
+    "answer": 4,
+    "hint": "Wirtschaftskrisen lassen sich oft nur sehr schwer vorhersagen. (Synonyme: prognostizieren, prophezeien) (B2 - Verb)"
+  },
+  {
+    "question": "megjósol / előrejelez (to predict)",
+    "choices": [
+      "sich konzentrieren (auf + A)",
+      "fokussieren (auf + A)",
+      "vor|hersagen (+ A)",
+      "schließen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Wirtschaftskrisen lassen sich oft nur sehr schwer vorhersagen. (Synonyme: prognostizieren, prophezeien) (B2 - Verb)"
+  },
+  {
+    "question": "befürchten (+ A)",
+    "choices": [
+      "eltéveszt / elhibáz (to miss (a target))",
+      "túljár az eszén / rászed (to outsmart / trick)",
+      "tart vmitől / fél (to fear / to apprehend)",
+      "megadja magát / adódik (to surrender / to arise)"
+    ],
+    "answer": 3,
+    "hint": "Wir befürchten, dass die Kosten weiter steigen werden. (Synonyme: Angst haben, erwarten) (B2 - Verb)"
+  },
+  {
+    "question": "tart vmitől / fél (to fear / to apprehend)",
+    "choices": [
+      "helfen (+ D) (bei + D)",
+      "befürchten (+ A)",
+      "suchen (+ A / nach + D)",
+      "mit|bekommen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Wir befürchten, dass die Kosten weiter steigen werden. (Synonyme: Angst haben, erwarten) (B2 - Verb)"
+  },
+  {
+    "question": "um|gehen (mit + D)",
+    "choices": [
+      "megbirkózik vmivel / feldolgoz (to cope with)",
+      "bánik vmivel (to deal with)",
+      "foglalkozik vmivel (to deal with)",
+      "felgyorsít (to accelerate / speed up)"
+    ],
+    "answer": 2,
+    "hint": "Er weiß genau, wie er mit schwierigen Situationen umgehen muss. (Synonyme: behandeln, bewältigen) (B2 - Verb)"
+  },
+  {
+    "question": "bánik vmivel (to deal with)",
+    "choices": [
+      "reagieren (auf + A)",
+      "(sich) ergeben",
+      "betreuen (+ A)",
+      "um|gehen (mit + D)"
+    ],
+    "answer": 4,
+    "hint": "Er weiß genau, wie er mit schwierigen Situationen umgehen muss. (Synonyme: behandeln, bewältigen) (B2 - Verb)"
+  },
+  {
+    "question": "e Immatrikulation, -en",
+    "choices": [
+      "gondozás / felügyelet (care / supervision)",
+      "pályázó / jelentkező (applicant)",
+      "beiratkozás (egyetemre) (enrollment / matriculation)",
+      "engedély / felvétel (admission / approval)"
+    ],
+    "answer": 3,
+    "hint": "Die Immatrikulation an der Universität muss bis Oktober erfolgen. (Synonyme: e Einschreibung, e Anmeldung) (B2 - Nomen)"
+  },
+  {
+    "question": "beiratkozás (egyetemre) (enrollment / matriculation)",
+    "choices": [
+      "e Fachmittelschule, -n",
+      "r Bewerber, -",
+      "e Immatrikulation, -en",
+      "r Abgrund, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Die Immatrikulation an der Universität muss bis Oktober erfolgen. (Synonyme: e Einschreibung, e Anmeldung) (B2 - Nomen)"
+  },
+  {
+    "question": "renommiert",
+    "choices": [
+      "neves / elismert (renowned)",
+      "nyilvános / tömeg- (public)",
+      "kiváló minőségű (high-quality)",
+      "ígéretes (promising)"
+    ],
+    "answer": 1,
+    "hint": "Er arbeitet an einer international sehr renommierten Universität. (Synonyme: angesehen, berühmt, anerkannt) (C1 - Adjektiv)"
+  },
+  {
+    "question": "neves / elismert (renowned)",
+    "choices": [
+      "öffentlich",
+      "renommiert",
+      "vielversprechend",
+      "veraltet"
+    ],
+    "answer": 2,
+    "hint": "Er arbeitet an einer international sehr renommierten Universität. (Synonyme: angesehen, berühmt, anerkannt) (C1 - Adjektiv)"
+  },
+  {
+    "question": "berühmt",
+    "choices": [
+      "híres (famous)",
+      "klímabarát (climate-friendly)",
+      "tehetséges (gifted)",
+      "élénk / mozgékony (active / lively)"
+    ],
+    "answer": 1,
+    "hint": "Der berühmte Schauspieler gab gestern ein langes Interview. (Synonyme: bekannt, populär) (A2 - Adjektiv)"
+  },
+  {
+    "question": "híres (famous)",
+    "choices": [
+      "klimafreundlich",
+      "berühmt",
+      "begabt",
+      "rege"
+    ],
+    "answer": 2,
+    "hint": "Der berühmte Schauspieler gab gestern ein langes Interview. (Synonyme: bekannt, populär) (A2 - Adjektiv)"
+  },
+  {
+    "question": "r Bewerber, -",
+    "choices": [
+      "kézművesség / szakma (craft / trade)",
+      "befektető (investor)",
+      "hozzáférés (access)",
+      "pályázó / jelentkező (applicant)"
+    ],
+    "answer": 4,
+    "hint": "Für die offene Stelle gab es mehr als fünfzig Bewerber. (Synonyme: r Kandidat, r Interessent) (B1 - Nomen)"
+  },
+  {
+    "question": "pályázó / jelentkező (applicant)",
+    "choices": [
+      "e Auswirkung, -en",
+      "e Voraussetzung, -en",
+      "e Nachfrage, -n (nach + D)",
+      "r Bewerber, -"
+    ],
+    "answer": 4,
+    "hint": "Für die offene Stelle gab es mehr als fünfzig Bewerber. (Synonyme: r Kandidat, r Interessent) (B1 - Nomen)"
+  },
+  {
+    "question": "(sich) aus|zahlen",
+    "choices": [
+      "felgyorsít (to accelerate / speed up)",
+      "eltéveszt / elhibáz (to miss (a target))",
+      "kifizetődik / megéri (to pay off)",
+      "bevet / alkalmaz (to deploy / to use)"
+    ],
+    "answer": 3,
+    "hint": "Die harte Arbeit und das Lernen haben sich endlich ausgezahlt. (Synonyme: sich lohnen, rentieren) (B2 - Verb)"
+  },
+  {
+    "question": "kifizetődik / megéri (to pay off)",
+    "choices": [
+      "beschleunigen (+ A)",
+      "sich bemühen (um + A)",
+      "ein|setzen (+ A)",
+      "(sich) aus|zahlen"
+    ],
+    "answer": 4,
+    "hint": "Die harte Arbeit und das Lernen haben sich endlich ausgezahlt. (Synonyme: sich lohnen, rentieren) (B2 - Verb)"
+  },
+  {
+    "question": "s Handwerk, -e",
+    "choices": [
+      "kézművesség / szakma (craft / trade)",
+      "beszéd (speech)",
+      "alkalom / lehetőség (opportunity)",
+      "akkumulátor (battery)"
+    ],
+    "answer": 1,
+    "hint": "Das traditionelle Handwerk hat heute leider Nachwuchsprobleme. (Synonyme: s Gewerbe, r Beruf) (B1 - Nomen)"
+  },
+  {
+    "question": "kézművesség / szakma (craft / trade)",
+    "choices": [
+      "s Handwerk, -e",
+      "e Gelegenheit, -en (zu + D)",
+      "e Rede, -n",
+      "s Gesetz, -e"
+    ],
+    "answer": 1,
+    "hint": "Das traditionelle Handwerk hat heute leider Nachwuchsprobleme. (Synonyme: s Gewerbe, r Beruf) (B1 - Nomen)"
+  },
+  {
+    "question": "ein Handwerk erlernen",
+    "choices": [
+      "két fiú apjának lenni (to be dad to two boys)",
+      "bele van zúgva vkibe / rajong vkiért (to have a crush on somebody)",
+      "szakmát tanulni (to learn a trade)",
+      "tanulni benne/belőle (to learn in it)"
+    ],
+    "answer": 3,
+    "hint": "Nach der Schule beschloss er, ein solides Handwerk zu erlernen. (Synonyme: eine Ausbildung machen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "szakmát tanulni (to learn a trade)",
+    "choices": [
+      "Vater von zwei Jungen sein",
+      "ein Handwerk erlernen",
+      "darin lernen",
+      "in anderen Fällen"
+    ],
+    "answer": 2,
+    "hint": "Nach der Schule beschloss er, ein solides Handwerk zu erlernen. (Synonyme: eine Ausbildung machen) (B2 - Ausdruck)"
+  },
+  {
+    "question": "gesucht",
+    "choices": [
+      "keresett (sought-after)",
+      "elavult (outdated)",
+      "időben / pontosan (on time / timely)",
+      "keresett / népszerű (in demand)"
+    ],
+    "answer": 1,
+    "hint": "Gute Programmierer sind auf dem Arbeitsmarkt derzeit sehr gesucht. (Synonyme: begehrt, populär) (B1 - Adjektiv)"
+  },
+  {
+    "question": "keresett (sought-after)",
+    "choices": [
+      "veraltet",
+      "gesucht",
+      "gefragt",
+      "rechtzeitig"
+    ],
+    "answer": 2,
+    "hint": "Gute Programmierer sind auf dem Arbeitsmarkt derzeit sehr gesucht. (Synonyme: begehrt, populär) (B1 - Adjektiv)"
+  },
+  {
+    "question": "gefragt",
+    "choices": [
+      "elavult (outdated)",
+      "keresett / népszerű (in demand)",
+      "társadalmi (societal)",
+      "keresett (sought-after)"
+    ],
+    "answer": 2,
+    "hint": "Dieser spezielle Beruf ist heutzutage wieder sehr gefragt. (Synonyme: beliebt, gesucht) (B1 - Adjektiv)"
+  },
+  {
+    "question": "keresett / népszerű (in demand)",
+    "choices": [
+      "gesucht",
+      "gesellschaftlich",
+      "veraltet",
+      "gefragt"
+    ],
+    "answer": 4,
+    "hint": "Dieser spezielle Beruf ist heutzutage wieder sehr gefragt. (Synonyme: beliebt, gesucht) (B1 - Adjektiv)"
+  },
+  {
+    "question": "e Gelegenheit, -en (zu + D)",
+    "choices": [
+      "beiratkozás (egyetemre) (enrollment / matriculation)",
+      "akkumulátor (battery)",
+      "alkalom / lehetőség (opportunity)",
+      "törvény (law)"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine gute Gelegenheit, dein Deutsch zu verbessern. (Synonyme: e Chance, e Möglichkeit) (B1 - Nomen)"
+  },
+  {
+    "question": "alkalom / lehetőség (opportunity)",
+    "choices": [
+      "r Zugang, \"-e",
+      "r Akku, -s",
+      "e Gelegenheit, -en (zu + D)",
+      "s Gesetz, -e"
+    ],
+    "answer": 3,
+    "hint": "Das ist eine gute Gelegenheit, dein Deutsch zu verbessern. (Synonyme: e Chance, e Möglichkeit) (B1 - Nomen)"
+  },
+  {
+    "question": "e Fachmittelschule, -n",
+    "choices": [
+      "beiratkozás (egyetemre) (enrollment / matriculation)",
+      "szakközépiskola (specialized secondary school)",
+      "alkalom / lehetőség (opportunity)",
+      "szakadék / szakadék széle (precipice)"
+    ],
+    "answer": 2,
+    "hint": "Nach der Grundschule besuchte er eine technische Fachmittelschule. (Synonyme: e Berufsfachschule) (B2 - Nomen)"
+  },
+  {
+    "question": "szakközépiskola (specialized secondary school)",
+    "choices": [
+      "e Fachmittelschule, -n",
+      "r Abgrund, \"-e",
+      "e Immatrikulation, -en",
+      "e Gelegenheit, -en (zu + D)"
+    ],
+    "answer": 1,
+    "hint": "Nach der Grundschule besuchte er eine technische Fachmittelschule. (Synonyme: e Berufsfachschule) (B2 - Nomen)"
+  },
+  {
+    "question": "Es tut mir leid für (+ A)",
+    "choices": [
+      "Sajnálom (vkit) (I am sorry for)",
+      "bele van zúgva vkibe / rajong vkiért (to have a crush on somebody)",
+      "Több tényezőtől függ... (It depends on several factors...)",
+      "Ezzel csak részben értek egyet. (I only partially agree with that.)"
+    ],
+    "answer": 1,
+    "hint": "Es tut mir wirklich leid für dich, dass du den Job nicht bekommen hast. (Synonyme: Ich bedaure dich) (A2 - Ausdruck)"
+  },
+  {
+    "question": "Sajnálom (vkit) (I am sorry for)",
+    "choices": [
+      "in anderen Fällen",
+      "Es hängt von mehreren Faktoren ab...",
+      "Es tut mir leid für (+ A)",
+      "in jemanden (A) verknallt sein"
+    ],
+    "answer": 3,
+    "hint": "Es tut mir wirklich leid für dich, dass du den Job nicht bekommen hast. (Synonyme: Ich bedaure dich) (A2 - Ausdruck)"
+  },
+  {
+    "question": "bedauern (+ A)",
+    "choices": [
+      "sajnál vmit (to regret)",
+      "felszabadít / kibocsát (to release)",
+      "kiderül (to turn out)",
+      "gondoskodik vmiről (to care for / to ensure)"
+    ],
+    "answer": 1,
+    "hint": "Ich bedauere sehr, dass ich dir bei diesem Problem nicht helfen kann. (Synonyme: bereuen, leidtun) (B2 - Verb)"
+  },
+  {
+    "question": "sajnál vmit (to regret)",
+    "choices": [
+      "sorgen (für + A)",
+      "(sich) heraus|stellen",
+      "bedauern (+ A)",
+      "erklären (+ D + A)"
+    ],
+    "answer": 3,
+    "hint": "Ich bedauere sehr, dass ich dir bei diesem Problem nicht helfen kann. (Synonyme: bereuen, leidtun) (B2 - Verb)"
+  },
+  {
+    "question": "Es hängt von mehreren Faktoren ab...",
+    "choices": [
+      "Több tényezőtől függ... (It depends on several factors...)",
+      "attól függ... (it depends on...)",
+      "két fiú apjának lenni (to be dad to two boys)",
+      "Sajnálom (vkit) (I am sorry for)"
+    ],
+    "answer": 1,
+    "hint": "Ob wir das Projekt starten, hängt von mehreren Faktoren ab. (Synonyme: Es kommt darauf an) (B2 - Ausdruck)"
+  },
+  {
+    "question": "Több tényezőtől függ... (It depends on several factors...)",
+    "choices": [
+      "Es hängt von mehreren Faktoren ab...",
+      "Es tut mir leid für (+ A)",
+      "Es kommt darauf an, ... / Es hängt davon ab, ...",
+      "Vater von zwei Jungen sein"
+    ],
+    "answer": 1,
+    "hint": "Ob wir das Projekt starten, hängt von mehreren Faktoren ab. (Synonyme: Es kommt darauf an) (B2 - Ausdruck)"
+  },
+  {
+    "question": "Damit bin ich nur teilweise einverstanden.",
+    "choices": [
+      "Ezzel csak részben értek egyet. (I only partially agree with that.)",
+      "bele van zúgva vkibe / rajong vkiért (to have a crush on somebody)",
+      "Sajnálom (vkit) (I am sorry for)",
+      "más esetben (in other cases / otherwise)"
+    ],
+    "answer": 1,
+    "hint": "Das ist ein gutes Argument, aber damit bin ich nur teilweise einverstanden. (Synonyme: Ich stimme dem bedingt zu) (B2 - Ausdruck)"
+  },
+  {
+    "question": "Ezzel csak részben értek egyet. (I only partially agree with that.)",
+    "choices": [
+      "Es tut mir leid für (+ A)",
+      "in jemanden (A) verknallt sein",
+      "in anderen Fällen",
+      "Damit bin ich nur teilweise einverstanden."
+    ],
+    "answer": 4,
+    "hint": "Das ist ein gutes Argument, aber damit bin ich nur teilweise einverstanden. (Synonyme: Ich stimme dem bedingt zu) (B2 - Ausdruck)"
+  },
+  {
+    "question": "e Rentenzeit (Sg.)",
+    "choices": [
+      "nyugdíj(ba vonulás) (retirement)",
+      "befektető (investor)",
+      "nyugdíjas évek (retirement period)",
+      "kínálat / ajánlat (supply / offer)"
+    ],
+    "answer": 3,
+    "hint": "Er möchte seine Rentenzeit am liebsten am Meer verbringen. (Synonyme: r Lebensabend, r Ruhestand) (B2 - Nomen)"
+  },
+  {
+    "question": "nyugdíjas évek (retirement period)",
+    "choices": [
+      "e Rentenzeit (Sg.)",
+      "s Angebot, -e",
+      "r Ruhestand (Sg.)",
+      "r Anleger, -"
+    ],
+    "answer": 1,
+    "hint": "Er möchte seine Rentenzeit am liebsten am Meer verbringen. (Synonyme: r Lebensabend, r Ruhestand) (B2 - Nomen)"
+  },
+  {
+    "question": "r Ruhestand (Sg.)",
+    "choices": [
+      "nyugdíj(ba vonulás) (retirement)",
+      "hozzáférés (access)",
+      "akkumulátor (battery)",
+      "nyugdíjas évek (retirement period)"
+    ],
+    "answer": 1,
+    "hint": "Mein Vater geht nächstes Jahr endlich in den wohlverdienten Ruhestand. (Synonyme: e Rente, e Pension) (B2 - Nomen)"
+  },
+  {
+    "question": "nyugdíj(ba vonulás) (retirement)",
+    "choices": [
+      "e Rentenzeit (Sg.)",
+      "r Ruhestand (Sg.)",
+      "r Zugang, \"-e",
+      "r Akku, -s"
+    ],
+    "answer": 2,
+    "hint": "Mein Vater geht nächstes Jahr endlich in den wohlverdienten Ruhestand. (Synonyme: e Rente, e Pension) (B2 - Nomen)"
+  },
+  {
+    "question": "größtenteils",
+    "choices": [
+      "nagyrészt (mostly)",
+      "puszta / puszta (mere)",
+      "máskülönben / különben (otherwise)",
+      "teljesen (completely / totally)"
+    ],
+    "answer": 1,
+    "hint": "Die Aufgaben sind größtenteils schon erledigt worden. (Synonyme: überwiegend, mehrheitlich) (B2 - Adverb)"
+  },
+  {
+    "question": "nagyrészt (mostly)",
+    "choices": [
+      "größtenteils",
+      "bloß / rein",
+      "völlig / komplett",
+      "andernfalls / sonst"
+    ],
+    "answer": 1,
+    "hint": "Die Aufgaben sind größtenteils schon erledigt worden. (Synonyme: überwiegend, mehrheitlich) (B2 - Adverb)"
+  },
+  {
+    "question": "veraltet",
+    "choices": [
+      "elavult (outdated)",
+      "időben / pontosan (on time / timely)",
+      "keresett / népszerű (in demand)",
+      "híres (famous)"
+    ],
+    "answer": 1,
+    "hint": "Diese Software ist veraltet und wird nicht mehr unterstützt. (Synonyme: unmodern, obsolet, antiquiert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "elavult (outdated)",
+    "choices": [
+      "veraltet",
+      "rechtzeitig",
+      "gefragt",
+      "berühmt"
+    ],
+    "answer": 1,
+    "hint": "Diese Software ist veraltet und wird nicht mehr unterstützt. (Synonyme: unmodern, obsolet, antiquiert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "unterwegs",
+    "choices": [
+      "teljesen (completely / totally)",
+      "csupán / pusztán (merely)",
+      "úton (underway / on the way)",
+      "nagyrészt (mostly)"
+    ],
+    "answer": 3,
+    "hint": "Ich bin gerade unterwegs und rufe dich später zurück. (Synonyme: auf Reisen, auf Achse) (A2 - Adverb)"
+  },
+  {
+    "question": "úton (underway / on the way)",
+    "choices": [
+      "größtenteils",
+      "lediglich / bloß",
+      "unterwegs",
+      "völlig / komplett"
+    ],
+    "answer": 3,
+    "hint": "Ich bin gerade unterwegs und rufe dich später zurück. (Synonyme: auf Reisen, auf Achse) (A2 - Adverb)"
+  },
+  {
+    "question": "sorgen (für + A)",
+    "choices": [
+      "széttép / elszakad (to tear (apart))",
+      "félbeszakít (to abort / to cancel)",
+      "aggódik vkiért/vmiért (to worry about)",
+      "gondoskodik vmiről (to care for / to ensure)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen für eine gute Atmosphäre im Team sorgen. (Synonyme: sich kümmern um, gewährleisten) (B1 - Verb)"
+  },
+  {
+    "question": "gondoskodik vmiről (to care for / to ensure)",
+    "choices": [
+      "zerreißen (+ A)",
+      "sorgen (für + A)",
+      "ab|brechen (+ A)",
+      "(sich) sorgen (um + A)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen für eine gute Atmosphäre im Team sorgen. (Synonyme: sich kümmern um, gewährleisten) (B1 - Verb)"
+  },
+  {
+    "question": "(sich) sorgen (um + A)",
+    "choices": [
+      "aggódik vkiért/vmiért (to worry about)",
+      "gondoskodik vmiről (to care for / to ensure)",
+      "megtanít (vkit vmire) (to teach)",
+      "kifizetődik / megéri (to pay off)"
+    ],
+    "answer": 1,
+    "hint": "Die Mutter sorgt sich sehr um die Zukunft ihres Kindes. (Synonyme: sich ängstigen, beunruhigt sein) (B1 - Verb)"
+  },
+  {
+    "question": "aggódik vkiért/vmiért (to worry about)",
+    "choices": [
+      "(sich) aus|zahlen",
+      "(sich) sorgen (um + A)",
+      "sorgen (für + A)",
+      "bei|bringen (+ D + A)"
+    ],
+    "answer": 2,
+    "hint": "Die Mutter sorgt sich sehr um die Zukunft ihres Kindes. (Synonyme: sich ängstigen, beunruhigt sein) (B1 - Verb)"
+  },
+  {
+    "question": "rechtzeitig",
+    "choices": [
+      "puszta / puszta (mere)",
+      "időben / pontosan (on time / timely)",
+      "elavult (outdated)",
+      "neves / elismert (renowned)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen rechtzeitig am Bahnhof sein, um den Zug zu erwischen. (Synonyme: pünktlich, zeitig) (B1 - Adjektiv/Adverb)"
+  },
+  {
+    "question": "időben / pontosan (on time / timely)",
+    "choices": [
+      "veraltet",
+      "renommiert",
+      "bloß / rein",
+      "rechtzeitig"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen rechtzeitig am Bahnhof sein, um den Zug zu erwischen. (Synonyme: pünktlich, zeitig) (B1 - Adjektiv/Adverb)"
+  },
+  {
+    "question": "s Gesetz, -e",
+    "choices": [
+      "kézművesség / szakma (craft / trade)",
+      "alkalom / lehetőség (opportunity)",
+      "szakközépiskola (specialized secondary school)",
+      "törvény (law)"
+    ],
+    "answer": 4,
+    "hint": "Das neue Gesetz tritt erst im nächsten Jahr in Kraft. (Synonyme: e Vorschrift, e Regelung) (B1 - Nomen)"
+  },
+  {
+    "question": "törvény (law)",
+    "choices": [
+      "e Fachmittelschule, -n",
+      "e Gelegenheit, -en (zu + D)",
+      "s Handwerk, -e",
+      "s Gesetz, -e"
+    ],
+    "answer": 4,
+    "hint": "Das neue Gesetz tritt erst im nächsten Jahr in Kraft. (Synonyme: e Vorschrift, e Regelung) (B1 - Nomen)"
+  },
+  {
+    "question": "r Zugang, \"-e",
+    "choices": [
+      "hozzáférés (access)",
+      "veszteség (loss)",
+      "pályázó / jelentkező (applicant)",
+      "törvény (law)"
+    ],
+    "answer": 1,
+    "hint": "Er hat keinen Zugang zu den vertraulichen Daten der Firma. (Synonyme: r Zutritt, e Berechtigung) (B2 - Nomen)"
+  },
+  {
+    "question": "hozzáférés (access)",
+    "choices": [
+      "r Verlust, -e",
+      "r Bewerber, -",
+      "r Zugang, \"-e",
+      "s Gesetz, -e"
+    ],
+    "answer": 3,
+    "hint": "Er hat keinen Zugang zu den vertraulichen Daten der Firma. (Synonyme: r Zutritt, e Berechtigung) (B2 - Nomen)"
+  },
+  {
+    "question": "darin lernen",
+    "choices": [
+      "Ezzel csak részben értek egyet. (I only partially agree with that.)",
+      "két fiú apjának lenni (to be dad to two boys)",
+      "bele van zúgva vkibe / rajong vkiért (to have a crush on somebody)",
+      "tanulni benne/belőle (to learn in it)"
+    ],
+    "answer": 4,
+    "hint": "Das System ist komplex, aber man kann schnell darin lernen. (Synonyme: sich darin einarbeiten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "tanulni benne/belőle (to learn in it)",
+    "choices": [
+      "Vater von zwei Jungen sein",
+      "darin lernen",
+      "in jemanden (A) verknallt sein",
+      "Damit bin ich nur teilweise einverstanden."
+    ],
+    "answer": 2,
+    "hint": "Das System ist komplex, aber man kann schnell darin lernen. (Synonyme: sich darin einarbeiten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "bei|bringen (+ D + A)",
+    "choices": [
+      "sajnál vmit (to regret)",
+      "eredményez (to result in)",
+      "kifizetődik / megéri (to pay off)",
+      "megtanít (vkit vmire) (to teach)"
+    ],
+    "answer": 4,
+    "hint": "Mein Vater hat mir das Schwimmen beigebracht. (Synonyme: lehren, vermitteln) (B1 - Verb)"
+  },
+  {
+    "question": "megtanít (vkit vmire) (to teach)",
+    "choices": [
+      "ergeben (+ A)",
+      "(sich) aus|zahlen",
+      "bei|bringen (+ D + A)",
+      "bedauern (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Mein Vater hat mir das Schwimmen beigebracht. (Synonyme: lehren, vermitteln) (B1 - Verb)"
+  },
+  {
+    "question": "unterrichten (+ A)",
+    "choices": [
+      "megismétel / lemásol (to replicate)",
+      "tanít / oktat (to teach / instruct)",
+      "elvár / számít vmire (to expect)",
+      "megadja magát / adódik (to surrender / to arise)"
+    ],
+    "answer": 2,
+    "hint": "Er unterrichtet Mathematik und Physik an einem Gymnasium. (Synonyme: lehren, dozieren, beibringen) (B1 - Verb)"
+  },
+  {
+    "question": "tanít / oktat (to teach / instruct)",
+    "choices": [
+      "erwarten (+ A)",
+      "unterrichten (+ A)",
+      "replizieren (+ A) / nach|bilden (+ A)",
+      "(sich) ergeben"
+    ],
+    "answer": 2,
+    "hint": "Er unterrichtet Mathematik und Physik an einem Gymnasium. (Synonyme: lehren, dozieren, beibringen) (B1 - Verb)"
+  },
+  {
+    "question": "r Akku, -s",
+    "choices": [
+      "hozzáférés (access)",
+      "akkumulátor (battery)",
+      "kézművesség / szakma (craft / trade)",
+      "pályázó / jelentkező (applicant)"
+    ],
+    "answer": 2,
+    "hint": "Mein Handy geht gleich aus, der Akku ist fast leer. (Synonyme: e Batterie) (A2 - Nomen)"
+  },
+  {
+    "question": "akkumulátor (battery)",
+    "choices": [
+      "r Bewerber, -",
+      "r Akku, -s",
+      "r Zugang, \"-e",
+      "s Handwerk, -e"
+    ],
+    "answer": 2,
+    "hint": "Mein Handy geht gleich aus, der Akku ist fast leer. (Synonyme: e Batterie) (A2 - Nomen)"
+  },
+  {
+    "question": "ergeben (+ A)",
+    "choices": [
+      "felfedez (to discover)",
+      "megadja magát / adódik (to surrender / to arise)",
+      "megtanít (vkit vmire) (to teach)",
+      "eredményez (to result in)"
+    ],
+    "answer": 4,
+    "hint": "Die lange Untersuchung ergab leider keine neuen Erkenntnisse. (Synonyme: zeigen, aufweisen, belegen) (B2 - Verb)"
+  },
+  {
+    "question": "eredményez (to result in)",
+    "choices": [
+      "entdecken (+ A)",
+      "ergeben (+ A)",
+      "(sich) ergeben",
+      "bei|bringen (+ D + A)"
+    ],
+    "answer": 2,
+    "hint": "Die lange Untersuchung ergab leider keine neuen Erkenntnisse. (Synonyme: zeigen, aufweisen, belegen) (B2 - Verb)"
+  },
+  {
+    "question": "(sich) ergeben",
+    "choices": [
+      "megadja magát / adódik (to surrender / to arise)",
+      "összezúz / összetör (to shatter)",
+      "tanít / oktat (to teach / instruct)",
+      "eredményez (to result in)"
+    ],
+    "answer": 1,
+    "hint": "Die feindlichen Soldaten mussten sich schließlich ergeben. (Synonyme: kapitulieren, sich fügen) (B2 - Verb)"
+  },
+  {
+    "question": "megadja magát / adódik (to surrender / to arise)",
+    "choices": [
+      "ergeben (+ A)",
+      "unterrichten (+ A)",
+      "(sich) ergeben",
+      "zerschmettern (+ A) / zerbrechen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Die feindlichen Soldaten mussten sich schließlich ergeben. (Synonyme: kapitulieren, sich fügen) (B2 - Verb)"
+  },
+  {
+    "question": "verlassen (+ A)",
+    "choices": [
+      "megismétel / lemásol (to replicate)",
+      "elhagy (to leave)",
+      "elvár / számít vmire (to expect)",
+      "tanít / oktat (to teach / instruct)"
+    ],
+    "answer": 2,
+    "hint": "Er hat seine Heimatstadt verlassen, um in Berlin zu studieren. (Synonyme: weggehen, fortgehen) (B1 - Verb)"
+  },
+  {
+    "question": "elhagy (to leave)",
+    "choices": [
+      "erwarten (+ A)",
+      "replizieren (+ A) / nach|bilden (+ A)",
+      "unterrichten (+ A)",
+      "verlassen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Er hat seine Heimatstadt verlassen, um in Berlin zu studieren. (Synonyme: weggehen, fortgehen) (B1 - Verb)"
+  },
+  {
+    "question": "erwarten (+ A)",
+    "choices": [
+      "előrelát / számít vmire (to anticipate)",
+      "elvár / számít vmire (to expect)",
+      "összezúz / szétnyom (to crush)",
+      "leleplez / felfed (to unveil)"
+    ],
+    "answer": 2,
+    "hint": "Ich erwarte von dir in dieser Sache absolute Ehrlichkeit. (Synonyme: voraussetzen, entgegensehen) (B1 - Verb)"
+  },
+  {
+    "question": "elvár / számít vmire (to expect)",
+    "choices": [
+      "enthüllen (+ A)",
+      "zerdrücken (+ A)",
+      "vorher|sehen (+ A)",
+      "erwarten (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Ich erwarte von dir in dieser Sache absolute Ehrlichkeit. (Synonyme: voraussetzen, entgegensehen) (B1 - Verb)"
+  },
+  {
+    "question": "gesellschaftlich",
+    "choices": [
+      "társadalmi (societal)",
+      "klímakárosító (climate-damaging)",
+      "híres (famous)",
+      "ígéretes (promising)"
+    ],
+    "answer": 1,
+    "hint": "Der technologische Wandel hat tiefgreifende gesellschaftliche Folgen. (Synonyme: sozial) (C1 - Adjektiv)"
+  },
+  {
+    "question": "társadalmi (societal)",
+    "choices": [
+      "berühmt",
+      "gesellschaftlich",
+      "klimaschädlich",
+      "vielversprechend"
+    ],
+    "answer": 2,
+    "hint": "Der technologische Wandel hat tiefgreifende gesellschaftliche Folgen. (Synonyme: sozial) (C1 - Adjektiv)"
+  },
+  {
+    "question": "e Auswirkung, -en",
+    "choices": [
+      "szakközépiskola (specialized secondary school)",
+      "hatás / következmény (impact)",
+      "túlkínálat (oversupply / glut)",
+      "felfordulás / megrázkódtatás (upheaval)"
+    ],
+    "answer": 2,
+    "hint": "Die Auswirkung des Klimawandels auf die Natur ist enorm. (Synonyme: r Einfluss, r Effekt, e Konsequenz) (B2 - Nomen)"
+  },
+  {
+    "question": "hatás / következmény (impact)",
+    "choices": [
+      "r Umbruch, \"-e",
+      "e Auswirkung, -en",
+      "s Überangebot, -e",
+      "e Fachmittelschule, -n"
+    ],
+    "answer": 2,
+    "hint": "Die Auswirkung des Klimawandels auf die Natur ist enorm. (Synonyme: r Einfluss, r Effekt, e Konsequenz) (B2 - Nomen)"
+  },
+  {
+    "question": "dar|stellen (+ A) / auf|werfen (+ A)",
+    "choices": [
+      "leleplez / felfed (to unveil)",
+      "jelent / felvet (problémát) (to pose)",
+      "megjósol / előrejelez (to predict)",
+      "összezúz / szétnyom (to crush)"
+    ],
+    "answer": 2,
+    "hint": "Diese neue Entwicklung könnte eine große Gefahr darstellen. (Synonyme: bedeuten, bilden, hervorrufen) (B2 - Verb)"
+  },
+  {
+    "question": "jelent / felvet (problémát) (to pose)",
+    "choices": [
+      "zerdrücken (+ A)",
+      "dar|stellen (+ A) / auf|werfen (+ A)",
+      "enthüllen (+ A)",
+      "vor|hersagen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Diese neue Entwicklung könnte eine große Gefahr darstellen. (Synonyme: bedeuten, bilden, hervorrufen) (B2 - Verb)"
+  },
+  {
+    "question": "r Abgrund, \"-e",
+    "choices": [
+      "felismerés / tudás (insight / realization)",
+      "kínálat / ajánlat (supply / offer)",
+      "szakadék / szakadék széle (precipice)",
+      "kereslet (demand)"
+    ],
+    "answer": 3,
+    "hint": "Die Firma stand kurz vor dem finanziellen Abgrund. (Synonyme: e Schlucht, r Ruin) (C1 - Nomen)"
+  },
+  {
+    "question": "szakadék / szakadék széle (precipice)",
+    "choices": [
+      "s Angebot, -e",
+      "e Nachfrage, -n (nach + D)",
+      "r Abgrund, \"-e",
+      "e Erkenntnis, -se"
+    ],
+    "answer": 3,
+    "hint": "Die Firma stand kurz vor dem finanziellen Abgrund. (Synonyme: e Schlucht, r Ruin) (C1 - Nomen)"
+  },
+  {
+    "question": "gewaltig / enorm",
+    "choices": [
+      "keresett / népszerű (in demand)",
+      "hatalmas / óriási (tremendous)",
+      "puszta / puszta (mere)",
+      "neves / elismert (renowned)"
+    ],
+    "answer": 2,
+    "hint": "Sie haben unter gewaltigem Druck eine tolle Leistung erbracht. (Synonyme: riesig, immens, gigantisch) (B2 - Adjektiv)"
+  },
+  {
+    "question": "hatalmas / óriási (tremendous)",
+    "choices": [
+      "gewaltig / enorm",
+      "bloß / rein",
+      "renommiert",
+      "gefragt"
+    ],
+    "answer": 1,
+    "hint": "Sie haben unter gewaltigem Druck eine tolle Leistung erbracht. (Synonyme: riesig, immens, gigantisch) (B2 - Adjektiv)"
+  },
+  {
+    "question": "r Umbruch, \"-e",
+    "choices": [
+      "túlkínálat (oversupply / glut)",
+      "felfordulás / megrázkódtatás (upheaval)",
+      "manó / tündér / szellem (sprite)",
+      "hatás / következmény (impact)"
+    ],
+    "answer": 2,
+    "hint": "Die politische Revolution führte zu einem großen gesellschaftlichen Umbruch. (Synonyme: e Erschütterung, e Veränderung) (C1 - Nomen)"
+  },
+  {
+    "question": "felfordulás / megrázkódtatás (upheaval)",
+    "choices": [
+      "s Überangebot, -e",
+      "r Kobold, -e / r Naturgeist, -er",
+      "r Umbruch, \"-e",
+      "e Auswirkung, -en"
+    ],
+    "answer": 3,
+    "hint": "Die politische Revolution führte zu einem großen gesellschaftlichen Umbruch. (Synonyme: e Erschütterung, e Veränderung) (C1 - Nomen)"
+  },
+  {
+    "question": "bloß / rein",
+    "choices": [
+      "puszta / puszta (mere)",
+      "keresett (sought-after)",
+      "hatalmas / óriási (tremendous)",
+      "hagyományos / megszokott (conventional)"
+    ],
+    "answer": 1,
+    "hint": "Der bloße Gedanke an den Unfall macht mich traurig. (Synonyme: alleinig, einzig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "puszta / puszta (mere)",
+    "choices": [
+      "gewaltig / enorm",
+      "konventionell",
+      "gesucht",
+      "bloß / rein"
+    ],
+    "answer": 4,
+    "hint": "Der bloße Gedanke an den Unfall macht mich traurig. (Synonyme: alleinig, einzig) (B2 - Adjektiv)"
+  },
+  {
+    "question": "lediglich / bloß",
+    "choices": [
+      "nagyrészt (mostly)",
+      "teljesen (completely / totally)",
+      "csupán / pusztán (merely)",
+      "véletlenül (accidentally / by chance)"
+    ],
+    "answer": 3,
+    "hint": "Ich wollte dir lediglich helfen, mehr nicht. (Synonyme: nur, einfach, alleinig) (B2 - Adverb)"
+  },
+  {
+    "question": "csupán / pusztán (merely)",
+    "choices": [
+      "zufällig / versehentlich",
+      "völlig / komplett",
+      "größtenteils",
+      "lediglich / bloß"
+    ],
+    "answer": 4,
+    "hint": "Ich wollte dir lediglich helfen, mehr nicht. (Synonyme: nur, einfach, alleinig) (B2 - Adverb)"
+  },
+  {
+    "question": "e Erkenntnis, -se",
+    "choices": [
+      "kínálat / ajánlat (supply / offer)",
+      "felismerés / tudás (insight / realization)",
+      "kereslet (demand)",
+      "szakadék / szakadék széle (precipice)"
+    ],
+    "answer": 2,
+    "hint": "Die wissenschaftliche Erkenntnis revolutionierte die Medizin. (Synonyme: e Einsicht, s Wissen) (B2 - Nomen)"
+  },
+  {
+    "question": "felismerés / tudás (insight / realization)",
+    "choices": [
+      "r Abgrund, \"-e",
+      "s Angebot, -e",
+      "e Erkenntnis, -se",
+      "e Nachfrage, -n (nach + D)"
+    ],
+    "answer": 3,
+    "hint": "Die wissenschaftliche Erkenntnis revolutionierte die Medizin. (Synonyme: e Einsicht, s Wissen) (B2 - Nomen)"
+  },
+  {
+    "question": "zerschmettern (+ A) / zerbrechen (+ A)",
+    "choices": [
+      "megismétel / lemásol (to replicate)",
+      "megadja magát / adódik (to surrender / to arise)",
+      "összezúz / összetör (to shatter)",
+      "tanít / oktat (to teach / instruct)"
+    ],
+    "answer": 3,
+    "hint": "Der Stein zerschmetterte die Glasscheibe in tausend Stücke. (Synonyme: zerstören, zertrümmern) (C1 - Verb)"
+  },
+  {
+    "question": "összezúz / összetör (to shatter)",
+    "choices": [
+      "(sich) ergeben",
+      "replizieren (+ A) / nach|bilden (+ A)",
+      "unterrichten (+ A)",
+      "zerschmettern (+ A) / zerbrechen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Der Stein zerschmetterte die Glasscheibe in tausend Stücke. (Synonyme: zerstören, zertrümmern) (C1 - Verb)"
+  },
+  {
+    "question": "enthüllen (+ A)",
+    "choices": [
+      "enyhít / csillapít (to mitigate)",
+      "megjósol / előrejelez (to predict)",
+      "leleplez / felfed (to unveil)",
+      "összezúz / szétnyom (to crush)"
+    ],
+    "answer": 3,
+    "hint": "Der Künstler wird morgen sein neues Denkmal feierlich enthüllen. (Synonyme: aufdecken, präsentieren, offenbaren) (C1 - Verb)"
+  },
+  {
+    "question": "leleplez / felfed (to unveil)",
+    "choices": [
+      "vor|hersagen (+ A)",
+      "zerdrücken (+ A)",
+      "ab|mildern (+ A)",
+      "enthüllen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Der Künstler wird morgen sein neues Denkmal feierlich enthüllen. (Synonyme: aufdecken, präsentieren, offenbaren) (C1 - Verb)"
+  },
+  {
+    "question": "vorher|sehen (+ A)",
+    "choices": [
+      "összezúz / szétnyom (to crush)",
+      "leleplez / felfed (to unveil)",
+      "előrelát / számít vmire (to anticipate)",
+      "elvár / számít vmire (to expect)"
+    ],
+    "answer": 3,
+    "hint": "Die genauen Folgen der Krise konnte niemand vorhersehen. (Synonyme: erwarten, ahnen, antizipieren) (C1 - Verb)"
+  },
+  {
+    "question": "előrelát / számít vmire (to anticipate)",
+    "choices": [
+      "zerdrücken (+ A)",
+      "enthüllen (+ A)",
+      "vorher|sehen (+ A)",
+      "erwarten (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Die genauen Folgen der Krise konnte niemand vorhersehen. (Synonyme: erwarten, ahnen, antizipieren) (C1 - Verb)"
+  },
+  {
+    "question": "replizieren (+ A) / nach|bilden (+ A)",
+    "choices": [
+      "tanít / oktat (to teach / instruct)",
+      "elhagy (to leave)",
+      "megismétel / lemásol (to replicate)",
+      "összezúz / összetör (to shatter)"
+    ],
+    "answer": 3,
+    "hint": "Die Forscher versuchen, das erfolgreiche Experiment im Labor zu replizieren. (Synonyme: wiederholen, kopieren, duplizieren) (C1 - Verb)"
+  },
+  {
+    "question": "megismétel / lemásol (to replicate)",
+    "choices": [
+      "verlassen (+ A)",
+      "zerschmettern (+ A) / zerbrechen (+ A)",
+      "replizieren (+ A) / nach|bilden (+ A)",
+      "unterrichten (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Die Forscher versuchen, das erfolgreiche Experiment im Labor zu replizieren. (Synonyme: wiederholen, kopieren, duplizieren) (C1 - Verb)"
+  },
+  {
+    "question": "konventionell",
+    "choices": [
+      "puszta / puszta (mere)",
+      "hagyományos / megszokott (conventional)",
+      "hatalmas / óriási (tremendous)",
+      "keresett (sought-after)"
+    ],
+    "answer": 2,
+    "hint": "Er bevorzugt konventionelle Methoden bei der Arbeit. (Synonyme: herkömmlich, traditionell, klassisch) (B2 - Adjektiv)"
+  },
+  {
+    "question": "hagyományos / megszokott (conventional)",
+    "choices": [
+      "bloß / rein",
+      "gewaltig / enorm",
+      "konventionell",
+      "gesucht"
+    ],
+    "answer": 3,
+    "hint": "Er bevorzugt konventionelle Methoden bei der Arbeit. (Synonyme: herkömmlich, traditionell, klassisch) (B2 - Adjektiv)"
+  },
+  {
+    "question": "ab|mildern (+ A)",
+    "choices": [
+      "leleplez / felfed (to unveil)",
+      "enyhít / csillapít (to mitigate)",
+      "összezúz / szétnyom (to crush)",
+      "tart vmitől / fél (to fear / to apprehend)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen die negativen Auswirkungen der Krise abmildern. (Synonyme: lindern, dämpfen, reduzieren) (C1 - Verb)"
+  },
+  {
+    "question": "enyhít / csillapít (to mitigate)",
+    "choices": [
+      "zerdrücken (+ A)",
+      "ab|mildern (+ A)",
+      "enthüllen (+ A)",
+      "befürchten (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Wir müssen die negativen Auswirkungen der Krise abmildern. (Synonyme: lindern, dämpfen, reduzieren) (C1 - Verb)"
+  },
+  {
+    "question": "r Kobold, -e / r Naturgeist, -er",
+    "choices": [
+      "manó / tündér / szellem (sprite)",
+      "felfordulás / megrázkódtatás (upheaval)",
+      "hatás / következmény (impact)",
+      "túlkínálat (oversupply / glut)"
+    ],
+    "answer": 1,
+    "hint": "In dem alten Märchen taucht plötzlich ein kleiner Kobold auf. (Synonyme: r Elf, r Wichtel) (C1 - Nomen)"
+  },
+  {
+    "question": "manó / tündér / szellem (sprite)",
+    "choices": [
+      "r Umbruch, \"-e",
+      "e Auswirkung, -en",
+      "r Kobold, -e / r Naturgeist, -er",
+      "s Überangebot, -e"
+    ],
+    "answer": 3,
+    "hint": "In dem alten Märchen taucht plötzlich ein kleiner Kobold auf. (Synonyme: r Elf, r Wichtel) (C1 - Nomen)"
+  },
+  {
+    "question": "zerdrücken (+ A)",
+    "choices": [
+      "előrelát / számít vmire (to anticipate)",
+      "elvár / számít vmire (to expect)",
+      "összezúz / szétnyom (to crush)",
+      "jelent / felvet (problémát) (to pose)"
+    ],
+    "answer": 3,
+    "hint": "Du darfst die weichen Tomaten in der Tasche nicht zerdrücken. (Synonyme: zerquetschen, zermalmen) (B2 - Verb)"
+  },
+  {
+    "question": "összezúz / szétnyom (to crush)",
+    "choices": [
+      "vorher|sehen (+ A)",
+      "erwarten (+ A)",
+      "dar|stellen (+ A) / auf|werfen (+ A)",
+      "zerdrücken (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Du darfst die weichen Tomaten in der Tasche nicht zerdrücken. (Synonyme: zerquetschen, zermalmen) (B2 - Verb)"
+  },
+  {
+    "question": "in jemanden (A) verknallt sein",
+    "choices": [
+      "két fiú apjának lenni (to be dad to two boys)",
+      "hiába keres vmit (to search for sth in vain)",
+      "Ezzel csak részben értek egyet. (I only partially agree with that.)",
+      "bele van zúgva vkibe / rajong vkiért (to have a crush on somebody)"
+    ],
+    "answer": 4,
+    "hint": "Er ist schon seit der Schulzeit in seine Nachbarin verknallt. (Synonyme: schwärmen für, verliebt sein in) (B1 - Ausdruck)"
+  },
+  {
+    "question": "bele van zúgva vkibe / rajong vkiért (to have a crush on somebody)",
+    "choices": [
+      "Damit bin ich nur teilweise einverstanden.",
+      "Vater von zwei Jungen sein",
+      "in jemanden (A) verknallt sein",
+      "etwas vergeblich suchen"
+    ],
+    "answer": 3,
+    "hint": "Er ist schon seit der Schulzeit in seine Nachbarin verknallt. (Synonyme: schwärmen für, verliebt sein in) (B1 - Ausdruck)"
+  },
+  {
+    "question": "Vater von zwei Jungen sein",
+    "choices": [
+      "két fiú apjának lenni (to be dad to two boys)",
+      "Sajnálom (vkit) (I am sorry for)",
+      "Több tényezőtől függ... (It depends on several factors...)",
+      "tanulni benne/belőle (to learn in it)"
+    ],
+    "answer": 1,
+    "hint": "Er ist stolzer Vater von zwei Jungen im Teenageralter. (A2 - Ausdruck)"
+  },
+  {
+    "question": "két fiú apjának lenni (to be dad to two boys)",
+    "choices": [
+      "Es tut mir leid für (+ A)",
+      "darin lernen",
+      "Vater von zwei Jungen sein",
+      "Es hängt von mehreren Faktoren ab..."
+    ],
+    "answer": 3,
+    "hint": "Er ist stolzer Vater von zwei Jungen im Teenageralter. (A2 - Ausdruck)"
+  },
+  {
+    "question": "in anderen Fällen",
+    "choices": [
+      "Ezzel csak részben értek egyet. (I only partially agree with that.)",
+      "más esetben (in other cases / otherwise)",
+      "Sajnálom (vkit) (I am sorry for)",
+      "tanulni benne/belőle (to learn in it)"
+    ],
+    "answer": 2,
+    "hint": "In anderen Fällen hätten wir sofort die Polizei gerufen. (Synonyme: sonst, ansonsten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "más esetben (in other cases / otherwise)",
+    "choices": [
+      "Damit bin ich nur teilweise einverstanden.",
+      "darin lernen",
+      "in anderen Fällen",
+      "Es tut mir leid für (+ A)"
+    ],
+    "answer": 3,
+    "hint": "In anderen Fällen hätten wir sofort die Polizei gerufen. (Synonyme: sonst, ansonsten) (B1 - Ausdruck)"
+  },
+  {
+    "question": "andernfalls / sonst",
+    "choices": [
+      "nagyrészt (mostly)",
+      "csupán / pusztán (merely)",
+      "úton (underway / on the way)",
+      "máskülönben / különben (otherwise)"
+    ],
+    "answer": 4,
+    "hint": "Beeil dich, andernfalls verpassen wir noch den Flug. (Synonyme: ansonsten, im anderen Fall) (B2 - Adverb)"
+  },
+  {
+    "question": "máskülönben / különben (otherwise)",
+    "choices": [
+      "größtenteils",
+      "lediglich / bloß",
+      "andernfalls / sonst",
+      "unterwegs"
+    ],
+    "answer": 3,
+    "hint": "Beeil dich, andernfalls verpassen wir noch den Flug. (Synonyme: ansonsten, im anderen Fall) (B2 - Adverb)"
+  },
+  {
+    "question": "ambivalent",
+    "choices": [
+      "társadalmi (societal)",
+      "keresett / népszerű (in demand)",
+      "hagyományos / megszokott (conventional)",
+      "ambivalens / vegyes érzelmű (ambivalent)"
+    ],
+    "answer": 4,
+    "hint": "Meine Gefühle gegenüber diesem neuen Projekt sind sehr ambivalent. (Synonyme: zwiespältig, widersprüchlich) (C1 - Adjektiv)"
+  },
+  {
+    "question": "ambivalens / vegyes érzelmű (ambivalent)",
+    "choices": [
+      "gesellschaftlich",
+      "gefragt",
+      "ambivalent",
+      "konventionell"
+    ],
+    "answer": 3,
+    "hint": "Meine Gefühle gegenüber diesem neuen Projekt sind sehr ambivalent. (Synonyme: zwiespältig, widersprüchlich) (C1 - Adjektiv)"
+  },
+  {
+    "question": "(sich) heraus|stellen",
+    "choices": [
+      "félbeszakít (to abort / to cancel)",
+      "sajnál vmit (to regret)",
+      "kiderül (to turn out)",
+      "bánik vmivel (to deal with)"
+    ],
+    "answer": 3,
+    "hint": "Es stellte sich heraus, dass die ganze Geschichte eine Lüge war. (Synonyme: sich zeigen, sich erweisen als) (B2 - Verb)"
+  },
+  {
+    "question": "kiderül (to turn out)",
+    "choices": [
+      "bedauern (+ A)",
+      "ab|brechen (+ A)",
+      "um|gehen (mit + D)",
+      "(sich) heraus|stellen"
+    ],
+    "answer": 4,
+    "hint": "Es stellte sich heraus, dass die ganze Geschichte eine Lüge war. (Synonyme: sich zeigen, sich erweisen als) (B2 - Verb)"
+  },
+  {
+    "question": "sowie",
+    "choices": [
+      "valamint / csakúgy mint (as well as)",
+      "attól függően (depending on (whether))",
+      "annál (inkább) (all the more / the more)",
+      "és így tovább (and so on and so forth)"
+    ],
+    "answer": 1,
+    "hint": "Wir verkaufen Äpfel und Birnen sowie exotische Früchte. (Synonyme: und auch, wie auch) (B1 - Konjunktion)"
+  },
+  {
+    "question": "valamint / csakúgy mint (as well as)",
+    "choices": [
+      "sowie",
+      "je nachdem",
+      "und so weiter und so fort (usw. usf.)",
+      "umso"
+    ],
+    "answer": 1,
+    "hint": "Wir verkaufen Äpfel und Birnen sowie exotische Früchte. (Synonyme: und auch, wie auch) (B1 - Konjunktion)"
+  },
+  {
+    "question": "aufgrund (+ G)",
+    "choices": [
+      "után / szerint (after / according to)",
+      "vmitől függően (depending on)",
+      "vmi szerint (according to)",
+      "vmi miatt / alapján (due to / based on)"
+    ],
+    "answer": 4,
+    "hint": "Aufgrund des starken Regens fällt das Konzert heute aus. (Synonyme: wegen, infolge, dank) (B2 - Präposition)"
+  },
+  {
+    "question": "vmi miatt / alapján (due to / based on)",
+    "choices": [
+      "nach (+ D)",
+      "laut (+ G / + D)",
+      "je nach (+ D)",
+      "aufgrund (+ G)"
+    ],
+    "answer": 4,
+    "hint": "Aufgrund des starken Regens fällt das Konzert heute aus. (Synonyme: wegen, infolge, dank) (B2 - Präposition)"
+  },
+  {
+    "question": "durch|führen (+ A)",
+    "choices": [
+      "húz / ránt (fegyvert) (to pull / to draw (weapon))",
+      "továbbmegy / folytatódik (to move on / to keep walking)",
+      "legyűr / túlterhel (to overpower / to subdue)",
+      "lebonyolít / végrehajt (to carry out / to conduct)"
+    ],
+    "answer": 4,
+    "hint": "Wir werden die Qualitätsprüfung wie vereinbart durchführen. (Synonyme: abwickeln, umsetzen, vollziehen) (B1 - Verb)"
+  },
+  {
+    "question": "lebonyolít / végrehajt (to carry out / to conduct)",
+    "choices": [
+      "aus|lösen (+ A)",
+      "aus|weichen (+ D)",
+      "ab|machen (+ A)",
+      "durch|führen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir werden die Qualitätsprüfung wie vereinbart durchführen. (Synonyme: abwickeln, umsetzen, vollziehen) (B1 - Verb)"
+  },
+  {
+    "question": "s Kuchendiagramm, -e",
+    "choices": [
+      "kördiagram (pie chart)",
+      "bánásmód / kapcsolat (handling / dealings)",
+      "szakközépiskola (specialized secondary school)",
+      "kézművesség / szakma (craft / trade)"
+    ],
+    "answer": 1,
+    "hint": "Die Kostenverteilung wird übersichtlich in einem Kuchendiagramm gezeigt. (Synonyme: s Kreisdiagramm, s Tortendiagramm) (B1 - Nomen)"
+  },
+  {
+    "question": "kördiagram (pie chart)",
+    "choices": [
+      "e Erläuterung, -en",
+      "e Legende, -n",
+      "r Anteil, -e",
+      "s Kuchendiagramm, -e"
+    ],
+    "answer": 4,
+    "hint": "Die Kostenverteilung wird übersichtlich in einem Kuchendiagramm gezeigt. (Synonyme: s Kreisdiagramm, s Tortendiagramm) (B1 - Nomen)"
+  },
+  {
+    "question": "geeignet (für + A / zu + D)",
+    "choices": [
+      "alkalmas vmire (suitable for)",
+      "feltüntetett / megadott (indicated / specified)",
+      "fedett (roofed / covered)",
+      "tárgyas (nyelvtan) (transitive)"
+    ],
+    "answer": 1,
+    "hint": "Dieses Datenformat ist optimal für den Austausch geeignet. (Synonyme: passend, adäquat, qualifiziert) (B1 - Adjektiv)"
+  },
+  {
+    "question": "alkalmas vmire (suitable for)",
+    "choices": [
+      "angegeben",
+      "geeignet (für + A / zu + D)",
+      "aufgeführt",
+      "minderjährig"
+    ],
+    "answer": 2,
+    "hint": "Dieses Datenformat ist optimal für den Austausch geeignet. (Synonyme: passend, adäquat, qualifiziert) (B1 - Adjektiv)"
+  },
+  {
+    "question": "dienen (zu + D / als)",
+    "choices": [
+      "bevall / beismer (to confess / to admit)",
+      "szolgál vmire / gyanánt (to serve as / to be used for)",
+      "feltör / feltör (zárat) (to crack / to pick (locks))",
+      "visszatér (to return)"
+    ],
+    "answer": 2,
+    "hint": "Das 3D-Modell dient zur frühzeitigen Kollisionsprüfung. (Synonyme: fungieren als, nützen zu, bestimmt sein für) (B1 - Verb)"
+  },
+  {
+    "question": "szolgál vmire / gyanánt (to serve as / to be used for)",
+    "choices": [
+      "(sich) um|sehen",
+      "dienen (zu + D / als)",
+      "durchsuchen (+ A)",
+      "ab|holen (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Das 3D-Modell dient zur frühzeitigen Kollisionsprüfung. (Synonyme: fungieren als, nützen zu, bestimmt sein für) (B1 - Verb)"
+  },
+  {
+    "question": "passend (für + A / zu + D)",
+    "choices": [
+      "megfelelő / illő (fitting / appropriate)",
+      "kiskorú (underage / minor)",
+      "tárgyatlan (nyelvtan) (intransitive)",
+      "bizalmas (confidential)"
+    ],
+    "answer": 1,
+    "hint": "Wir suchen noch nach dem passenden Werkzeug für diese Montage. (Synonyme: adäquat, stimmig, geeignet) (A2 - Adjektiv)"
+  },
+  {
+    "question": "megfelelő / illő (fitting / appropriate)",
+    "choices": [
+      "passend (für + A / zu + D)",
+      "aufgetragen",
+      "angegeben",
+      "volljährig"
+    ],
+    "answer": 1,
+    "hint": "Wir suchen noch nach dem passenden Werkzeug für diese Montage. (Synonyme: adäquat, stimmig, geeignet) (A2 - Adjektiv)"
+  },
+  {
+    "question": "e Fensterbank, \"-e / r Fenstersims, -e",
+    "choices": [
+      "ablakpárkány (windowsill)",
+      "függővasút (suspension railway)",
+      "szakközépiskola (specialized secondary school)",
+      "tervezés (planning)"
+    ],
+    "answer": 1,
+    "hint": "Die Fensterbank schützt das Mauerwerk vor herablaufendem Regen. (Synonyme: s Fensterbrett, r Fenstertritt) (B1 - Nomen)"
+  },
+  {
+    "question": "ablakpárkány (windowsill)",
+    "choices": [
+      "e Legende, -n",
+      "s Planen (Sg.)",
+      "r Gegensatz, \"-e",
+      "e Fensterbank, \"-e / r Fenstersims, -e"
+    ],
+    "answer": 4,
+    "hint": "Die Fensterbank schützt das Mauerwerk vor herablaufendem Regen. (Synonyme: s Fensterbrett, r Fenstertritt) (B1 - Nomen)"
+  },
+  {
+    "question": "piepsen",
+    "choices": [
+      "megállapít / kitűz (to fix / to establish)",
+      "legyűr / túlterhel (to overpower / to subdue)",
+      "csipog / csiripel (to peep / to beep)",
+      "csiripel / csicsereg (to twitter / to warble)"
+    ],
+    "answer": 3,
+    "hint": "Das Messgerät piepst laut, wenn der Grenzwert überschritten wird. (Synonyme: piepen, fiepen, tönen) (B1 - Verb)"
+  },
+  {
+    "question": "csipog / csiripel (to peep / to beep)",
+    "choices": [
+      "verhandeln (über + A)",
+      "schmieden (+ A)",
+      "piepsen",
+      "entkommen (+ D)"
+    ],
+    "answer": 3,
+    "hint": "Das Messgerät piepst laut, wenn der Grenzwert überschritten wird. (Synonyme: piepen, fiepen, tönen) (B1 - Verb)"
+  },
+  {
+    "question": "zirpen",
+    "choices": [
+      "ciripel (to chirp)",
+      "beleszól / beavatkozik (to interfere / to meddle)",
+      "megzsarol (to blackmail)",
+      "összeomlik / beomlik (to collapse / to cave in)"
+    ],
+    "answer": 1,
+    "hint": "An warmen Sommerabenden zirpen die Grillen auf der Wiese. (Synonyme: trillern, zetern) (B2 - Verb)"
+  },
+  {
+    "question": "ciripel (to chirp)",
+    "choices": [
+      "verlieren (+ A)",
+      "erlegen (+ A)",
+      "zirpen",
+      "beschuldigen (+ A) (G)"
+    ],
+    "answer": 3,
+    "hint": "An warmen Sommerabenden zirpen die Grillen auf der Wiese. (Synonyme: trillern, zetern) (B2 - Verb)"
+  },
+  {
+    "question": "zwitschern",
+    "choices": [
+      "csiripel / csicsereg (to twitter / to warble)",
+      "elcserél (to exchange / to trade)",
+      "fejleszt / jobbá tesz (to upgrade / to improve)",
+      "elindul / útnak indul / feltör (to set off / depart; pry open)"
+    ],
+    "answer": 1,
+    "hint": "Im Garten zwitschern die Schwalben hoch oben unter dem Dach. (Synonyme: trällern, singen) (B1 - Verb)"
+  },
+  {
+    "question": "csiripel / csicsereg (to twitter / to warble)",
+    "choices": [
+      "zwitschern",
+      "auf|brechen (+ A)",
+      "(sich) an|schließen (+ D)",
+      "täuschen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Im Garten zwitschern die Schwalben hoch oben unter dem Dach. (Synonyme: trällern, singen) (B1 - Verb)"
+  },
+  {
+    "question": "als Basis (für + A) dienen",
+    "choices": [
+      "tehermentesíti a belvárost (to relieve the city center)",
+      "alapul szolgál vmire (to serve as a basis for)",
+      "hiába keres vmit (to search for sth in vain)",
+      "érzelemnyilvánításokat visszaad (to reflect expressions of emotion)"
+    ],
+    "answer": 2,
+    "hint": "Diese Vorgaben dienen als verbindliche Basis für die Ausschreibung. (Synonyme: als Fundament fungieren) (B2 - Ausdruck)"
+  },
+  {
+    "question": "alapul szolgál vmire (to serve as a basis for)",
+    "choices": [
+      "hinterrücks an|greifen (+ A)",
+      "ein Handwerk erlernen",
+      "als Basis (für + A) dienen",
+      "in anderen Fällen"
+    ],
+    "answer": 3,
+    "hint": "Diese Vorgaben dienen als verbindliche Basis für die Ausschreibung. (Synonyme: als Fundament fungieren) (B2 - Ausdruck)"
+  },
+  {
+    "question": "fest|setzen (+ A)",
+    "choices": [
+      "kibérel (to rent / to hire)",
+      "kitűz / megállapít (to fix / to establish)",
+      "átszúr / átfúr (to pierce / to impale)",
+      "visszatér (to return)"
+    ],
+    "answer": 2,
+    "hint": "Der Termin für die Bauabnahme wurde verbindlich festgesetzt. (Synonyme: bestimmen, festlegen, terminieren) (B2 - Verb)"
+  },
+  {
+    "question": "kitűz / megállapít (to fix / to establish)",
+    "choices": [
+      "fest|setzen (+ A)",
+      "zerlegen (+ A)",
+      "auf|tragen (+ A)",
+      "nieder|schlagen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Der Termin für die Bauabnahme wurde verbindlich festgesetzt. (Synonyme: bestimmen, festlegen, terminieren) (B2 - Verb)"
+  },
+  {
+    "question": "auf|tragen (+ A)",
+    "choices": [
+      "elnyom / kiszorít (to displace / suppress)",
+      "megsebesít (fegyverrel) (to wound)",
+      "felvisz (réteget) / megbíz (to apply (coating) / to assign)",
+      "megbocsát (to forgive)"
+    ],
+    "answer": 3,
+    "hint": "Auf den Estrich muss eine Grundierung dünn aufgetragen werden. (Synonyme: aufbringen, verstreichen, beauftragen) (B2 - Verb)"
+  },
+  {
+    "question": "felvisz (réteget) / megbíz (to apply (coating) / to assign)",
+    "choices": [
+      "durchbohren (+ A)",
+      "auf|tragen (+ A)",
+      "auf|führen (+ A)",
+      "aus|rüsten (+ A) (mit + D)"
+    ],
+    "answer": 2,
+    "hint": "Auf den Estrich muss eine Grundierung dünn aufgetragen werden. (Synonyme: aufbringen, verstreichen, beauftragen) (B2 - Verb)"
+  },
+  {
+    "question": "auf|führen (+ A)",
+    "choices": [
+      "tárgyal (to negotiate)",
+      "elszámol (to settle / to bill)",
+      "felsorol / előad (to list / to perform)",
+      "felfegyverzi magát (to arm oneself)"
+    ],
+    "answer": 3,
+    "hint": "Alle relevanten Mängel wurden detailliert im Protokoll aufgeführt. (Synonyme: auflisten, verzeichnen, anführen) (B2 - Verb)"
+  },
+  {
+    "question": "felsorol / előad (to list / to perform)",
+    "choices": [
+      "verhandeln (über + A)",
+      "auf|tragen (+ A)",
+      "auf|führen (+ A)",
+      "zerdrücken (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Alle relevanten Mängel wurden detailliert im Protokoll aufgeführt. (Synonyme: auflisten, verzeichnen, anführen) (B2 - Verb)"
+  },
+  {
+    "question": "aufgetragen",
+    "choices": [
+      "tárgyas (nyelvtan) (transitive)",
+      "kiegészítő / további (additional)",
+      "felvitt / ráhordott (applied (coating))",
+      "megfelelő / illő (fitting / appropriate)"
+    ],
+    "answer": 3,
+    "hint": "Die frisch aufgetragene Dichtschicht muss vollständig aushärten. (Synonyme: appliziert, aufgebracht) (B2 - Adjektiv)"
+  },
+  {
+    "question": "felvitt / ráhordott (applied (coating))",
+    "choices": [
+      "transitiv",
+      "aufgetragen",
+      "zusätzlich",
+      "geeignet (für + A / zu + D)"
+    ],
+    "answer": 2,
+    "hint": "Die frisch aufgetragene Dichtschicht muss vollständig aushärten. (Synonyme: appliziert, aufgebracht) (B2 - Adjektiv)"
+  },
+  {
+    "question": "aufgeführt",
+    "choices": [
+      "felsorolt / jegyzett (listed)",
+      "szándékos / rosszindulatú (willful / malicious)",
+      "életerős / virágzó (vital / vigorous)",
+      "tárgyatlan (nyelvtan) (intransitive)"
+    ],
+    "answer": 1,
+    "hint": "Die oben aufgeführten Punkte bedürfen einer gesonderten Klärung. (Synonyme: aufgelistet, genannt, spezifiziert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "felsorolt / jegyzett (listed)",
+    "choices": [
+      "intransitiv",
+      "aufgeführt",
+      "lebenskräftig",
+      "mutwillig"
+    ],
+    "answer": 2,
+    "hint": "Die oben aufgeführten Punkte bedürfen einer gesonderten Klärung. (Synonyme: aufgelistet, genannt, spezifiziert) (B2 - Adjektiv)"
+  },
+  {
+    "question": "angegeben",
+    "choices": [
+      "megadott / feltüntetett (indicated / specified)",
+      "kiskorú (underage / minor)",
+      "nagykorú (of age / adult)",
+      "bizalmas (confidential)"
+    ],
+    "answer": 1,
+    "hint": "Bitte prüfen Sie die im Vertrag angegebenen Maße und Kosten. (Synonyme: genannt, ausgewiesen, deklariert) (B1 - Adjektiv)"
+  },
+  {
+    "question": "megadott / feltüntetett (indicated / specified)",
+    "choices": [
+      "angegeben",
+      "volljährig",
+      "vertraulich",
+      "minderjährig"
+    ],
+    "answer": 1,
+    "hint": "Bitte prüfen Sie die im Vertrag angegebenen Maße und Kosten. (Synonyme: genannt, ausgewiesen, deklariert) (B1 - Adjektiv)"
+  },
+  {
+    "question": "e Spalte, -n",
+    "choices": [
+      "megbeszélés (meeting / discussion)",
+      "oszlop (táblázatban) / hasadék / hasáb (column (table) / crevice)",
+      "tervezés (planning)",
+      "kibocsátás (emission / output)"
+    ],
+    "answer": 2,
+    "hint": "Die Werte für die Flächenmaße finden Sie in der vierten Spalte. (Synonyme: e Tabellenspalte, e Kolumne, e Rubrik) (B1 - Nomen)"
+  },
+  {
+    "question": "oszlop (táblázatban) / hasadék / hasáb (column (table) / crevice)",
+    "choices": [
+      "r Anteil, -e",
+      "e Spalte, -n",
+      "s Planen (Sg.)",
+      "r Gegensatz, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Die Werte für die Flächenmaße finden Sie in der vierten Spalte. (Synonyme: e Tabellenspalte, e Kolumne, e Rubrik) (B1 - Nomen)"
+  },
+  {
+    "question": "allerdings",
+    "choices": [
+      "túlnyomórészt (predominantly)",
+      "pusztán / csupán (merely)",
+      "időben / pontosan (on time / timely)",
+      "azonban / mindazonáltal (however / indeed)"
+    ],
+    "answer": 4,
+    "hint": "Das Konzept überzeugt, allerdings erfordert es zusätzliche Mittel. (Synonyme: jedoch, freilich, gleichwohl) (B1 - Adverb)"
+  },
+  {
+    "question": "azonban / mindazonáltal (however / indeed)",
+    "choices": [
+      "überwiegend",
+      "rechtzeitig",
+      "allerdings",
+      "lediglich / bloß"
+    ],
+    "answer": 3,
+    "hint": "Das Konzept überzeugt, allerdings erfordert es zusätzliche Mittel. (Synonyme: jedoch, freilich, gleichwohl) (B1 - Adverb)"
+  },
+  {
+    "question": "e Legende, -n",
+    "choices": [
+      "pályázó / jelentkező (applicant)",
+      "jelmagyarázat / jelmagyarázó (legend / key)",
+      "terv / tervrajz (plan / blueprint)",
+      "ellenzék / ellenkezője (opposite)"
+    ],
+    "answer": 2,
+    "hint": "Die Legende auf dem Plan erklärt alle verwendeten Symbole. (Synonyme: e Zeichenerklärung, r Schlüssel) (B1 - Nomen)"
+  },
+  {
+    "question": "jelmagyarázat / jelmagyarázó (legend / key)",
+    "choices": [
+      "r Plan, \"-e",
+      "r Gegensatz, \"-e",
+      "e Legende, -n",
+      "r Leiter, - / e Leiterin, -nen"
+    ],
+    "answer": 3,
+    "hint": "Die Legende auf dem Plan erklärt alle verwendeten Symbole. (Synonyme: e Zeichenerklärung, r Schlüssel) (B1 - Nomen)"
+  },
+  {
+    "question": "e Erläuterung, -en",
+    "choices": [
+      "magyarázat / kifejtés (explanation / commentary)",
+      "bánásmód / kapcsolat (handling / dealings)",
+      "tárgyalás (negotiation)",
+      "előítélet (prejudice / bias)"
+    ],
+    "answer": 1,
+    "hint": "Eine ausführliche Erläuterung der statischen Berechnung liegt bei. (Synonyme: e Erklärung, e Ausführung, r Kommentar) (B2 - Nomen)"
+  },
+  {
+    "question": "magyarázat / kifejtés (explanation / commentary)",
+    "choices": [
+      "r Umgang (Sg.)",
+      "e Erläuterung, -en",
+      "s Vorurteil, -e",
+      "e Verhandlung, -en"
+    ],
+    "answer": 2,
+    "hint": "Eine ausführliche Erläuterung der statischen Berechnung liegt bei. (Synonyme: e Erklärung, e Ausführung, r Kommentar) (B2 - Nomen)"
+  },
+  {
+    "question": "erläutern (+ A)",
+    "choices": [
+      "elszámol (to settle / to bill)",
+      "elmagyaráz / kifejt (to explain / to elucidate)",
+      "csatlakozik (frakcióhoz/csapathoz) (to join (a faction))",
+      "kibérel (to rent / to hire)"
+    ],
+    "answer": 2,
+    "hint": "Der Architekt erläutert dem Bauherrn den neuen Entwurf. (Synonyme: erklären, darlegen, verdeutlichen) (B2 - Verb)"
+  },
+  {
+    "question": "elmagyaráz / kifejt (to explain / to elucidate)",
+    "choices": [
+      "ab|rechnen (+ A)",
+      "erläutern (+ A)",
+      "an|mieten (+ A)",
+      "(sich) an|schließen (+ D)"
+    ],
+    "answer": 2,
+    "hint": "Der Architekt erläutert dem Bauherrn den neuen Entwurf. (Synonyme: erklären, darlegen, verdeutlichen) (B2 - Verb)"
+  },
+  {
+    "question": "schrumpfen",
+    "choices": [
+      "összemegy / zsugorodik (to shrink / to dwindle)",
+      "rábeszél vmire (to talk someone into something)",
+      "elszámol (to settle / to bill)",
+      "legyűr / túlterhel (to overpower / to subdue)"
+    ],
+    "answer": 1,
+    "hint": "Die finanzielle Reserve des Unternehmens schrumpft rapide. (Synonyme: kleiner werden, sich verringern, abnehmen) (B2 - Verb)"
+  },
+  {
+    "question": "összemegy / zsugorodik (to shrink / to dwindle)",
+    "choices": [
+      "schrumpfen",
+      "ab|rechnen (+ A)",
+      "überreden (+ A) (zu + D)",
+      "überwältigen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Die finanzielle Reserve des Unternehmens schrumpft rapide. (Synonyme: kleiner werden, sich verringern, abnehmen) (B2 - Verb)"
+  },
+  {
+    "question": "ab|nehmen",
+    "choices": [
+      "felfedez (to discover)",
+      "követel / elvár (to demand / to require)",
+      "becsap / csal (to cheat / to deceive)",
+      "csökken / fogy (to decrease / to decline)"
+    ],
+    "answer": 4,
+    "hint": "Die Zahl der Verkehrsunfälle hat in diesem Jahr spürbar abgenommen. (Synonyme: sinken, schrumpfen, sich reduzieren) (B1 - Verb)"
+  },
+  {
+    "question": "csökken / fogy (to decrease / to decline)",
+    "choices": [
+      "entdecken (+ A)",
+      "betrügen (+ A)",
+      "verlangen (+ A)",
+      "ab|nehmen"
+    ],
+    "answer": 4,
+    "hint": "Die Zahl der Verkehrsunfälle hat in diesem Jahr spürbar abgenommen. (Synonyme: sinken, schrumpfen, sich reduzieren) (B1 - Verb)"
+  },
+  {
+    "question": "zu|nehmen",
+    "choices": [
+      "visszatér (to return)",
+      "növekszik / gyarapszik (to increase / to grow)",
+      "elmagyaráz / kifejt (to explain / to elucidate)",
+      "szétszed / darabol (to dismantle / to carve up)"
+    ],
+    "answer": 2,
+    "hint": "Die Nachfrage nach nachhaltigen Baustoffen nimmt kontinuierlich zu. (Synonyme: wachsen, steigen, expandieren) (B1 - Verb)"
+  },
+  {
+    "question": "növekszik / gyarapszik (to increase / to grow)",
+    "choices": [
+      "zerlegen (+ A)",
+      "zu|nehmen",
+      "erläutern (+ A)",
+      "zurück|kehren"
+    ],
+    "answer": 2,
+    "hint": "Die Nachfrage nach nachhaltigen Baustoffen nimmt kontinuierlich zu. (Synonyme: wachsen, steigen, expandieren) (B1 - Verb)"
+  },
+  {
+    "question": "verringern (+ A / sich)",
+    "choices": [
+      "leüt / lever (lázadást) (to knock down / to knock out)",
+      "csökkent / csökken (to reduce / to decrease)",
+      "átszúr / átfúr (to pierce / to impale)",
+      "megbocsát (to forgive)"
+    ],
+    "answer": 2,
+    "hint": "Durch gezielte Maßnahmen können wir die Energiekosten verringern. (Synonyme: senken, reduzieren, vermindern) (B2 - Verb)"
+  },
+  {
+    "question": "csökkent / csökken (to reduce / to decrease)",
+    "choices": [
+      "verringern (+ A / sich)",
+      "durchbohren (+ A)",
+      "verzeihen (+ D + A)",
+      "nieder|schlagen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Durch gezielte Maßnahmen können wir die Energiekosten verringern. (Synonyme: senken, reduzieren, vermindern) (B2 - Verb)"
+  },
+  {
+    "question": "vermindern (+ A / sich)",
+    "choices": [
+      "csökkent / mérsékel (to lessen / to diminish)",
+      "megbocsát (to forgive)",
+      "legyűr / túlterhel (to overpower / to subdue)",
+      "kifejt / elmagyaráz (to explain / to elucidate)"
+    ],
+    "answer": 1,
+    "hint": "Regelmäßige Wartung vermindert das Risiko schwerer Ausfälle. (Synonyme: herabsetzen, drosseln, abschwächen) (B2 - Verb)"
+  },
+  {
+    "question": "csökkent / mérsékel (to lessen / to diminish)",
+    "choices": [
+      "vermindern (+ A / sich)",
+      "erläutern (+ A)",
+      "überwältigen (+ A)",
+      "verzeihen (+ D + A)"
+    ],
+    "answer": 1,
+    "hint": "Regelmäßige Wartung vermindert das Risiko schwerer Ausfälle. (Synonyme: herabsetzen, drosseln, abschwächen) (B2 - Verb)"
+  },
+  {
+    "question": "minderjährig",
+    "choices": [
+      "kiskorú (underage / minor)",
+      "bizalmas (confidential)",
+      "katonai (military)",
+      "személyzet nélküli (unmanned)"
+    ],
+    "answer": 1,
+    "hint": "Minderjährige Personen dürfen den Vertrag nur mit Zustimmung der Eltern unterzeichnen. (Synonyme: unmündig, gesetzlich unselbstständig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "kiskorú (underage / minor)",
+    "choices": [
+      "militärisch",
+      "vertraulich",
+      "unbemannt",
+      "minderjährig"
+    ],
+    "answer": 4,
+    "hint": "Minderjährige Personen dürfen den Vertrag nur mit Zustimmung der Eltern unterzeichnen. (Synonyme: unmündig, gesetzlich unselbstständig) (B1 - Adjektiv)"
+  },
+  {
+    "question": "volljährig",
+    "choices": [
+      "feltüntetett / megadott (indicated / specified)",
+      "kiskorú (underage / minor)",
+      "bizalmas (confidential)",
+      "nagykorú (of age / adult)"
+    ],
+    "answer": 4,
+    "hint": "Mit Vollendung des 18. Lebensjahres gilt man in Deutschland als volljährig. (Synonyme: mündig, erwachsen) (B1 - Adjektiv)"
+  },
+  {
+    "question": "nagykorú (of age / adult)",
+    "choices": [
+      "minderjährig",
+      "vertraulich",
+      "angegeben",
+      "volljährig"
+    ],
+    "answer": 4,
+    "hint": "Mit Vollendung des 18. Lebensjahres gilt man in Deutschland als volljährig. (Synonyme: mündig, erwachsen) (B1 - Adjektiv)"
+  },
+  {
+    "question": "intransitiv",
+    "choices": [
+      "feltüntetett / megadott (indicated / specified)",
+      "tárgyas (nyelvtan) (transitive)",
+      "tárgyatlan (nyelvtan) (intransitive)",
+      "életerős / virágzó (vital / vigorous)"
+    ],
+    "answer": 3,
+    "hint": "Verben ohne Akkusativobjekt werden in der Grammatik als intransitiv bezeichnet. (Synonyme: nicht-zielend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "tárgyatlan (nyelvtan) (intransitive)",
+    "choices": [
+      "transitiv",
+      "angegeben",
+      "intransitiv",
+      "lebenskräftig"
+    ],
+    "answer": 3,
+    "hint": "Verben ohne Akkusativobjekt werden in der Grammatik als intransitiv bezeichnet. (Synonyme: nicht-zielend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "transitiv",
+    "choices": [
+      "tárgyatlan (nyelvtan) (intransitive)",
+      "életerős / virágzó (vital / vigorous)",
+      "szándékos / rosszindulatú (willful / malicious)",
+      "tárgyas (nyelvtan) (transitive)"
+    ],
+    "answer": 4,
+    "hint": "Ein transitives Verb verlangt im Satz ein direktes Akkusativobjekt. (Synonyme: zielend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "tárgyas (nyelvtan) (transitive)",
+    "choices": [
+      "transitiv",
+      "lebenskräftig",
+      "mutwillig",
+      "intransitiv"
+    ],
+    "answer": 1,
+    "hint": "Ein transitives Verb verlangt im Satz ein direktes Akkusativobjekt. (Synonyme: zielend) (C1 - Adjektiv)"
+  },
+  {
+    "question": "s Planen (Sg.)",
+    "choices": [
+      "légijármű / repülőeszköz (aircraft / aviation equipment)",
+      "jelmagyarázat / jelmagyarázó (legend / key)",
+      "tervezés (planning)",
+      "távolság (distance)"
+    ],
+    "answer": 3,
+    "hint": "Sorgfältiges Planen spart später auf der Baustelle viel Zeit und Geld. (Synonyme: e Planung, e Projektierung) (B1 - Nomen)"
+  },
+  {
+    "question": "tervezés (planning)",
+    "choices": [
+      "s Luftfahrtgerät, -e",
+      "e Legende, -n",
+      "s Planen (Sg.)",
+      "e Entfernung, -en"
+    ],
+    "answer": 3,
+    "hint": "Sorgfältiges Planen spart später auf der Baustelle viel Zeit und Geld. (Synonyme: e Planung, e Projektierung) (B1 - Nomen)"
+  },
+  {
+    "question": "r Plan, \"-e",
+    "choices": [
+      "jelmagyarázat / jelmagyarázó (legend / key)",
+      "terv / tervrajz (plan / blueprint)",
+      "pályázó / jelentkező (applicant)",
+      "felsorolás (list / enumeration)"
+    ],
+    "answer": 2,
+    "hint": "Haben Sie den aktuellen Plan des Gebäudes bereits geprüft? (Synonyme: r Entwurf, e Skizze, e Zeichnung) (A1 - Nomen)"
+  },
+  {
+    "question": "terv / tervrajz (plan / blueprint)",
+    "choices": [
+      "r Bewerber, -",
+      "r Plan, \"-e",
+      "e Aufzählung, -en",
+      "e Legende, -n"
+    ],
+    "answer": 2,
+    "hint": "Haben Sie den aktuellen Plan des Gebäudes bereits geprüft? (Synonyme: r Entwurf, e Skizze, e Zeichnung) (A1 - Nomen)"
+  },
+  {
+    "question": "im Vergleich (zu + D)",
+    "choices": [
+      "Több tényezőtől függ... (It depends on several factors...)",
+      "más esetben (in other cases / otherwise)",
+      "összehasonlítva vmivel (in comparison with)",
+      "Sajnálom (vkit) (I am sorry for)"
+    ],
+    "answer": 3,
+    "hint": "Im Vergleich zum Vorjahr konnten wir den Energieverbrauch deutlich senken. (Synonyme: verglichen mit, gegenübergestellt) (B1 - Ausdruck)"
+  },
+  {
+    "question": "összehasonlítva vmivel (in comparison with)",
+    "choices": [
+      "Es hängt von mehreren Faktoren ab...",
+      "im Vergleich (zu + D)",
+      "in anderen Fällen",
+      "Es tut mir leid für (+ A)"
+    ],
+    "answer": 2,
+    "hint": "Im Vergleich zum Vorjahr konnten wir den Energieverbrauch deutlich senken. (Synonyme: verglichen mit, gegenübergestellt) (B1 - Ausdruck)"
+  },
+  {
+    "question": "r Gegensatz, \"-e",
+    "choices": [
+      "részletes (detailed)",
+      "oszlop (táblázatban) / hasadék / hasáb (column (table) / crevice)",
+      "ellentét (contrast / opposite)",
+      "bizonyíték (proof / evidence)"
+    ],
+    "answer": 3,
+    "hint": "Sein Verhalten steht im krassen Gegensatz zu seinen Worten. (Synonyme: r Kontrast, e Antithese, e Diskrepanz) (B1 - Nomen)"
+  },
+  {
+    "question": "ellentét (contrast / opposite)",
+    "choices": [
+      "r Beweis, -e",
+      "e Spalte, -n",
+      "ausführlich",
+      "r Gegensatz, \"-e"
+    ],
+    "answer": 4,
+    "hint": "Sein Verhalten steht im krassen Gegensatz zu seinen Worten. (Synonyme: r Kontrast, e Antithese, e Diskrepanz) (B1 - Nomen)"
+  },
+  {
+    "question": "s Gegenteil, -e",
+    "choices": [
+      "osztály / részleg (department)",
+      "bánásmód / kapcsolat (handling / dealings)",
+      "hálóing (nightshirt)",
+      "ellenkezője (opposite)"
+    ],
+    "answer": 4,
+    "hint": "Er behauptet das Gegenteil von dem, was gestern vereinbart wurde. (Synonyme: s Widerspiel, s Gegenteilige) (A2 - Nomen)"
+  },
+  {
+    "question": "ellenkezője (opposite)",
+    "choices": [
+      "e Abteilung, -en",
+      "s Schlafhemd, -en",
+      "r Umgang (Sg.)",
+      "s Gegenteil, -e"
+    ],
+    "answer": 4,
+    "hint": "Er behauptet das Gegenteil von dem, was gestern vereinbart wurde. (Synonyme: s Widerspiel, s Gegenteilige) (A2 - Nomen)"
+  },
+  {
+    "question": "gegenüber (+ D)",
+    "choices": [
+      "szemben vmivel (opposite / towards)",
+      "vmi miatt / alapján (due to / based on)",
+      "vmitől függően (depending on)",
+      "alapján / miatt (due to / on the basis of)"
+    ],
+    "answer": 1,
+    "hint": "Das neue Bürogebäude liegt direkt gegenüber dem Bahnhof. (Synonyme: im Vergleich zu, angesichts) (A2 - Präposition)"
+  },
+  {
+    "question": "szemben vmivel (opposite / towards)",
+    "choices": [
+      "je nach (+ D)",
+      "aufgrund (+ G)",
+      "gegenüber (+ D)",
+      "nach (+ D)"
+    ],
+    "answer": 3,
+    "hint": "Das neue Bürogebäude liegt direkt gegenüber dem Bahnhof. (Synonyme: im Vergleich zu, angesichts) (A2 - Präposition)"
+  },
+  {
+    "question": "erwirtschaften (+ A)",
+    "choices": [
+      "legyűr / túlterhel (to overpower / to subdue)",
+      "kitermel / megtermel (to generate / to earn)",
+      "rábeszél vmire (to talk someone into something)",
+      "kibocsát (to emit)"
+    ],
+    "answer": 2,
+    "hint": "Die Firma konnte im letzten Quartal einen beachtlichen Gewinn erwirtschaften. (Synonyme: erzielen, herausholen, einnehmen) (B2 - Verb)"
+  },
+  {
+    "question": "kitermel / megtermel (to generate / to earn)",
+    "choices": [
+      "überwältigen (+ A)",
+      "erwirtschaften (+ A)",
+      "emittieren (+ A)",
+      "überreden (+ A) (zu + D)"
+    ],
+    "answer": 2,
+    "hint": "Die Firma konnte im letzten Quartal einen beachtlichen Gewinn erwirtschaften. (Synonyme: erzielen, herausholen, einnehmen) (B2 - Verb)"
+  },
+  {
+    "question": "erzielen (+ A)",
+    "choices": [
+      "elér (eredményt) (to achieve / to obtain)",
+      "lecsap / odaüt (to strike / to land a blow)",
+      "felszabadít / kibocsát (to release)",
+      "felvisz (réteget) / megbíz (to apply (coating) / to assign)"
+    ],
+    "answer": 1,
+    "hint": "Mit der neuen Strategie konnten wir herausragende Ergebnisse erzielen. (Synonyme: erreichen, erwirtschaften, erlangen) (B2 - Verb)"
+  },
+  {
+    "question": "elér (eredményt) (to achieve / to obtain)",
+    "choices": [
+      "erzielen (+ A)",
+      "zu|schlagen",
+      "frei|setzen (+ A)",
+      "auf|tragen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Mit der neuen Strategie konnten wir herausragende Ergebnisse erzielen. (Synonyme: erreichen, erwirtschaften, erlangen) (B2 - Verb)"
+  },
+  {
+    "question": "bereits",
+    "choices": [
+      "csupán / pusztán (merely)",
+      "szándékosan (intentionally / on purpose)",
+      "már (already)",
+      "időben / pontosan (on time / timely)"
+    ],
+    "answer": 3,
+    "hint": "Der neue Entwurf wurde bereits an alle Beteiligten verschickt. (Synonyme: schon, zuvor) (B1 - Adverb)"
+  },
+  {
+    "question": "már (already)",
+    "choices": [
+      "lediglich / bloß",
+      "absichtlich / mit Absicht",
+      "bereits",
+      "rechtzeitig"
+    ],
+    "answer": 3,
+    "hint": "Der neue Entwurf wurde bereits an alle Beteiligten verschickt. (Synonyme: schon, zuvor) (B1 - Adverb)"
+  },
+  {
+    "question": "bereit",
+    "choices": [
+      "őszinte (honest)",
+      "kész / hajlandó (ready / prepared)",
+      "kiskorú (underage / minor)",
+      "kiváló minőségű (high-quality)"
+    ],
+    "answer": 2,
+    "hint": "Das Team ist bereit, die zusätzlichen Aufgaben sofort zu übernehmen. (Synonyme: fertig, parat, gewillt) (A2 - Adjektiv)"
+  },
+  {
+    "question": "kész / hajlandó (ready / prepared)",
+    "choices": [
+      "bereit",
+      "minderjährig",
+      "hochwertig",
+      "ehrlich"
+    ],
+    "answer": 1,
+    "hint": "Das Team ist bereit, die zusätzlichen Aufgaben sofort zu übernehmen. (Synonyme: fertig, parat, gewillt) (A2 - Adjektiv)"
+  },
+  {
+    "question": "r Anteil, -e",
+    "choices": [
+      "nyugdíj(ba vonulás) (retirement)",
+      "jelmagyarázat / jelmagyarázó (legend / key)",
+      "részesedés / hányad (share / proportion)",
+      "terv / tervrajz (plan / blueprint)"
+    ],
+    "answer": 3,
+    "hint": "Ein großer Anteil der Kosten entfällt auf die Beschaffung von Material. (Synonyme: e Quote, e Portion, s Segment) (B1 - Nomen)"
+  },
+  {
+    "question": "részesedés / hányad (share / proportion)",
+    "choices": [
+      "e Legende, -n",
+      "r Anteil, -e",
+      "r Ruhestand (Sg.)",
+      "r Plan, \"-e"
+    ],
+    "answer": 2,
+    "hint": "Ein großer Anteil der Kosten entfällt auf die Beschaffung von Material. (Synonyme: e Quote, e Portion, s Segment) (B1 - Nomen)"
+  },
+  {
+    "question": "betragen",
+    "choices": [
+      "visszaad / tolmácsol (to reproduce / to reflect)",
+      "megbocsát (to forgive)",
+      "megbízik vkiben/vmiben (to rely on)",
+      "kitesz vmennyit (összeget) (to amount to)"
+    ],
+    "answer": 4,
+    "hint": "Die Gesamtkosten für das Projekt betragen rund zwei Millionen Euro. (Synonyme: sich belaufen auf, ausmachen) (B1 - Verb)"
+  },
+  {
+    "question": "kitesz vmennyit (összeget) (to amount to)",
+    "choices": [
+      "betragen",
+      "sich verlassen (auf + A)",
+      "verzeihen (+ D + A)",
+      "wieder|geben (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Die Gesamtkosten für das Projekt betragen rund zwei Millionen Euro. (Synonyme: sich belaufen auf, ausmachen) (B1 - Verb)"
+  },
+  {
+    "question": "r Betrag, \"-e",
+    "choices": [
+      "összeg (amount / sum)",
+      "visszajelzés (feedback)",
+      "tárgyalás (negotiation)",
+      "bizonyítvány (report card / certificate)"
+    ],
+    "answer": 1,
+    "hint": "Bitte überweisen Sie den fälligen Betrag innerhalb von zehn Tagen. (Synonyme: e Summe, r Geldwert) (A2 - Nomen)"
+  },
+  {
+    "question": "összeg (amount / sum)",
+    "choices": [
+      "r Betrag, \"-e",
+      "s Zeugnis, -se",
+      "e Verhandlung, -en",
+      "e Rückmeldung, -en"
+    ],
+    "answer": 1,
+    "hint": "Bitte überweisen Sie den fälligen Betrag innerhalb von zehn Tagen. (Synonyme: e Summe, r Geldwert) (A2 - Nomen)"
+  },
+  {
+    "question": "e Summe, -n",
+    "choices": [
+      "távolsági busz (long-distance bus)",
+      "szakadék / szakadék széle (precipice)",
+      "összeg / végösszeg (sum / total)",
+      "távolság (distance)"
+    ],
+    "answer": 3,
+    "hint": "Die Summe aller Rechnungen muss am Monatsende exakt stimmen. (Synonyme: r Gesamtbetrag, s Total) (A2 - Nomen)"
+  },
+  {
+    "question": "összeg / végösszeg (sum / total)",
+    "choices": [
+      "e Summe, -n",
+      "r Fernbus, -se",
+      "r Abgrund, \"-e",
+      "e Entfernung, -en"
+    ],
+    "answer": 1,
+    "hint": "Die Summe aller Rechnungen muss am Monatsende exakt stimmen. (Synonyme: r Gesamtbetrag, s Total) (A2 - Nomen)"
+  },
+  {
+    "question": "entfallen (auf + A)",
+    "choices": [
+      "jut vmire / elmarad (to fall to / to be cancelled)",
+      "elszámol (to settle / to bill)",
+      "kibérel (to rent / to hire)",
+      "távirányít (to control remotely)"
+    ],
+    "answer": 1,
+    "hint": "Ein erheblicher Teil des Budgets entfällt auf die Qualitätskontrolle. (Synonyme: zugewiesen werden, ausfallen) (B2 - Verb)"
+  },
+  {
+    "question": "jut vmire / elmarad (to fall to / to be cancelled)",
+    "choices": [
+      "ab|rechnen (+ A)",
+      "fern|steuern (+ A)",
+      "an|mieten (+ A)",
+      "entfallen (auf + A)"
+    ],
+    "answer": 4,
+    "hint": "Ein erheblicher Teil des Budgets entfällt auf die Qualitätskontrolle. (Synonyme: zugewiesen werden, ausfallen) (B2 - Verb)"
+  },
+  {
+    "question": "e Abteilung, -en",
+    "choices": [
+      "osztály / részleg (department)",
+      "drón (drone)",
+      "távolság (distance)",
+      "korszak (era / age)"
+    ],
+    "answer": 1,
+    "hint": "Sie leitet die technische Abteilung für Infrastrukturprojekte. (Synonyme: r Fachbereich, e Sparte, e Sektion) (B1 - Nomen)"
+  },
+  {
+    "question": "osztály / részleg (department)",
+    "choices": [
+      "e Entfernung, -en",
+      "e Abteilung, -en",
+      "s Zeitalter, -",
+      "e Drohne, -n"
+    ],
+    "answer": 2,
+    "hint": "Sie leitet die technische Abteilung für Infrastrukturprojekte. (Synonyme: r Fachbereich, e Sparte, e Sektion) (B1 - Nomen)"
+  },
+  {
+    "question": "r Leiter, - / e Leiterin, -nen",
+    "choices": [
+      "felsorolás (list / enumeration)",
+      "terv / tervrajz (plan / blueprint)",
+      "vezető (head / manager)",
+      "tábla (sign / signboard)"
+    ],
+    "answer": 3,
+    "hint": "Der Leiter des Planungsbüros stellte das neue Team offiziell vor. (Synonyme: r Chef, r Vorgesetzte, r Direktor) (B1 - Nomen)"
+  },
+  {
+    "question": "vezető (head / manager)",
+    "choices": [
+      "s Schild, -er",
+      "e Aufzählung, -en",
+      "r Leiter, - / e Leiterin, -nen",
+      "r Plan, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Der Leiter des Planungsbüros stellte das neue Team offiziell vor. (Synonyme: r Chef, r Vorgesetzte, r Direktor) (B1 - Nomen)"
+  },
+  {
+    "question": "sich verteilen (auf + A / zu + D)",
+    "choices": [
+      "megbocsát (to forgive)",
+      "aloszkodik / eloszlik / megoszlik (to be distributed among)",
+      "hozzáad / kiegészít (to add)",
+      "megsért (to insult / to offend)"
+    ],
+    "answer": 2,
+    "hint": "Die Aufgaben im Projekt verteilen sich auf fünf verschiedene Teams. (Synonyme: sich aufgliedern, sich streuen) (B2 - Verb)"
+  },
+  {
+    "question": "aloszkodik / eloszlik / megoszlik (to be distributed among)",
+    "choices": [
+      "beleidigen (+ A)",
+      "sich verteilen (auf + A / zu + D)",
+      "hinzu|fügen (+ A) (+ D)",
+      "verzeihen (+ D + A)"
+    ],
+    "answer": 2,
+    "hint": "Die Aufgaben im Projekt verteilen sich auf fünf verschiedene Teams. (Synonyme: sich aufgliedern, sich streuen) (B2 - Verb)"
+  },
+  {
+    "question": "e Mengenangabe, -n",
+    "choices": [
+      "távolsági busz (long-distance bus)",
+      "mennyiségi adat / megjelölés (quantity specification)",
+      "távolság (distance)",
+      "felfordulás / megrázkódtatás (upheaval)"
+    ],
+    "answer": 2,
+    "hint": "Die genauen Mengenangaben entnehmen wir dem digitalen Gebäudemodell. (Synonyme: s Mengenmaß, e Quantitätsangabe) (B1 - Nomen)"
+  },
+  {
+    "question": "mennyiségi adat / megjelölés (quantity specification)",
+    "choices": [
+      "e Entfernung, -en",
+      "r Fernbus, -se",
+      "e Mengenangabe, -n",
+      "r Umbruch, \"-e"
+    ],
+    "answer": 3,
+    "hint": "Die genauen Mengenangaben entnehmen wir dem digitalen Gebäudemodell. (Synonyme: s Mengenmaß, e Quantitätsangabe) (B1 - Nomen)"
+  },
+  {
+    "question": "e Einnahme, -n",
+    "choices": [
+      "magyarázat / kifejtés (explanation / commentary)",
+      "felvilágosítás / felderítés (clarification / reconnaissance)",
+      "bizonyíték (proof / evidence)",
+      "bevétel (revenue / income)"
+    ],
+    "answer": 4,
+    "hint": "Durch den Verkauf der Fertigteile stiegen die monatlichen Einnahmen. (Synonyme: r Ertrag, r Umsatz, e Einkünfte) (B1 - Nomen)"
+  },
+  {
+    "question": "bevétel (revenue / income)",
+    "choices": [
+      "r Beweis, -e",
+      "e Erläuterung, -en",
+      "e Einnahme, -n",
+      "e Aufklärung, -en"
+    ],
+    "answer": 3,
+    "hint": "Durch den Verkauf der Fertigteile stiegen die monatlichen Einnahmen. (Synonyme: r Ertrag, r Umsatz, e Einkünfte) (B1 - Nomen)"
+  },
+  {
+    "question": "r Ausstoß, \"-e",
+    "choices": [
+      "áll (to stand)",
+      "kibocsátás (emission / output)",
+      "hálóing (nightshirt)",
+      "személyszállító hajó (passenger ship)"
+    ],
+    "answer": 2,
+    "hint": "Der industrielle Ausstoß von Treibhausgasen muss drastisch sinken. (Synonyme: e Emission, e Freisetzung) (B2 - Nomen)"
+  },
+  {
+    "question": "kibocsátás (emission / output)",
+    "choices": [
+      "r Ausstoß, \"-e",
+      "s Fahrgastschiff, -e",
+      "s Schlafhemd, -en",
+      "stehen"
+    ],
+    "answer": 1,
+    "hint": "Der industrielle Ausstoß von Treibhausgasen muss drastisch sinken. (Synonyme: e Emission, e Freisetzung) (B2 - Nomen)"
+  },
+  {
+    "question": "r Verbrauch (Sg.)",
+    "choices": [
+      "fogyasztás / felhasználás (consumption)",
+      "belső(ség) (inside / interior)",
+      "készlet / tartalék (supply / stock / reserve)",
+      "személyszállító hajó (passenger ship)"
+    ],
+    "answer": 1,
+    "hint": "Der Verbrauch an Treibstoff konnte durch moderne Motoren gesenkt werden. (Synonyme: r Konsum, r Aufwand) (B1 - Nomen)"
+  },
+  {
+    "question": "fogyasztás / felhasználás (consumption)",
+    "choices": [
+      "s Innere (Sg.)",
+      "r Vorrat, -e",
+      "r Verbrauch (Sg.)",
+      "s Fahrgastschiff, -e"
+    ],
+    "answer": 3,
+    "hint": "Der Verbrauch an Treibstoff konnte durch moderne Motoren gesenkt werden. (Synonyme: r Konsum, r Aufwand) (B1 - Nomen)"
+  },
+  {
+    "question": "damalig",
+    "choices": [
+      "elavult (outdated)",
+      "akkori (former / of that time)",
+      "játékos (playful)",
+      "kiváló minőségű (high-quality)"
+    ],
+    "answer": 2,
+    "hint": "Nach damaligem Stand der Technik war dieses Verfahren innovativ. (Synonyme: seinerzeitig, früher) (B2 - Adjektiv)"
+  },
+  {
+    "question": "akkori (former / of that time)",
+    "choices": [
+      "hochwertig",
+      "spielerisch",
+      "damalig",
+      "veraltet"
+    ],
+    "answer": 3,
+    "hint": "Nach damaligem Stand der Technik war dieses Verfahren innovativ. (Synonyme: seinerzeitig, früher) (B2 - Adjektiv)"
+  },
+  {
+    "question": "lebenskräftig",
+    "choices": [
+      "életerős / virágzó (vital / vigorous)",
+      "kiskorú (underage / minor)",
+      "szándékos / rosszindulatú (willful / malicious)",
+      "nagykorú (of age / adult)"
+    ],
+    "answer": 1,
+    "hint": "Trotz der Krise verfügt das Unternehmen über eine lebenskräftige Struktur. (Synonyme: vital, robust, widerstandsfähig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "életerős / virágzó (vital / vigorous)",
+    "choices": [
+      "minderjährig",
+      "volljährig",
+      "mutwillig",
+      "lebenskräftig"
+    ],
+    "answer": 4,
+    "hint": "Trotz der Krise verfügt das Unternehmen über eine lebenskräftige Struktur. (Synonyme: vital, robust, widerstandsfähig) (C1 - Adjektiv)"
+  },
+  {
+    "question": "s Vorurteil, -e",
+    "choices": [
+      "fogalom / kifejezés (concept / term)",
+      "gondozás / felügyelet (care / supervision)",
+      "beszéd (speech)",
+      "előítélet (prejudice / bias)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen unbegründete Vorurteile gegenüber neuen Technologien abbauen. (Synonyme: e Voreingenommenheit, s Stereotyp) (B2 - Nomen)"
+  },
+  {
+    "question": "előítélet (prejudice / bias)",
+    "choices": [
+      "e Rede, -n",
+      "e Betreuung, -en",
+      "r Begriff, -e",
+      "s Vorurteil, -e"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen unbegründete Vorurteile gegenüber neuen Technologien abbauen. (Synonyme: e Voreingenommenheit, s Stereotyp) (B2 - Nomen)"
+  },
+  {
+    "question": "vertraulich",
+    "choices": [
+      "kiskorú (underage / minor)",
+      "megadott / feltüntetett (indicated / specified)",
+      "bizalmas (confidential)",
+      "nagykorú (of age / adult)"
+    ],
+    "answer": 3,
+    "hint": "Diese Projektunterlagen enthalten vertrauliche Informationen über Kunden. (Synonyme: diskret, geheim, intern) (B2 - Adjektiv)"
+  },
+  {
+    "question": "bizalmas (confidential)",
+    "choices": [
+      "angegeben",
+      "volljährig",
+      "minderjährig",
+      "vertraulich"
+    ],
+    "answer": 4,
+    "hint": "Diese Projektunterlagen enthalten vertrauliche Informationen über Kunden. (Synonyme: diskret, geheim, intern) (B2 - Adjektiv)"
+  },
+  {
+    "question": "verschlüsseln (+ A)",
+    "choices": [
+      "félbeszakít (to abort / to cancel)",
+      "megzsarol (to blackmail)",
+      "titkosít / rejtjelez (to encrypt)",
+      "ciripel (to chirp)"
+    ],
+    "answer": 3,
+    "hint": "Alle sensiblen Daten müssen vor der Übertragung sicher verschlüsselt werden. (Synonyme: chiffrieren, kodieren) (B2 - Verb)"
+  },
+  {
+    "question": "titkosít / rejtjelez (to encrypt)",
+    "choices": [
+      "verschlüsseln (+ A)",
+      "erpressen (+ A)",
+      "ab|brechen (+ A)",
+      "zirpen"
+    ],
+    "answer": 1,
+    "hint": "Alle sensiblen Daten müssen vor der Übertragung sicher verschlüsselt werden. (Synonyme: chiffrieren, kodieren) (B2 - Verb)"
+  },
+  {
+    "question": "geheim",
+    "choices": [
+      "részletes (detailed)",
+      "dicsőítő (glorifying)",
+      "titkos (secret)",
+      "kiváló minőségű (high-quality)"
+    ],
+    "answer": 3,
+    "hint": "Die genauen Details des Vertrags bleiben bis zur Unterzeichnung geheim. (Synonyme: verborgen, vertraulich, nicht öffentlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "titkos (secret)",
+    "choices": [
+      "verherrlichend",
+      "hochwertig",
+      "geheim",
+      "ausführlich"
+    ],
+    "answer": 3,
+    "hint": "Die genauen Details des Vertrags bleiben bis zur Unterzeichnung geheim. (Synonyme: verborgen, vertraulich, nicht öffentlich) (B1 - Adjektiv)"
+  },
+  {
+    "question": "fest|halten (+ A)",
+    "choices": [
+      "rögzít / megtart (to record / to hold on to)",
+      "felgyorsít (to accelerate / speed up)",
+      "megért, felfog / meghall (to notice / to catch on)",
+      "fókuszál vmire (to focus on)"
+    ],
+    "answer": 1,
+    "hint": "Wir müssen die getroffenen Vereinbarungen verbindlich im Protokoll festhalten. (Synonyme: dokumentieren, fixieren, arretieren) (B2 - Verb)"
+  },
+  {
+    "question": "rögzít / megtart (to record / to hold on to)",
+    "choices": [
+      "mit|bekommen (+ A)",
+      "fokussieren (auf + A)",
+      "beschleunigen (+ A)",
+      "fest|halten (+ A)"
+    ],
+    "answer": 4,
+    "hint": "Wir müssen die getroffenen Vereinbarungen verbindlich im Protokoll festhalten. (Synonyme: dokumentieren, fixieren, arretieren) (B2 - Verb)"
+  },
+  {
+    "question": "schwindlig sein (+ D)",
+    "choices": [
+      "akár ...-n keresztül (whether via)",
+      "szédül (to feel dizzy)",
+      "bele van zúgva vkibe / rajong vkiért (to have a crush on somebody)",
+      "applikáción keresztül (via app)"
+    ],
+    "answer": 2,
+    "hint": "Nach dem schnellen Aufstehen war mir plötzlich ganz schwindlig. (Synonyme: benommen sein, taumelig sein) (B1 - Ausdruck)"
+  },
+  {
+    "question": "szédül (to feel dizzy)",
+    "choices": [
+      "schwindlig sein (+ D)",
+      "ob per ...",
+      "in jemanden (A) verknallt sein",
+      "per App"
+    ],
+    "answer": 1,
+    "hint": "Nach dem schnellen Aufstehen war mir plötzlich ganz schwindlig. (Synonyme: benommen sein, taumelig sein) (B1 - Ausdruck)"
+  },
+  {
+    "question": "e Aufzeichnung, -en",
+    "choices": [
+      "jelmagyarázat / jelmagyarázó (legend / key)",
+      "részesedés / hányad (share / proportion)",
+      "feljegyzés / felvétel (record / recording)",
+      "terv / tervrajz (plan / blueprint)"
+    ],
+    "answer": 3,
+    "hint": "Die lückenlose Aufzeichnung aller Messwerte ist zwingend vorgeschrieben. (Synonyme: s Protokoll, e Dokumentation, e Notiz) (B2 - Nomen)"
+  },
+  {
+    "question": "feljegyzés / felvétel (record / recording)",
+    "choices": [
+      "e Aufzeichnung, -en",
+      "r Anteil, -e",
+      "r Plan, \"-e",
+      "e Legende, -n"
+    ],
+    "answer": 1,
+    "hint": "Die lückenlose Aufzeichnung aller Messwerte ist zwingend vorgeschrieben. (Synonyme: s Protokoll, e Dokumentation, e Notiz) (B2 - Nomen)"
+  },
+  {
+    "question": "e Dürre, -n",
+    "choices": [
+      "asztalos (carpenter)",
+      "aszály / szárazság (drought)",
+      "hozzáférés (access)",
+      "pályázó / jelentkező (applicant)"
+    ],
+    "answer": 2,
+    "hint": "Die langanhaltende Dürre verursachte große Schäden in der Landwirtschaft. (Synonyme: e Trockenheit, r Wassermangel) (B2 - Nomen)"
+  },
+  {
+    "question": "aszály / szárazság (drought)",
+    "choices": [
+      "r Bewerber, -",
+      "r Zugang, \"-e",
+      "e Dürre, -n",
+      "r Tischler, -"
+    ],
+    "answer": 3,
+    "hint": "Die langanhaltende Dürre verursachte große Schäden in der Landwirtschaft. (Synonyme: e Trockenheit, r Wassermangel) (B2 - Nomen)"
+  },
+  {
+    "question": "infiltrieren (+ A)",
+    "choices": [
+      "visszaad / tolmácsol (to reproduce / to reflect)",
+      "távirányít (to control remotely)",
+      "kibérel (to rent / to hire)",
+      "beszivárog / beépül (to infiltrate)"
+    ],
+    "answer": 4,
+    "hint": "Feuchtigkeit kann durch feine Risse in das Mauerwerk infiltrieren. (Synonyme: einsickern, eindringen, durchdringen) (C1 - Verb)"
+  },
+  {
+    "question": "beszivárog / beépül (to infiltrate)",
+    "choices": [
+      "infiltrieren (+ A)",
+      "wieder|geben (+ A)",
+      "an|mieten (+ A)",
+      "fern|steuern (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Feuchtigkeit kann durch feine Risse in das Mauerwerk infiltrieren. (Synonyme: einsickern, eindringen, durchdringen) (C1 - Verb)"
+  },
+  {
+    "question": "sich gewöhnen (an + A)",
+    "choices": [
+      "hozzászokik vmihez (to get used to)",
+      "beleszól / beavatkozik (to interfere / to meddle)",
+      "megállapít / kitűz (to fix / to establish)",
+      "összeomlik / beomlik (to collapse / to cave in)"
+    ],
+    "answer": 1,
+    "hint": "Die Mitarbeiter müssen sich erst an das neue Softwaresystem gewöhnen. (Synonyme: sich anpassen, vertraut werden mit) (B1 - Verb)"
+  },
+  {
+    "question": "hozzászokik vmihez (to get used to)",
+    "choices": [
+      "(sich) ein|mischen (in + A)",
+      "sich gewöhnen (an + A)",
+      "fest|setzen (+ A)",
+      "ein|stürzen"
+    ],
+    "answer": 2,
+    "hint": "Die Mitarbeiter müssen sich erst an das neue Softwaresystem gewöhnen. (Synonyme: sich anpassen, vertraut werden mit) (B1 - Verb)"
+  },
+  {
+    "question": "r Zusatz, \"-e",
+    "choices": [
+      "függővasút (suspension railway)",
+      "tervezés (planning)",
+      "szakközépiskola (specialized secondary school)",
+      "kiegészítés / adalék (addition / additive)"
+    ],
+    "answer": 4,
+    "hint": "Der Vertrag enthält einen wichtigen Zusatz bezüglich der Fristen. (Synonyme: e Ergänzung, r Nachtrag, s Additiv) (B2 - Nomen)"
+  },
+  {
+    "question": "kiegészítés / adalék (addition / additive)",
+    "choices": [
+      "r Zusatz, \"-e",
+      "e Fachmittelschule, -n",
+      "s Planen (Sg.)",
+      "e Schwebebahn, -en"
+    ],
+    "answer": 1,
+    "hint": "Der Vertrag enthält einen wichtigen Zusatz bezüglich der Fristen. (Synonyme: e Ergänzung, r Nachtrag, s Additiv) (B2 - Nomen)"
+  },
+  {
+    "question": "zusätzlich",
+    "choices": [
+      "kiegészítő / további (additional)",
+      "felvitt / ráhordott (applied (coating))",
+      "tárgyas (nyelvtan) (transitive)",
+      "tárgyatlan (nyelvtan) (intransitive)"
+    ],
+    "answer": 1,
+    "hint": "Für diese Bauphase fallen zusätzliche Kosten für Spezialgeräte an. (Synonyme: extra, ergänzend, additiv) (B1 - Adjektiv/Adverb)"
+  },
+  {
+    "question": "kiegészítő / további (additional)",
+    "choices": [
+      "aufgetragen",
+      "zusätzlich",
+      "transitiv",
+      "intransitiv"
+    ],
+    "answer": 2,
+    "hint": "Für diese Bauphase fallen zusätzliche Kosten für Spezialgeräte an. (Synonyme: extra, ergänzend, additiv) (B1 - Adjektiv/Adverb)"
+  },
+  {
+    "question": "hinzu|fügen (+ A) (+ D)",
+    "choices": [
+      "hozzáad / kiegészít (to add)",
+      "megbocsát (to forgive)",
+      "leüt / lever (lázadást) (to knock down / to knock out)",
+      "aloszkodik / eloszlik / megoszlik (to be distributed among)"
+    ],
+    "answer": 1,
+    "hint": "Bitte fügen Sie den Planunterlagen noch die statische Berechnung hinzu. (Synonyme: anfügen, ergänzen, beilegen) (B1 - Verb)"
+  },
+  {
+    "question": "hozzáad / kiegészít (to add)",
+    "choices": [
+      "hinzu|fügen (+ A) (+ D)",
+      "verzeihen (+ D + A)",
+      "sich verteilen (auf + A / zu + D)",
+      "nieder|schlagen (+ A)"
+    ],
+    "answer": 1,
+    "hint": "Bitte fügen Sie den Planunterlagen noch die statische Berechnung hinzu. (Synonyme: anfügen, ergänzen, beilegen) (B1 - Verb)"
+  },
+  {
+    "question": "züchten (+ A)",
+    "choices": [
+      "megtagad (to deny)",
+      "tenyészt / termeszt (to breed / to cultivate)",
+      "állít vmit (to claim / to assert)",
+      "kivált / aktivál (csapdát) (to trigger / to set off (traps))"
+    ],
+    "answer": 2,
+    "hint": "Die Forscher züchten robuste Pflanzen, die wenig Wasser benötigen. (Synonyme: heranziehen, kultivieren, pflanzen) (B2 - Verb)"
+  },
+  {
+    "question": "tenyészt / termeszt (to breed / to cultivate)",
+    "choices": [
+      "behaupten (+ A)",
+      "aus|lösen (+ A)",
+      "züchten (+ A)",
+      "leugnen (+ A)"
+    ],
+    "answer": 3,
+    "hint": "Die Forscher züchten robuste Pflanzen, die wenig Wasser benötigen. (Synonyme: heranziehen, kultivieren, pflanzen) (B2 - Verb)"
+  },
+  {
+    "question": "verdienen (+ A)",
+    "choices": [
+      "keres (pénzt) / érdemel (to earn / to deserve)",
+      "visszatér (to return)",
+      "elmagyaráz / kifejt (to explain / to elucidate)",
+      "megállapít / kitűz (to fix / to establish)"
+    ],
+    "answer": 1,
+    "hint": "In dieser Branche kann man mit Fachwissen gutes Geld verdienen. (Synonyme: einnehmen, erwirtschaften / würdig sein) (A2 - Verb)"
+  },
+  {
+    "question": "keres (pénzt) / érdemel (to earn / to deserve)",
+    "choices": [
+      "fest|setzen (+ A)",
+      "zurück|kehren",
+      "erläutern (+ A)",
+      "verdienen (+ A)"
+    ],
+    "answer": 4,
+    "hint": "In dieser Branche kann man mit Fachwissen gutes Geld verdienen. (Synonyme: einnehmen, erwirtschaften / würdig sein) (A2 - Verb)"
+  },
+  {
+    "question": "e Zucht, -en",
+    "choices": [
+      "forgalom nagysága (traffic volume)",
+      "építmény / épület (building / structure)",
+      "tenyésztés / nevelés (breeding / cultivation)",
+      "közlekedési eszköz (means of transport)"
+    ],
+    "answer": 3,
+    "hint": "Die Zucht dieser seltenen Tierart erfordert viel Erfahrung und Geduld. (Synonyme: e Aufzucht, e Kultivierung) (B2 - Nomen)"
+  },
+  {
+    "question": "tenyésztés / nevelés (breeding / cultivation)",
+    "choices": [
+      "s Bauwerk, -e",
+      "e Zucht, -en",
+      "s Verkehrsmittel, -",
+      "s Verkehrsaufkommen, -"
+    ],
+    "answer": 2,
+    "hint": "Die Zucht dieser seltenen Tierart erfordert viel Erfahrung und Geduld. (Synonyme: e Aufzucht, e Kultivierung) (B2 - Nomen)"
+  },
+  {
+    "question": "aufgrund (+ G)",
+    "choices": [
+      "után / szerint (after / according to)",
+      "vmitől függően (depending on)",
+      "vmi szerint (according to)",
+      "alapján / miatt (due to / on the basis of)"
+    ],
+    "answer": 4,
+    "hint": "Aufgrund der Witterung müssen die Außenarbeiten verschoben werden. (Synonyme: wegen, infolge, kraft) (B2 - Präposition)"
+  },
+  {
+    "question": "alapján / miatt (due to / on the basis of)",
+    "choices": [
+      "je nach (+ D)",
+      "nach (+ D)",
+      "laut (+ G / + D)",
+      "aufgrund (+ G)"
+    ],
+    "answer": 4,
+    "hint": "Aufgrund der Witterung müssen die Außenarbeiten verschoben werden. (Synonyme: wegen, infolge, kraft) (B2 - Präposition)"
+  },
+  {
+    "question": "sich befinden (bei + D)",
+    "choices": [
+      "túlél (to survive)",
+      "meghal (to die)",
+      "harcol / küzd (to fight)",
+      "található / tartózkodik (to be located at)"
+    ],
+    "answer": 4,
+    "hint": "Das Planungsbüro befindet sich direkt bei der Autobahnausfahrt. (Synonyme: liegen, lokalisiert sein, stehen) (B1 - Verb)"
+  },
+  {
+    "question": "található / tartózkodik (to be located at)",
+    "choices": [
+      "überleben (+ A)",
+      "sich befinden (bei + D)",
+      "kämpfen (für + A / gegen + A)",
+      "sterben (an + D)"
+    ],
+    "answer": 2,
+    "hint": "Das Planungsbüro befindet sich direkt bei der Autobahnausfahrt. (Synonyme: liegen, lokalisiert sein, stehen) (B1 - Verb)"
+  },
+  {
+    "question": "um|wandeln (+ A) (in + A)",
+    "choices": [
+      "beleszól / beavatkozik (to interfere / to meddle)",
+      "megzsarol (to blackmail)",
+      "összeomlik / beomlik (to collapse / to cave in)",
+      "átalakít / átvált (to convert / to transform into)"
+    ],
+    "answer": 4,
+    "hint": "Moderne Anlagen können Sonnenlicht direkt in elektrische Energie umwandeln. (Synonyme: transformieren, modifizieren, konvertieren) (B2 - Verb)"
+  },
+  {
+    "question": "átalakít / átvált (to convert / to transform into)",
+    "choices": [
+      "(sich) ein|mischen (in + A)",
+      "ein|stürzen",
+      "erpressen (+ A)",
+      "um|wandeln (+ A) (in + A)"
+    ],
+    "answer": 4,
+    "hint": "Moderne Anlagen können Sonnenlicht direkt in elektrische Energie umwandeln. (Synonyme: transformieren, modifizieren, konvertieren) (B2 - Verb)"
+  },
+  {
+    "question": "spritzig",
+    "choices": [
+      "tiszta / tömény (pure / neat)",
+      "erjesztett (fermented)",
+      "pezsgő / friss (fizzy / sparkling)",
+      "fenséges / finom (delicious)"
+    ],
+    "answer": 3,
+    "hint": "Ein spritziger Weißwein passt gut zum Fisch. (Synonyme: kohlensäurehaltig, lebhaft) (B2 - Adjektiv)"
+  },
+  {
+    "question": "pezsgő / friss (fizzy / sparkling)",
+    "choices": [
+      "pur",
+      "köstlich",
+      "vergoren",
+      "spritzig"
+    ],
+    "answer": 4,
+    "hint": "Ein spritziger Weißwein passt gut zum Fisch. (Synonyme: kohlensäurehaltig, lebhaft) (B2 - Adjektiv)"
+  },
+  {
+    "question": "erhalten (+ A)",
+    "choices": [
+      "levezet (to derive)",
+      "megkap (to receive)",
+      "felébred (to wake up)",
+      "lóg / lógat (to dangle / swing)"
+    ],
+    "answer": 2,
+    "hint": "Ich habe gestern ein Paket erhalten. (Synonyme: bekommen, empfangen, annehmen) (B1 - Verb)"
+  },
+  {
+    "question": "megkap (to receive)",
+    "choices": [
+      "ab|leiten (+ A) (aus + D)",
+      "erhalten (+ A)",
+      "auf|wachen",
+      "baumeln"
+    ],
+    "answer": 2,
+    "hint": "Ich habe gestern ein Paket erhalten. (Synonyme: bekommen, empfangen, annehmen) (B1 - Verb)"
+  },
+  {
+    "question": "e Kohlensäure (Sg.)",
+    "choices": [
+      "gabona / mag (grain / seed)",
+      "lélek (soul)",
+      "szénsav (carbonic acid / CO2)",
+      "férj (husband)"
+    ],
+    "answer": 3,
+    "hint": "Das Wasser enthält viel Kohlensäure. (Synonyme: s Kohlenstoffdioxid) (B2 - Nomen)"
+  },
+  {
+    "question": "szénsav (carbonic acid / CO2)",
+    "choices": [
+      "s Korn, \"-er",
+      "r Ehemann, \"-er",
+      "e Seele, -n",
+      "e Kohlensäure (Sg.)"
+    ],
+    "answer": 4,
+    "hint": "Das Wasser enthält viel Kohlensäure. (Synonyme: s Kohlenstoffdioxid) (B2 - Nomen)"
   }
 ]

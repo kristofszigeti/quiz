@@ -29,6 +29,11 @@ def resource_path(relative_path):
         base_path = os.path.dirname(os.path.abspath(__file__))
     return os.path.join(base_path, relative_path)
 
+def result_path():
+    if getattr(sys, 'frozen', False):
+        return os.path.join(os.path.dirname(sys.executable), 'result.txt')
+    return resource_path('result.txt')
+
 # the main class
 class Quiz:
     # initial dunder method: __init__
@@ -136,7 +141,7 @@ class Quiz:
             # if it is correct then it displays the score
             # self.display_result()
 
-            result_file_path = resource_path('result.txt')
+            result_file_path = result_path()
             with open(result_file_path, 'a', encoding='UTF-8') as outfile:
                 player_name = self.player_name.get() # storing the name_entry field in variable
                 line_newscore= f"{date.today()}, {time.strftime('%H:%M:%S')}\n{self.current_topic:20s}\nPlayer name: {player_name:15s}\n{quiz.display_result()}\n" + f"{'-'*(13+self.name_entry['width'])}\n" # https://www.geeksforgeeks.org/get-current-date-and-time-using-python/
@@ -302,7 +307,7 @@ class Quiz:
         q_list = []
         # print(len(q_list))
         # position of the first option
-        y_pos = 160
+        y_pos = 170
 
         # adding the choices to the list # lab_11_hotel.py
         while len(q_list) < 4:
@@ -313,7 +318,7 @@ class Quiz:
             # print(len(q_list))
             q_list.append(radio_btn) # adding the button to the end of the list one by one
 
-            radio_btn.place(x=(guitop_width // 2) - 80 , y=y_pos) # placing the button
+            radio_btn.place(x=(guitop_width // 3), y=y_pos) # placing the button
             y_pos += 40  # increasing the y-axis position by +45 (downwards)
 
         # return the list of radio buttons
@@ -516,6 +521,8 @@ deutsch.add_radiobutton(label = 'Deutsch Modelpartikeln', variable = choice, val
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_modalpartikeln.json'), 12),quiz.display_deutsch_label(7)))
 deutsch.add_radiobutton(label = 'Deutsch Demonstrativpronomen', variable = choice, value = 13,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_demonstrativpronomen.json'), 13),quiz.display_deutsch_label(8)))
+deutsch.add_radiobutton(label = 'RPG', variable = choice, value = 14,
+                        command= lambda: (quiz.call_topic(resource_path('data/quiz_german_rpg.json'), 14), quiz.display_deutsch_label(9)))
 
 # ENGLISH MENUBAR
 choice = IntVar()

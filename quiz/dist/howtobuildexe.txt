@@ -1,0 +1,144 @@
+Here’s how to build the executable for this project on Windows.
+
+#1.1 PowerShell
+---------------
+
+1. Open PowerShell in the project folder
+Go to the folder containing my_quiz.py and my_quiz.spec:
+
+cd "C:\Users\kristof.szigeti\OneDrive - Accenture\Documents\Github\quiz\quiz"
+
+2. Install PyInstaller
+This project has a virtual environment in .venv. Install PyInstaller into it with:
+
+.\.venv\Scripts\python.exe -m pip install pyinstaller
+
+You only need to install it once per environment.
+
+3. Build the executable
+Run:
+
+.\.venv\Scripts\python.exe -m PyInstaller --clean --noconfirm my_quiz.spec
+
+The .spec file is the build recipe: it tells PyInstaller which quiz data and logos to include, and configures the app as a GUI so it doesn’t open a console window. --clean clears old build files first; --noconfirm lets PyInstaller replace existing output without prompting.
+
+4. Find and run the result
+The finished executable will be:
+
+dist\my_quiz.exe
+
+You can launch it from PowerShell with:
+
+.\dist\my_quiz.exe
+
+Or open it in File Explorer. The build folder contains intermediate build files; the .exe in dist is the one to run or share.
+
+5. Rebuild after changes
+Whenever you change the quiz code, data, or logos, rerun the build command. The current recipe includes JSON files under data and PNG files under logo, so new files in those locations are included automatically.
+This is a Windows executable, so build it on Windows for Windows users. The game saves quiz results in result.txt beside the executable, so keep it in a folder where the app can write files.
+
+Troubleshooting: PermissionError [WinError 5] while building
+-----------------------------------------------------------
+
+If PyInstaller reports "Access is denied" for a path under build\my_quiz, it
+cannot clean the previous temporary build files. This can happen when the
+project is in a OneDrive-synced folder or a file is still in use. It is not
+caused by PowerShell's execution policy.
+
+Close the quiz application if it is open, then build with a temporary workspace
+outside the project folder:
+
+.\.venv\Scripts\python.exe -m PyInstaller --clean --noconfirm --workpath "$env:TEMP\quiz-pyinstaller-build" my_quiz.spec
+
+The executable is still written to dist\my_quiz.exe. If access is denied again,
+close VS Code and any File Explorer window using the build folder, then retry.
+Do not run PowerShell as Administrator or change folder permissions unless your
+IT administrator advises it.
+
+#2.1 VS Code Terminal
+---------------------
+Yes—building outside OneDrive is a good way to avoid sync-related file locks. One important detail: move the whole Git repository, not just the inner quiz folder. In your current layout, the Git repository is the outer Github\quiz folder, and the app files are inside its quiz subfolder.
+
+Close VS Code and the quiz app.
+
+In File Explorer, copy the outer repository folder:
+C:\Users\kristof.szigeti\OneDrive - Accenture\Documents\Github\quiz
+
+to a local folder such as:
+C:\Users\kristof.szigeti\source\quiz
+
+Copy first and keep the OneDrive original until you’ve confirmed the new copy works. This preserves your current uncommitted changes too.
+
+In VS Code, open the app folder in the copy:
+C:\Users\kristof.szigeti\source\quiz\quiz
+
+Open the integrated terminal and create a fresh virtual environment there. Don’t reuse the copied .venv; virtual environments generally aren’t portable between folder locations.
+
+
+Build the executable:
+
+
+The executable should appear in dist\my_quiz.exe. Keeping the temporary build workspace in %TEMP% is a useful precaution even after moving the project.
+
+Yes. You can build it right inside VS Code using its integrated terminal—or set up a task to run the build with a keyboard shortcut.
+
+### Build from the integrated terminal
+
+1. Open the project folder containing `my_quiz.spec` in VS Code.
+2. Open the terminal with **Terminal → New Terminal** (shortcut: **Ctrl+`**).
+3. Run:
+
+   ```powershell
+   .\.venv\Scripts\python.exe -m PyInstaller --clean --noconfirm my_quiz.spec
+   ```
+
+4. When the build finishes, find the executable in `dist\my_quiz.exe`. You can run it from the terminal with:
+
+   ```powershell
+   .\dist\my_quiz.exe
+   ```
+
+If the terminal opens in a different folder, first change to the project folder:
+
+```powershell
+cd "C:\Users\kristof.szigeti\OneDrive - Accenture\Documents\Github\quiz\quiz"
+```
+
+### Optional: add a “Build executable” task
+
+To run the build from VS Code’s **Tasks: Run Build Task** command:
+
+1. Create a `.vscode` folder in the project folder, if it doesn’t already exist.
+2. Create `.vscode\tasks.json` with this content:
+
+   ```json
+   {
+     "version": "2.0.0",
+     "tasks": [
+       {
+         "label": "Build quiz executable",
+         "type": "process",
+         "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+         "args": [
+           "-m",
+           "PyInstaller",
+           "--clean",
+           "--noconfirm",
+           "my_quiz.spec"
+         ],
+         "options": {
+           "cwd": "${workspaceFolder}"
+         },
+         "group": {
+           "kind": "build",
+           "isDefault": true
+         },
+         "problemMatcher": []
+       }
+     ]
+   }
+   ```
+
+3. Press **Ctrl+Shift+B** to run the task.
+
+The terminal command is simplest to start with; the task is convenient when you expect to rebuild often.
