@@ -1364,7 +1364,7 @@
     "hint": "Das Team erhielt für den schnellen Projektabschluss großes Lob vom Vorstand. (Synonyme: e Anerkennung, s Kompliment, e Würdigung) (B1 - Nomen)"
   },
   {
-    "question": "er|greifen (+ A)",
+    "question": "ergreifen (+ A)",
     "choices": [
       "ás (to dig)",
       "megragad (alkalmat/intézkedést) (to seize / to take (measures))",
@@ -1378,7 +1378,7 @@
     "question": "megragad (alkalmat/intézkedést) (to seize / to take (measures))",
     "choices": [
       "reißen (+ A)",
-      "er|greifen (+ A)",
+      "ergreifen (+ A)",
       "fördern (+ A)",
       "fest|nehmen (+ A)"
     ],
@@ -1730,7 +1730,7 @@
     "question": "kiszorít / elnyom (to displace / to suppress)",
     "choices": [
       "(sich) bemühen (um + A)",
-      "er|greifen (+ A)",
+      "ergreifen (+ A)",
       "verdrängen (+ A)",
       "fordern (+ A)"
     ],
@@ -1894,10 +1894,10 @@
   {
     "question": "r Zugang, \"-e (zu + D)",
     "choices": [
-      "hozzáférés / bejárat (access / entrance)",
-      "kard (sword)",
-      "követelés / igény (demand / claim)",
-      "fenntarthatóság (sustainability)"
+      "bejárás",
+      "akadály (obstacle)",
+      "belépési tilalom (entry ban)",
+      "kijárat (exit)"
     ],
     "answer": 1,
     "hint": "Nur befugte Personen haben Zugang zu diesem Raum. (Synonyme: r Zutritt, r Eintritt, e Zufahrt) (B2 - Nomen)"
@@ -1971,7 +1971,7 @@
   {
     "question": "szakít / tép / elszakad (to tear / to rip)",
     "choices": [
-      "er|greifen (+ A)",
+      "ergreifen (+ A)",
       "sein (aus + D)",
       "reißen (+ A)",
       "sich verbreiten"
@@ -2015,7 +2015,7 @@
   {
     "question": "kielégít (to satisfy / to gratify)",
     "choices": [
-      "er|greifen (+ A)",
+      "ergreifen (+ A)",
       "färben (+ A)",
       "fest|nehmen (+ A)",
       "befriedigen (+ A)"
@@ -2215,7 +2215,7 @@
     "choices": [
       "verhaften (+ A)",
       "sich verschärfen",
-      "er|greifen (+ A)",
+      "ergreifen (+ A)",
       "sich verbreiten"
     ],
     "answer": 4,
@@ -8712,7 +8712,7 @@
     "hint": "Stelle die Beweise sicher, bevor jemand sie vernichtet. (Synonyme: beschlagnahmen, sichern) (B2 - Verb)"
   },
   {
-    "question": "aus|findig machen (+ A)",
+    "question": "ausfindig machen (+ A)",
     "choices": [
       "bekerít / katlanba zár (to encircle / trap)",
       "kitart (to hold out / persevere)",
@@ -8726,7 +8726,7 @@
     "question": "felkutat / megtalál (to locate / track down)",
     "choices": [
       "ab|passen (+ A)",
-      "aus|findig machen (+ A)",
+      "ausfindig machen (+ A)",
       "einkesseln (+ A)",
       "durch|halten"
     ],
@@ -8838,7 +8838,7 @@
       "eindringen (in + A)",
       "sich zurück|ziehen (aus + D)",
       "verdächtigen (+ A) (+ G)",
-      "aus|findig machen (+ A)"
+      "ausfindig machen (+ A)"
     ],
     "answer": 1,
     "hint": "Dringe unbemerkt in die Festung ein. (Synonyme: hineingelangen, infiltrieren) (B2 - Verb)"
@@ -9122,7 +9122,7 @@
     "question": "csalival odacsal (to bait / lure)",
     "choices": [
       "verdächtigen (+ A) (+ G)",
-      "aus|findig machen (+ A)",
+      "ausfindig machen (+ A)",
       "vor|stoßen (zu + D / in + A)",
       "ködern (+ A) (mit + D)"
     ],
@@ -9410,7 +9410,7 @@
       "vor|stoßen (zu + D / in + A)",
       "beschuldigen (+ A) (+ G)",
       "entsiegeln (+ A)",
-      "aus|findig machen (+ A)"
+      "ausfindig machen (+ A)"
     ],
     "answer": 3,
     "hint": "Entsiegle das Tor erst, wenn das Ritual vorbereitet ist. (Synonyme: öffnen, das Siegel lösen) (B2 - Verb)"
@@ -10497,7 +10497,7 @@
     "question": "dahinter",
     "choices": [
       "folyásiránnyal szemben (upstream)",
-      "mögötte (behind it)",
+      "mögötte/amögött (behind it)",
       "bent / odabent (inside / indoors)",
       "felfelé / oda fel (upward, away from speaker)"
     ],
@@ -10505,7 +10505,7 @@
     "hint": "Siehst du die Mauer? Dahinter liegt das Lager. (Synonyme/Erklärung: hinter diesem Ort oder Gegenstand) (A2 - Adverb/Richtungsangabe)"
   },
   {
-    "question": "mögötte (behind it)",
+    "question": "mögötte/amögött (behind it)",
     "choices": [
       "drinnen",
       "hinauf",
@@ -11002,10 +11002,10 @@
   {
     "question": "schließlich",
     "choices": [
-      "haladéktalanul (promptly)",
+      "először (first)",
       "végül (finally / eventually)",
-      "vakon / meggondolatlanul (blindly / rashly)",
-      "szembe / felé (towards / against)"
+      "közben (meanwhile)",
+      "azonnal (immediately)"
     ],
     "answer": 2,
     "hint": "Nach einem langen Kampf ergibt sich der Banditenführer schließlich. (Synonyme/Erklärung: letztendlich, am Ende) (B1 - Adverb/Richtungsangabe)"
@@ -11035,10 +11035,10 @@
   {
     "question": "végső soron / végül (ultimately)",
     "choices": [
-      "in der Nähe",
+      "allmählich",
       "unverzüglich",
       "letztendlich",
-      "frontal"
+      "vorübergehend"
     ],
     "answer": 3,
     "hint": "Letztendlich musst du dich für eine Fraktion entscheiden. (Synonyme/Erklärung: schließlich, am Ende) (B2 - Adverb/Richtungsangabe)"
@@ -11350,28 +11350,6 @@
     ],
     "answer": 1,
     "hint": "Der Kundschafter geht voraus und prüft den Weg. (Synonyme/Erklärung: voran, weiter vorn) (B1 - Adverb/Richtungsangabe)"
-  },
-  {
-    "question": "zurück",
-    "choices": [
-      "szándékosan (deliberately)",
-      "vissza (back)",
-      "alaposan (thoroughly)",
-      "azután / ezt követően (afterwards)"
-    ],
-    "answer": 2,
-    "hint": "Kehre zurück, sobald du das Artefakt gefunden hast. (Synonyme/Erklärung: wieder zum Ausgangspunkt) (A1 - Adverb/Richtungsangabe)"
-  },
-  {
-    "question": "vissza (back)",
-    "choices": [
-      "gründlich",
-      "anschließend",
-      "absichtlich",
-      "zurück"
-    ],
-    "answer": 4,
-    "hint": "Kehre zurück, sobald du das Artefakt gefunden hast. (Synonyme/Erklärung: wieder zum Ausgangspunkt) (A1 - Adverb/Richtungsangabe)"
   },
   {
     "question": "vorbei",
@@ -14742,10 +14720,10 @@
   {
     "question": "r Zugang, ¨-e",
     "choices": [
-      "szövetséges (ally)",
-      "ígéret (promise)",
-      "hozzáférés / bejárat (access)",
-      "nyom (trace / trail)"
+      "átjáró (passageway)",
+      "belépési tilalom (entry ban)",
+      "bejárás",
+      "kijárat (exit)"
     ],
     "answer": 3,
     "hint": "Nur Mitglieder der Fraktion erhalten Zugang zur Festung. (Synonyme: r Zutritt, r Eintritt) (B1 - Nomen)"
@@ -19656,17 +19634,6 @@
     "hint": "Der Druidenschierling ist eine besondere Pflanze auf der Insel. (Synonyme/Verwandte Wörter: Heilkraut, Pflanze) (B2 - Substantiv)"
   },
   {
-    "question": "druida bürök (druid's hemlock)",
-    "choices": [
-      "e Heilwurzel, -n",
-      "r Druidenschierling (Sg.)",
-      "r Pilz, -e",
-      "e Zutat, -en"
-    ],
-    "answer": 2,
-    "hint": "Der Druidenschierling ist eine besondere Pflanze auf der Insel. (Synonyme/Verwandte Wörter: Heilkraut, Pflanze) (B2 - Substantiv)"
-  },
-  {
     "question": "s Grünblatt, -¨er",
     "choices": [
       "zöldlevél (green leaf)",
@@ -20175,10 +20142,10 @@
   {
     "question": "r Seegeier, -",
     "choices": [
-      "inkvizítor (inquisitor)",
+      "holló (raven)",
       "tengeri keselyű (sea vulture)",
-      "kardvívás / kardharc (sword fighting)",
-      "korong / lemez (disc / plate)"
+      "bagoly (owl)",
+      "sólyom (falcon)"
     ],
     "answer": 2,
     "hint": "Ein Seegeier kreiste über dem felsigen Strand. (Synonyme/Verwandte Wörter: Vogel, Raubvogel) (B1 - Substantiv)"
@@ -20648,9 +20615,9 @@
   {
     "question": "korong / lemez (disc / plate)",
     "choices": [
-      "r Schwertkämpfer, -",
-      "e Inquisition, -en",
-      "e Feldarbeit (Sg.)",
+      "r Ring, -e (ring)",
+      "r Schild, -e (shield)",
+      "e Kugel, -n (sphere)",
       "e Scheibe, -n"
     ],
     "answer": 4,
@@ -22629,7 +22596,7 @@
     "question": "kifoszt egy holttestet (to loot a corpse)",
     "choices": [
       "fleddern (+ A)",
-      "heran|schleichen (an + A)",
+      "sich heran|schleichen (an + A)",
       "fliehen (vor + D)",
       "verhandeln (mit + D) (über + A)"
     ],
@@ -22703,12 +22670,12 @@
     "hint": "Von der Mauer springt der Held zurück in Richtung Wald. (Synonyme: hüpfen, einen Sprung machen) (A1 - Verb)"
   },
   {
-    "question": "heran|schleichen (an + A)",
+    "question": "sich heran|schleichen (an + A)",
     "choices": [
       "odalopakodik vkihez/vmihez (to sneak up on)",
-      "menekül vki/vmi elől (to flee)",
-      "tárgyal vkivel vmiről (to negotiate)",
-      "kifoszt egy holttestet (to loot a corpse)"
+      "elrejtőzik vki elől (to hide from someone)",
+      "észrevétlenül követ vkit (to follow someone unnoticed)",
+      "elszökik vki/vmi elől (to escape from)"
     ],
     "answer": 1,
     "hint": "Der Jäger schleicht sich lautlos an seinen Gegner heran. (Synonyme: sich anschleichen, sich nähern) (B2 - Verb)"
@@ -22716,7 +22683,7 @@
   {
     "question": "odalopakodik vkihez/vmihez (to sneak up on)",
     "choices": [
-      "heran|schleichen (an + A)",
+      "sich heran|schleichen (an + A)",
       "sich zurück|ziehen",
       "verraten (+ A) (an + A)",
       "plündern (+ A)"
@@ -22829,7 +22796,7 @@
       "verraten (+ A) (an + A)",
       "durch|queren (+ A)",
       "fliehen (vor + D)",
-      "heran|schleichen (an + A)"
+      "sich heran|schleichen (an + A)"
     ],
     "answer": 3,
     "hint": "Der Händler flieht vor den angreifenden Kreaturen. (Synonyme: entkommen, davonlaufen) (A2 - Verb)"
@@ -22959,7 +22926,7 @@
     "question": "tárgyal vkivel vmiről (to negotiate)",
     "choices": [
       "plündern (+ A)",
-      "heran|schleichen (an + A)",
+      "sich heran|schleichen (an + A)",
       "verhandeln (mit + D) (über + A)",
       "sich ergeben (+ D)"
     ],
@@ -24455,7 +24422,7 @@
     "question": "egy nyomot követ / kivizsgál (to follow up a lead)",
     "choices": [
       "jdn. zur Rede stellen",
-      "eine Falle ent|schärfen",
+      "eine Falle entschärfen",
       "einer Spur nach|gehen (+ D)",
       "eine Belohnung ein|fordern"
     ],
@@ -24565,7 +24532,7 @@
     "question": "kiderít / megtud vmit (to find something out)",
     "choices": [
       "etw. in Erfahrung bringen",
-      "eine Falle ent|schärfen",
+      "eine Falle entschärfen",
       "eine Lieferung ab|fangen",
       "einer Spur nach|gehen (+ D)"
     ],
@@ -24575,9 +24542,9 @@
   {
     "question": "Zugang erhalten (zu + D)",
     "choices": [
-      "eltereli egy őr figyelmét (to distract a guard)",
-      "teljesít egy megbízást (to complete a quest)",
-      "figyel / keres vmit (to look out for)",
+      "engedélyt kér vmihez (to ask permission for something)",
+      "belép a szobába (to enter the room)",
+      "elveszíti a hozzáférését (to lose access)",
       "hozzáférést / bejutást kap vmihez (to gain access)"
     ],
     "answer": 4,
@@ -24639,7 +24606,7 @@
     "hint": "Ein umgestürzter Baum versperrt der Gruppe den Weg. (Synonyme/Verwandte Wörter: blockieren, sperren) (B1 - Wendung)"
   },
   {
-    "question": "eine Falle ent|schärfen",
+    "question": "eine Falle entschärfen",
     "choices": [
       "hatástalanít egy csapdát (to disarm a trap)",
       "elfog egy szállítmányt (to intercept a delivery)",
@@ -24652,7 +24619,7 @@
   {
     "question": "hatástalanít egy csapdát (to disarm a trap)",
     "choices": [
-      "eine Falle ent|schärfen",
+      "eine Falle entschärfen",
       "eine Lieferung ab|holen",
       "Bericht erstatten (+ D)",
       "jdn. zur Rede stellen"
@@ -24765,7 +24732,7 @@
       "Bericht erstatten (+ D)",
       "jdn. ausfindig machen",
       "eine Lieferung ab|fangen",
-      "eine Falle ent|schärfen"
+      "eine Falle entschärfen"
     ],
     "answer": 3,
     "hint": "Die Banditen versuchen die Lieferung auf dem Weg zur Stadt abzufangen. (Synonyme/Verwandte Wörter: abpassen, erbeuten) (B2 - Wendung)"
@@ -25147,10 +25114,10 @@
   {
     "question": "einen Weg frei|machen",
     "choices": [
-      "Ez meg mit jelentsen? (What is that supposed to mean?)",
+      "elállja az utat (to block the way)",
       "szabaddá tesz egy utat (to clear a path)",
-      "Gyerünk már! / Csináld! (Come on!)",
-      "nyomokat / információkat gyűjt (to gather clues)"
+      "utat választ (to choose a route)",
+      "utat mutat vkinek (to show someone the way)"
     ],
     "answer": 2,
     "hint": "Die Arbeiter machen den verschütteten Weg zum Tempel frei. (Synonyme/Verwandte Wörter: den Weg räumen) (B1 - Wendung)"
@@ -25246,10 +25213,10 @@
   {
     "question": "Mi folyik itt? (What is going on here?)",
     "choices": [
-      "Was ist der Haken?",
-      "Das kommt nicht infrage.",
+      "Was ist passiert?",
+      "Was hast du vor?",
       "Was geht hier vor?",
-      "jdn. in Ruhe lassen"
+      "Was soll das heißen?"
     ],
     "answer": 3,
     "hint": "Was geht hier vor? Warum sind überall Wachen? (Synonyme/Verwandte Wörter: Was ist hier los?) (B1 - Wendung)"
@@ -25455,9 +25422,9 @@
   {
     "question": "Das lässt sich machen.",
     "choices": [
-      "békén hagy vkit (to leave someone alone)",
-      "Mire készülsz? / Mit tervezel? (What are you planning?)",
-      "Erre számíthatsz. (You can count on it.)",
+      "Nem tudom megígérni. (I can't promise that.)",
+      "Még át kell gondolnom. (I need to think it over.)",
+      "Ez rajtad múlik. (It's up to you.)",
       "Ez megoldható. (That can be done.)"
     ],
     "answer": 4,
@@ -25565,10 +25532,10 @@
   {
     "question": "jdn. in Ruhe lassen",
     "choices": [
-      "Mi folyik itt? (What is going on here?)",
-      "Erre számíthatsz. (You can count on it.)",
+      "megfenyeget vkit (to threaten someone)",
+      "segít vkinek (to help someone)",
       "békén hagy vkit (to leave someone alone)",
-      "Majd kiderül. (We shall see.)"
+      "megsért vkit (to offend someone)"
     ],
     "answer": 3,
     "hint": "Lass den alten Mann in Ruhe. Er hat dir nichts getan. (Synonyme/Verwandte Wörter: nicht belästigen) (A2 - Wendung)"
@@ -25730,10 +25697,10 @@
   {
     "question": "megszabadul vmitől (to get rid of something)",
     "choices": [
-      "sich hüten (vor + D)",
-      "etw. überlassen (+ D)",
+      "etw. behalten (+ A)",
+      "etw. verstecken (+ A)",
       "etw. los|werden",
-      "in einen Hinterhalt geraten"
+      "etw. suchen (+ A)"
     ],
     "answer": 3,
     "hint": "Der Händler will die verfluchte Klinge so schnell wie möglich loswerden. (Synonyme/Verwandte Wörter: sich entledigen, beseitigen) (B1 - Wendung)"
@@ -25962,9 +25929,9 @@
     "question": "jdn. außer Gefecht setzen",
     "choices": [
       "harcképtelenné tesz vkit (to incapacitate someone)",
-      "tőrbe / rajtaütésbe csal vkit (to lure someone into an ambush)",
-      "megfejt / kibetűz vmit (to decipher)",
-      "kiáll vki ellen / felveszi vele a harcot (to take someone on)"
+      "lefegyverez vkit (to disarm someone)",
+      "foglyul ejt vkit (to capture someone)",
+      "megsebesít vkit (to wound someone)"
     ],
     "answer": 1,
     "hint": "Der Kämpfer setzt den Angreifer mit einem gezielten Schlag außer Gefecht. (Synonyme/Verwandte Wörter: kampfunfähig machen, ausschalten) (B2 - Wendung)"
@@ -27931,9 +27898,9 @@
     "question": "őriz egy foglyot (to guard a prisoner)",
     "choices": [
       "einen Gefangenen bewachen (+ A)",
-      "die Stellung halten",
-      "einen Handel ab|lehnen",
-      "offensichtlich"
+      "einen Gefangenen befreien (+ A)",
+      "einen Gefangenen verhören (+ A)",
+      "einen Gefangenen transportieren (+ A)"
     ],
     "answer": 1,
     "hint": "Zwei bewaffnete Soldaten mussten den Gefangenen Tag und Nacht bewachen. (Synonyme: beaufsichtigen, sichern) (B1 - Wendung)"
@@ -28535,10 +28502,10 @@
   {
     "question": "außer Gefecht setzen (+ A)",
     "choices": [
-      "rendezi az adósságot (to settle a debt)",
-      "állítólag (allegedly)",
+      "megsebesít vkit (to wound someone)",
+      "lefegyverez vkit (to disarm someone)",
       "harcképtelenné tesz (to incapacitate / put out of action)",
-      "visszatér a táborba (to return to the camp)"
+      "foglyul ejt vkit (to capture someone)"
     ],
     "answer": 3,
     "hint": "Ein gezielter Tritt reichte aus, um den Angreifer außer Gefecht zu setzen. (Synonyme: kampfunfähig machen, ausschalten) (C1 - Wendung)"
@@ -28964,10 +28931,10 @@
   {
     "question": "felbérel vkit (to hire sb)",
     "choices": [
-      "inzwischen",
-      "absichtlich",
+      "jemanden (A) befördern",
+      "jemanden (A) aus|bilden",
       "jemanden (A) an|heuern",
-      "sich zur Wehr setzen (gegen + A)"
+      "jemanden (A) entlassen"
     ],
     "answer": 3,
     "hint": "Die Expedition heuerte ortskundige Führer für den Dschungel an. (Synonyme: einstellen, rekrutieren, verpflichten) (B2 - Wendung)"
@@ -29228,10 +29195,10 @@
   {
     "question": "fokozatosan (gradually)",
     "choices": [
-      "letztendlich",
-      "eine Falle aus|lösen (+ A)",
+      "plötzlich",
+      "ständig",
       "allmählich",
-      "die Waffe nieder|legen"
+      "gelegentlich"
     ],
     "answer": 3,
     "hint": "Die verletzte Hand wurde nach der Behandlung allmählich wieder besser. (Synonyme: langsam, schrittweise) (B2 - Adverb)"
@@ -29481,9 +29448,9 @@
   {
     "question": "schließlich",
     "choices": [
-      "hiába (in vain)",
-      "kitér a támadás elől (to dodge an attack)",
-      "aranyat követel (to demand gold)",
+      "közben (meanwhile)",
+      "azonnal (immediately)",
+      "először (first)",
       "végül (eventually / after all)"
     ],
     "answer": 4,
@@ -29515,9 +29482,9 @@
     "question": "végső soron (ultimately)",
     "choices": [
       "letztendlich",
-      "versehentlich",
-      "in Deckung gehen",
-      "einen Handel ein|gehen"
+      "gelegentlich",
+      "unverzüglich",
+      "zwischenzeitlich"
     ],
     "answer": 1,
     "hint": "Letztendlich zählt bei diesem Auftrag nur die erreichte Qualität. (Synonyme: schlussendlich, letzten Endes) (B2 - Adverb)"
@@ -30163,9 +30130,9 @@
   {
     "question": "Was bekomme ich dafür?",
     "choices": [
-      "Erre mérget vehetsz. / Erre számíthatsz. (You can rely on that.)",
-      "Hagyj békén! (Leave me alone!)",
-      "nyomok után kutat (to look for clues)",
+      "Mennyit kapsz ezért? (How much do you get for it?)",
+      "Mikor kapom meg? (When will I get it?)",
+      "Mennyi ideig tart? (How long will it take?)",
       "Mit kapok ezért cserébe? (What do I get for it?)"
     ],
     "answer": 4,
@@ -30350,10 +30317,10 @@
   {
     "question": "Ezt nem hiszem el neked. (I don't believe you.)",
     "choices": [
-      "Hör auf damit!",
-      "Meinetwegen.",
+      "Du übertreibst.",
+      "Ich bin mir nicht sicher.",
       "Das glaube ich dir nicht.",
-      "einen Weg frei|machen (+ A)"
+      "Das klingt unwahrscheinlich."
     ],
     "answer": 3,
     "hint": "Das klingt wie eine Ausrede: Das glaube ich dir nicht! (Synonyme: Das nehme ich dir nicht ab) (A2 - Wendung)"
@@ -30537,10 +30504,10 @@
   {
     "question": "Das lässt sich machen.",
     "choices": [
-      "Állj meg! (Stop! / Stay where you are!)",
-      "Ez a te dolgod. (That's your business.)",
+      "Nem tehetem. (I can't do that.)",
+      "Ezt nem tudom megígérni. (I can't promise that.)",
       "Megoldható. / Megvalósítható. (That can be done.)",
-      "elzárja az utat (to block the way)"
+      "Ez túl bonyolult. (That's too complicated.)"
     ],
     "answer": 3,
     "hint": "Der Sonderwunsch ist anspruchsvoll, aber das lässt sich machen. (Synonyme: Das ist machbar, Das kriegen wir hin) (B1 - Wendung)"
@@ -30867,9 +30834,9 @@
   {
     "question": "Warte hier!",
     "choices": [
-      "Meg se mozdulj! (Freeze! / Don't move!)",
-      "információkat gyűjt (to collect information)",
-      "Mit tudsz erről? (What do you know about that?)",
+      "Kövess engem! (Follow me!)",
+      "Menj előre! (Go ahead!)",
+      "Gyere vissza! (Come back!)",
       "Várj itt! (Wait here!)"
     ],
     "answer": 4,
@@ -31341,9 +31308,9 @@
     "question": "Ha úgy gondolod. (If you say so. / If you think so.)",
     "choices": [
       "Wenn du meinst.",
-      "Hinweise sammeln (+ A)",
-      "Wie meinst du das?",
-      "Warte hier!"
+      "Ich bin nicht überzeugt.",
+      "Das musst du wissen.",
+      "Ich habe meine Zweifel."
     ],
     "answer": 1,
     "hint": "Ich halte es für riskant, aber wenn du meinst. (Synonyme: Wenn du dir sicher bist) (B1 - Wendung)"
@@ -31470,17 +31437,6 @@
     "hint": "Der Zug ist abgefahren: Jetzt ist es zu spät. (Synonyme: Die Frist ist abgelaufen) (A2 - Wendung)"
   },
   {
-    "question": "Túl késő. (It's too late.)",
-    "choices": [
-      "Es ist zu spät.",
-      "jemanden (A) ausfindig machen",
-      "Was hast du herausgefunden?",
-      "Lass ihn gehen!"
-    ],
-    "answer": 1,
-    "hint": "Der Zug ist abgefahren: Jetzt ist es zu spät. (Synonyme: Die Frist ist abgelaufen) (A2 - Wendung)"
-  },
-  {
     "question": "Noch ist es nicht zu spät.",
     "choices": [
       "nyomok után kutat (to look for clues)",
@@ -31527,10 +31483,10 @@
   {
     "question": "den Auftrag erfüllen (+ A)",
     "choices": [
-      "nyomra bukkan / szagot fog (to pick up a trail)",
+      "megbízást elfogad (to accept an assignment)",
       "megbízást teljesít (to fulfill the order)",
-      "Mi hasznom származik ebből? (What's in it for me?)",
-      "Siess! (Hurry up!)"
+      "megbízást módosít (to modify the order)",
+      "megbízást visszautasít (to reject the order)"
     ],
     "answer": 2,
     "hint": "Wir werden den Auftrag termingerecht und gewissenhaft erfüllen. (Synonyme: die Vorgaben leisten, abwickeln) (B2 - Wendung)"
@@ -31945,10 +31901,10 @@
   {
     "question": "Zugang erhalten (zu + D)",
     "choices": [
-      "ládát kinyit (to open a chest)",
-      "Ez valószínűleg nem jelent majd problémát. (That shouldn't be a problem.)",
+      "bejelentkezik a rendszerbe (to log into the system)",
+      "engedélyt kér (to request permission)",
       "hozzáférést kap (to gain access)",
-      "Ahogy akarod. (As you wish.)"
+      "elveszíti a hozzáférését (to lose access)"
     ],
     "answer": 3,
     "hint": "Erst nach der Authentifizierung erhalten Sie Zugang zu den Akten. (Synonyme: Zugriff erlangen, eintreten dürfen) (B2 - Wendung)"
@@ -32078,9 +32034,9 @@
     "question": "einen Weg frei|machen (+ A)",
     "choices": [
       "utat szabaddá tesz (to clear a path)",
-      "Hova akarsz kilyukadni? / Mit akarsz ezzel mondani? (What are you getting at?)",
-      "Hagyd annyiban. / Ne feszegesd. (Let it be. / Never mind.)",
-      "Vége van. (It's over.)"
+      "eltorlaszolja az utat (to block the way)",
+      "új útvonalat keres (to look for a new route)",
+      "útbaigazít vkit (to give directions)"
     ],
     "answer": 1,
     "hint": "Die Feuerwehr musste mit Kettensägen den Weg freimachen. (Synonyme: das Hindernis beseitigen, bahnen) (B2 - Wendung)"
@@ -34333,9 +34289,9 @@
     "question": "Mi folyik itt? (What is going on here?)",
     "choices": [
       "Was geht hier vor?",
-      "etwas (A) in Erfahrung bringen",
-      "verfügen (über + A)",
-      "etwas (A) zurück|fordern"
+      "Was ist passiert?",
+      "Wer hat das getan?",
+      "Was planst du?"
     ],
     "answer": 1,
     "hint": "Was geht hier vor? Warum arbeiten die Maschinen nicht? (Synonyme: Was passiert hier?) (B1 - Wendung)"
@@ -35158,9 +35114,9 @@
     "question": "es eilig haben",
     "choices": [
       "sietős a dolga / siet (to be in a hurry)",
-      "nem nyúl vmihez / távol tartja magát (to keep one's hands off sth)",
-      "valahol (somewhere)",
-      "könnyű (light / easy)"
+      "késésben van (to be late)",
+      "ráér (to have time)",
+      "várnia kell (to have to wait)"
     ],
     "answer": 1,
     "hint": "Ich habe es heute Morgen leider sehr eilig, der Zug fährt gleich ab. (Synonyme: in Eile sein, sich beeilen müssen) (A2 - Wendung)"
@@ -35377,10 +35333,10 @@
   {
     "question": "jemanden (A) in Ruhe lassen",
     "choices": [
-      "széles (wide / broad)",
-      "sietős a dolga / siet (to be in a hurry)",
+      "követ vkit (to follow someone)",
+      "fenyeget vkit (to threaten someone)",
       "békén hagy vkit (to leave sb alone)",
-      "valószínűleg / jól (probably / well)"
+      "feltartóztat vkit (to detain someone)"
     ],
     "answer": 3,
     "hint": "Lass mich bitte für einen Moment in Ruhe, ich muss mich konzentrieren. (Synonyme: verschonen, nicht belästigen) (A2 - Wendung)"
@@ -38205,9 +38161,9 @@
     "question": "a feje tetejére állít (to turn upside down)",
     "choices": [
       "etwas (A) auf den Kopf stellen",
-      "prall",
-      "wetzen (+ A)",
-      "(sich) bewerben (um + A)"
+      "etwas (A) in Gang bringen",
+      "etwas (A) wieder|herstellen",
+      "etwas (A) aus|gleichen"
     ],
     "answer": 1,
     "hint": "Die plötzliche Nachricht stellte sein ganzes bisheriges Leben auf den Kopf. (Synonyme: durcheinanderbringen, revolutionieren) (B2 - Wendung)"
@@ -39096,9 +39052,9 @@
     "question": "zeigen (+ D + A)",
     "choices": [
       "mutat (to show)",
-      "fekszik / elterül (to lie (down) / to be situated)",
-      "hall / hallgat (to hear / to listen)",
-      "elvesz / fog (to take)"
+      "ad vkinek vmit (to give someone something)",
+      "küld vkinek vmit (to send someone something)",
+      "mond vkinek vmit (to tell someone something)"
     ],
     "answer": 1,
     "hint": "Er zeigt mir stolz die Fotos von seinem Urlaub. (Synonyme: vorweisen, präsentieren, demonstrieren) (A1 - Verb)"
@@ -39277,17 +39233,6 @@
       "beugrik vkihez / benéz (to drop by / to pass by)"
     ],
     "answer": 3,
-    "hint": "Nach dem anstrengenden Tag schlief er tief und fest. (Synonyme: ruhen, schlummern, pennen) (A1 - Verb)"
-  },
-  {
-    "question": "alszik (to sleep)",
-    "choices": [
-      "schlafen",
-      "nehmen (+ A)",
-      "(sich) verirren",
-      "durchbohren (+ A)"
-    ],
-    "answer": 1,
     "hint": "Nach dem anstrengenden Tag schlief er tief und fest. (Synonyme: ruhen, schlummern, pennen) (A1 - Verb)"
   },
   {
@@ -39832,10 +39777,10 @@
   {
     "question": "elvisz / eltávolít (to take away / to remove)",
     "choices": [
-      "kennen (+ A)",
-      "schwimmen",
+      "ab|holen (+ A)",
+      "zurück|bringen (+ A)",
       "weg|bringen (+ A)",
-      "blocken (+ A)"
+      "mit|nehmen (+ A)"
     ],
     "answer": 3,
     "hint": "Kannst du bitte den Müll schnell nach draußen wegbringen? (Synonyme: fortschaffen, entfernen, entsorgen) (A2 - Verb)"

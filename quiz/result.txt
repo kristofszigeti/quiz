@@ -618,3 +618,23 @@ RPG
 Player name: Type your name 
 Your score: 76%
 ---------------------------------
+2026-10-27, 18:45:41
+RPG                 
+Player name: Type your name 
+Your score: 86%
+---------------------------------
+2026-10-27, 19:30:42
+RPG                 
+Player name: kristof        
+Your score: 83%
+---------------------------------
+2026-10-28, 13:42:01
+RPG                 
+Player name: kristof        
+Your score: 81%
+---------------------------------
+2026-10-28, 14:35:08
+RPG                 
+Player name: Type your name 
+Your score: 78%
+---------------------------------

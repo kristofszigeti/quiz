@@ -511,11 +511,11 @@ deutsch.add_radiobutton(label = 'Deutsch BIM Packung 2', variable = choice, valu
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_bim02.json'), 6), quiz.display_deutsch_label(1)))
 deutsch.add_radiobutton(label = 'Deutsch unregelmäßige Verben', variable = choice, value = 8,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_unregelmäßige Verben_001-100.json'), 7), quiz.display_deutsch_label(2)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 001', variable = choice, value = 9,
+deutsch.add_radiobutton(label = 'Deutsch Mischung 001', variable = choice, value = 9,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt001.json'), 8), quiz.display_deutsch_label(3)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 002', variable = choice, value = 10,
+deutsch.add_radiobutton(label = 'Deutsch Mischung 002', variable = choice, value = 10,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt002.json'), 9), quiz.display_deutsch_label(4)))
-deutsch.add_radiobutton(label = 'Deutsch Gemischung 004', variable = choice, value = 11,
+deutsch.add_radiobutton(label = 'Deutsch Mischung 004', variable = choice, value = 11,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_gemischt004.json'), 11), quiz.display_deutsch_label(6)))
 deutsch.add_radiobutton(label = 'Deutsch Modelpartikeln', variable = choice, value = 12,
                         command= lambda: (quiz.call_topic(resource_path('data/quiz_german_modalpartikeln.json'), 12),quiz.display_deutsch_label(7)))
