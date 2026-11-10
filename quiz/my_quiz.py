@@ -480,16 +480,14 @@ topics.add_radiobutton(label = 'Topic Five - Darts', variable = choice, value = 
                        command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_darts.json'), 4), quiz.display_topic_label(4)))
 topics.add_radiobutton(label = 'Topic BONUS', variable = choice, value = 6,
                        command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_boardgames.json'), 5), quiz.display_topic_label(5)))
-topics.add_radiobutton(label = 'T, T-É és SZÉS1', variable = choice, value = 7,
-                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_structural_engineering_numbered.json'), 6), quiz.display_topic_label(6)))
-topics.add_radiobutton(label = 'Electrical Systems - General', variable = choice, value = 8,
-                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_Systems_in_buildings_p01_gen.json'), 7), quiz.display_topic_label(7)))
-topics.add_radiobutton(label = 'Electrical Systems - Earthing', variable = choice, value = 9,
-                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_systems_in_buildings_p02_earthing.json'), 8), quiz.display_topic_label(8)))
+topics.add_radiobutton(label = 'Electrical Systems - General', variable = choice, value = 7,
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_Systems_in_buildings_p01_gen.json'), 6), quiz.display_topic_label(6)))
+topics.add_radiobutton(label = 'Electrical Systems - Earthing', variable = choice, value = 8,
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_systems_in_buildings_p02_earthing.json'), 7), quiz.display_topic_label(7)))
 topics.add_radiobutton(label = 'Electrical Systems - General p02', variable = choice, value = 10,
-                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_systems_in_buildings_p03_gen.json'), 9), quiz.display_topic_label(9)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_electrical_systems_in_buildings_p03_gen.json'), 8), quiz.display_topic_label(8)))
 topics.add_radiobutton(label = 'HVAC Basics - Preparations', variable = choice, value = 11,
-                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_hvac_basics_preparationstest_mixed.json'), 10), quiz.display_topic_label(10)))
+                       command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_hvac_basics_preparationstest_mixed.json'), 9), quiz.display_topic_label(9)))
 topics.add_radiobutton(label = 'Python', variable = choice, value = 12,
                        command= lambda: (quiz.call_topic(resource_path('data/topics/quiz_python_with_hints.json'), 11), quiz.display_topic_label(11)))
 
@@ -572,12 +570,11 @@ topics.entryconfig(2, image= logo_t03, compound ='left')
 topics.entryconfig(3, image= logo_t04, compound = 'left')
 topics.entryconfig(4, image= logo_t05, compound = 'left')
 topics.entryconfig(5, compound= 'left', state ='disabled') # bonus topic, initially locked
-topics.entryconfig(6, image= logo_t07, compound= 'left') # T, T-É és SZÉS1
-topics.entryconfig(7, image= logo_t08, compound= 'left') # bme - electrical systems
-topics.entryconfig(8, image= logo_t09, compound= 'left') # bme - electrical systems
-topics.entryconfig(9, image= logo_t10, compound= 'left') # bme - electrical systems
-topics.entryconfig(10, image=logo_t11, compound= 'left') # bme - hvac basics
-# topics.entryconfig(11, image=logo_t12, compound= 'left') # bme - hvac basics
+topics.entryconfig(6, image= logo_t08, compound= 'left') # bme - electrical systems
+topics.entryconfig(7, image= logo_t09, compound= 'left') # bme - electrical systems
+topics.entryconfig(8, image= logo_t10, compound= 'left') # bme - electrical systems
+topics.entryconfig(9, image=logo_t11, compound= 'left') # bme - hvac basics
+# topics.entryconfig(10, image=logo_t12, compound= 'left') # bme - hvac basics
 
 deutsch.entryconfig(0, image= logo_bimdeutschland, compound ='left') # adding icon and position it
 deutsch.entryconfig(1, image= logo_bimdeutschland, compound ='left')

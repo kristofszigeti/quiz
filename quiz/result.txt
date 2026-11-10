@@ -638,3 +638,38 @@ RPG
 Player name: Type your name 
 Your score: 78%
 ---------------------------------
+2026-11-02, 19:33:45
+RPG                 
+Player name: Type your name 
+Your score: 80%
+---------------------------------
+2026-11-02, 19:55:25
+RPG                 
+Player name: Type your name 
+Your score: 85%
+---------------------------------
+2026-11-03, 18:26:39
+Deutsch Mischung 001
+Player name: Type your name 
+Your score: 89%
+---------------------------------
+2026-11-09, 14:08:35
+Deutsch Mischung 001
+Player name: Type your name 
+Your score: 87%
+---------------------------------
+2026-11-09, 17:24:21
+RPG                 
+Player name: Type your name 
+Your score: 80%
+---------------------------------
+2026-11-09, 17:54:41
+RPG                 
+Player name: Type your name 
+Your score: 79%
+---------------------------------
+2026-11-09, 18:31:25
+RPG                 
+Player name: Type your name 
+Your score: 79%
+---------------------------------
