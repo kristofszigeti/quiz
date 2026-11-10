@@ -55,8 +55,9 @@ close VS Code and any File Explorer window using the build folder, then retry.
 Do not run PowerShell as Administrator or change folder permissions unless your
 IT administrator advises it.
 
-#2.1 VS Code Terminal
----------------------
+----------------------+
+#2.1 VS Code Terminal |
+----------------------+
 Yes—building outside OneDrive is a good way to avoid sync-related file locks. One important detail: move the whole Git repository, not just the inner quiz folder. In your current layout, the Git repository is the outer Github\quiz folder, and the app files are inside its quiz subfolder.
 
 Close VS Code and the quiz app.
@@ -76,8 +77,7 @@ Open the integrated terminal and create a fresh virtual environment there. Don�
 
 
 Build the executable:
-
-
+=====================
 The executable should appear in dist\my_quiz.exe. Keeping the temporary build workspace in %TEMP% is a useful precaution even after moving the project.
 
 Yes. You can build it right inside VS Code using its integrated terminal—or set up a task to run the build with a keyboard shortcut.
