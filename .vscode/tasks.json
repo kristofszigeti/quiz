@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build quiz executable",
+      "type": "process",
+      "command": "${workspaceFolder}\\quiz\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-m",
+        "PyInstaller",
+        "--clean",
+        "--noconfirm",
+        "--workpath",
+        "${env:TEMP}\\quiz-pyinstaller-build",
+        "my_quiz.spec"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}\\quiz"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
