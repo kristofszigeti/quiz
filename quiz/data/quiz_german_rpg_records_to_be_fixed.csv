@@ -26,3 +26,9 @@ később; delete record
 sötét / komor; change distractors
 becstelen; change distractors
 bewaffnet; change distractors
+orientált/igazódó; change distractors
+harcképtelenné tesz vkit; the words entwaffnen, gefangen, verwunden are not separable
+ich kümmere mich darum; change distractors
+ver|stecken; not separable
+non-separable words; whereever you found words like "ver|stecken" or "ent|waffnen" or "ver|wunden" you need to change them to "verstecken", "entwaffnen", "verwunden" because they are not separable verbs. prefix ver-, ent-, zer- are not separable. The only separable verbs are the ones with prefixes ab-, an-, auf-, aus-, bei-, ein-, mit-, nach-, vor-, weg-, zu- and zurück-.
+cases like "beobacht|en", "unter|suchen" are wrong; fix them

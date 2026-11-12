@@ -673,3 +673,13 @@ RPG
 Player name: Type your name 
 Your score: 79%
 ---------------------------------
+2026-11-12, 22:49:08
+RPG                 
+Player name: Type your name 
+Your score: 75%
+---------------------------------
+2026-11-12, 23:47:57
+RPG                 
+Player name: Type your name 
+Your score: 81%
+---------------------------------
