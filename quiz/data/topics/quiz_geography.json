@@ -1,165 +1,552 @@
-{
-  "question": [
-    "What is the largest desert in the world?",
-    "Which country has the most natural lakes?",
-    "What is the longest river in the world?",
-    "Which country has the most time zones?",
-    "What is the smallest country in the world by land area?",
-    "Mount Everest is located on the border of which two countries?",
-    "What is the capital city of Australia?",
-    "Which is the only continent without a desert?",
-    "What is the largest ocean on Earth?",
-    "Which river flows through the city of Paris?",
-    "What is the name of the largest island in the world?",
-    "Which mountain range is the longest in the world?",
-    "Which U.S. state is the Grand Canyon located in?",
-    "What is the deepest point in the Earth’s oceans?",
-    "Which European country is known as the 'Land of a Thousand Lakes'?",
-    "What is the official language of Brazil?",
-    "Which African country has the highest population?",
-    "What is the currency of Japan?",
-    "What is the capital city of Canada?",
-    "Which sea is the saltiest in the world?",
-    "What is the tallest waterfall in the world?",
-    "Which country is home to the most volcanoes?",
-    "Which European river is the longest?",
-    "What is the capital of Iceland?",
-    "Which African desert is the oldest in the world?",
-    "What is the second-largest country in the world by land area?",
-    "Which continent has the largest number of countries?",
-    "What is the capital city of South Korea?",
-    "Which U.S. state has the longest coastline?",
-    "What is the largest lake in Africa?",
-    "Which Asian country has the largest population?",
-    "What is the primary language spoken in Egypt?",
-    "What is the tallest mountain in North America?",
-    "What is the longest railway line in the world?",
-    "Which country is known as the 'Land of the Rising Sun'?",
-    "Which city is known as the 'Eternal City'?",
-    "What is the capital of New Zealand?",
-    "Which ocean is the warmest?",
-    "What is the largest rainforest in the world?",
-    "What is the official currency of the European Union?",
-    "Which country is known for the Great Barrier Reef?",
-    "What is the most populous city in the world?",
-    "Which European country is famous for tulips and windmills?",
-    "What is the primary language spoken in Argentina?",
-    "What is the name of the world's tallest building?",
-    "Which river forms the border between Mexico and the United States?",
-    "What is the driest place on Earth?",
-    "What is the coldest continent on Earth?",
-    "Which country has the most UNESCO World Heritage Sites?",
-    "What is the capital city of Portugal?"
-  ],
-  "answer": [
-    1, 3, 2, 4, 1, 1, 4, 2, 3, 1,
-    3, 2, 4, 1, 2, 1, 1, 1, 2, 1,
-    1, 1, 2, 1, 1, 1, 1, 2, 1, 4,
-    2, 3, 1, 4, 1, 1, 2, 1, 1, 1,
-    1, 4, 3, 1, 1, 1, 2, 1, 1, 1
-  ],
-  "choices": [
-    ["Sahara", "Kalahari", "Atacama", "Gobi"],
-    ["United States", "Russia", "Canada", "India"],
-    ["Nile River", "Amazon River", "Yangtze River", "Mississippi River"],
-    ["United States", "Russia", "China", "France"],
-    ["Vatican City", "Liechtenstein", "San Marino", "Monaco"],
-    ["China and Nepal", "India and Bhutan", "Nepal and India", "China and India"],
-    ["Brisbane", "Canberra", "Sydney", "Melbourne"],
-    ["Antarctica", "Asia", "Europe", "South America"],
-    ["Arctic Ocean", "Pacific Ocean", "Atlantic Ocean", "Indian Ocean"],
-    ["Seine", "Rhine", "Danube", "Thames"],
-    ["Australia", "Greenland", "Borneo", "Madagascar"],
-    ["Andes", "Himalayas", "Rockies", "Alps"],
-    ["Colorado", "Arizona", "Nevada", "California"],
-    ["Mariana Trench", "Tonga Trench", "Puerto Rico Trench", "Java Trench"],
-    ["Finland", "Sweden", "Norway", "Denmark"],
-    ["Portuguese", "Spanish", "English", "French"],
-    ["Nigeria", "Egypt", "South Africa", "Ethiopia"],
-    ["Yen", "Won", "Peso", "Rupee"],
-    ["Toronto", "Ottawa", "Montreal", "Vancouver"],
-    ["Dead Sea", "Red Sea", "Caspian Sea", "Aral Sea"],
-    ["Angel Falls", "Victoria Falls", "Niagara Falls", "Iguazu Falls"],
-    ["Indonesia", "Japan", "Russia", "United States"],
-    ["Danube", "Volga", "Rhine", "Elbe"],
-    ["Reykjavik", "Oslo", "Helsinki", "Stockholm"],
-    ["Namib Desert", "Sahara Desert", "Kalahari Desert", "Gobi Desert"],
-    ["Canada", "Russia", "China", "United States"],
-    ["Africa", "Asia", "Europe", "South America"],
-    ["Tokyo", "Seoul", "Bangkok", "Beijing"],
-    ["Florida", "Hawaii", "California", "Alaska"],
-    ["Lake Tanganyika", "Lake Victoria", "Lake Malawi", "Lake Chad"],
-    ["China", "India", "Japan", "Indonesia"],
-    ["Arabic", "French", "English", "Spanish"],
-    ["Denali", "Mount Logan", "Mount Whitney", "Mount Elbert"],
-    ["Trans-Siberian Railway", "Canadian Pacific Railway", "Eurostar", "Orient Express"],
-    ["Japan", "China", "Vietnam", "Thailand"],
-    ["Rome", "Berlin", "Paris", "Athens"],
-    ["Wellington", "Christchurch", "Dunedin", "Auckland"],
-    ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
-    ["Amazon Rainforest", "Daintree Rainforest", "Borneo Rainforest", "Congo Rainforest"],
-    ["Euro", "Franc", "Pound Sterling", "Dollar"],
-    ["Australia", "Fiji", "New Zealand", "Indonesia"],
-    ["Tokyo", "Mumbai", "Shanghai", "Mexico City"],
-    ["Netherlands", "Germany", "Belgium", "Denmark"],
-    ["Spanish", "Italian", "Portuguese", "English"],
-    ["Burj Khalifa", "Abraj Al-Bait", "Shanghai Tower", "One World Trade Center"],
-    ["Rio Grande", "Colorado", "Mississippi", "Hudson"],
-    ["Atacama Desert", "Mojave Desert", "Gobi Desert", "Sahara Desert"],
-    ["Antarctica", "Asia", "Arctic", "North America"],
-    ["Italy", "India", "Spain", "China"],
-    ["Lisbon", "Braga", "Porto", "Coimbra"]
-  ],
-  "hints": [
-    "It's a desert in Africa.",
-    "Famous for its wilderness and water bodies.",
-    "This river is in Africa.",
-    "It spans multiple oceans.",
-    "Where the Pope resides.",
-    "It borders Nepal and China.",
-    "It's not Sydney.",
-    "Think Europe!",
-    "It's the biggest!",
-    "Famous for Paris landmarks.",
-    "It's part of Denmark.",
-    "Runs across South America.",
-    "A southwestern state in the U.S.",
-    "Located in the Pacific Ocean.",
-    "Famous for its thousands of lakes.",
-    "It's spoken in Brazil.",
-    "The most populous in Africa.",
-    "Japan's official currency.",
-    "It's not Toronto.",
-    "Located near Israel.",
-    "Found in Venezuela.",
-    "This country has over 130 volcanoes.",
-    "A river in Eastern Europe.",
-    "Capital of Iceland.",
-    "A desert in Namibia.",
-    "The second-largest country by land area.",
-    "A continent with many nations.",
-    "Capital city of South Korea.",
-    "Famous for Alaska's coastline.",
-    "A large lake in East Africa.",
-    "The most populous country.",
-    "Language of pyramids.",
-    "Highest peak in Alaska.",
-    "Spans Russia.",
-    "Known for its sun.",
-    "Ancient city in Italy.",
-    "Capital city of New Zealand.",
-    "Located in the tropics.",
-    "Found in South America.",
-    "Currency of the EU.",
-    "Reef in Oceania.",
-    "A densely populated Asian city.",
-    "Famous for tulips and windmills.",
-    "Spoken in South America.",
-    "Located in Dubai.",
-    "River along the U.S.-Mexico border.",
-    "Found in Chile.",
-    "Frozen continent.",
-    "Italy has the most sites.",
-    "Capital city of Portugal."
-  ]
-}
+[
+    {
+        "question": "What is the largest desert in the world?",
+        "choices": [
+            "Sahara",
+            "Kalahari",
+            "Atacama",
+            "Gobi"
+        ],
+        "answer": 1,
+        "hint": "It's a desert in Africa."
+    },
+    {
+        "question": "Which country has the most natural lakes?",
+        "choices": [
+            "United States",
+            "Russia",
+            "Canada",
+            "India"
+        ],
+        "answer": 3,
+        "hint": "Famous for its wilderness and water bodies."
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "choices": [
+            "Nile River",
+            "Amazon River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "answer": 2,
+        "hint": "This river is in Africa."
+    },
+    {
+        "question": "Which country has the most time zones?",
+        "choices": [
+            "United States",
+            "Russia",
+            "China",
+            "France"
+        ],
+        "answer": 4,
+        "hint": "It spans multiple oceans."
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "choices": [
+            "Vatican City",
+            "Liechtenstein",
+            "San Marino",
+            "Monaco"
+        ],
+        "answer": 1,
+        "hint": "Where the Pope resides."
+    },
+    {
+        "question": "Mount Everest is located on the border of which two countries?",
+        "choices": [
+            "China and Nepal",
+            "India and Bhutan",
+            "Nepal and India",
+            "China and India"
+        ],
+        "answer": 1,
+        "hint": "It borders Nepal and China."
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "choices": [
+            "Brisbane",
+            "Canberra",
+            "Sydney",
+            "Melbourne"
+        ],
+        "answer": 4,
+        "hint": "It's not Sydney."
+    },
+    {
+        "question": "Which is the only continent without a desert?",
+        "choices": [
+            "Antarctica",
+            "Asia",
+            "Europe",
+            "South America"
+        ],
+        "answer": 2,
+        "hint": "Think Europe!"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "choices": [
+            "Arctic Ocean",
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean"
+        ],
+        "answer": 3,
+        "hint": "It's the biggest!"
+    },
+    {
+        "question": "Which river flows through the city of Paris?",
+        "choices": [
+            "Seine",
+            "Rhine",
+            "Danube",
+            "Thames"
+        ],
+        "answer": 1,
+        "hint": "Famous for Paris landmarks."
+    },
+    {
+        "question": "What is the name of the largest island in the world?",
+        "choices": [
+            "Australia",
+            "Greenland",
+            "Borneo",
+            "Madagascar"
+        ],
+        "answer": 3,
+        "hint": "It's part of Denmark."
+    },
+    {
+        "question": "Which mountain range is the longest in the world?",
+        "choices": [
+            "Andes",
+            "Himalayas",
+            "Rockies",
+            "Alps"
+        ],
+        "answer": 2,
+        "hint": "Runs across South America."
+    },
+    {
+        "question": "Which U.S. state is the Grand Canyon located in?",
+        "choices": [
+            "Colorado",
+            "Arizona",
+            "Nevada",
+            "California"
+        ],
+        "answer": 4,
+        "hint": "A southwestern state in the U.S."
+    },
+    {
+        "question": "What is the deepest point in the Earth’s oceans?",
+        "choices": [
+            "Mariana Trench",
+            "Tonga Trench",
+            "Puerto Rico Trench",
+            "Java Trench"
+        ],
+        "answer": 1,
+        "hint": "Located in the Pacific Ocean."
+    },
+    {
+        "question": "Which European country is known as the 'Land of a Thousand Lakes'?",
+        "choices": [
+            "Finland",
+            "Sweden",
+            "Norway",
+            "Denmark"
+        ],
+        "answer": 2,
+        "hint": "Famous for its thousands of lakes."
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "choices": [
+            "Portuguese",
+            "Spanish",
+            "English",
+            "French"
+        ],
+        "answer": 1,
+        "hint": "It's spoken in Brazil."
+    },
+    {
+        "question": "Which African country has the highest population?",
+        "choices": [
+            "Nigeria",
+            "Egypt",
+            "South Africa",
+            "Ethiopia"
+        ],
+        "answer": 1,
+        "hint": "The most populous in Africa."
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "choices": [
+            "Yen",
+            "Won",
+            "Peso",
+            "Rupee"
+        ],
+        "answer": 1,
+        "hint": "Japan's official currency."
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "choices": [
+            "Toronto",
+            "Ottawa",
+            "Montreal",
+            "Vancouver"
+        ],
+        "answer": 2,
+        "hint": "It's not Toronto."
+    },
+    {
+        "question": "Which sea is the saltiest in the world?",
+        "choices": [
+            "Dead Sea",
+            "Red Sea",
+            "Caspian Sea",
+            "Aral Sea"
+        ],
+        "answer": 1,
+        "hint": "Located near Israel."
+    },
+    {
+        "question": "What is the tallest waterfall in the world?",
+        "choices": [
+            "Angel Falls",
+            "Victoria Falls",
+            "Niagara Falls",
+            "Iguazu Falls"
+        ],
+        "answer": 1,
+        "hint": "Found in Venezuela."
+    },
+    {
+        "question": "Which country is home to the most volcanoes?",
+        "choices": [
+            "Indonesia",
+            "Japan",
+            "Russia",
+            "United States"
+        ],
+        "answer": 1,
+        "hint": "This country has over 130 volcanoes."
+    },
+    {
+        "question": "Which European river is the longest?",
+        "choices": [
+            "Danube",
+            "Volga",
+            "Rhine",
+            "Elbe"
+        ],
+        "answer": 2,
+        "hint": "A river in Eastern Europe."
+    },
+    {
+        "question": "What is the capital of Iceland?",
+        "choices": [
+            "Reykjavik",
+            "Oslo",
+            "Helsinki",
+            "Stockholm"
+        ],
+        "answer": 1,
+        "hint": "Capital of Iceland."
+    },
+    {
+        "question": "Which African desert is the oldest in the world?",
+        "choices": [
+            "Namib Desert",
+            "Sahara Desert",
+            "Kalahari Desert",
+            "Gobi Desert"
+        ],
+        "answer": 1,
+        "hint": "A desert in Namibia."
+    },
+    {
+        "question": "What is the second-largest country in the world by land area?",
+        "choices": [
+            "Canada",
+            "Russia",
+            "China",
+            "United States"
+        ],
+        "answer": 1,
+        "hint": "The second-largest country by land area."
+    },
+    {
+        "question": "Which continent has the largest number of countries?",
+        "choices": [
+            "Africa",
+            "Asia",
+            "Europe",
+            "South America"
+        ],
+        "answer": 1,
+        "hint": "A continent with many nations."
+    },
+    {
+        "question": "What is the capital city of South Korea?",
+        "choices": [
+            "Tokyo",
+            "Seoul",
+            "Bangkok",
+            "Beijing"
+        ],
+        "answer": 2,
+        "hint": "Capital city of South Korea."
+    },
+    {
+        "question": "Which U.S. state has the longest coastline?",
+        "choices": [
+            "Florida",
+            "Hawaii",
+            "California",
+            "Alaska"
+        ],
+        "answer": 1,
+        "hint": "Famous for Alaska's coastline."
+    },
+    {
+        "question": "What is the largest lake in Africa?",
+        "choices": [
+            "Lake Tanganyika",
+            "Lake Victoria",
+            "Lake Malawi",
+            "Lake Chad"
+        ],
+        "answer": 4,
+        "hint": "A large lake in East Africa."
+    },
+    {
+        "question": "Which Asian country has the largest population?",
+        "choices": [
+            "China",
+            "India",
+            "Japan",
+            "Indonesia"
+        ],
+        "answer": 2,
+        "hint": "The most populous country."
+    },
+    {
+        "question": "What is the primary language spoken in Egypt?",
+        "choices": [
+            "Arabic",
+            "French",
+            "English",
+            "Spanish"
+        ],
+        "answer": 3,
+        "hint": "Language of pyramids."
+    },
+    {
+        "question": "What is the tallest mountain in North America?",
+        "choices": [
+            "Denali",
+            "Mount Logan",
+            "Mount Whitney",
+            "Mount Elbert"
+        ],
+        "answer": 1,
+        "hint": "Highest peak in Alaska."
+    },
+    {
+        "question": "What is the longest railway line in the world?",
+        "choices": [
+            "Trans-Siberian Railway",
+            "Canadian Pacific Railway",
+            "Eurostar",
+            "Orient Express"
+        ],
+        "answer": 4,
+        "hint": "Spans Russia."
+    },
+    {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "choices": [
+            "Japan",
+            "China",
+            "Vietnam",
+            "Thailand"
+        ],
+        "answer": 1,
+        "hint": "Known for its sun."
+    },
+    {
+        "question": "Which city is known as the 'Eternal City'?",
+        "choices": [
+            "Rome",
+            "Berlin",
+            "Paris",
+            "Athens"
+        ],
+        "answer": 1,
+        "hint": "Ancient city in Italy."
+    },
+    {
+        "question": "What is the capital of New Zealand?",
+        "choices": [
+            "Wellington",
+            "Christchurch",
+            "Dunedin",
+            "Auckland"
+        ],
+        "answer": 2,
+        "hint": "Capital city of New Zealand."
+    },
+    {
+        "question": "Which ocean is the warmest?",
+        "choices": [
+            "Indian Ocean",
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": 1,
+        "hint": "Located in the tropics."
+    },
+    {
+        "question": "What is the largest rainforest in the world?",
+        "choices": [
+            "Amazon Rainforest",
+            "Daintree Rainforest",
+            "Borneo Rainforest",
+            "Congo Rainforest"
+        ],
+        "answer": 1,
+        "hint": "Found in South America."
+    },
+    {
+        "question": "What is the official currency of the European Union?",
+        "choices": [
+            "Euro",
+            "Franc",
+            "Pound Sterling",
+            "Dollar"
+        ],
+        "answer": 1,
+        "hint": "Currency of the EU."
+    },
+    {
+        "question": "Which country is known for the Great Barrier Reef?",
+        "choices": [
+            "Australia",
+            "Fiji",
+            "New Zealand",
+            "Indonesia"
+        ],
+        "answer": 1,
+        "hint": "Reef in Oceania."
+    },
+    {
+        "question": "What is the most populous city in the world?",
+        "choices": [
+            "Tokyo",
+            "Mumbai",
+            "Shanghai",
+            "Mexico City"
+        ],
+        "answer": 4,
+        "hint": "A densely populated Asian city."
+    },
+    {
+        "question": "Which European country is famous for tulips and windmills?",
+        "choices": [
+            "Netherlands",
+            "Germany",
+            "Belgium",
+            "Denmark"
+        ],
+        "answer": 3,
+        "hint": "Famous for tulips and windmills."
+    },
+    {
+        "question": "What is the primary language spoken in Argentina?",
+        "choices": [
+            "Spanish",
+            "Italian",
+            "Portuguese",
+            "English"
+        ],
+        "answer": 1,
+        "hint": "Spoken in South America."
+    },
+    {
+        "question": "What is the name of the world's tallest building?",
+        "choices": [
+            "Burj Khalifa",
+            "Abraj Al-Bait",
+            "Shanghai Tower",
+            "One World Trade Center"
+        ],
+        "answer": 1,
+        "hint": "Located in Dubai."
+    },
+    {
+        "question": "Which river forms the border between Mexico and the United States?",
+        "choices": [
+            "Rio Grande",
+            "Colorado",
+            "Mississippi",
+            "Hudson"
+        ],
+        "answer": 1,
+        "hint": "River along the U.S.-Mexico border."
+    },
+    {
+        "question": "What is the driest place on Earth?",
+        "choices": [
+            "Atacama Desert",
+            "Mojave Desert",
+            "Gobi Desert",
+            "Sahara Desert"
+        ],
+        "answer": 2,
+        "hint": "Found in Chile."
+    },
+    {
+        "question": "What is the coldest continent on Earth?",
+        "choices": [
+            "Antarctica",
+            "Asia",
+            "Arctic",
+            "North America"
+        ],
+        "answer": 1,
+        "hint": "Frozen continent."
+    },
+    {
+        "question": "Which country has the most UNESCO World Heritage Sites?",
+        "choices": [
+            "Italy",
+            "India",
+            "Spain",
+            "China"
+        ],
+        "answer": 1,
+        "hint": "Italy has the most sites."
+    },
+    {
+        "question": "What is the capital city of Portugal?",
+        "choices": [
+            "Lisbon",
+            "Braga",
+            "Porto",
+            "Coimbra"
+        ],
+        "answer": 1,
+        "hint": "Capital city of Portugal."
+    }
+]

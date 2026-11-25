@@ -1,280 +1,332 @@
-{
-    "question": [
-        "Q1. What is the main purpose of an HVAC system?",
-        "Q2. Which factor does NOT influence thermal wellbeing?",
-        "Q3. What type of heat transfer medium has high latent heat and requires special construction for condensate removal?",
-        "Q4. What is a major disadvantage of biomass boilers?",
-        "Q5. Which heat recovery technology involves two or more finned tube coils connected in a closed loop?",
-        "Q6. Which type of heat exchanger transfers both sensible and latent heat?",
-        "Q7. What is the purpose of a heat pump in an HVAC system?",
-        "Q8. What is the main drawback of using air-to-water heat pumps?",
-        "Q9. What is the ideal depth for installing a ground collector pipeline?",
-        "Q10. Which heat recovery method uses a revolving cylinder filled with air-permeable medium?",
-        "Q11. Why is oxygen-rich water harmful for heating systems?",
-        "Q12. What is the function of a district heating system?",
-        "Q13. What is the role of a recuperator in HVAC?",
-        "Q14. What happens if ethylene glycol leaks into domestic hot water?",
-        "Q15. What is the main operational principle of a heat pump?",
-        "Q16. What material should not be used for polymer pipelines in HVAC systems?",
-        "Q17. What type of heat exchanger is used in district heating systems?",
-        "Q18. What is the main benefit of using geothermal district heating?",
-        "Q19. How is frost protection typically achieved in solar thermal systems?",
-        "Q20. What is the ideal operating temperature range for water-to-water heat pump systems?",
-        "Q21. What is the main disadvantage of steam as a heat transfer medium?",
-        "Q22. What is the purpose of expansion vessels in HVAC systems?",
-        "Q23. What type of heat pump uses water extracted from wells as the heat source?",
-        "Q24. What does COP stand for in HVAC systems?",
-        "Q25. Which heat emitter provides the most even temperature distribution?",
-        "Q26. What is a key feature of district heating pipelines to handle thermal expansion?",
-        "Q27. What is the role of a mixing valve in coil loop heat recovery systems?",
-        "Q28. What is a common disadvantage of gas boilers?",
-        "Q29. What is the purpose of a rotary heat exchanger?",
-        "Q30. Why is glycol used in solar thermal systems for frost protection?"
-    ],
-    "answer": [
-        1,
-        4,
-        3,
-        3,
-        3,
-        4,
-        1,
-        3,
-        1,
-        4,
-        1,
-        1,
-        3,
-        3,
-        1,
-        2,
-        1,
-        1,
-        1,
-        3,
-        3,
-        2,
-        2,
-        1,
-        2,
-        2,
-        3,
-        1,
-        4,
-        1
-    ],
-    "choices": [
-        [
+[
+    {
+        "question": "Q1. What is the main purpose of an HVAC system?",
+        "choices": [
             "To provide comfort and healthy environment",
             "To maximize energy usage",
             "To reduce maintenance costs",
             "To increase humidity levels"
         ],
-        [
+        "answer": 1,
+        "hint": "HVAC systems are designed to provide comfort and healthy indoor environments through heating, ventilation, and air conditioning."
+    },
+    {
+        "question": "Q2. Which factor does NOT influence thermal wellbeing?",
+        "choices": [
             "Human activity",
             "Level of clothing",
             "Operative temperature",
             "Pipe material"
         ],
-        [
+        "answer": 4,
+        "hint": "Pipe material does not directly affect thermal wellbeing."
+    },
+    {
+        "question": "Q3. What type of heat transfer medium has high latent heat and requires special construction for condensate removal?",
+        "choices": [
             "Air",
             "Water",
             "Steam",
             "Thermo Oil"
         ],
-        [
+        "answer": 3,
+        "hint": "Steam has high latent heat, requiring special construction to handle condensation."
+    },
+    {
+        "question": "Q4. What is a major disadvantage of biomass boilers?",
+        "choices": [
             "High installation cost",
             "Low fuel efficiency",
             "Requires more human effort for operation",
             "Requires large storage area"
         ],
-        [
+        "answer": 3,
+        "hint": "Biomass boilers require more manual handling and effort to operate."
+    },
+    {
+        "question": "Q5. Which heat recovery technology involves two or more finned tube coils connected in a closed loop?",
+        "choices": [
             "Fixed-Plate Cross-Flow",
             "Counter-flow Plate",
             "Coil Loop",
             "Rotary Heat Exchanger"
         ],
-        [
+        "answer": 3,
+        "hint": "Coil loops allow heat exchange between separate systems."
+    },
+    {
+        "question": "Q6. Which type of heat exchanger transfers both sensible and latent heat?",
+        "choices": [
             "Fixed-Plate Cross-Flow",
             "Coil Loop",
             "Counter-flow Plate",
             "Rotary Heat Exchanger"
         ],
-        [
+        "answer": 4,
+        "hint": "Rotary heat exchangers transfer both sensible and latent heat."
+    },
+    {
+        "question": "Q7. What is the purpose of a heat pump in an HVAC system?",
+        "choices": [
             "To transfer heat from one medium to another",
             "To reduce heat losses",
             "To increase pressure",
             "To improve air circulation"
         ],
-        [
+        "answer": 1,
+        "hint": "Heat pumps absorb and transfer heat between different mediums."
+    },
+    {
+        "question": "Q8. What is the main drawback of using air-to-water heat pumps?",
+        "choices": [
             "High cost",
             "Difficult installation",
             "Temperature of the heat source varies significantly",
             "High maintenance"
         ],
-        [
+        "answer": 3,
+        "hint": "Air-to-water heat pumps' performance is affected by outdoor temperature changes."
+    },
+    {
+        "question": "Q9. What is the ideal depth for installing a ground collector pipeline?",
+        "choices": [
             "1-1.5 meters",
             "2-3 meters",
             "3-4 meters",
             "4-5 meters"
         ],
-        [
+        "answer": 1,
+        "hint": "Pipelines are usually installed at shallow depths for efficiency."
+    },
+    {
+        "question": "Q10. Which heat recovery method uses a revolving cylinder filled with air-permeable medium?",
+        "choices": [
             "Fixed-Plate Cross-Flow",
             "Coil Loop",
             "Counter-flow Plate",
             "Rotary Heat Exchanger"
         ],
-        [
+        "answer": 4,
+        "hint": "Rotary heat exchangers store heat in a rotating medium."
+    },
+    {
+        "question": "Q11. Why is oxygen-rich water harmful for heating systems?",
+        "choices": [
             "It causes corrosion and damages metal parts",
             "It increases thermal efficiency",
             "It improves water circulation",
             "It reduces water pressure"
         ],
-        [
+        "answer": 1,
+        "hint": "Oxygen causes corrosion and rusting in metal parts."
+    },
+    {
+        "question": "Q12. What is the function of a district heating system?",
+        "choices": [
             "To provide localized heat production",
             "To increase air pressure",
             "To control humidity levels",
             "To reduce air pollution"
         ],
-        [
+        "answer": 1,
+        "hint": "District heating systems distribute heat from a central source."
+    },
+    {
+        "question": "Q13. What is the role of a recuperator in HVAC?",
+        "choices": [
             "To filter air",
             "To increase humidity",
             "To recover energy from exhaust air",
             "To heat water"
         ],
-        [
+        "answer": 3,
+        "hint": "Recuperators recover heat from exhaust air to improve efficiency."
+    },
+    {
+        "question": "Q14. What happens if ethylene glycol leaks into domestic hot water?",
+        "choices": [
             "It improves heating efficiency",
             "It increases heat absorption",
             "It is poisonous and dangerous to health",
             "It reduces heat losses"
         ],
-        [
+        "answer": 3,
+        "hint": "Ethylene glycol is poisonous; propylene glycol is used for safety."
+    },
+    {
+        "question": "Q15. What is the main operational principle of a heat pump?",
+        "choices": [
             "Absorbing heat at low temperature and releasing it at high temperature",
             "Increasing air pressure",
             "Reducing humidity",
             "Improving airflow"
         ],
-        [
+        "answer": 1,
+        "hint": "Heat pumps operate based on the Carnot cycle."
+    },
+    {
+        "question": "Q16. What material should not be used for polymer pipelines in HVAC systems?",
+        "choices": [
             "Oxygen-permeable",
             "Oxygen-diffusion resistant",
             "Flexible PVC",
             "Galvanized steel"
         ],
-        [
+        "answer": 2,
+        "hint": "Oxygen-diffusion resistant materials prevent corrosion."
+    },
+    {
+        "question": "Q17. What type of heat exchanger is used in district heating systems?",
+        "choices": [
             "Fixed-Plate Cross-Flow",
             "Coil Loop",
             "Counter-flow Plate",
             "Rotary Heat Exchanger"
         ],
-        [
+        "answer": 1,
+        "hint": "Counter-flow plate heat exchangers are common in district heating."
+    },
+    {
+        "question": "Q18. What is the main benefit of using geothermal district heating?",
+        "choices": [
             "Independence from seasonal variation",
             "Higher installation cost",
             "More maintenance required",
             "Limited efficiency"
         ],
-        [
+        "answer": 1,
+        "hint": "Geothermal heating is independent from seasonal changes."
+    },
+    {
+        "question": "Q19. How is frost protection typically achieved in solar thermal systems?",
+        "choices": [
             "Using propylene glycol, which is not poisonous",
             "Using ethylene glycol, which is poisonous",
             "Increasing water pressure",
             "Reducing heat flow"
         ],
-        [
-            "10-15\u00b0C",
-            "20-30\u00b0C",
-            "5-15\u00b0C",
-            "30-40\u00b0C"
+        "answer": 1,
+        "hint": "Propylene glycol prevents freezing without toxicity."
+    },
+    {
+        "question": "Q20. What is the ideal operating temperature range for water-to-water heat pump systems?",
+        "choices": [
+            "10-15°C",
+            "20-30°C",
+            "5-15°C",
+            "30-40°C"
         ],
-        [
+        "answer": 3,
+        "hint": "Water-to-water heat pumps work best in moderate temperature ranges."
+    },
+    {
+        "question": "Q21. What is the main disadvantage of steam as a heat transfer medium?",
+        "choices": [
             "High heat losses",
             "High installation cost",
             "Special construction required for condensate removal",
             "Complex heat distribution"
         ],
-        [
+        "answer": 3,
+        "hint": "Steam systems require special construction to manage condensation."
+    },
+    {
+        "question": "Q22. What is the purpose of expansion vessels in HVAC systems?",
+        "choices": [
             "To reduce air pressure",
             "To prevent overpressure in the system",
             "To increase heat flow",
             "To improve air circulation"
         ],
-        [
+        "answer": 2,
+        "hint": "Expansion vessels prevent overpressure by absorbing excess volume."
+    },
+    {
+        "question": "Q23. What type of heat pump uses water extracted from wells as the heat source?",
+        "choices": [
             "Water-to-air",
             "Water-to-water",
             "Air-to-air",
             "Geothermal"
         ],
-        [
+        "answer": 2,
+        "hint": "Water-to-water heat pumps use groundwater as a heat source."
+    },
+    {
+        "question": "Q24. What does COP stand for in HVAC systems?",
+        "choices": [
             "Coefficient of Performance",
             "Coefficient of Pressure",
             "Current Operating Power",
             "Control of Pressure"
         ],
-        [
+        "answer": 1,
+        "hint": "COP measures a heat pump's efficiency."
+    },
+    {
+        "question": "Q25. Which heat emitter provides the most even temperature distribution?",
+        "choices": [
             "Radiator",
             "Surface heating",
             "Ventilation duct",
             "Air curtain"
         ],
-        [
+        "answer": 2,
+        "hint": "Surface heating systems provide the most even heat distribution."
+    },
+    {
+        "question": "Q26. What is a key feature of district heating pipelines to handle thermal expansion?",
+        "choices": [
             "Flexible joints",
             "U-bends",
             "Pressure reducers",
             "Flow dampers"
         ],
-        [
+        "answer": 2,
+        "hint": "U-bends compensate for expansion in district heating pipes."
+    },
+    {
+        "question": "Q27. What is the role of a mixing valve in coil loop heat recovery systems?",
+        "choices": [
             "To regulate heat absorption",
             "To control airflow",
             "To adjust the flow of working fluid",
             "To clean the coil"
         ],
-        [
+        "answer": 3,
+        "hint": "Mixing valves regulate heat flow in coil loop systems."
+    },
+    {
+        "question": "Q28. What is a common disadvantage of gas boilers?",
+        "choices": [
             "High initial cost",
             "Complex installation",
             "High maintenance cost",
             "Low efficiency"
         ],
-        [
+        "answer": 1,
+        "hint": "Gas boilers have high installation costs."
+    },
+    {
+        "question": "Q29. What is the purpose of a rotary heat exchanger?",
+        "choices": [
             "To reduce humidity",
             "To increase airflow",
             "To store and transfer heat between air streams",
             "To regulate pressure"
         ],
-        [
+        "answer": 4,
+        "hint": "Rotary heat exchangers store and transfer heat between airflows."
+    },
+    {
+        "question": "Q30. Why is glycol used in solar thermal systems for frost protection?",
+        "choices": [
             "It has a low freezing point and is non-toxic",
             "It increases thermal efficiency",
             "It improves water pressure",
             "It reduces system pressure"
-        ]
-    ],
-    "hints": [
-        "HVAC systems are designed to provide comfort and healthy indoor environments through heating, ventilation, and air conditioning.",
-        "Pipe material does not directly affect thermal wellbeing.",
-        "Steam has high latent heat, requiring special construction to handle condensation.",
-        "Biomass boilers require more manual handling and effort to operate.",
-        "Coil loops allow heat exchange between separate systems.",
-        "Rotary heat exchangers transfer both sensible and latent heat.",
-        "Heat pumps absorb and transfer heat between different mediums.",
-        "Air-to-water heat pumps' performance is affected by outdoor temperature changes.",
-        "Pipelines are usually installed at shallow depths for efficiency.",
-        "Rotary heat exchangers store heat in a rotating medium.",
-        "Oxygen causes corrosion and rusting in metal parts.",
-        "District heating systems distribute heat from a central source.",
-        "Recuperators recover heat from exhaust air to improve efficiency.",
-        "Ethylene glycol is poisonous; propylene glycol is used for safety.",
-        "Heat pumps operate based on the Carnot cycle.",
-        "Oxygen-diffusion resistant materials prevent corrosion.",
-        "Counter-flow plate heat exchangers are common in district heating.",
-        "Geothermal heating is independent from seasonal changes.",
-        "Propylene glycol prevents freezing without toxicity.",
-        "Water-to-water heat pumps work best in moderate temperature ranges.",
-        "Steam systems require special construction to manage condensation.",
-        "Expansion vessels prevent overpressure by absorbing excess volume.",
-        "Water-to-water heat pumps use groundwater as a heat source.",
-        "COP measures a heat pump's efficiency.",
-        "Surface heating systems provide the most even heat distribution.",
-        "U-bends compensate for expansion in district heating pipes.",
-        "Mixing valves regulate heat flow in coil loop systems.",
-        "Gas boilers have high installation costs.",
-        "Rotary heat exchangers store and transfer heat between airflows.",
-        "Glycol prevents freezing and ensures system safety."
-    ]
-}
+        ],
+        "answer": 1,
+        "hint": "Glycol prevents freezing and ensures system safety."
+    }
+]

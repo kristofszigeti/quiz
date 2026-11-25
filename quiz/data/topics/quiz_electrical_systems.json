@@ -1,532 +1,640 @@
-{
-    "question": [
-        "What is the main purpose of an earthing system in an electrical installation?",
-        "What is the primary function of a circuit breaker in an electrical panel?",
-        "What type of cable is commonly used for underground electrical distribution?",
-        "What is the function of a busbar in an electrical distribution board?",
-        "What is the typical operating voltage for single-phase domestic supply in Europe?",
-        "What is the main purpose of a transformer in a power distribution system?",
-        "What is the function of a residual current device (RCD) in electrical systems?",
-        "What is the purpose of a lightning arrester in electrical systems?",
-        "What is the main advantage of using copper wiring in electrical installations?",
-        "What type of protection is provided by a TN-C-S earthing system?",
-        "What is the effect of increasing conductor size on electrical resistance?",
-        "What is the role of a fuse in an electrical circuit?",
-        "What is the difference between single-phase and three-phase electrical supply?",
-        "What is the function of an automatic transfer switch (ATS)?",
-        "What is the purpose of a power factor correction capacitor bank?",
-        "What is the typical lifespan of an LED light compared to an incandescent bulb?",
-        "What type of circuit is used for stairway lighting?",
-        "What is the standard frequency of AC supply in Europe?",
-        "What is the main function of a contactor in an electrical system?",
-        "What is the purpose of double insulation in electrical equipment?",
-        "What is the role of a disconnect switch in an electrical circuit?",
-        "What is the main advantage of using XLPE cables over PVC cables?",
-        "What is the function of a surge arrester in an electrical network?",
-        "What is the purpose of earthing in an electrical installation?",
-        "What is the effect of voltage drop on electrical efficiency?",
-        "What is the primary function of a step-up transformer?",
-        "What is the purpose of a ring circuit in a domestic electrical installation?",
-        "What is the role of a synchronous motor in an electrical system?",
-        "What is the difference between AC and DC current?",
-        "What is the main function of a phase-sequence relay in a three-phase system?",
-        "What type of insulation is used for high-temperature cable applications?",
-        "What is the purpose of a single-line diagram in electrical systems?",
-        "What is the role of a feeder in an electrical distribution system?",
-        "What is the main function of a load break switch (LBS)?",
-        "What is the purpose of a residual voltage device (RVD)?",
-        "What is the purpose of a synchronous generator?",
-        "What is the main advantage of using a busbar trunking system?",
-        "What is the role of a transformer in a substation?",
-        "What is the effect of increasing cable length on voltage drop?",
-        "What is the purpose of a phase-splitting transformer?",
-        "What is the purpose of a ring main unit (RMU) in electrical systems?",
-        "What is the role of a capacitor in an electrical system?",
-        "What is the effect of power factor correction on system efficiency?",
-        "What type of motor is most commonly used in HVAC systems?",
-        "What is the function of an insulation monitoring device (IMD)?",
-        "What is the role of a current transformer (CT) in a power system?",
-        "What is the purpose of a relay in an electrical circuit?",
-        "What is the main function of an overcurrent relay?",
-        "What is the purpose of a grounding rod in an earthing system?",
-        "What is the role of an impulse relay in lighting systems?",
-        "What is the primary advantage of using LED lights over traditional bulbs?",
-        "What type of protection is provided by a ground-fault circuit interrupter (GFCI)?",
-        "What is the main advantage of using stranded conductors over solid conductors?",
-        "What is the role of an arc fault detection device (AFDD) in electrical systems?",
-        "What is the function of a thermal overload relay in a motor control system?",
-        "What is the purpose of a control transformer in an industrial panel?",
-        "What is the purpose of a cable tray in electrical installations?",
-        "What is the main advantage of using armored cable in an installation?"
-    ],
-    "answer": [
-        2,
-        3,
-        1,
-        4,
-        4,
-        3,
-        1,
-        2,
-        2,
-        4,
-        4,
-        2,
-        2,
-        2,
-        2,
-        4,
-        3,
-        4,
-        2,
-        3,
-        3,
-        3,
-        3,
-        2,
-        1,
-        2,
-        3,
-        4,
-        1,
-        3,
-        1,
-        3,
-        3,
-        2,
-        3,
-        1,
-        1,
-        1,
-        3,
-        1,
-        2,
-        3,
-        1,
-        2,
-        4,
-        1,
-        3,
-        3,
-        4,
-        3,
-        2,
-        1,
-        1,
-        4,
-        2,
-        4,
-        1,
-        4
-    ],
-    "choices": [
-        [
+[
+    {
+        "question": "What is the main purpose of an earthing system in an electrical installation?",
+        "choices": [
             "To detect and prevent arcing faults",
             "To provide a low-resistance path to ground",
             "High conductivity and corrosion resistance",
             "Efficient power distribution"
         ],
-        [
+        "answer": 2,
+        "hint": "Earthing systems provide a safe path for fault currents to flow into the ground, reducing the risk of electric shock and protecting equipment from damage."
+    },
+    {
+        "question": "What is the primary function of a circuit breaker in an electrical panel?",
+        "choices": [
             "To isolate a circuit",
             "Combines protective and neutral conductors",
             "To interrupt fault currents",
             "To carry current between circuits"
         ],
-        [
+        "answer": 3,
+        "hint": "Circuit breakers detect overloads and short circuits, interrupting the circuit to prevent overheating and fire hazards."
+    },
+    {
+        "question": "What type of cable is commonly used for underground electrical distribution?",
+        "choices": [
             "XLPE cable",
             "To interrupt fault currents",
             "To isolate electrical loads",
             "To detect voltage imbalance"
         ],
-        [
+        "answer": 1,
+        "hint": "XLPE (Cross-linked Polyethylene) cables are preferred for underground use because of their excellent resistance to moisture and high temperature tolerance."
+    },
+    {
+        "question": "What is the function of a busbar in an electrical distribution board?",
+        "choices": [
             "Flexible and easier to install",
             "To provide step-down voltage for control systems",
             "To protect against overloads",
             "To carry current between circuits"
         ],
-        [
+        "answer": 4,
+        "hint": "Busbars distribute electrical power efficiently and reduce the need for excess wiring, providing a compact and organized power distribution system."
+    },
+    {
+        "question": "What is the typical operating voltage for single-phase domestic supply in Europe?",
+        "choices": [
             "High conductivity and corrosion resistance",
             "To split phase voltage",
             "To protect against voltage spikes",
             "230V"
         ],
-        [
+        "answer": 4,
+        "hint": "The typical single-phase domestic supply in Europe is 230V, ensuring compatibility with most household appliances."
+    },
+    {
+        "question": "What is the main purpose of a transformer in a power distribution system?",
+        "choices": [
             "To detect imbalance between live and neutral",
             "To provide added protection",
             "To step up or step down voltage",
             "Increases voltage drop"
         ],
-        [
+        "answer": 3,
+        "hint": "Transformers adjust voltage levels, stepping up for efficient transmission and stepping down for safe use by appliances."
+    },
+    {
+        "question": "What is the function of a residual current device (RCD) in electrical systems?",
+        "choices": [
             "To detect imbalance between live and neutral",
             "To provide step-down voltage for control systems",
             "Protects against ground faults",
             "To isolate a circuit"
         ],
-        [
+        "answer": 1,
+        "hint": "Residual current devices (RCDs) detect imbalance between live and neutral currents, cutting off power to prevent electric shock."
+    },
+    {
+        "question": "What is the purpose of a lightning arrester in electrical systems?",
+        "choices": [
             "To switch between power sources",
             "To protect against lightning surges",
             "To interrupt fault currents",
             "High conductivity and corrosion resistance"
         ],
-        [
+        "answer": 2,
+        "hint": "Lightning arresters divert high voltage surges from lightning strikes to the ground, protecting sensitive equipment from damage."
+    },
+    {
+        "question": "What is the main advantage of using copper wiring in electrical installations?",
+        "choices": [
             "To switch between power sources",
             "High conductivity and corrosion resistance",
             "To switch lighting loads",
             "To provide added protection"
         ],
-        [
+        "answer": 2,
+        "hint": "Copper has low resistance, high conductivity, and excellent corrosion resistance, making it ideal for electrical wiring."
+    },
+    {
+        "question": "What type of protection is provided by a TN-C-S earthing system?",
+        "choices": [
             "To split phase voltage",
             "To provide step-down voltage for control systems",
             "AC changes direction, DC is constant",
             "Combines protective and neutral conductors"
         ],
-        [
+        "answer": 4,
+        "hint": "TN-C-S systems combine protective and neutral conductors, simplifying installations while ensuring fault protection."
+    },
+    {
+        "question": "What is the effect of increasing conductor size on electrical resistance?",
+        "choices": [
             "To support and protect cables",
             "To detect imbalance between live and neutral",
             "To split phase voltage",
             "Reduces resistance"
         ],
-        [
+        "answer": 4,
+        "hint": "Increasing conductor size reduces electrical resistance, improving current flow and reducing energy loss."
+    },
+    {
+        "question": "What is the role of a fuse in an electrical circuit?",
+        "choices": [
             "To maintain synchronous speed",
             "To protect against overloads",
             "To protect against overloads",
             "Improves power efficiency"
         ],
-        [
+        "answer": 2,
+        "hint": "Fuses melt under excess current, breaking the circuit and preventing damage to wiring and appliances."
+    },
+    {
+        "question": "What is the difference between single-phase and three-phase electrical supply?",
+        "choices": [
             "To switch lighting loads",
             "Number of phases and voltage levels",
             "50 Hz",
             "Reduces resistance"
         ],
-        [
+        "answer": 2,
+        "hint": "Single-phase systems use one live wire and one neutral, while three-phase systems use three live wires for more balanced power distribution."
+    },
+    {
+        "question": "What is the function of an automatic transfer switch (ATS)?",
+        "choices": [
             "High conductivity and corrosion resistance",
             "To switch between power sources",
             "Reduces efficiency",
             "To switch lighting loads"
         ],
-        [
+        "answer": 2,
+        "hint": "Automatic transfer switches (ATS) automatically switch to a backup power source during a main supply failure."
+    },
+    {
+        "question": "What is the purpose of a power factor correction capacitor bank?",
+        "choices": [
             "To carry current between circuits",
             "To reduce reactive power",
             "Protects against ground faults",
             "To provide earth grounding"
         ],
-        [
+        "answer": 2,
+        "hint": "Power factor correction capacitors reduce reactive power, improving efficiency and reducing load on the power system."
+    },
+    {
+        "question": "What is the typical lifespan of an LED light compared to an incandescent bulb?",
+        "choices": [
             "Allows multiple outlets per circuit",
             "Efficient power distribution",
             "Protects against ground faults",
             "25,000 hours vs 1,000 hours"
         ],
-        [
+        "answer": 4,
+        "hint": "LED lights consume less power and last longer than incandescent bulbs, making them more energy-efficient and cost-effective."
+    },
+    {
+        "question": "What type of circuit is used for stairway lighting?",
+        "choices": [
             "To switch high current loads",
             "Induction motor",
             "Two-way switch",
             "To provide step-down voltage for control systems"
         ],
-        [
+        "answer": 3,
+        "hint": "Two-way switches allow control of a single light from two different locations, common in staircases and hallways."
+    },
+    {
+        "question": "What is the standard frequency of AC supply in Europe?",
+        "choices": [
             "To detect overloads",
             "To protect against lightning surges",
             "To provide added protection",
             "50 Hz"
         ],
-        [
+        "answer": 4,
+        "hint": "50 Hz is the standard AC supply frequency in Europe, providing compatibility with most electrical equipment."
+    },
+    {
+        "question": "What is the main function of a contactor in an electrical system?",
+        "choices": [
             "Provides backup protection",
             "To switch high current loads",
             "25,000 hours vs 1,000 hours",
             "To carry current between circuits"
         ],
-        [
+        "answer": 2,
+        "hint": "Contactors switch high current loads in industrial applications, allowing remote control of electrical circuits."
+    },
+    {
+        "question": "What is the purpose of double insulation in electrical equipment?",
+        "choices": [
             "230V",
             "To switch electrical circuits",
             "To provide added protection",
             "High conductivity and corrosion resistance"
         ],
-        [
+        "answer": 3,
+        "hint": "Double insulation provides an extra layer of protection against electric shock, reducing the risk of accidental contact."
+    },
+    {
+        "question": "What is the role of a disconnect switch in an electrical circuit?",
+        "choices": [
             "Silicone rubber",
             "Provides backup protection",
             "To isolate a circuit",
             "To monitor insulation resistance"
         ],
-        [
+        "answer": 3,
+        "hint": "Disconnect switches isolate circuits for maintenance and repairs, improving safety during electrical work."
+    },
+    {
+        "question": "What is the main advantage of using XLPE cables over PVC cables?",
+        "choices": [
             "To prevent motor overheating",
             "Induction motor",
             "Withstands higher temperatures",
             "To show electrical system layout"
         ],
-        [
+        "answer": 3,
+        "hint": "XLPE cables resist high temperatures and mechanical stress better than PVC cables, ensuring longer lifespan and reliability."
+    },
+    {
+        "question": "What is the function of a surge arrester in an electrical network?",
+        "choices": [
             "To prevent electric shock",
             "To detect incorrect phase sequence",
             "To protect against voltage spikes",
             "To split phase voltage"
         ],
-        [
+        "answer": 3,
+        "hint": "Surge arresters protect electrical systems from high voltage spikes, such as those caused by lightning or switching surges."
+    },
+    {
+        "question": "What is the purpose of earthing in an electrical installation?",
+        "choices": [
             "To carry high current",
             "To prevent electric shock",
             "To detect overloads",
             "50 Hz"
         ],
-        [
+        "answer": 2,
+        "hint": "Earthing ensures that exposed metal parts remain at ground potential, reducing the risk of electric shock."
+    },
+    {
+        "question": "What is the effect of voltage drop on electrical efficiency?",
+        "choices": [
             "Reduces efficiency",
             "To step up or step down voltage",
             "To detect overloads",
             "To protect against overloads"
         ],
-        [
+        "answer": 1,
+        "hint": "Voltage drop increases power loss and reduces equipment efficiency, especially over long distances."
+    },
+    {
+        "question": "What is the primary function of a step-up transformer?",
+        "choices": [
             "To step up or step down voltage",
             "To increase voltage",
             "Increases voltage drop",
             "To provide earth grounding"
         ],
-        [
+        "answer": 2,
+        "hint": "Step-up transformers increase voltage for transmission, reducing current and minimizing energy loss over long distances."
+    },
+    {
+        "question": "What is the purpose of a ring circuit in a domestic electrical installation?",
+        "choices": [
             "To carry high current",
             "To increase voltage",
             "Allows multiple outlets per circuit",
             "Allows multiple outlets per circuit"
         ],
-        [
+        "answer": 3,
+        "hint": "Ring circuits provide multiple outlets in a loop configuration, balancing the load and allowing smaller conductor sizes."
+    },
+    {
+        "question": "What is the role of a synchronous motor in an electrical system?",
+        "choices": [
             "Reduces resistance",
             "To interrupt fault currents",
             "To switch electrical circuits",
             "To maintain synchronous speed"
         ],
-        [
+        "answer": 4,
+        "hint": "Synchronous motors maintain a constant speed regardless of load changes, useful for precise timing applications."
+    },
+    {
+        "question": "What is the difference between AC and DC current?",
+        "choices": [
             "AC changes direction, DC is constant",
             "To protect against voltage spikes",
             "To provide a low-resistance path to ground",
             "AC changes direction, DC is constant"
         ],
-        [
+        "answer": 1,
+        "hint": "AC alternates direction periodically, while DC flows in one direction, making AC better for transmission and DC better for batteries."
+    },
+    {
+        "question": "What is the main function of a phase-sequence relay in a three-phase system?",
+        "choices": [
             "To generate constant frequency",
             "To prevent motor overheating",
             "To detect incorrect phase sequence",
             "Number of phases and voltage levels"
         ],
-        [
+        "answer": 3,
+        "hint": "Phase-sequence relays ensure that the order of phases in a three-phase system is correct, preventing motor damage."
+    },
+    {
+        "question": "What type of insulation is used for high-temperature cable applications?",
+        "choices": [
             "Silicone rubber",
             "To provide step-down voltage for control systems",
             "50 Hz",
             "To provide earth grounding"
         ],
-        [
+        "answer": 1,
+        "hint": "Silicone rubber insulation withstands high temperatures and harsh environments, ideal for heavy-duty applications."
+    },
+    {
+        "question": "What is the purpose of a single-line diagram in electrical systems?",
+        "choices": [
             "Induction motor",
             "AC changes direction, DC is constant",
             "To show electrical system layout",
             "Reduces efficiency"
         ],
-        [
+        "answer": 3,
+        "hint": "Single-line diagrams provide a simplified view of electrical systems, showing major components and connections."
+    },
+    {
+        "question": "What is the role of a feeder in an electrical distribution system?",
+        "choices": [
             "To carry current between circuits",
             "Lower energy consumption",
             "To carry high current",
             "To reduce distribution loss"
         ],
-        [
+        "answer": 3,
+        "hint": "Feeders supply electrical power from the main panel to sub-panels or large equipment."
+    },
+    {
+        "question": "What is the main function of a load break switch (LBS)?",
+        "choices": [
             "To protect against lightning surges",
             "To isolate electrical loads",
             "To isolate a circuit",
             "To split phase voltage"
         ],
-        [
+        "answer": 2,
+        "hint": "Load break switches safely interrupt current flow under load, used for isolation and maintenance."
+    },
+    {
+        "question": "What is the purpose of a residual voltage device (RVD)?",
+        "choices": [
             "High conductivity and corrosion resistance",
             "Two-way switch",
             "To detect voltage imbalance",
             "To carry high current"
         ],
-        [
+        "answer": 3,
+        "hint": "Residual voltage devices (RVD) monitor voltage levels and disconnect power during abnormal conditions."
+    },
+    {
+        "question": "What is the purpose of a synchronous generator?",
+        "choices": [
             "To generate constant frequency",
             "XLPE cable",
             "To detect imbalance between live and neutral",
             "Withstands higher temperatures"
         ],
-        [
+        "answer": 1,
+        "hint": "Synchronous generators produce constant-frequency AC power, used in large power plants and industrial systems."
+    },
+    {
+        "question": "What is the main advantage of using a busbar trunking system?",
+        "choices": [
             "Efficient power distribution",
             "To store electric charge",
             "To detect overloads",
             "AC changes direction, DC is constant"
         ],
-        [
+        "answer": 1,
+        "hint": "Busbar trunking systems simplify power distribution, reducing installation time and improving flexibility."
+    },
+    {
+        "question": "What is the role of a transformer in a substation?",
+        "choices": [
             "To reduce distribution loss",
             "To provide step-down voltage for control systems",
             "To reduce distribution loss",
             "50 Hz"
         ],
-        [
+        "answer": 1,
+        "hint": "Transformers in substations adjust voltage levels to match local distribution requirements."
+    },
+    {
+        "question": "What is the effect of increasing cable length on voltage drop?",
+        "choices": [
             "To carry current between circuits",
             "To interrupt fault currents",
             "Increases voltage drop",
             "To monitor insulation resistance"
         ],
-        [
+        "answer": 3,
+        "hint": "Longer cables increase resistance, causing higher voltage drop and reduced efficiency."
+    },
+    {
+        "question": "What is the purpose of a phase-splitting transformer?",
+        "choices": [
             "To split phase voltage",
             "To split phase voltage",
             "To store electric charge",
             "Reduces efficiency"
         ],
-        [
+        "answer": 1,
+        "hint": "Phase-splitting transformers convert three-phase supply into single-phase or split-phase for specific equipment needs."
+    },
+    {
+        "question": "What is the purpose of a ring main unit (RMU) in electrical systems?",
+        "choices": [
             "To detect and prevent arcing faults",
             "Provides backup protection",
             "XLPE cable",
             "AC changes direction, DC is constant"
         ],
-        [
+        "answer": 2,
+        "hint": "Ring main units (RMUs) provide a compact solution for connecting and switching between different power sources."
+    },
+    {
+        "question": "What is the role of a capacitor in an electrical system?",
+        "choices": [
             "To protect against overloads",
             "To detect imbalance between live and neutral",
             "To store electric charge",
             "50 Hz"
         ],
-        [
+        "answer": 3,
+        "hint": "Capacitors store electrical energy and release it when needed, improving power quality and reducing voltage fluctuations."
+    },
+    {
+        "question": "What is the effect of power factor correction on system efficiency?",
+        "choices": [
             "Improves power efficiency",
             "Lower energy consumption",
             "To generate constant frequency",
             "To detect imbalance between live and neutral"
         ],
-        [
+        "answer": 1,
+        "hint": "Power factor correction reduces reactive power, improving the efficiency of electrical systems."
+    },
+    {
+        "question": "What type of motor is most commonly used in HVAC systems?",
+        "choices": [
             "Improves power efficiency",
             "Induction motor",
             "50 Hz",
             "To isolate electrical loads"
         ],
-        [
+        "answer": 2,
+        "hint": "Induction motors are widely used in HVAC systems because they are reliable and maintenance-free."
+    },
+    {
+        "question": "What is the function of an insulation monitoring device (IMD)?",
+        "choices": [
             "Reduces efficiency",
             "Provides backup protection",
             "Combines protective and neutral conductors",
             "To monitor insulation resistance"
         ],
-        [
+        "answer": 4,
+        "hint": "Insulation monitoring devices (IMD) detect insulation failures and help prevent ground faults."
+    },
+    {
+        "question": "What is the role of a current transformer (CT) in a power system?",
+        "choices": [
             "To measure current",
             "Improves power efficiency",
             "To switch between power sources",
             "To measure current"
         ],
-        [
+        "answer": 1,
+        "hint": "Current transformers (CT) reduce high current levels to measurable levels for monitoring and protection."
+    },
+    {
+        "question": "What is the purpose of a relay in an electrical circuit?",
+        "choices": [
             "To switch high current loads",
             "To show electrical system layout",
             "To switch electrical circuits",
             "Induction motor"
         ],
-        [
+        "answer": 3,
+        "hint": "Relays control electrical circuits based on specific conditions, such as current, voltage, or temperature."
+    },
+    {
+        "question": "What is the main function of an overcurrent relay?",
+        "choices": [
             "Induction motor",
             "Increases voltage drop",
             "To detect overloads",
             "To reduce reactive power"
         ],
-        [
+        "answer": 3,
+        "hint": "Overcurrent relays detect excess current and trip the circuit to prevent damage and fire hazards."
+    },
+    {
+        "question": "What is the purpose of a grounding rod in an earthing system?",
+        "choices": [
             "To switch lighting loads",
             "Induction motor",
             "Reduces resistance",
             "To provide earth grounding"
         ],
-        [
+        "answer": 4,
+        "hint": "Grounding rods provide a direct path to ground, ensuring safety and preventing electric shock."
+    },
+    {
+        "question": "What is the role of an impulse relay in lighting systems?",
+        "choices": [
             "50 Hz",
             "Silicone rubber",
             "To switch lighting loads",
             "Reduces resistance"
         ],
-        [
+        "answer": 3,
+        "hint": "Impulse relays control lighting circuits, allowing multiple switches to operate the same light."
+    },
+    {
+        "question": "What is the primary advantage of using LED lights over traditional bulbs?",
+        "choices": [
             "To step up or step down voltage",
             "Lower energy consumption",
             "To measure current",
             "To switch high current loads"
         ],
-        [
+        "answer": 2,
+        "hint": "LED lights consume less energy and have a longer lifespan compared to traditional bulbs, reducing costs."
+    },
+    {
+        "question": "What type of protection is provided by a ground-fault circuit interrupter (GFCI)?",
+        "choices": [
             "Protects against ground faults",
             "Improves power efficiency",
             "To protect against lightning surges",
             "To detect overloads"
         ],
-        [
+        "answer": 1,
+        "hint": "GFCIs protect against ground faults by cutting off power when leakage current is detected."
+    },
+    {
+        "question": "What is the main advantage of using stranded conductors over solid conductors?",
+        "choices": [
             "Flexible and easier to install",
             "To detect overloads",
             "To generate constant frequency",
             "Lower energy consumption"
         ],
-        [
+        "answer": 1,
+        "hint": "Stranded conductors are more flexible and resistant to breakage than solid conductors, making them suitable for flexible cables."
+    },
+    {
+        "question": "What is the role of an arc fault detection device (AFDD) in electrical systems?",
+        "choices": [
             "Induction motor",
             "To detect overloads",
             "To step up or step down voltage",
             "To detect and prevent arcing faults"
         ],
-        [
+        "answer": 4,
+        "hint": "Arc fault detection devices (AFDD) detect dangerous electrical arcs and disconnect power to prevent fires."
+    },
+    {
+        "question": "What is the function of a thermal overload relay in a motor control system?",
+        "choices": [
             "To support and protect cables",
             "To prevent motor overheating",
             "To switch between power sources",
             "XLPE cable"
         ],
-        [
+        "answer": 2,
+        "hint": "Thermal overload relays monitor motor temperature and disconnect power if overheating occurs."
+    },
+    {
+        "question": "What is the purpose of a control transformer in an industrial panel?",
+        "choices": [
             "Reduces resistance",
             "To isolate a circuit",
             "To monitor insulation resistance",
             "To provide step-down voltage for control systems"
         ],
-        [
+        "answer": 4,
+        "hint": "Control transformers provide reduced voltage for control circuits, ensuring safe operation of contactors and relays."
+    },
+    {
+        "question": "What is the purpose of a cable tray in electrical installations?",
+        "choices": [
             "To support and protect cables",
             "50 Hz",
             "To step up or step down voltage",
             "To increase voltage"
         ],
-        [
+        "answer": 1,
+        "hint": "Cable trays support and organize cables, reducing mechanical stress and simplifying maintenance."
+    },
+    {
+        "question": "What is the main advantage of using armored cable in an installation?",
+        "choices": [
             "To provide earth grounding",
             "To show electrical system layout",
             "To measure current",
             "To protect against mechanical damage"
-        ]
-    ],
-    "hints": [
-        "Earthing systems provide a safe path for fault currents to flow into the ground, reducing the risk of electric shock and protecting equipment from damage.",
-        "Circuit breakers detect overloads and short circuits, interrupting the circuit to prevent overheating and fire hazards.",
-        "XLPE (Cross-linked Polyethylene) cables are preferred for underground use because of their excellent resistance to moisture and high temperature tolerance.",
-        "Busbars distribute electrical power efficiently and reduce the need for excess wiring, providing a compact and organized power distribution system.",
-        "The typical single-phase domestic supply in Europe is 230V, ensuring compatibility with most household appliances.",
-        "Transformers adjust voltage levels, stepping up for efficient transmission and stepping down for safe use by appliances.",
-        "Residual current devices (RCDs) detect imbalance between live and neutral currents, cutting off power to prevent electric shock.",
-        "Lightning arresters divert high voltage surges from lightning strikes to the ground, protecting sensitive equipment from damage.",
-        "Copper has low resistance, high conductivity, and excellent corrosion resistance, making it ideal for electrical wiring.",
-        "TN-C-S systems combine protective and neutral conductors, simplifying installations while ensuring fault protection.",
-        "Increasing conductor size reduces electrical resistance, improving current flow and reducing energy loss.",
-        "Fuses melt under excess current, breaking the circuit and preventing damage to wiring and appliances.",
-        "Single-phase systems use one live wire and one neutral, while three-phase systems use three live wires for more balanced power distribution.",
-        "Automatic transfer switches (ATS) automatically switch to a backup power source during a main supply failure.",
-        "Power factor correction capacitors reduce reactive power, improving efficiency and reducing load on the power system.",
-        "LED lights consume less power and last longer than incandescent bulbs, making them more energy-efficient and cost-effective.",
-        "Two-way switches allow control of a single light from two different locations, common in staircases and hallways.",
-        "50 Hz is the standard AC supply frequency in Europe, providing compatibility with most electrical equipment.",
-        "Contactors switch high current loads in industrial applications, allowing remote control of electrical circuits.",
-        "Double insulation provides an extra layer of protection against electric shock, reducing the risk of accidental contact.",
-        "Disconnect switches isolate circuits for maintenance and repairs, improving safety during electrical work.",
-        "XLPE cables resist high temperatures and mechanical stress better than PVC cables, ensuring longer lifespan and reliability.",
-        "Surge arresters protect electrical systems from high voltage spikes, such as those caused by lightning or switching surges.",
-        "Earthing ensures that exposed metal parts remain at ground potential, reducing the risk of electric shock.",
-        "Voltage drop increases power loss and reduces equipment efficiency, especially over long distances.",
-        "Step-up transformers increase voltage for transmission, reducing current and minimizing energy loss over long distances.",
-        "Ring circuits provide multiple outlets in a loop configuration, balancing the load and allowing smaller conductor sizes.",
-        "Synchronous motors maintain a constant speed regardless of load changes, useful for precise timing applications.",
-        "AC alternates direction periodically, while DC flows in one direction, making AC better for transmission and DC better for batteries.",
-        "Phase-sequence relays ensure that the order of phases in a three-phase system is correct, preventing motor damage.",
-        "Silicone rubber insulation withstands high temperatures and harsh environments, ideal for heavy-duty applications.",
-        "Single-line diagrams provide a simplified view of electrical systems, showing major components and connections.",
-        "Feeders supply electrical power from the main panel to sub-panels or large equipment.",
-        "Load break switches safely interrupt current flow under load, used for isolation and maintenance.",
-        "Residual voltage devices (RVD) monitor voltage levels and disconnect power during abnormal conditions.",
-        "Synchronous generators produce constant-frequency AC power, used in large power plants and industrial systems.",
-        "Busbar trunking systems simplify power distribution, reducing installation time and improving flexibility.",
-        "Transformers in substations adjust voltage levels to match local distribution requirements.",
-        "Longer cables increase resistance, causing higher voltage drop and reduced efficiency.",
-        "Phase-splitting transformers convert three-phase supply into single-phase or split-phase for specific equipment needs.",
-        "Ring main units (RMUs) provide a compact solution for connecting and switching between different power sources.",
-        "Capacitors store electrical energy and release it when needed, improving power quality and reducing voltage fluctuations.",
-        "Power factor correction reduces reactive power, improving the efficiency of electrical systems.",
-        "Induction motors are widely used in HVAC systems because they are reliable and maintenance-free.",
-        "Insulation monitoring devices (IMD) detect insulation failures and help prevent ground faults.",
-        "Current transformers (CT) reduce high current levels to measurable levels for monitoring and protection.",
-        "Relays control electrical circuits based on specific conditions, such as current, voltage, or temperature.",
-        "Overcurrent relays detect excess current and trip the circuit to prevent damage and fire hazards.",
-        "Grounding rods provide a direct path to ground, ensuring safety and preventing electric shock.",
-        "Impulse relays control lighting circuits, allowing multiple switches to operate the same light.",
-        "LED lights consume less energy and have a longer lifespan compared to traditional bulbs, reducing costs.",
-        "GFCIs protect against ground faults by cutting off power when leakage current is detected.",
-        "Stranded conductors are more flexible and resistant to breakage than solid conductors, making them suitable for flexible cables.",
-        "Arc fault detection devices (AFDD) detect dangerous electrical arcs and disconnect power to prevent fires.",
-        "Thermal overload relays monitor motor temperature and disconnect power if overheating occurs.",
-        "Control transformers provide reduced voltage for control circuits, ensuring safe operation of contactors and relays.",
-        "Cable trays support and organize cables, reducing mechanical stress and simplifying maintenance.",
-        "Armored cables provide mechanical protection, making them ideal for harsh environments."
-    ]
-}
+        ],
+        "answer": 4,
+        "hint": "Armored cables provide mechanical protection, making them ideal for harsh environments."
+    }
+]
