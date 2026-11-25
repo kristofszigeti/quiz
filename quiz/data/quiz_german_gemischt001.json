@@ -8990,7 +8990,7 @@
     "question": "érvényes (valid)",
     "choices": [
       "deutlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "gültig",
       "pauschal"
     ],
@@ -9011,10 +9011,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ver|meiden (+ A)",
-      "be|anspruchen (+ A)",
-      "nieder|schlagen (+ A)",
-      "fördern (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -9055,12 +9055,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "ab|sagen (+ A)",
-      "bewahren (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -9152,12 +9152,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "igényel / igénybe vesz (to claim / demand)",
-      "átfogalmaz (to rephrase)",
-      "dicsér (to praise)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -9165,7 +9165,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "an|legen",
       "loben (+ A)",
       "er|fahren (+ A / + von + D)"
@@ -9255,7 +9255,7 @@
     "choices": [
       "er|fahren (+ A / + von + D)",
       "ergeben (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "nieder|schlagen (+ A)"
     ],
     "answer": 1,
@@ -9364,7 +9364,7 @@
     "question": "megengedett / tilos (allowed / forbidden)",
     "choices": [
       "gestrig",
-      "vor|über|gehend",
+      "vorübergehend",
       "erlaubt / verboten",
       "fließend"
     ],
@@ -9658,7 +9658,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "köznyelvi (colloquial)",
       "folyékony (fluent)",
@@ -9674,7 +9674,7 @@
       "fließend",
       "erlaubt / verboten",
       "abgelaufen",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -9715,7 +9715,7 @@
   {
     "question": "folyékony (fluent)",
     "choices": [
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "fließend",
       "abgelaufen"
@@ -9782,7 +9782,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "fleißig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ein|deutig",
       "deutlich"
     ],
@@ -9828,7 +9828,7 @@
       "be|anspruchen (+ A)",
       "niederschlagen",
       "an|halten",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Das Auto musste vor der Ampel anhalten. (A2 - Verb)"
@@ -9979,12 +9979,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "s Lernen (Sg.)",
       "e Erhaltung (Sg.)",
-      "e Durchgangsphase, -n",
-      "e Ausdauer (Sg.)"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -10145,9 +10145,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "sors (fate)",
-      "túlzott függőség (overreliance)",
-      "hosszúság (length)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -10331,12 +10331,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "heraus|finden (+ A)",
-      "nieder|schlagen (+ A)",
-      "überein|stimmen (+ mit + D)",
-      "sich bemühen + um +"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -10532,7 +10532,7 @@
       "stören (+ A) / unter|brechen (+ A)",
       "er|fahren (+ A / + von + D)",
       "umformulieren (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 1,
     "hint": "Der Lärm könnte die Konzentration stören. (B2 - Verb)"
@@ -13950,10 +13950,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -16084,10 +16084,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -17481,10 +17481,10 @@
   {
     "question": "minden (everything)",
     "choices": [
-      "aus|sagen (+ A)",
-      "e Aufgabe, -n",
+      "etwas",
+      "nichts",
       "alles",
-      "andere"
+      "das Meiste"
     ],
     "answer": 3,
     "hint": "Alles ist in Ordnung. (A1 - Pronomen)"
@@ -20572,12 +20572,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "eredményez (to result in)",
       "szorgalom (diligence)",
-      "kitartás (endurance)",
-      "vizsgálat (investigation)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Fleiß wird oft belohnt. Synonyme: e Emsigkeit, e Arbeitssamkeit. (B2 - Nomen)"
   },
   {
@@ -21519,9 +21519,9 @@
     "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "beléptetni valakit (kártyával) (to badge somebody in)",
-      "interakcióba lép vkivel (to interact with)",
-      "feltesz (kérdést) / pózol (to pose)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Vermeiden Sie bitte unnötige Risiken. Synonyme: umgehen, meiden. (B2 - Verb)"
@@ -21881,10 +21881,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -22016,7 +22016,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -22088,20 +22088,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -22629,12 +22629,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -22726,7 +22726,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -22740,7 +22740,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -22807,7 +22807,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -23025,12 +23025,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -23146,12 +23146,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -23311,10 +23311,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -23334,7 +23334,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -23621,7 +23621,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -24499,10 +24499,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -24634,7 +24634,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -24706,20 +24706,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -25247,12 +25247,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -25344,7 +25344,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -25358,7 +25358,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -25425,7 +25425,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -25643,12 +25643,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -25764,12 +25764,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -25929,10 +25929,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -25952,7 +25952,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -26239,7 +26239,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -27098,7 +27098,7 @@
       "umgangssprachlich",
       "finanziell",
       "gültig",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 3,
     "hint": "Das Ticket ist nur heute gültig. (B1 - Adjektiv)"
@@ -27117,12 +27117,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) kämmen",
-      "er|schlagen (+ A)",
-      "be|anspruchen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 3,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -27228,7 +27228,7 @@
     "question": "kiderít / rájön (to find out)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) rasieren"
     ],
@@ -27324,20 +27324,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "megéri (to be worth it)",
       "elkerül (to avoid)",
-      "kiköt (hajó) (to berth / dock)",
-      "törekszik / fáradozik (to strive for)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "be|anspruchen (+ A)",
       "(sich) fühlen"
@@ -27537,7 +27537,7 @@
     "choices": [
       "erlaubt / verboten",
       "finanziell",
-      "vor|über|gehend",
+      "vorübergehend",
       "umgangssprachlich"
     ],
     "answer": 1,
@@ -27668,7 +27668,7 @@
     "question": "megegyezik valamiben (to agree on)",
     "choices": [
       "be|anspruchen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "(sich) lohnen"
     ],
@@ -27755,7 +27755,7 @@
   {
     "question": "fésülködik (to comb)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) kämmen",
       "umformulieren",
       "(sich) rasieren"
@@ -27962,7 +27962,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "pénzügyi (financial)",
       "egyértelmű (clear)",
@@ -27978,7 +27978,7 @@
       "finanziell",
       "erlaubt / verboten",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -28218,7 +28218,7 @@
     "question": "megőriz (to preserve)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "bewahren",
       "überein|stimmen (+ mit + D)"
     ],
@@ -28283,7 +28283,7 @@
   {
     "question": "megkap / kap (to receive)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "erhalten",
       "fördern (+ A)",
       "er|schlagen (+ A)"
@@ -28305,10 +28305,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s schwimmende Hotel, -s",
-      "e Verarmung (Sg.)",
-      "r Fleiß"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -28470,12 +28470,12 @@
   {
     "question": "r Fleiß",
     "choices": [
-      "fedél / tető (lid)",
       "szorgalom (diligence)",
-      "célkitűzés (objective)",
-      "szakácsnő (cook)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -28723,12 +28723,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ab|sagen (+ A)",
-      "erhalten (+ A)",
-      "loben (+ A)",
-      "be|anspruchen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 4,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -28930,20 +28930,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "borotválkozik (to shave)",
-      "igényel / igénybe vesz (to claim / demand)",
       "elkerül (to avoid)",
-      "kiderít / rájön (to find out)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) be|mühen (+ um + A)",
       "(sich) rasieren"
@@ -29384,7 +29384,7 @@
     "question": "levetkőzik (to undress)",
     "choices": [
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen",
       "bewahren (+ A)"
     ],
@@ -29449,12 +29449,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "fördern (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -29546,7 +29546,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "érvényes (valid)",
       "átmeneti (temporary)",
@@ -29561,7 +29561,7 @@
     "choices": [
       "abgelaufen",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend"
     ],
     "answer": 3,
@@ -29671,7 +29671,7 @@
     "choices": [
       "deutlich",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -29803,7 +29803,7 @@
     "choices": [
       "gestrig",
       "gültig",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -29848,7 +29848,7 @@
       "umformulieren (+ A)",
       "überein|stimmen (+ mit + D)",
       "erhalten (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Ich habe gestern ein wichtiges Paket erhalten. (B1 - Verb)"
@@ -29867,12 +29867,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "r Schicksal",
-      "s Regierungsbüro, -s",
       "e Erhaltung (Sg.)",
-      "e Ähnlichkeit, -en"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -30032,12 +30032,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "fedél / tető (lid)",
-      "örökkévalóság (eternity)",
       "szorgalom (diligence)",
-      "úszó szálloda (floating hotel)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -30089,7 +30089,7 @@
     "choices": [
       "fließend",
       "umgangssprachlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig"
     ],
     "answer": 4,
@@ -30219,12 +30219,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "überein|stimmen (+ mit + D)",
-      "(sich) lohnen",
-      "sich bemühen + um +",
-      "(sich) rasieren"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -30571,10 +30571,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) be|mühen (+ um + A)",
-      "be|anspruchen (+ A)",
-      "fördern (+ A)",
-      "er|fahren (+ A / + von + D)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -30712,12 +30712,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "dicsér (to praise)",
-      "támogat / fejleszt (to promote)",
-      "megáll / megállít (to stop)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -30725,7 +30725,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "fördern (+ A)",
       "loben",
       "er|fahren (+ A / + von + D)"
@@ -30814,7 +30814,7 @@
     "question": "megtud / tapasztal (to find out / experience)",
     "choices": [
       "ab|sagen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "er|fahren (+ A / + von + D)",
       "an|halten"
     ],
@@ -31218,7 +31218,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "átmeneti (temporary)",
       "érvényes (valid)",
@@ -31234,7 +31234,7 @@
       "gestrig",
       "deutlich",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -31342,7 +31342,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "erlaubt / verboten",
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "abgelaufen"
     ],
@@ -31497,7 +31497,7 @@
     "choices": [
       "abgelaufen",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "gestrig"
     ],
     "answer": 4,
@@ -31561,10 +31561,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s Lernen (Sg.)",
-      "e Köchin",
-      "e Ewigkeit, -en"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -31696,7 +31696,7 @@
       "überein|stimmen (+ mit + D)",
       "er|schlagen (+ A)",
       "loben",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Die Eltern loben das Kind für die gute Note. (B1 - Verb)"
@@ -31749,9 +31749,9 @@
     "question": "r Fleiß",
     "choices": [
       "szorgalom (diligence)",
-      "szorgalom (diligence)",
-      "útlevél (passport)",
-      "menekülés (escape)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -34597,12 +34597,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Strategie, -n",
-      "r Abschnitt, -e",
       "e Erhaltung (Sg.)",
-      "e Köchin, -nen"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege) (C1 - Nomen)"
   },
   {
@@ -34763,9 +34763,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "struktúra / szerkezet (structure)",
-      "tengerpart (coast)",
-      "őrizetbe vétel (detention)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -34949,12 +34949,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "be|schreiben (+ A)",
-      "(sich) be|mühen (+ um + A)",
-      "weiter|entwickeln (+ A)",
-      "ab|sagen (+ A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -36489,12 +36489,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Durchgangsphase, -n",
-      "s Schicksal, -e",
-      "s Anlagenmanagement, -s",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
   },
   {
@@ -36654,12 +36654,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "digitális iker (digital twin)",
       "szorgalom (diligence)",
-      "eszközkezelés (asset management)",
-      "szorgalom (diligence)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (Synonyme: e Emsigkeit, e Zielstrebigkeit) (B2 - Nomen)"
   },
   {
@@ -39812,7 +39812,7 @@
     "question": "leesni, zuhanni (fall / crash)",
     "choices": [
       "treffen (+ A) (sich mit + D)",
-      "überreden (zu + D)",
+      "überreden (+ A) (zu + D)",
       "stürzen",
       "umarmen (+ A)"
     ],
@@ -40920,15 +40920,15 @@
     "hint": "Ich war sehr überrascht über das Geschenk. (Synonyme: erstaunt, verblüfft) (B1 - Adjektiv)"
   },
   {
-    "question": "überreden (zu + D)",
+    "question": "überreden (+ A) (zu + D)",
     "choices": [
-      "felborulni, elesik (fall over)",
-      "rábeszélni vmire (persuade to)",
-      "megölelni (hug)",
-      "részt venni vmin (participate in)"
+      "lebeszél vkit vmiröl (dissuade someone from doing something)",
+      "rábeszél vkit vmire (persuade someone to do something)",
+      "megtilt vmit vkinek (forbid something to someone)",
+      "megkér vkit vmire (ask someone to do something)"
     ],
     "answer": 2,
-    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
+    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme/Verwandte Wörter: bequatschen, beschwatzen, zu etwas bewegen) (B2 - Verb)"
   },
   {
     "question": "rábeszélni vmire (persuade to)",
@@ -40936,7 +40936,7 @@
       "um|fallen",
       "trösten (+ A)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 4,
     "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
@@ -40958,7 +40958,7 @@
       "umgeben (+ A)",
       "übersetzen (+ A)",
       "trainieren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 2,
     "hint": "Können Sie diesen Text ins Deutsche übersetzen? (Synonyme: übertragen, dolmetschen) (B1 - Verb)"
@@ -41354,7 +41354,7 @@
       "übernachten",
       "teilen (+ A) (mit + D)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Der Verkehr wurde wegen der Baustelle umgeleitet. (Synonyme: ablenken, umschiffen) (B2 - Verb)"
@@ -41376,7 +41376,7 @@
       "tauen",
       "studieren (+ A)",
       "um|rühren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Rühren Sie die Suppe vorsichtig um. (Synonyme: mischen, mengen) (B1 - Verb)"
@@ -55784,7 +55784,7 @@
     "question": "érvényes (valid)",
     "choices": [
       "deutlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "gültig",
       "pauschal"
     ],
@@ -55805,10 +55805,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ver|meiden (+ A)",
-      "be|anspruchen (+ A)",
-      "nieder|schlagen (+ A)",
-      "fördern (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -55849,12 +55849,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "ab|sagen (+ A)",
-      "bewahren (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -55946,12 +55946,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "igényel / igénybe vesz (to claim / demand)",
-      "átfogalmaz (to rephrase)",
-      "dicsér (to praise)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -55959,7 +55959,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "an|legen",
       "loben (+ A)",
       "er|fahren (+ A / + von + D)"
@@ -56049,7 +56049,7 @@
     "choices": [
       "er|fahren (+ A / + von + D)",
       "ergeben (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "nieder|schlagen (+ A)"
     ],
     "answer": 1,
@@ -56158,7 +56158,7 @@
     "question": "megengedett / tilos (allowed / forbidden)",
     "choices": [
       "gestrig",
-      "vor|über|gehend",
+      "vorübergehend",
       "erlaubt / verboten",
       "fließend"
     ],
@@ -56452,7 +56452,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "köznyelvi (colloquial)",
       "folyékony (fluent)",
@@ -56468,7 +56468,7 @@
       "fließend",
       "erlaubt / verboten",
       "abgelaufen",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -56509,7 +56509,7 @@
   {
     "question": "folyékony (fluent)",
     "choices": [
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "fließend",
       "abgelaufen"
@@ -56576,7 +56576,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "fleißig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ein|deutig",
       "deutlich"
     ],
@@ -56622,7 +56622,7 @@
       "be|anspruchen (+ A)",
       "niederschlagen",
       "an|halten",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Das Auto musste vor der Ampel anhalten. (A2 - Verb)"
@@ -56773,12 +56773,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "s Lernen (Sg.)",
       "e Erhaltung (Sg.)",
-      "e Durchgangsphase, -n",
-      "e Ausdauer (Sg.)"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -56939,9 +56939,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "sors (fate)",
-      "túlzott függőség (overreliance)",
-      "hosszúság (length)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -57125,12 +57125,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "heraus|finden (+ A)",
-      "nieder|schlagen (+ A)",
-      "überein|stimmen (+ mit + D)",
-      "sich bemühen + um +"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -57326,7 +57326,7 @@
       "stören (+ A) / unter|brechen (+ A)",
       "er|fahren (+ A / + von + D)",
       "umformulieren (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 1,
     "hint": "Der Lärm könnte die Konzentration stören. (B2 - Verb)"
@@ -60744,10 +60744,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -62878,10 +62878,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -64275,10 +64275,10 @@
   {
     "question": "minden (everything)",
     "choices": [
-      "aus|sagen (+ A)",
-      "e Aufgabe, -n",
+      "etwas",
+      "nichts",
       "alles",
-      "andere"
+      "das Meiste"
     ],
     "answer": 3,
     "hint": "Alles ist in Ordnung. (A1 - Pronomen)"
@@ -67366,12 +67366,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "eredményez (to result in)",
       "szorgalom (diligence)",
-      "kitartás (endurance)",
-      "vizsgálat (investigation)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Fleiß wird oft belohnt. Synonyme: e Emsigkeit, e Arbeitssamkeit. (B2 - Nomen)"
   },
   {
@@ -68313,9 +68313,9 @@
     "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "beléptetni valakit (kártyával) (to badge somebody in)",
-      "interakcióba lép vkivel (to interact with)",
-      "feltesz (kérdést) / pózol (to pose)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Vermeiden Sie bitte unnötige Risiken. Synonyme: umgehen, meiden. (B2 - Verb)"
@@ -68675,10 +68675,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -68810,7 +68810,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -68882,20 +68882,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -69423,12 +69423,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -69520,7 +69520,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -69534,7 +69534,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -69601,7 +69601,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -69819,12 +69819,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -69940,12 +69940,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -70105,10 +70105,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -70128,7 +70128,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -70415,7 +70415,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -71293,10 +71293,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -71428,7 +71428,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -71500,20 +71500,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -72041,12 +72041,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -72138,7 +72138,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -72152,7 +72152,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -72219,7 +72219,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -72437,12 +72437,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -72558,12 +72558,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -72723,10 +72723,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -72746,7 +72746,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -73033,7 +73033,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -73892,7 +73892,7 @@
       "umgangssprachlich",
       "finanziell",
       "gültig",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 3,
     "hint": "Das Ticket ist nur heute gültig. (B1 - Adjektiv)"
@@ -73911,12 +73911,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) kämmen",
-      "er|schlagen (+ A)",
-      "be|anspruchen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 3,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -74022,7 +74022,7 @@
     "question": "kiderít / rájön (to find out)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) rasieren"
     ],
@@ -74118,20 +74118,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "megéri (to be worth it)",
       "elkerül (to avoid)",
-      "kiköt (hajó) (to berth / dock)",
-      "törekszik / fáradozik (to strive for)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "be|anspruchen (+ A)",
       "(sich) fühlen"
@@ -74331,7 +74331,7 @@
     "choices": [
       "erlaubt / verboten",
       "finanziell",
-      "vor|über|gehend",
+      "vorübergehend",
       "umgangssprachlich"
     ],
     "answer": 1,
@@ -74462,7 +74462,7 @@
     "question": "megegyezik valamiben (to agree on)",
     "choices": [
       "be|anspruchen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "(sich) lohnen"
     ],
@@ -74549,7 +74549,7 @@
   {
     "question": "fésülködik (to comb)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) kämmen",
       "umformulieren",
       "(sich) rasieren"
@@ -74756,7 +74756,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "pénzügyi (financial)",
       "egyértelmű (clear)",
@@ -74772,7 +74772,7 @@
       "finanziell",
       "erlaubt / verboten",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -75012,7 +75012,7 @@
     "question": "megőriz (to preserve)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "bewahren",
       "überein|stimmen (+ mit + D)"
     ],
@@ -75077,7 +75077,7 @@
   {
     "question": "megkap / kap (to receive)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "erhalten",
       "fördern (+ A)",
       "er|schlagen (+ A)"
@@ -75099,10 +75099,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s schwimmende Hotel, -s",
-      "e Verarmung (Sg.)",
-      "r Fleiß"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -75264,12 +75264,12 @@
   {
     "question": "r Fleiß",
     "choices": [
-      "fedél / tető (lid)",
       "szorgalom (diligence)",
-      "célkitűzés (objective)",
-      "szakácsnő (cook)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -75517,12 +75517,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ab|sagen (+ A)",
-      "erhalten (+ A)",
-      "loben (+ A)",
-      "be|anspruchen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 4,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -75724,20 +75724,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "borotválkozik (to shave)",
-      "igényel / igénybe vesz (to claim / demand)",
       "elkerül (to avoid)",
-      "kiderít / rájön (to find out)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) be|mühen (+ um + A)",
       "(sich) rasieren"
@@ -76178,7 +76178,7 @@
     "question": "levetkőzik (to undress)",
     "choices": [
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen",
       "bewahren (+ A)"
     ],
@@ -76243,12 +76243,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "fördern (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -76340,7 +76340,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "érvényes (valid)",
       "átmeneti (temporary)",
@@ -76355,7 +76355,7 @@
     "choices": [
       "abgelaufen",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend"
     ],
     "answer": 3,
@@ -76465,7 +76465,7 @@
     "choices": [
       "deutlich",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -76597,7 +76597,7 @@
     "choices": [
       "gestrig",
       "gültig",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -76642,7 +76642,7 @@
       "umformulieren (+ A)",
       "überein|stimmen (+ mit + D)",
       "erhalten (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Ich habe gestern ein wichtiges Paket erhalten. (B1 - Verb)"
@@ -76661,12 +76661,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "r Schicksal",
-      "s Regierungsbüro, -s",
       "e Erhaltung (Sg.)",
-      "e Ähnlichkeit, -en"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -76826,12 +76826,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "fedél / tető (lid)",
-      "örökkévalóság (eternity)",
       "szorgalom (diligence)",
-      "úszó szálloda (floating hotel)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -76883,7 +76883,7 @@
     "choices": [
       "fließend",
       "umgangssprachlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig"
     ],
     "answer": 4,
@@ -77013,12 +77013,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "überein|stimmen (+ mit + D)",
-      "(sich) lohnen",
-      "sich bemühen + um +",
-      "(sich) rasieren"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -77365,10 +77365,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) be|mühen (+ um + A)",
-      "be|anspruchen (+ A)",
-      "fördern (+ A)",
-      "er|fahren (+ A / + von + D)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -77506,12 +77506,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "dicsér (to praise)",
-      "támogat / fejleszt (to promote)",
-      "megáll / megállít (to stop)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -77519,7 +77519,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "fördern (+ A)",
       "loben",
       "er|fahren (+ A / + von + D)"
@@ -77608,7 +77608,7 @@
     "question": "megtud / tapasztal (to find out / experience)",
     "choices": [
       "ab|sagen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "er|fahren (+ A / + von + D)",
       "an|halten"
     ],
@@ -78012,7 +78012,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "átmeneti (temporary)",
       "érvényes (valid)",
@@ -78028,7 +78028,7 @@
       "gestrig",
       "deutlich",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -78136,7 +78136,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "erlaubt / verboten",
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "abgelaufen"
     ],
@@ -78291,7 +78291,7 @@
     "choices": [
       "abgelaufen",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "gestrig"
     ],
     "answer": 4,
@@ -78355,10 +78355,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s Lernen (Sg.)",
-      "e Köchin",
-      "e Ewigkeit, -en"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -78490,7 +78490,7 @@
       "überein|stimmen (+ mit + D)",
       "er|schlagen (+ A)",
       "loben",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Die Eltern loben das Kind für die gute Note. (B1 - Verb)"
@@ -78543,9 +78543,9 @@
     "question": "r Fleiß",
     "choices": [
       "szorgalom (diligence)",
-      "szorgalom (diligence)",
-      "útlevél (passport)",
-      "menekülés (escape)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -81391,12 +81391,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Strategie, -n",
-      "r Abschnitt, -e",
       "e Erhaltung (Sg.)",
-      "e Köchin, -nen"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege) (C1 - Nomen)"
   },
   {
@@ -81557,9 +81557,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "struktúra / szerkezet (structure)",
-      "tengerpart (coast)",
-      "őrizetbe vétel (detention)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -81743,12 +81743,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "be|schreiben (+ A)",
-      "(sich) be|mühen (+ um + A)",
-      "weiter|entwickeln (+ A)",
-      "ab|sagen (+ A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -83283,12 +83283,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Durchgangsphase, -n",
-      "s Schicksal, -e",
-      "s Anlagenmanagement, -s",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
   },
   {
@@ -83448,12 +83448,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "digitális iker (digital twin)",
       "szorgalom (diligence)",
-      "eszközkezelés (asset management)",
-      "szorgalom (diligence)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (Synonyme: e Emsigkeit, e Zielstrebigkeit) (B2 - Nomen)"
   },
   {
@@ -86606,7 +86606,7 @@
     "question": "leesni, zuhanni (fall / crash)",
     "choices": [
       "treffen (+ A) (sich mit + D)",
-      "überreden (zu + D)",
+      "überreden (+ A) (zu + D)",
       "stürzen",
       "umarmen (+ A)"
     ],
@@ -87714,15 +87714,15 @@
     "hint": "Ich war sehr überrascht über das Geschenk. (Synonyme: erstaunt, verblüfft) (B1 - Adjektiv)"
   },
   {
-    "question": "überreden (zu + D)",
+    "question": "überreden (+ A) (zu + D)",
     "choices": [
-      "felborulni, elesik (fall over)",
-      "rábeszélni vmire (persuade to)",
-      "megölelni (hug)",
-      "részt venni vmin (participate in)"
+      "lebeszél vkit vmiröl (dissuade someone from doing something)",
+      "rábeszél vkit vmire (persuade someone to do something)",
+      "megtilt vmit vkinek (forbid something to someone)",
+      "megkér vkit vmire (ask someone to do something)"
     ],
     "answer": 2,
-    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
+    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme/Verwandte Wörter: bequatschen, beschwatzen, zu etwas bewegen) (B2 - Verb)"
   },
   {
     "question": "rábeszélni vmire (persuade to)",
@@ -87730,7 +87730,7 @@
       "um|fallen",
       "trösten (+ A)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 4,
     "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
@@ -87752,7 +87752,7 @@
       "umgeben (+ A)",
       "übersetzen (+ A)",
       "trainieren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 2,
     "hint": "Können Sie diesen Text ins Deutsche übersetzen? (Synonyme: übertragen, dolmetschen) (B1 - Verb)"
@@ -88148,7 +88148,7 @@
       "übernachten",
       "teilen (+ A) (mit + D)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Der Verkehr wurde wegen der Baustelle umgeleitet. (Synonyme: ablenken, umschiffen) (B2 - Verb)"
@@ -88170,7 +88170,7 @@
       "tauen",
       "studieren (+ A)",
       "um|rühren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Rühren Sie die Suppe vorsichtig um. (Synonyme: mischen, mengen) (B1 - Verb)"
@@ -94613,12 +94613,12 @@
   {
     "question": "megőrzés / fenntartás (preservation / conservation)",
     "choices": [
-      "e Anleitung, -en",
-      "s Bedürfnis, -se",
       "e Erhaltung (Sg.)",
-      "r Krapfen, -"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Denkmäler ist eine wichtige Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
   },
   {
@@ -96175,10 +96175,10 @@
   {
     "question": "abból indulok ki, hogy... (I assume that...)",
     "choices": [
-      "einen Mord begehen",
+      "Ich bezweifle, dass ...",
       "ich gehe davon aus, dass ...",
-      "Das ist Schnee von gestern.",
-      "im Nordosten"
+      "Ich verspreche, dass ...",
+      "Ich befürchte, dass ..."
     ],
     "answer": 2,
     "hint": "Ich gehe davon aus, dass alles reibungslos klappt. (Synonyme: annehmen, vermuten) (B2 - Ausdruck)"
@@ -102512,9 +102512,9 @@
     "question": "megőrzés / fenntartás (preservation / maintenance)",
     "choices": [
       "e Erhaltung (Sg.)",
-      "s Gewerk, -e",
-      "e Maßnahme, -n",
-      "s Griechenland"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung historischer Gebäude ist kostspielig. (Synonyme: e Bewahrung, e Konservierung, e Instandhaltung) (C1 - Nomen)"
@@ -115206,7 +115206,7 @@
     "question": "érvényes (valid)",
     "choices": [
       "deutlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "gültig",
       "pauschal"
     ],
@@ -115227,10 +115227,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ver|meiden (+ A)",
-      "be|anspruchen (+ A)",
-      "nieder|schlagen (+ A)",
-      "fördern (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -115271,12 +115271,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "ab|sagen (+ A)",
-      "bewahren (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -115368,12 +115368,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "igényel / igénybe vesz (to claim / demand)",
-      "átfogalmaz (to rephrase)",
-      "dicsér (to praise)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -115381,7 +115381,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "an|legen",
       "loben (+ A)",
       "er|fahren (+ A / + von + D)"
@@ -115471,7 +115471,7 @@
     "choices": [
       "er|fahren (+ A / + von + D)",
       "ergeben (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "nieder|schlagen (+ A)"
     ],
     "answer": 1,
@@ -115580,7 +115580,7 @@
     "question": "megengedett / tilos (allowed / forbidden)",
     "choices": [
       "gestrig",
-      "vor|über|gehend",
+      "vorübergehend",
       "erlaubt / verboten",
       "fließend"
     ],
@@ -115874,7 +115874,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "köznyelvi (colloquial)",
       "folyékony (fluent)",
@@ -115890,7 +115890,7 @@
       "fließend",
       "erlaubt / verboten",
       "abgelaufen",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -115931,7 +115931,7 @@
   {
     "question": "folyékony (fluent)",
     "choices": [
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "fließend",
       "abgelaufen"
@@ -115998,7 +115998,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "fleißig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ein|deutig",
       "deutlich"
     ],
@@ -116044,7 +116044,7 @@
       "be|anspruchen (+ A)",
       "niederschlagen",
       "an|halten",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Das Auto musste vor der Ampel anhalten. (A2 - Verb)"
@@ -116195,12 +116195,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "s Lernen (Sg.)",
       "e Erhaltung (Sg.)",
-      "e Durchgangsphase, -n",
-      "e Ausdauer (Sg.)"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -116361,9 +116361,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "sors (fate)",
-      "túlzott függőség (overreliance)",
-      "hosszúság (length)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -116547,12 +116547,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "heraus|finden (+ A)",
-      "nieder|schlagen (+ A)",
-      "überein|stimmen (+ mit + D)",
-      "sich bemühen + um +"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -116748,7 +116748,7 @@
       "stören (+ A) / unter|brechen (+ A)",
       "er|fahren (+ A / + von + D)",
       "umformulieren (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 1,
     "hint": "Der Lärm könnte die Konzentration stören. (B2 - Verb)"
@@ -120166,10 +120166,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -122300,10 +122300,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -123697,10 +123697,10 @@
   {
     "question": "minden (everything)",
     "choices": [
-      "aus|sagen (+ A)",
-      "e Aufgabe, -n",
+      "etwas",
+      "nichts",
       "alles",
-      "andere"
+      "das Meiste"
     ],
     "answer": 3,
     "hint": "Alles ist in Ordnung. (A1 - Pronomen)"
@@ -126788,12 +126788,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "eredményez (to result in)",
       "szorgalom (diligence)",
-      "kitartás (endurance)",
-      "vizsgálat (investigation)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Fleiß wird oft belohnt. Synonyme: e Emsigkeit, e Arbeitssamkeit. (B2 - Nomen)"
   },
   {
@@ -127735,9 +127735,9 @@
     "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "beléptetni valakit (kártyával) (to badge somebody in)",
-      "interakcióba lép vkivel (to interact with)",
-      "feltesz (kérdést) / pózol (to pose)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Vermeiden Sie bitte unnötige Risiken. Synonyme: umgehen, meiden. (B2 - Verb)"
@@ -128097,10 +128097,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -128232,7 +128232,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -128304,20 +128304,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -128845,12 +128845,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -128942,7 +128942,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -128956,7 +128956,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -129023,7 +129023,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -129241,12 +129241,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -129362,12 +129362,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -129527,10 +129527,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -129550,7 +129550,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -129837,7 +129837,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -130715,10 +130715,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -130850,7 +130850,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -130922,20 +130922,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -131463,12 +131463,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -131560,7 +131560,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -131574,7 +131574,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -131641,7 +131641,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -131859,12 +131859,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -131980,12 +131980,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -132145,10 +132145,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -132168,7 +132168,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -132455,7 +132455,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -133314,7 +133314,7 @@
       "umgangssprachlich",
       "finanziell",
       "gültig",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 3,
     "hint": "Das Ticket ist nur heute gültig. (B1 - Adjektiv)"
@@ -133333,12 +133333,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) kämmen",
-      "er|schlagen (+ A)",
-      "be|anspruchen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 3,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -133444,7 +133444,7 @@
     "question": "kiderít / rájön (to find out)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) rasieren"
     ],
@@ -133540,20 +133540,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "megéri (to be worth it)",
       "elkerül (to avoid)",
-      "kiköt (hajó) (to berth / dock)",
-      "törekszik / fáradozik (to strive for)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "be|anspruchen (+ A)",
       "(sich) fühlen"
@@ -133753,7 +133753,7 @@
     "choices": [
       "erlaubt / verboten",
       "finanziell",
-      "vor|über|gehend",
+      "vorübergehend",
       "umgangssprachlich"
     ],
     "answer": 1,
@@ -133884,7 +133884,7 @@
     "question": "megegyezik valamiben (to agree on)",
     "choices": [
       "be|anspruchen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "(sich) lohnen"
     ],
@@ -133971,7 +133971,7 @@
   {
     "question": "fésülködik (to comb)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) kämmen",
       "umformulieren",
       "(sich) rasieren"
@@ -134178,7 +134178,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "pénzügyi (financial)",
       "egyértelmű (clear)",
@@ -134194,7 +134194,7 @@
       "finanziell",
       "erlaubt / verboten",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -134434,7 +134434,7 @@
     "question": "megőriz (to preserve)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "bewahren",
       "überein|stimmen (+ mit + D)"
     ],
@@ -134499,7 +134499,7 @@
   {
     "question": "megkap / kap (to receive)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "erhalten",
       "fördern (+ A)",
       "er|schlagen (+ A)"
@@ -134521,10 +134521,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s schwimmende Hotel, -s",
-      "e Verarmung (Sg.)",
-      "r Fleiß"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -134686,12 +134686,12 @@
   {
     "question": "r Fleiß",
     "choices": [
-      "fedél / tető (lid)",
       "szorgalom (diligence)",
-      "célkitűzés (objective)",
-      "szakácsnő (cook)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -134939,12 +134939,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ab|sagen (+ A)",
-      "erhalten (+ A)",
-      "loben (+ A)",
-      "be|anspruchen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 4,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -135146,20 +135146,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "borotválkozik (to shave)",
-      "igényel / igénybe vesz (to claim / demand)",
       "elkerül (to avoid)",
-      "kiderít / rájön (to find out)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) be|mühen (+ um + A)",
       "(sich) rasieren"
@@ -135600,7 +135600,7 @@
     "question": "levetkőzik (to undress)",
     "choices": [
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen",
       "bewahren (+ A)"
     ],
@@ -135665,12 +135665,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "fördern (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -135762,7 +135762,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "érvényes (valid)",
       "átmeneti (temporary)",
@@ -135777,7 +135777,7 @@
     "choices": [
       "abgelaufen",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend"
     ],
     "answer": 3,
@@ -135887,7 +135887,7 @@
     "choices": [
       "deutlich",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -136019,7 +136019,7 @@
     "choices": [
       "gestrig",
       "gültig",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -136064,7 +136064,7 @@
       "umformulieren (+ A)",
       "überein|stimmen (+ mit + D)",
       "erhalten (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Ich habe gestern ein wichtiges Paket erhalten. (B1 - Verb)"
@@ -136083,12 +136083,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "r Schicksal",
-      "s Regierungsbüro, -s",
       "e Erhaltung (Sg.)",
-      "e Ähnlichkeit, -en"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -136248,12 +136248,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "fedél / tető (lid)",
-      "örökkévalóság (eternity)",
       "szorgalom (diligence)",
-      "úszó szálloda (floating hotel)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -136305,7 +136305,7 @@
     "choices": [
       "fließend",
       "umgangssprachlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig"
     ],
     "answer": 4,
@@ -136435,12 +136435,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "überein|stimmen (+ mit + D)",
-      "(sich) lohnen",
-      "sich bemühen + um +",
-      "(sich) rasieren"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -136787,10 +136787,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) be|mühen (+ um + A)",
-      "be|anspruchen (+ A)",
-      "fördern (+ A)",
-      "er|fahren (+ A / + von + D)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -136928,12 +136928,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "dicsér (to praise)",
-      "támogat / fejleszt (to promote)",
-      "megáll / megállít (to stop)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -136941,7 +136941,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "fördern (+ A)",
       "loben",
       "er|fahren (+ A / + von + D)"
@@ -137030,7 +137030,7 @@
     "question": "megtud / tapasztal (to find out / experience)",
     "choices": [
       "ab|sagen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "er|fahren (+ A / + von + D)",
       "an|halten"
     ],
@@ -137434,7 +137434,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "átmeneti (temporary)",
       "érvényes (valid)",
@@ -137450,7 +137450,7 @@
       "gestrig",
       "deutlich",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -137558,7 +137558,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "erlaubt / verboten",
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "abgelaufen"
     ],
@@ -137713,7 +137713,7 @@
     "choices": [
       "abgelaufen",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "gestrig"
     ],
     "answer": 4,
@@ -137777,10 +137777,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s Lernen (Sg.)",
-      "e Köchin",
-      "e Ewigkeit, -en"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -137912,7 +137912,7 @@
       "überein|stimmen (+ mit + D)",
       "er|schlagen (+ A)",
       "loben",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Die Eltern loben das Kind für die gute Note. (B1 - Verb)"
@@ -137965,9 +137965,9 @@
     "question": "r Fleiß",
     "choices": [
       "szorgalom (diligence)",
-      "szorgalom (diligence)",
-      "útlevél (passport)",
-      "menekülés (escape)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -140813,12 +140813,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Strategie, -n",
-      "r Abschnitt, -e",
       "e Erhaltung (Sg.)",
-      "e Köchin, -nen"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege) (C1 - Nomen)"
   },
   {
@@ -140979,9 +140979,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "struktúra / szerkezet (structure)",
-      "tengerpart (coast)",
-      "őrizetbe vétel (detention)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -141165,12 +141165,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "be|schreiben (+ A)",
-      "(sich) be|mühen (+ um + A)",
-      "weiter|entwickeln (+ A)",
-      "ab|sagen (+ A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -142705,12 +142705,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Durchgangsphase, -n",
-      "s Schicksal, -e",
-      "s Anlagenmanagement, -s",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
   },
   {
@@ -142870,12 +142870,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "digitális iker (digital twin)",
       "szorgalom (diligence)",
-      "eszközkezelés (asset management)",
-      "szorgalom (diligence)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (Synonyme: e Emsigkeit, e Zielstrebigkeit) (B2 - Nomen)"
   },
   {
@@ -146028,7 +146028,7 @@
     "question": "leesni, zuhanni (fall / crash)",
     "choices": [
       "treffen (+ A) (sich mit + D)",
-      "überreden (zu + D)",
+      "überreden (+ A) (zu + D)",
       "stürzen",
       "umarmen (+ A)"
     ],
@@ -147136,15 +147136,15 @@
     "hint": "Ich war sehr überrascht über das Geschenk. (Synonyme: erstaunt, verblüfft) (B1 - Adjektiv)"
   },
   {
-    "question": "überreden (zu + D)",
+    "question": "überreden (+ A) (zu + D)",
     "choices": [
-      "felborulni, elesik (fall over)",
-      "rábeszélni vmire (persuade to)",
-      "megölelni (hug)",
-      "részt venni vmin (participate in)"
+      "lebeszél vkit vmiröl (dissuade someone from doing something)",
+      "rábeszél vkit vmire (persuade someone to do something)",
+      "megtilt vmit vkinek (forbid something to someone)",
+      "megkér vkit vmire (ask someone to do something)"
     ],
     "answer": 2,
-    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
+    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme/Verwandte Wörter: bequatschen, beschwatzen, zu etwas bewegen) (B2 - Verb)"
   },
   {
     "question": "rábeszélni vmire (persuade to)",
@@ -147152,7 +147152,7 @@
       "um|fallen",
       "trösten (+ A)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 4,
     "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
@@ -147174,7 +147174,7 @@
       "umgeben (+ A)",
       "übersetzen (+ A)",
       "trainieren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 2,
     "hint": "Können Sie diesen Text ins Deutsche übersetzen? (Synonyme: übertragen, dolmetschen) (B1 - Verb)"
@@ -147570,7 +147570,7 @@
       "übernachten",
       "teilen (+ A) (mit + D)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Der Verkehr wurde wegen der Baustelle umgeleitet. (Synonyme: ablenken, umschiffen) (B2 - Verb)"
@@ -147592,7 +147592,7 @@
       "tauen",
       "studieren (+ A)",
       "um|rühren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Rühren Sie die Suppe vorsichtig um. (Synonyme: mischen, mengen) (B1 - Verb)"
@@ -162000,7 +162000,7 @@
     "question": "érvényes (valid)",
     "choices": [
       "deutlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "gültig",
       "pauschal"
     ],
@@ -162021,10 +162021,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ver|meiden (+ A)",
-      "be|anspruchen (+ A)",
-      "nieder|schlagen (+ A)",
-      "fördern (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -162065,12 +162065,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "ab|sagen (+ A)",
-      "bewahren (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -162162,12 +162162,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "igényel / igénybe vesz (to claim / demand)",
-      "átfogalmaz (to rephrase)",
-      "dicsér (to praise)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -162175,7 +162175,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "an|legen",
       "loben (+ A)",
       "er|fahren (+ A / + von + D)"
@@ -162265,7 +162265,7 @@
     "choices": [
       "er|fahren (+ A / + von + D)",
       "ergeben (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "nieder|schlagen (+ A)"
     ],
     "answer": 1,
@@ -162374,7 +162374,7 @@
     "question": "megengedett / tilos (allowed / forbidden)",
     "choices": [
       "gestrig",
-      "vor|über|gehend",
+      "vorübergehend",
       "erlaubt / verboten",
       "fließend"
     ],
@@ -162668,7 +162668,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "köznyelvi (colloquial)",
       "folyékony (fluent)",
@@ -162684,7 +162684,7 @@
       "fließend",
       "erlaubt / verboten",
       "abgelaufen",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -162725,7 +162725,7 @@
   {
     "question": "folyékony (fluent)",
     "choices": [
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "fließend",
       "abgelaufen"
@@ -162792,7 +162792,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "fleißig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ein|deutig",
       "deutlich"
     ],
@@ -162838,7 +162838,7 @@
       "be|anspruchen (+ A)",
       "niederschlagen",
       "an|halten",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Das Auto musste vor der Ampel anhalten. (A2 - Verb)"
@@ -162989,12 +162989,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "s Lernen (Sg.)",
       "e Erhaltung (Sg.)",
-      "e Durchgangsphase, -n",
-      "e Ausdauer (Sg.)"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -163155,9 +163155,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "sors (fate)",
-      "túlzott függőség (overreliance)",
-      "hosszúság (length)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -163341,12 +163341,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "heraus|finden (+ A)",
-      "nieder|schlagen (+ A)",
-      "überein|stimmen (+ mit + D)",
-      "sich bemühen + um +"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -163542,7 +163542,7 @@
       "stören (+ A) / unter|brechen (+ A)",
       "er|fahren (+ A / + von + D)",
       "umformulieren (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 1,
     "hint": "Der Lärm könnte die Konzentration stören. (B2 - Verb)"
@@ -166960,10 +166960,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -169094,10 +169094,10 @@
   {
     "question": "e Anwältin, -nen",
     "choices": [
-      "aratás / termés (harvest)",
-      "közvélemény-kutatás (survey)",
-      "ügyvédnő (lawyer (female))",
-      "darázs (wasp)"
+      "bíró (judge)",
+      "tanú (witness) ",
+      "ügyvédnő (female lawyer)",
+      "ügyész (prosecutor)"
     ],
     "answer": 3,
     "hint": "Meine Anwältin wird Sie kontaktieren. (B1 - Nomen)"
@@ -170491,10 +170491,10 @@
   {
     "question": "minden (everything)",
     "choices": [
-      "aus|sagen (+ A)",
-      "e Aufgabe, -n",
+      "etwas",
+      "nichts",
       "alles",
-      "andere"
+      "das Meiste"
     ],
     "answer": 3,
     "hint": "Alles ist in Ordnung. (A1 - Pronomen)"
@@ -173582,12 +173582,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "eredményez (to result in)",
       "szorgalom (diligence)",
-      "kitartás (endurance)",
-      "vizsgálat (investigation)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Fleiß wird oft belohnt. Synonyme: e Emsigkeit, e Arbeitssamkeit. (B2 - Nomen)"
   },
   {
@@ -174529,9 +174529,9 @@
     "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "beléptetni valakit (kártyával) (to badge somebody in)",
-      "interakcióba lép vkivel (to interact with)",
-      "feltesz (kérdést) / pózol (to pose)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Vermeiden Sie bitte unnötige Risiken. Synonyme: umgehen, meiden. (B2 - Verb)"
@@ -174891,10 +174891,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -175026,7 +175026,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -175098,20 +175098,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -175639,12 +175639,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -175736,7 +175736,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -175750,7 +175750,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -175817,7 +175817,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -176035,12 +176035,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -176156,12 +176156,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -176321,10 +176321,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -176344,7 +176344,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -176631,7 +176631,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -177509,10 +177509,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ergeben (+ A)",
-      "be|anspruchen (+ A)",
-      "(sich) an|ziehen",
-      "(etwas) ent|sorgen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -177644,7 +177644,7 @@
       "umformulieren (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) abgewöhnen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 2,
     "hint": "Du musst dir keine Sorgen machen. (B1 - Verb)"
@@ -177716,20 +177716,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "kiköt (hajó) (to berth / dock)",
-      "megegyezik valamiben (to agree on)",
-      "érzi magát (to feel)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) sorgen (+ um + A)",
       "durch|führen (+ A)"
@@ -178257,12 +178257,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "nieder|schlagen (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "(sich) be|mühen (+ um + A)",
-      "an|halten"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -178354,7 +178354,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "lejárt (expired)",
       "egyértelmű (clear)",
@@ -178368,7 +178368,7 @@
     "question": "átmeneti (temporary)",
     "choices": [
       "kitzelig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend",
       "abgelaufen"
     ],
@@ -178435,7 +178435,7 @@
     "choices": [
       "an|halten",
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen"
     ],
     "answer": 2,
@@ -178653,12 +178653,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Bestandserfassung, -en",
-      "r Deckel, -",
-      "r Deckel",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -178774,12 +178774,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "hasonlóság (similarity)",
       "szorgalom (diligence)",
-      "hosszúság (length)",
-      "kovács (smith)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -178939,10 +178939,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "sich bemühen + um +",
-      "ergeben (+ A)",
-      "erhalten (+ A)",
-      "an|legen"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -178962,7 +178962,7 @@
     "question": "szorgalmas (hardworking)",
     "choices": [
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig",
       "pauschal"
     ],
@@ -179249,7 +179249,7 @@
     "choices": [
       "erlaubt / verboten",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "ständig"
     ],
     "answer": 4,
@@ -180108,7 +180108,7 @@
       "umgangssprachlich",
       "finanziell",
       "gültig",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 3,
     "hint": "Das Ticket ist nur heute gültig. (B1 - Adjektiv)"
@@ -180127,12 +180127,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) kämmen",
-      "er|schlagen (+ A)",
-      "be|anspruchen (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 3,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -180238,7 +180238,7 @@
     "question": "kiderít / rájön (to find out)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) sorgen (+ um + A)",
       "(sich) rasieren"
     ],
@@ -180334,20 +180334,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "megéri (to be worth it)",
       "elkerül (to avoid)",
-      "kiköt (hajó) (to berth / dock)",
-      "törekszik / fáradozik (to strive for)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "be|anspruchen (+ A)",
       "(sich) fühlen"
@@ -180547,7 +180547,7 @@
     "choices": [
       "erlaubt / verboten",
       "finanziell",
-      "vor|über|gehend",
+      "vorübergehend",
       "umgangssprachlich"
     ],
     "answer": 1,
@@ -180678,7 +180678,7 @@
     "question": "megegyezik valamiben (to agree on)",
     "choices": [
       "be|anspruchen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "überein|stimmen (+ mit + D)",
       "(sich) lohnen"
     ],
@@ -180765,7 +180765,7 @@
   {
     "question": "fésülködik (to comb)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) kämmen",
       "umformulieren",
       "(sich) rasieren"
@@ -180972,7 +180972,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "pénzügyi (financial)",
       "egyértelmű (clear)",
@@ -180988,7 +180988,7 @@
       "finanziell",
       "erlaubt / verboten",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -181228,7 +181228,7 @@
     "question": "megőriz (to preserve)",
     "choices": [
       "heraus|finden (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "bewahren",
       "überein|stimmen (+ mit + D)"
     ],
@@ -181293,7 +181293,7 @@
   {
     "question": "megkap / kap (to receive)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "erhalten",
       "fördern (+ A)",
       "er|schlagen (+ A)"
@@ -181315,10 +181315,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s schwimmende Hotel, -s",
-      "e Verarmung (Sg.)",
-      "r Fleiß"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -181480,12 +181480,12 @@
   {
     "question": "r Fleiß",
     "choices": [
-      "fedél / tető (lid)",
       "szorgalom (diligence)",
-      "célkitűzés (objective)",
-      "szakácsnő (cook)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -181733,12 +181733,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "ab|sagen (+ A)",
-      "erhalten (+ A)",
-      "loben (+ A)",
-      "be|anspruchen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 4,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -181940,20 +181940,20 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
-      "borotválkozik (to shave)",
-      "igényel / igénybe vesz (to claim / demand)",
       "elkerül (to avoid)",
-      "kiderít / rájön (to find out)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
   },
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) lohnen",
       "(sich) be|mühen (+ um + A)",
       "(sich) rasieren"
@@ -182394,7 +182394,7 @@
     "question": "levetkőzik (to undress)",
     "choices": [
       "fördern (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "(sich) aus|ziehen",
       "bewahren (+ A)"
     ],
@@ -182459,12 +182459,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "umformulieren (+ A)",
-      "er|fahren (+ A / + von + D)",
-      "fördern (+ A)",
-      "(sich) be|mühen (+ um + A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -182556,7 +182556,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "érvényes (valid)",
       "átmeneti (temporary)",
@@ -182571,7 +182571,7 @@
     "choices": [
       "abgelaufen",
       "ein|deutig",
-      "vor|über|gehend",
+      "vorübergehend",
       "fließend"
     ],
     "answer": 3,
@@ -182681,7 +182681,7 @@
     "choices": [
       "deutlich",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -182813,7 +182813,7 @@
     "choices": [
       "gestrig",
       "gültig",
-      "vor|über|gehend",
+      "vorübergehend",
       "finanziell"
     ],
     "answer": 1,
@@ -182858,7 +182858,7 @@
       "umformulieren (+ A)",
       "überein|stimmen (+ mit + D)",
       "erhalten (+ A)",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Ich habe gestern ein wichtiges Paket erhalten. (B1 - Verb)"
@@ -182877,12 +182877,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "r Schicksal",
-      "s Regierungsbüro, -s",
       "e Erhaltung (Sg.)",
-      "e Ähnlichkeit, -en"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -183042,12 +183042,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "fedél / tető (lid)",
-      "örökkévalóság (eternity)",
       "szorgalom (diligence)",
-      "úszó szálloda (floating hotel)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
   },
   {
@@ -183099,7 +183099,7 @@
     "choices": [
       "fließend",
       "umgangssprachlich",
-      "vor|über|gehend",
+      "vorübergehend",
       "fleißig"
     ],
     "answer": 4,
@@ -183229,12 +183229,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "überein|stimmen (+ mit + D)",
-      "(sich) lohnen",
-      "sich bemühen + um +",
-      "(sich) rasieren"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -183581,10 +183581,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "(sich) be|mühen (+ um + A)",
-      "be|anspruchen (+ A)",
-      "fördern (+ A)",
-      "er|fahren (+ A / + von + D)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
@@ -183722,12 +183722,12 @@
     "hint": "Das Projekt ist finanziell abgesichert. (B2 - Adjektiv)"
   },
   {
-    "question": "ver|meiden (+ A)",
+    "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "dicsér (to praise)",
-      "támogat / fejleszt (to promote)",
-      "megáll / megállít (to stop)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (B2 - Verb)"
@@ -183735,7 +183735,7 @@
   {
     "question": "elkerül (to avoid)",
     "choices": [
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "fördern (+ A)",
       "loben",
       "er|fahren (+ A / + von + D)"
@@ -183824,7 +183824,7 @@
     "question": "megtud / tapasztal (to find out / experience)",
     "choices": [
       "ab|sagen (+ A)",
-      "ver|meiden (+ A)",
+      "vermeiden (+ A)",
       "er|fahren (+ A / + von + D)",
       "an|halten"
     ],
@@ -184228,7 +184228,7 @@
     "hint": "Das ist nur eine kurze Durchgangsphase. (C1 - Nomen)"
   },
   {
-    "question": "vor|über|gehend",
+    "question": "vorübergehend",
     "choices": [
       "átmeneti (temporary)",
       "érvényes (valid)",
@@ -184244,7 +184244,7 @@
       "gestrig",
       "deutlich",
       "pauschal",
-      "vor|über|gehend"
+      "vorübergehend"
     ],
     "answer": 4,
     "hint": "Das ist nur eine vorübergehende Lösung. (B2 - Adjektiv)"
@@ -184352,7 +184352,7 @@
     "question": "világos / érthető (clear / distinct)",
     "choices": [
       "erlaubt / verboten",
-      "vor|über|gehend",
+      "vorübergehend",
       "deutlich",
       "abgelaufen"
     ],
@@ -184507,7 +184507,7 @@
     "choices": [
       "abgelaufen",
       "fließend",
-      "vor|über|gehend",
+      "vorübergehend",
       "gestrig"
     ],
     "answer": 4,
@@ -184571,10 +184571,10 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Erhaltung",
-      "s Lernen (Sg.)",
-      "e Köchin",
-      "e Ewigkeit, -en"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
@@ -184706,7 +184706,7 @@
       "überein|stimmen (+ mit + D)",
       "er|schlagen (+ A)",
       "loben",
-      "ver|meiden (+ A)"
+      "vermeiden (+ A)"
     ],
     "answer": 3,
     "hint": "Die Eltern loben das Kind für die gute Note. (B1 - Verb)"
@@ -184759,9 +184759,9 @@
     "question": "r Fleiß",
     "choices": [
       "szorgalom (diligence)",
-      "szorgalom (diligence)",
-      "útlevél (passport)",
-      "menekülés (escape)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -187607,12 +187607,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Strategie, -n",
-      "r Abschnitt, -e",
       "e Erhaltung (Sg.)",
-      "e Köchin, -nen"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege) (C1 - Nomen)"
   },
   {
@@ -187773,9 +187773,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "struktúra / szerkezet (structure)",
-      "tengerpart (coast)",
-      "őrizetbe vétel (detention)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -187959,12 +187959,12 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "be|schreiben (+ A)",
-      "(sich) be|mühen (+ um + A)",
-      "weiter|entwickeln (+ A)",
-      "ab|sagen (+ A)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
   },
   {
@@ -189499,12 +189499,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "e Durchgangsphase, -n",
-      "s Schicksal, -e",
-      "s Anlagenmanagement, -s",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
   },
   {
@@ -189664,12 +189664,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "digitális iker (digital twin)",
       "szorgalom (diligence)",
-      "eszközkezelés (asset management)",
-      "szorgalom (diligence)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (Synonyme: e Emsigkeit, e Zielstrebigkeit) (B2 - Nomen)"
   },
   {
@@ -192822,7 +192822,7 @@
     "question": "leesni, zuhanni (fall / crash)",
     "choices": [
       "treffen (+ A) (sich mit + D)",
-      "überreden (zu + D)",
+      "überreden (+ A) (zu + D)",
       "stürzen",
       "umarmen (+ A)"
     ],
@@ -193930,15 +193930,15 @@
     "hint": "Ich war sehr überrascht über das Geschenk. (Synonyme: erstaunt, verblüfft) (B1 - Adjektiv)"
   },
   {
-    "question": "überreden (zu + D)",
+    "question": "überreden (+ A) (zu + D)",
     "choices": [
-      "felborulni, elesik (fall over)",
-      "rábeszélni vmire (persuade to)",
-      "megölelni (hug)",
-      "részt venni vmin (participate in)"
+      "lebeszél vkit vmiröl (dissuade someone from doing something)",
+      "rábeszél vkit vmire (persuade someone to do something)",
+      "megtilt vmit vkinek (forbid something to someone)",
+      "megkér vkit vmire (ask someone to do something)"
     ],
     "answer": 2,
-    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
+    "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme/Verwandte Wörter: bequatschen, beschwatzen, zu etwas bewegen) (B2 - Verb)"
   },
   {
     "question": "rábeszélni vmire (persuade to)",
@@ -193946,7 +193946,7 @@
       "um|fallen",
       "trösten (+ A)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 4,
     "hint": "Er hat mich dazu überredet, mitzukommen. (Synonyme: bequatschen, überzeugen) (B2 - Verb)"
@@ -193968,7 +193968,7 @@
       "umgeben (+ A)",
       "übersetzen (+ A)",
       "trainieren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 2,
     "hint": "Können Sie diesen Text ins Deutsche übersetzen? (Synonyme: übertragen, dolmetschen) (B1 - Verb)"
@@ -194364,7 +194364,7 @@
       "übernachten",
       "teilen (+ A) (mit + D)",
       "um|leiten (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Der Verkehr wurde wegen der Baustelle umgeleitet. (Synonyme: ablenken, umschiffen) (B2 - Verb)"
@@ -194386,7 +194386,7 @@
       "tauen",
       "studieren (+ A)",
       "um|rühren (+ A)",
-      "überreden (zu + D)"
+      "überreden (+ A) (zu + D)"
     ],
     "answer": 3,
     "hint": "Rühren Sie die Suppe vorsichtig um. (Synonyme: mischen, mengen) (B1 - Verb)"
@@ -200829,12 +200829,12 @@
   {
     "question": "megőrzés / fenntartás (preservation / conservation)",
     "choices": [
-      "e Anleitung, -en",
-      "s Bedürfnis, -se",
       "e Erhaltung (Sg.)",
-      "r Krapfen, -"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Die Erhaltung der Denkmäler ist eine wichtige Aufgabe. (Synonyme: e Bewahrung, e Pflege, e Konservierung) (C1 - Nomen)"
   },
   {
@@ -202391,10 +202391,10 @@
   {
     "question": "abból indulok ki, hogy... (I assume that...)",
     "choices": [
-      "einen Mord begehen",
+      "Ich bezweifle, dass ...",
       "ich gehe davon aus, dass ...",
-      "Das ist Schnee von gestern.",
-      "im Nordosten"
+      "Ich verspreche, dass ...",
+      "Ich befürchte, dass ..."
     ],
     "answer": 2,
     "hint": "Ich gehe davon aus, dass alles reibungslos klappt. (Synonyme: annehmen, vermuten) (B2 - Ausdruck)"
@@ -208728,9 +208728,9 @@
     "question": "megőrzés / fenntartás (preservation / maintenance)",
     "choices": [
       "e Erhaltung (Sg.)",
-      "s Gewerk, -e",
-      "e Maßnahme, -n",
-      "s Griechenland"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
     "answer": 1,
     "hint": "Die Erhaltung historischer Gebäude ist kostspielig. (Synonyme: e Bewahrung, e Konservierung, e Instandhaltung) (C1 - Nomen)"
@@ -221323,9 +221323,9 @@
     "question": "Das kommt nie wieder vor!",
     "choices": [
       "Ez soha többé nem fordul elő! (That will never happen again!)",
-      "beoltatja magát (to get vaccinated)",
-      "Mi újság? (What's new?)",
-      "örömömet lelem benne (I enjoy doing...)"
+      "Ez mindig így történik. (This always happens.)",
+      "Ez már többször is előfordult. (This has happened several times already.)",
+      "Ez most először történt. (This happened for the first time.)"
     ],
     "answer": 1,
     "hint": "Es tut mir leid, das kommt nie wieder vor! (Synonyme: Das passiert nicht noch mal) (B1 - Ausdruck)"
@@ -222829,12 +222829,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "gelten (+ für + A)",
-      "lohnen (sich)",
-      "stören (+ A) / unterbrechen (+ A)",
-      "beanspruchen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 4,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (Synonyme: fordern, verlangen, in Anspruch nehmen) (B2 - Verb)"
   },
   {
@@ -223038,12 +223038,12 @@
   {
     "question": "vermeiden (+ A)",
     "choices": [
-      "érvényes vmire (to apply to)",
-      "kivált / előidéz (to elicit)",
       "elkerül (to avoid)",
-      "enyhít / mérsékel (mitigate)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 3,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. (Synonyme: umgehen, meiden, ausweichen) (B2 - Verb)"
   },
   {
@@ -225723,9 +225723,9 @@
     "question": "Das kommt nie wieder vor!",
     "choices": [
       "Ez soha többé nem fordul elő! (That will never happen again!)",
-      "Értesítelek. (I'll let you know.)",
-      "egy szelet kenyér (a slice of bread)",
-      "döntő jelentőségű (to be of crucial importance)"
+      "Ez mindig így történik. (This always happens.)",
+      "Ez már többször is előfordult. (This has happened several times already.)",
+      "Ez most először történt. (This happened for the first time.)"
     ],
     "answer": 1,
     "hint": "Es tut mir leid, das kommt nie wieder vor! Synonyme: Das passiert nicht noch mal. (B1 - Ausdruck)"
@@ -227812,12 +227812,12 @@
   {
     "question": "r Fleiß (Sg.)",
     "choices": [
-      "eredményez (to result in)",
       "szorgalom (diligence)",
-      "kitartás (endurance)",
-      "vizsgálat (investigation)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Fleiß wird oft belohnt. Synonyme: e Emsigkeit, e Arbeitssamkeit. (B2 - Nomen)"
   },
   {
@@ -228759,9 +228759,9 @@
     "question": "vermeiden (+ A)",
     "choices": [
       "elkerül (to avoid)",
-      "beléptetni valakit (kártyával) (to badge somebody in)",
-      "interakcióba lép vkivel (to interact with)",
-      "feltesz (kérdést) / pózol (to pose)"
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
     "answer": 1,
     "hint": "Vermeiden Sie bitte unnötige Risiken. Synonyme: umgehen, meiden. (B2 - Verb)"
@@ -229045,9 +229045,9 @@
     "question": "r Fleiß (Sg.)",
     "choices": [
       "szorgalom (diligence)",
-      "megzavar / félbeszakít (disrupt)",
-      "valamin alapuló (based upon)",
-      "alapos vizsgálat (scrutiny)"
+      "fáradtság (fatigue)",
+      "tehetség (talent)",
+      "eredmény (result)"
     ],
     "answer": 1,
     "hint": "Ohne Fleiß kein Preis. (B2 - Nomen)"
@@ -229231,10 +229231,10 @@
   {
     "question": "törekszik vmire (to strive for)",
     "choices": [
-      "(sich) be|mühen (+ um + A)",
-      "e Haft (Sg.) / e Festnahme, -n",
-      "s Engagement, -s / e Verpflichtung, -en",
-      "e Einhaltung (Sg.)"
+      "(sich) bemühen (um + A)",
+      "(sich) beschweren (über + A)",
+      "verzichten (auf + A)",
+      "an|kommen (auf + A)"
     ],
     "answer": 1,
     "hint": "Er bemüht sich um eine bessere Aussprache. (B2 - Verb)"
@@ -229385,12 +229385,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "ausgestattet (+ mit + D)",
-      "e Unterkunft, \"-e",
-      "e Dienstleistung, -en",
-      "e Erhaltung (Sg.)"
+      "e Erhaltung (Sg.)",
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. (C1 - Nomen)"
   },
   {
@@ -230551,12 +230551,12 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "be|schreiben (+ A)",
-      "s Gebäude, -",
-      "(sich) er|holen",
-      "be|anspruchen (+ A)"
+      "vermeiden (+ A)",
+      "beanspruchen (+ A)",
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
-    "answer": 4,
+    "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. (B2 - Verb)"
   },
   {
@@ -232773,10 +232773,10 @@
   {
     "question": "igényel / igénybe vesz (to claim / demand)",
     "choices": [
-      "s Gebäude, -",
+      "vermeiden (+ A)",
       "beanspruchen (+ A)",
-      "erholen (sich)",
-      "e Stadtrundfahrt, -en"
+      "verändern (+ A)",
+      "beobachten (+ A)"
     ],
     "answer": 2,
     "hint": "Diese Arbeit beansprucht viel Zeit. Synonyme: fordern, verlangen, in Anspruch nehmen. (B2 - Verb)"
@@ -232982,12 +232982,12 @@
   {
     "question": "vermeiden (+ A)",
     "choices": [
-      "megtud / tapasztal (to find out / experience)",
-      "szórakozás / kikapcsolódás (distraction / diversion)",
-      "változatosság (variety / change)",
-      "elkerül (to avoid)"
+      "elkerül (to avoid)",
+      "igényel / igénybe vesz (to demand / require)",
+      "támogat (+ A) (to support)",
+      "megváltoztat (+ A) (to change)"
     ],
-    "answer": 4,
+    "answer": 1,
     "hint": "Wir sollten unnötige Kosten vermeiden. Synonyme: umgehen, meiden, ausweichen. (B2 - Verb)"
   },
   {
@@ -234005,12 +234005,12 @@
   {
     "question": "megőrzés / fenntartás (preservation)",
     "choices": [
-      "bewahren (+ A)",
       "e Erhaltung (Sg.)",
-      "gestrig",
-      "im Rahmen (+ G / von + D)"
+      "e Erweiterung, -en",
+      "e Entfernung, -en",
+      "e Errichtung, -en"
     ],
-    "answer": 2,
+    "answer": 1,
     "hint": "Die Erhaltung der Umwelt ist eine globale Aufgabe. Synonyme: e Bewahrung, e Pflege. (C1 - Nomen)"
   },
   {
@@ -265137,7 +265137,7 @@
     "choices": [
       "näher ein|gehen (auf + A) / aus|führen (+ A)",
       "erklären (+ D + A)",
-      "überreden (zu + D)",
+      "überreden (+ A) (zu + D)",
       "durchsuchen (+ A)"
     ],
     "answer": 1,
@@ -271406,7 +271406,7 @@
     "question": "ápolásra szoruló (in need of care)",
     "choices": [
       "unbesiegbar",
-      "vor|über|gehend",
+      "vorübergehend",
       "mehrlagig",
       "pflegebedürftig"
     ],
