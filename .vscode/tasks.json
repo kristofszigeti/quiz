@@ -4,7 +4,7 @@
     {
       "label": "Build quiz executable",
       "type": "process",
-      "command": "${workspaceFolder}\\quiz\\.venv\\Scripts\\python.exe",
+      "command": "python",
       "args": [
         "-m",
         "PyInstaller",
